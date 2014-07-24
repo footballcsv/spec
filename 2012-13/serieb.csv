@@ -1,0 +1,463 @@
+Date,Team 1,Team 2,FT,HT
+2012-08-24,Modena,Verona,1-1,0-1
+2012-08-25,Bari,Cittadella,2-1,1-0
+2012-08-25,Crotone,Brescia,1-0,0-0
+2012-08-25,Empoli,Reggina,1-1,1-0
+2012-08-25,Grosseto,Novara,1-1,1-0
+2012-08-25,Juve Stabia,Livorno,1-3,1-1
+2012-08-25,Padova,Virtus Lanciano,1-1,1-0
+2012-08-25,Pro Vercelli,Ternana,1-0,1-0
+2012-08-25,Spezia,Vicenza,2-1,1-0
+2012-08-25,Varese,Ascoli,2-0,0-0
+2012-08-27,Cesena,Sassuolo,0-3,0-1
+2012-09-01,Ascoli,Bari,1-3,1-0
+2012-09-01,Brescia,Juve Stabia,2-0,0-0
+2012-09-01,Cittadella,Grosseto,2-1,2-0
+2012-09-01,Novara,Empoli,2-2,1-0
+2012-09-01,Reggina,Pro Vercelli,1-0,1-0
+2012-09-01,Sassuolo,Crotone,2-1,2-0
+2012-09-01,Ternana,Modena,0-1,0-0
+2012-09-01,Verona,Spezia,1-1,0-1
+2012-09-01,Vicenza,Cesena,3-1,2-1
+2012-09-01,Virtus Lanciano,Varese,1-2,0-0
+2012-09-03,Livorno,Padova,3-2,2-1
+2012-09-08,Modena,Varese,1-2,0-0
+2012-09-08,Verona,Reggina,2-0,1-0
+2012-09-09,Bari,Ternana,2-0,2-0
+2012-09-09,Cesena,Novara,1-4,0-3
+2012-09-09,Crotone,Cittadella,3-1,0-1
+2012-09-09,Empoli,Sassuolo,0-3,0-3
+2012-09-09,Juve Stabia,Vicenza,1-1,1-1
+2012-09-09,Padova,Grosseto,1-1,0-1
+2012-09-09,Pro Vercelli,Livorno,1-2,0-1
+2012-09-09,Spezia,Brescia,3-1,1-1
+2012-09-09,Virtus Lanciano,Ascoli,1-1,1-0
+2012-09-14,Brescia,Padova,0-0,0-0
+2012-09-15,Ascoli,Spezia,2-0,0-0
+2012-09-15,Cittadella,Virtus Lanciano,1-0,0-0
+2012-09-15,Grosseto,Crotone,1-0,1-0
+2012-09-15,Livorno,Empoli,4-2,1-0
+2012-09-15,Novara,Juve Stabia,1-1,1-1
+2012-09-15,Reggina,Modena,2-2,1-1
+2012-09-15,Sassuolo,Pro Vercelli,2-1,1-0
+2012-09-15,Ternana,Cesena,0-0,0-0
+2012-09-15,Vicenza,Verona,2-3,1-2
+2012-09-17,Varese,Bari,2-2,0-0
+2012-09-21,Empoli,Ternana,0-2,0-1
+2012-09-21,Verona,Novara,1-1,1-0
+2012-09-22,Cesena,Cittadella,1-0,0-0
+2012-09-22,Crotone,Bari,0-0,0-0
+2012-09-22,Juve Stabia,Varese,1-2,1-1
+2012-09-22,Modena,Livorno,1-0,0-0
+2012-09-22,Padova,Reggina,3-2,2-1
+2012-09-22,Pro Vercelli,Ascoli,3-1,3-0
+2012-09-22,Spezia,Sassuolo,0-2,0-1
+2012-09-22,Vicenza,Brescia,2-2,1-0
+2012-09-22,Virtus Lanciano,Grosseto,1-1,0-1
+2012-09-25,Ascoli,Cesena,1-0,0-0
+2012-09-25,Bari,Pro Vercelli,2-1,1-0
+2012-09-25,Brescia,Modena,2-1,0-0
+2012-09-25,Grosseto,Juve Stabia,2-2,1-1
+2012-09-25,Livorno,Cittadella,2-2,1-0
+2012-09-25,Novara,Spezia,1-0,0-0
+2012-09-25,Padova,Empoli,2-0,1-0
+2012-09-25,Reggina,Virtus Lanciano,0-1,0-1
+2012-09-25,Sassuolo,Vicenza,0-0,0-0
+2012-09-25,Ternana,Crotone,1-0,0-0
+2012-09-25,Varese,Verona,0-3,0-1
+2012-09-29,Crotone,Livorno,1-2,1-1
+2012-09-29,Empoli,Brescia,1-1,1-1
+2012-09-29,Juve Stabia,Padova,1-0,0-0
+2012-09-29,Novara,Ternana,1-2,0-1
+2012-09-29,Sassuolo,Ascoli,1-0,1-0
+2012-09-29,Spezia,Reggina,1-0,0-0
+2012-09-29,Verona,Bari,1-0,0-0
+2012-09-29,Vicenza,Grosseto,2-1,0-1
+2012-09-29,Virtus Lanciano,Modena,1-1,1-0
+2012-10-01,Cesena,Varese,2-0,1-0
+2012-10-01,Cittadella,Pro Vercelli,3-0,1-0
+2012-10-05,Padova,Verona,2-1,1-1
+2012-10-06,Ascoli,Crotone,2-0,1-0
+2012-10-06,Bari,Vicenza,1-0,0-0
+2012-10-06,Brescia,Virtus Lanciano,2-0,0-0
+2012-10-06,Grosseto,Sassuolo,1-2,0-1
+2012-10-06,Modena,Cesena,4-0,2-0
+2012-10-06,Pro Vercelli,Juve Stabia,1-4,0-3
+2012-10-06,Reggina,Novara,1-0,0-0
+2012-10-06,Ternana,Cittadella,3-1,2-1
+2012-10-06,Varese,Empoli,2-2,1-1
+2012-10-08,Livorno,Spezia,1-5,0-2
+2012-10-13,Juve Stabia,Bari,2-1,1-0
+2012-10-13,Novara,Brescia,4-2,1-0
+2012-10-14,Cesena,Crotone,0-0,0-0
+2012-10-14,Cittadella,Modena,0-3,0-2
+2012-10-14,Empoli,Ascoli,0-3,0-2
+2012-10-14,Reggina,Livorno,1-3,1-1
+2012-10-14,Sassuolo,Varese,4-0,1-0
+2012-10-14,Spezia,Ternana,1-1,0-0
+2012-10-14,Verona,Grosseto,2-0,1-0
+2012-10-14,Vicenza,Padova,0-2,0-1
+2012-10-14,Virtus Lanciano,Pro Vercelli,1-1,0-1
+2012-10-19,Crotone,Novara,2-1,0-0
+2012-10-20,Ascoli,Juve Stabia,2-4,0-1
+2012-10-20,Cesena,Reggina,1-1,1-0
+2012-10-20,Cittadella,Sassuolo,1-0,1-0
+2012-10-20,Livorno,Verona,0-2,0-0
+2012-10-20,Modena,Grosseto,0-0,0-0
+2012-10-20,Pro Vercelli,Padova,1-2,0-0
+2012-10-20,Ternana,Vicenza,0-0,0-0
+2012-10-20,Varese,Spezia,0-0,0-0
+2012-10-20,Virtus Lanciano,Empoli,0-3,0-2
+2012-10-22,Bari,Brescia,1-1,1-1
+2012-10-26,Livorno,Cesena,1-0,0-0
+2012-10-26,Sassuolo,Juve Stabia,1-0,0-0
+2012-10-27,Brescia,Pro Vercelli,1-1,0-1
+2012-10-27,Empoli,Modena,4-2,2-0
+2012-10-27,Grosseto,Ternana,1-1,0-1
+2012-10-27,Novara,Varese,1-1,1-0
+2012-10-27,Padova,Bari,1-1,0-0
+2012-10-27,Reggina,Ascoli,2-0,1-0
+2012-10-27,Spezia,Cittadella,0-3,0-1
+2012-10-27,Verona,Virtus Lanciano,2-0,0-0
+2012-10-27,Vicenza,Crotone,0-0,0-0
+2012-10-30,Ascoli,Novara,2-0,0-0
+2012-10-30,Bari,Empoli,2-3,2-0
+2012-10-30,Cesena,Grosseto,3-2,0-1
+2012-10-30,Cittadella,Brescia,1-1,1-0
+2012-10-30,Crotone,Verona,3-3,1-2
+2012-10-30,Juve Stabia,Reggina,1-0,0-0
+2012-10-30,Modena,Padova,0-0,0-0
+2012-10-30,Pro Vercelli,Spezia,1-0,0-0
+2012-10-30,Ternana,Sassuolo,1-3,0-0
+2012-10-30,Varese,Vicenza,1-1,1-1
+2012-10-30,Virtus Lanciano,Livorno,1-1,0-1
+2012-11-03,Brescia,Ternana,1-0,1-0
+2012-11-03,Empoli,Pro Vercelli,2-1,1-0
+2012-11-03,Grosseto,Ascoli,2-1,1-0
+2012-11-03,Livorno,Bari,2-1,1-0
+2012-11-03,Novara,Cittadella,0-1,0-1
+2012-11-03,Padova,Cesena,1-1,1-1
+2012-11-03,Reggina,Varese,1-1,0-0
+2012-11-03,Spezia,Crotone,2-1,1-1
+2012-11-03,Vicenza,Virtus Lanciano,0-1,0-1
+2012-11-05,Modena,Juve Stabia,1-0,0-0
+2012-11-05,Verona,Sassuolo,1-0,1-0
+2012-11-09,Grosseto,Spezia,1-1,1-0
+2012-11-10,Ascoli,Livorno,1-4,0-0
+2012-11-10,Cesena,Brescia,1-3,1-2
+2012-11-10,Cittadella,Vicenza,2-2,0-1
+2012-11-10,Crotone,Empoli,3-2,1-1
+2012-11-10,Juve Stabia,Virtus Lanciano,2-1,0-1
+2012-11-10,Pro Vercelli,Modena,1-2,0-1
+2012-11-10,Sassuolo,Novara,2-0,0-0
+2012-11-10,Ternana,Verona,0-2,0-0
+2012-11-10,Varese,Padova,3-0,3-0
+2012-11-12,Bari,Reggina,0-1,0-0
+2012-11-16,Verona,Cesena,1-1,1-0
+2012-11-17,Empoli,Grosseto,3-2,0-1
+2012-11-17,Livorno,Varese,2-0,1-0
+2012-11-17,Modena,Ascoli,1-1,1-1
+2012-11-17,Padova,Cittadella,3-1,1-0
+2012-11-17,Pro Vercelli,Crotone,0-2,0-1
+2012-11-17,Reggina,Ternana,1-1,0-0
+2012-11-17,Spezia,Juve Stabia,2-3,0-1
+2012-11-17,Vicenza,Novara,2-1,0-1
+2012-11-17,Virtus Lanciano,Bari,0-3,0-2
+2012-11-18,Brescia,Sassuolo,1-1,1-1
+2012-11-23,Novara,Livorno,0-1,0-0
+2012-11-24,Ascoli,Vicenza,0-0,0-0
+2012-11-24,Cesena,Spezia,1-1,0-1
+2012-11-24,Crotone,Padova,0-1,0-1
+2012-11-24,Grosseto,Brescia,2-2,2-2
+2012-11-24,Juve Stabia,Empoli,1-2,1-0
+2012-11-24,Sassuolo,Reggina,3-1,2-1
+2012-11-24,Ternana,Virtus Lanciano,2-2,1-1
+2012-11-24,Varese,Pro Vercelli,2-0,1-0
+2012-11-25,Bari,Modena,2-0,0-0
+2012-12-01,Bari,Sassuolo,3-3,2-2
+2012-12-01,Brescia,Verona,2-0,1-0
+2012-12-01,Empoli,Spezia,2-2,1-2
+2012-12-01,Juve Stabia,Cittadella,1-1,1-1
+2012-12-01,Livorno,Grosseto,4-0,1-0
+2012-12-01,Modena,Novara,1-0,0-0
+2012-12-01,Padova,Ascoli,1-1,0-0
+2012-12-01,Pro Vercelli,Vicenza,2-1,2-1
+2012-12-01,Varese,Ternana,1-0,0-0
+2012-12-01,Virtus Lanciano,Cesena,3-3,1-3
+2012-12-03,Reggina,Crotone,1-1,0-1
+2012-12-07,Sassuolo,Modena,2-0,1-0
+2012-12-08,Brescia,Reggina,2-2,2-1
+2012-12-08,Crotone,Virtus Lanciano,0-0,0-0
+2012-12-08,Grosseto,Pro Vercelli,3-0,3-0
+2012-12-08,Novara,Padova,3-1,3-1
+2012-12-08,Spezia,Bari,3-2,1-0
+2012-12-08,Ternana,Juve Stabia,3-2,1-0
+2012-12-08,Verona,Ascoli,3-1,2-0
+2012-12-08,Vicenza,Livorno,3-3,2-1
+2012-12-09,Cesena,Empoli,1-3,0-3
+2012-12-09,Cittadella,Varese,0-1,0-0
+2012-11-24,Cittadella,Verona,2-1,0-1
+2012-12-14,Livorno,Ternana,2-1,1-1
+2012-12-15,Bari,Novara,1-3,0-0
+2012-12-15,Empoli,Vicenza,2-0,0-0
+2012-12-15,Juve Stabia,Cesena,2-2,0-0
+2012-12-15,Modena,Crotone,3-0,1-0
+2012-12-15,Padova,Sassuolo,1-3,0-2
+2012-12-15,Pro Vercelli,Verona,0-0,0-0
+2012-12-15,Virtus Lanciano,Spezia,1-1,0-0
+2012-12-17,Ascoli,Brescia,2-0,0-0
+2012-12-17,Reggina,Cittadella,0-1,0-0
+2012-12-23,Brescia,Livorno,0-0,0-0
+2012-12-23,Cesena,Bari,1-1,1-0
+2012-12-23,Cittadella,Empoli,0-0,0-0
+2012-12-23,Crotone,Varese,1-0,0-0
+2012-12-23,Grosseto,Reggina,0-1,0-0
+2012-12-23,Novara,Pro Vercelli,2-0,1-0
+2012-12-23,Sassuolo,Virtus Lanciano,2-0,1-0
+2012-12-23,Spezia,Padova,2-3,1-3
+2012-12-23,Ternana,Ascoli,1-2,1-0
+2012-12-23,Verona,Juve Stabia,1-0,0-0
+2012-12-23,Vicenza,Modena,3-3,2-2
+2012-12-26,Ascoli,Cittadella,4-1,1-1
+2012-12-26,Bari,Grosseto,1-0,0-0
+2012-12-26,Empoli,Verona,1-1,0-0
+2012-12-26,Juve Stabia,Crotone,3-1,1-1
+2012-12-26,Livorno,Sassuolo,3-2,0-2
+2012-12-26,Modena,Spezia,1-0,0-0
+2012-12-26,Padova,Ternana,0-0,0-0
+2012-12-26,Pro Vercelli,Cesena,1-3,1-2
+2012-12-26,Reggina,Vicenza,1-0,0-0
+2012-12-26,Virtus Lanciano,Novara,1-0,0-0
+2012-12-30,Ascoli,Varese,1-1,1-0
+2012-12-30,Brescia,Crotone,5-0,1-0
+2012-12-30,Cittadella,Bari,1-1,1-0
+2012-12-30,Livorno,Juve Stabia,2-2,1-0
+2012-12-30,Novara,Grosseto,2-0,1-0
+2012-12-30,Reggina,Empoli,0-3,0-1
+2012-12-30,Sassuolo,Cesena,5-0,1-0
+2012-12-30,Ternana,Pro Vercelli,4-2,3-0
+2012-12-30,Verona,Modena,3-1,1-1
+2012-12-30,Vicenza,Spezia,2-3,0-2
+2012-12-30,Virtus Lanciano,Padova,2-1,0-0
+2013-01-19,Varese,Grosseto,4-0,2-0
+2013-01-22,Varese,Brescia,3-2,1-2
+2013-01-25,Crotone,Sassuolo,2-1,2-1
+2013-01-26,Bari,Ascoli,0-1,0-1
+2013-01-26,Cesena,Vicenza,3-1,2-1
+2013-01-26,Empoli,Novara,0-2,0-0
+2013-01-26,Grosseto,Cittadella,3-1,1-1
+2013-01-26,Modena,Ternana,1-2,0-0
+2013-01-26,Padova,Livorno,0-0,0-0
+2013-01-26,Pro Vercelli,Reggina,0-0,0-0
+2013-01-26,Spezia,Verona,0-1,0-0
+2013-01-26,Varese,Virtus Lanciano,1-2,0-1
+2013-01-28,Juve Stabia,Brescia,0-0,0-0
+2013-02-01,Reggina,Verona,1-1,0-1
+2013-02-02,Brescia,Spezia,0-0,0-0
+2013-02-02,Cittadella,Crotone,2-2,0-2
+2013-02-02,Grosseto,Padova,1-1,1-0
+2013-02-02,Livorno,Pro Vercelli,2-0,0-0
+2013-02-02,Novara,Cesena,0-1,0-1
+2013-02-02,Sassuolo,Empoli,1-1,0-0
+2013-02-02,Ternana,Bari,0-0,0-0
+2013-02-02,Varese,Modena,2-0,0-0
+2013-02-02,Vicenza,Juve Stabia,1-2,0-1
+2013-02-04,Ascoli,Virtus Lanciano,1-1,1-1
+2013-02-08,Cesena,Ternana,1-0,0-0
+2013-02-09,Bari,Varese,0-1,0-1
+2013-02-09,Crotone,Grosseto,1-0,1-0
+2013-02-09,Juve Stabia,Novara,2-4,0-1
+2013-02-09,Modena,Reggina,1-1,1-0
+2013-02-09,Padova,Brescia,0-0,0-0
+2013-02-09,Pro Vercelli,Sassuolo,1-3,1-2
+2013-02-09,Spezia,Ascoli,4-3,0-2
+2013-02-09,Verona,Vicenza,0-1,0-0
+2013-02-09,Virtus Lanciano,Cittadella,3-2,3-1
+2013-02-11,Empoli,Livorno,2-1,1-1
+2013-02-16,Ascoli,Pro Vercelli,0-0,0-0
+2013-02-16,Bari,Crotone,0-0,0-0
+2013-02-16,Brescia,Vicenza,0-1,0-0
+2013-02-16,Cittadella,Cesena,1-1,0-1
+2013-02-16,Grosseto,Virtus Lanciano,2-2,1-0
+2013-02-16,Livorno,Modena,1-2,0-1
+2013-02-16,Reggina,Padova,2-1,0-0
+2013-02-16,Sassuolo,Spezia,3-2,1-2
+2013-02-16,Ternana,Empoli,0-0,0-0
+2013-02-16,Varese,Juve Stabia,1-1,0-0
+2013-02-17,Novara,Verona,1-0,0-0
+2013-02-22,Juve Stabia,Grosseto,2-1,1-0
+2013-02-22,Spezia,Novara,0-6,0-2
+2013-02-23,Cittadella,Livorno,0-2,0-2
+2013-02-23,Crotone,Ternana,0-1,0-0
+2013-02-23,Empoli,Padova,1-1,1-1
+2013-02-23,Pro Vercelli,Bari,2-1,0-1
+2013-02-23,Verona,Varese,2-0,1-0
+2013-02-23,Vicenza,Sassuolo,0-1,0-0
+2013-02-23,Virtus Lanciano,Reggina,3-1,1-0
+2013-02-26,Ascoli,Sassuolo,2-4,1-2
+2013-02-26,Brescia,Empoli,0-3,0-2
+2013-02-26,Grosseto,Vicenza,1-2,0-0
+2013-02-26,Livorno,Crotone,1-2,1-1
+2013-02-26,Modena,Virtus Lanciano,2-2,2-0
+2013-02-26,Padova,Juve Stabia,1-0,0-0
+2013-02-26,Pro Vercelli,Cittadella,0-0,0-0
+2013-02-26,Reggina,Spezia,1-1,0-1
+2013-02-26,Ternana,Novara,1-1,0-0
+2013-02-27,Varese,Cesena,3-2,2-1
+2013-02-27,Bari,Verona,0-2,0-1
+2013-03-02,Cesena,Modena,1-0,0-0
+2013-03-02,Cittadella,Ternana,1-0,1-0
+2013-03-02,Empoli,Varese,3-1,2-0
+2013-03-02,Juve Stabia,Pro Vercelli,1-1,0-1
+2013-03-02,Novara,Reggina,1-1,1-0
+2013-03-02,Sassuolo,Grosseto,0-2,0-0
+2013-03-02,Spezia,Livorno,1-2,0-1
+2013-03-02,Virtus Lanciano,Brescia,0-2,0-0
+2013-03-04,Verona,Padova,0-2,0-0
+2013-03-04,Vicenza,Bari,0-1,0-1
+2013-03-06,Cesena,Ascoli,1-2,1-1
+2013-03-06,Modena,Brescia,1-2,0-1
+2013-03-09,Ascoli,Empoli,1-2,0-2
+2013-03-09,Bari,Juve Stabia,2-0,0-0
+2013-03-09,Brescia,Novara,1-1,1-1
+2013-03-09,Grosseto,Verona,0-2,0-2
+2013-03-09,Livorno,Reggina,3-3,2-1
+2013-03-09,Modena,Cittadella,3-3,1-0
+2013-03-09,Padova,Vicenza,0-1,0-1
+2013-03-09,Pro Vercelli,Virtus Lanciano,1-2,1-1
+2013-03-09,Ternana,Spezia,0-0,0-0
+2013-03-09,Varese,Sassuolo,3-4,0-2
+2013-03-11,Crotone,Cesena,1-0,0-0
+2013-03-15,Reggina,Cesena,1-2,1-2
+2013-03-15,Verona,Livorno,1-1,1-1
+2013-03-16,Brescia,Bari,1-1,0-1
+2013-03-16,Empoli,Virtus Lanciano,2-2,2-2
+2013-03-16,Grosseto,Modena,2-0,1-0
+2013-03-16,Juve Stabia,Ascoli,1-1,0-0
+2013-03-16,Novara,Crotone,5-1,4-1
+2013-03-16,Padova,Pro Vercelli,0-1,0-0
+2013-03-16,Sassuolo,Cittadella,1-0,0-0
+2013-03-16,Spezia,Varese,0-0,0-0
+2013-03-16,Vicenza,Ternana,0-1,0-1
+2013-03-19,Ascoli,Reggina,0-3,0-0
+2013-03-19,Bari,Padova,3-0,2-0
+2013-03-19,Cesena,Livorno,0-0,0-0
+2013-03-19,Cittadella,Spezia,0-0,0-0
+2013-03-19,Crotone,Vicenza,1-0,0-0
+2013-03-19,Juve Stabia,Sassuolo,1-1,0-0
+2013-03-19,Modena,Empoli,2-3,1-2
+2013-03-19,Pro Vercelli,Brescia,2-3,1-1
+2013-03-19,Ternana,Grosseto,0-0,0-0
+2013-03-19,Virtus Lanciano,Verona,1-2,1-1
+2013-03-20,Varese,Novara,0-2,0-1
+2013-03-23,Grosseto,Cesena,1-2,0-2
+2013-03-23,Padova,Modena,0-1,0-0
+2013-03-24,Brescia,Cittadella,2-2,1-0
+2013-03-24,Empoli,Bari,0-1,0-0
+2013-03-24,Livorno,Virtus Lanciano,2-0,1-0
+2013-03-24,Novara,Ascoli,1-0,1-0
+2013-03-24,Reggina,Juve Stabia,2-1,1-1
+2013-03-24,Sassuolo,Ternana,0-0,0-0
+2013-03-24,Spezia,Pro Vercelli,1-3,1-1
+2013-03-24,Verona,Crotone,3-2,0-1
+2013-03-24,Vicenza,Varese,1-1,1-0
+2013-03-27,Cesena,Padova,2-0,0-0
+2013-03-28,Ascoli,Grosseto,3-1,1-0
+2013-03-28,Bari,Livorno,1-1,0-1
+2013-03-28,Cittadella,Novara,2-6,1-2
+2013-03-28,Crotone,Spezia,0-2,0-0
+2013-03-28,Juve Stabia,Modena,1-0,0-0
+2013-03-28,Pro Vercelli,Empoli,0-1,0-0
+2013-03-28,Sassuolo,Verona,1-1,1-0
+2013-03-28,Ternana,Brescia,1-0,0-0
+2013-03-28,Varese,Reggina,3-0,1-0
+2013-03-28,Virtus Lanciano,Vicenza,2-0,2-0
+2013-04-02,Crotone,Ascoli,1-0,1-0
+2013-04-05,Reggina,Bari,1-0,1-0
+2013-04-06,Brescia,Cesena,2-1,0-1
+2013-04-06,Empoli,Crotone,0-0,0-0
+2013-04-06,Livorno,Ascoli,3-0,2-0
+2013-04-06,Modena,Pro Vercelli,1-0,0-0
+2013-04-06,Novara,Sassuolo,3-2,2-2
+2013-04-06,Spezia,Grosseto,2-1,0-0
+2013-04-06,Verona,Ternana,2-1,0-0
+2013-04-06,Vicenza,Cittadella,1-2,0-1
+2013-04-06,Virtus Lanciano,Juve Stabia,1-1,0-1
+2013-04-08,Padova,Varese,1-1,0-1
+2013-04-12,Cesena,Verona,0-0,0-0
+2013-04-12,Grosseto,Empoli,0-1,0-1
+2013-04-13,Ascoli,Modena,2-3,1-1
+2013-04-13,Bari,Virtus Lanciano,4-3,0-2
+2013-04-13,Cittadella,Padova,3-3,2-1
+2013-04-13,Crotone,Pro Vercelli,2-1,1-0
+2013-04-13,Juve Stabia,Spezia,2-1,2-0
+2013-04-13,Novara,Vicenza,3-1,1-1
+2013-04-13,Sassuolo,Brescia,1-1,0-1
+2013-04-13,Ternana,Reggina,1-0,1-0
+2013-04-13,Varese,Livorno,1-3,0-2
+2013-04-16,Brescia,Grosseto,3-1,1-0
+2013-04-16,Empoli,Juve Stabia,5-0,2-0
+2013-04-16,Modena,Bari,0-0,0-0
+2013-04-16,Padova,Crotone,2-1,1-0
+2013-04-16,Pro Vercelli,Varese,2-1,2-1
+2013-04-16,Reggina,Sassuolo,0-2,0-1
+2013-04-16,Spezia,Cesena,1-0,0-0
+2013-04-16,Verona,Cittadella,0-0,0-0
+2013-04-16,Vicenza,Ascoli,1-0,1-0
+2013-04-16,Virtus Lanciano,Ternana,1-1,1-1
+2013-04-17,Livorno,Novara,1-3,0-1
+2013-04-20,Cesena,Virtus Lanciano,1-1,0-1
+2013-04-20,Cittadella,Juve Stabia,1-0,0-0
+2013-04-20,Crotone,Reggina,2-2,1-1
+2013-04-20,Grosseto,Livorno,0-3,0-1
+2013-04-20,Novara,Modena,0-1,0-0
+2013-04-20,Sassuolo,Bari,2-1,1-0
+2013-04-20,Spezia,Empoli,3-0,2-0
+2013-04-20,Ternana,Varese,0-1,0-0
+2013-04-20,Vicenza,Pro Vercelli,3-1,1-0
+2013-04-22,Ascoli,Padova,0-1,0-1
+2013-04-22,Verona,Brescia,4-2,1-2
+2013-04-26,Modena,Sassuolo,2-1,0-1
+2013-04-27,Ascoli,Verona,0-5,0-5
+2013-04-27,Bari,Spezia,2-1,1-0
+2013-04-27,Juve Stabia,Ternana,1-1,1-0
+2013-04-27,Livorno,Vicenza,2-0,1-0
+2013-04-27,Padova,Novara,3-3,1-3
+2013-04-27,Pro Vercelli,Grosseto,0-0,0-0
+2013-04-27,Reggina,Brescia,0-1,0-0
+2013-04-27,Varese,Cittadella,2-0,1-0
+2013-04-27,Virtus Lanciano,Crotone,1-1,1-1
+2013-04-28,Empoli,Cesena,1-0,1-0
+2013-05-03,Verona,Pro Vercelli,3-1,1-0
+2013-05-04,Brescia,Ascoli,3-2,1-1
+2013-05-04,Cesena,Juve Stabia,3-1,1-0
+2013-05-04,Cittadella,Reggina,1-2,1-0
+2013-05-04,Crotone,Modena,2-1,2-1
+2013-05-04,Grosseto,Varese,2-2,0-2
+2013-05-04,Novara,Bari,0-1,0-0
+2013-05-04,Spezia,Virtus Lanciano,1-1,1-1
+2013-05-04,Ternana,Livorno,1-1,0-0
+2013-05-04,Vicenza,Empoli,1-5,1-5
+2013-05-06,Sassuolo,Padova,1-1,1-1
+2013-05-10,Livorno,Brescia,3-0,2-0
+2013-05-11,Ascoli,Ternana,1-1,1-0
+2013-05-11,Bari,Cesena,2-1,0-0
+2013-05-11,Empoli,Cittadella,1-0,0-0
+2013-05-11,Juve Stabia,Verona,0-3,0-1
+2013-05-11,Modena,Vicenza,0-1,0-0
+2013-05-11,Padova,Spezia,1-1,1-0
+2013-05-11,Pro Vercelli,Novara,1-2,1-1
+2013-05-11,Reggina,Grosseto,1-0,0-0
+2013-05-11,Virtus Lanciano,Sassuolo,2-2,2-2
+2013-05-13,Varese,Crotone,1-1,1-0
+2013-05-18,Brescia,Varese,2-0,0-0
+2013-05-18,Cesena,Pro Vercelli,1-1,1-1
+2013-05-18,Cittadella,Ascoli,1-0,0-0
+2013-05-18,Grosseto,Bari,4-3,1-2
+2013-05-18,Novara,Virtus Lanciano,1-1,0-1
+2013-05-18,Sassuolo,Livorno,1-0,0-0
+2013-05-18,Spezia,Modena,1-1,0-1
+2013-05-18,Ternana,Padova,2-1,1-0
+2013-05-18,Verona,Empoli,0-0,0-0
+2013-05-18,Vicenza,Reggina,0-0,0-0
+2013-05-19,Crotone,Juve Stabia,3-3,1-2
