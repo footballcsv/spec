@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2011-08-25,Sampdoria,Padova,2-2,0-1
-2011-08-26,Verona,Pescara,1-2,0-1
-2011-08-27,Ascoli,Torino,1-2,1-0
-2011-08-27,Bari,Varese,0-0,0-0
-2011-08-27,Brescia,Vicenza,2-0,1-0
-2011-08-27,Cittadella,Albinoleffe,2-1,1-1
-2011-08-27,Crotone,Livorno,1-2,1-1
-2011-08-27,Empoli,Juve Stabia,2-1,0-1
-2011-08-27,Grosseto,Gubbio,2-0,2-0
-2011-08-27,Reggina,Modena,4-1,2-0
-2011-08-27,Sassuolo,Nocerina,3-1,3-1
-2011-08-30,Albinoleffe,Grosseto,2-2,1-2
-2011-08-30,Gubbio,Ascoli,2-3,0-2
-2011-08-30,Livorno,Sampdoria,0-0,0-0
-2011-08-30,Modena,Bari,0-1,0-0
-2011-08-30,Nocerina,Brescia,1-1,1-1
-2011-08-30,Padova,Reggina,1-0,1-0
-2011-08-30,Pescara,Empoli,3-2,2-1
-2011-08-30,Varese,Crotone,0-0,0-0
-2011-08-30,Vicenza,Sassuolo,0-1,0-1
-2011-08-31,Juve Stabia,Verona,1-2,1-2
-2011-08-31,Torino,Cittadella,1-1,0-0
-2011-09-03,Reggina,Grosseto,1-1,1-0
-2011-09-04,Ascoli,Vicenza,1-1,0-1
-2011-09-04,Bari,Albinoleffe,2-3,1-0
-2011-09-04,Brescia,Empoli,2-1,1-0
-2011-09-04,Cittadella,Padova,1-4,1-2
-2011-09-04,Crotone,Juve Stabia,0-0,0-0
-2011-09-04,Livorno,Nocerina,0-2,0-0
-2011-09-04,Modena,Pescara,3-2,1-1
-2011-09-04,Sampdoria,Gubbio,6-0,3-0
-2011-09-04,Torino,Varese,2-0,1-0
-2011-09-04,Verona,Sassuolo,1-0,0-0
-2011-09-09,Padova,Bari,1-0,1-0
-2011-09-10,Albinoleffe,Modena,2-1,0-0
-2011-09-10,Grosseto,Verona,2-1,1-1
-2011-09-10,Gubbio,Reggina,1-3,1-0
-2011-09-10,Juve Stabia,Brescia,0-1,0-0
-2011-09-10,Nocerina,Ascoli,0-1,0-1
-2011-09-10,Pescara,Crotone,2-0,1-0
-2011-09-10,Sassuolo,Cittadella,2-0,0-0
-2011-09-10,Varese,Livorno,0-2,0-0
-2011-09-12,Empoli,Sampdoria,1-3,1-2
-2011-09-12,Vicenza,Torino,0-1,0-0
-2011-09-16,Verona,Padova,2-2,2-1
-2011-09-17,Ascoli,Sassuolo,0-1,0-0
-2011-09-17,Bari,Nocerina,1-1,1-0
-2011-09-17,Cittadella,Vicenza,4-2,0-1
-2011-09-17,Crotone,Empoli,2-1,2-1
-2011-09-17,Livorno,Juve Stabia,3-0,0-0
-2011-09-17,Modena,Gubbio,1-1,1-1
-2011-09-17,Reggina,Pescara,4-2,2-0
-2011-09-17,Sampdoria,Grosseto,0-0,0-0
-2011-09-17,Varese,Albinoleffe,2-1,1-0
-2011-09-19,Torino,Brescia,0-0,0-0
-2011-09-23,Vicenza,Livorno,1-1,1-1
-2011-09-24,Albinoleffe,Sampdoria,1-3,0-1
-2011-09-24,Ascoli,Verona,1-2,1-1
-2011-09-24,Brescia,Cittadella,2-0,1-0
-2011-09-24,Grosseto,Crotone,2-0,1-0
-2011-09-24,Gubbio,Varese,0-0,0-0
-2011-09-24,Juve Stabia,Pescara,3-2,1-1
-2011-09-24,Nocerina,Torino,1-2,0-1
-2011-09-24,Padova,Modena,2-0,0-0
-2011-09-24,Sassuolo,Bari,1-2,0-0
-2011-09-26,Empoli,Reggina,3-2,2-0
-2011-09-30,Crotone,Vicenza,2-2,1-1
-2011-09-30,Sampdoria,Torino,1-2,1-1
-2011-09-30,Varese,Sassuolo,0-1,0-0
-2011-10-01,Bari,Livorno,1-0,1-0
-2011-10-01,Cittadella,Nocerina,1-3,1-2
-2011-10-01,Empoli,Padova,2-4,1-2
-2011-10-01,Grosseto,Ascoli,3-3,2-2
-2011-10-01,Gubbio,Verona,1-1,0-1
-2011-10-01,Modena,Brescia,1-1,1-1
-2011-10-01,Pescara,Albinoleffe,5-3,4-0
-2011-10-01,Reggina,Juve Stabia,1-2,0-0
-2011-10-04,Vicenza,Varese,0-2,0-0
-2011-10-05,Albinoleffe,Padova,1-0,1-0
-2011-10-05,Ascoli,Reggina,1-1,0-1
-2011-10-05,Brescia,Gubbio,2-2,1-1
-2011-10-05,Cittadella,Modena,2-0,0-0
-2011-10-05,Crotone,Bari,0-1,0-0
-2011-10-05,Livorno,Empoli,0-0,0-0
-2011-10-05,Nocerina,Juve Stabia,2-3,0-1
-2011-10-05,Sassuolo,Pescara,1-1,1-0
-2011-10-05,Torino,Grosseto,1-0,0-0
-2011-10-05,Verona,Sampdoria,1-1,1-1
-2011-10-08,Padova,Brescia,2-1,1-1
-2011-10-08,Pescara,Cittadella,1-0,0-0
-2011-10-09,Albinoleffe,Livorno,0-4,0-2
-2011-10-09,Empoli,Varese,1-2,1-1
-2011-10-09,Grosseto,Vicenza,1-1,1-1
-2011-10-09,Gubbio,Nocerina,2-1,1-1
-2011-10-09,Juve Stabia,Ascoli,2-1,2-0
-2011-10-09,Modena,Crotone,1-1,0-1
-2011-10-09,Reggina,Bari,3-1,2-1
-2011-10-09,Sampdoria,Sassuolo,1-1,0-1
-2011-10-09,Verona,Torino,1-3,1-2
-2011-10-14,Varese,Padova,3-0,0-0
-2011-10-15,Ascoli,Sampdoria,1-2,0-0
-2011-10-15,Bari,Empoli,1-0,1-0
-2011-10-15,Cittadella,Grosseto,2-0,2-0
-2011-10-15,Crotone,Gubbio,2-1,1-0
-2011-10-15,Livorno,Reggina,0-2,0-0
-2011-10-15,Nocerina,Modena,1-1,1-0
-2011-10-15,Sassuolo,Albinoleffe,1-0,0-0
-2011-10-15,Torino,Juve Stabia,1-0,0-0
-2011-10-15,Vicenza,Verona,2-1,0-0
-2011-10-17,Brescia,Pescara,0-3,0-2
-2011-10-21,Verona,Nocerina,1-1,0-0
-2011-10-22,Albinoleffe,Crotone,1-3,0-1
-2011-10-22,Empoli,Sassuolo,1-1,1-0
-2011-10-22,Grosseto,Brescia,2-0,1-0
-2011-10-22,Juve Stabia,Bari,1-0,1-0
-2011-10-22,Modena,Livorno,1-0,1-0
-2011-10-22,Padova,Vicenza,2-1,1-0
-2011-10-22,Pescara,Ascoli,4-1,2-0
-2011-10-22,Reggina,Varese,3-2,1-0
-2011-10-22,Sampdoria,Cittadella,0-0,0-0
-2011-10-24,Gubbio,Torino,1-0,0-0
-2011-10-28,Ascoli,Modena,0-1,0-0
-2011-10-28,Bari,Pescara,0-2,0-1
-2011-10-29,Brescia,Reggina,0-3,0-1
-2011-10-29,Cittadella,Verona,1-2,1-2
-2011-10-29,Crotone,Padova,2-1,2-0
-2011-10-29,Livorno,Gubbio,1-1,1-0
-2011-10-29,Nocerina,Sampdoria,4-2,2-0
-2011-10-29,Sassuolo,Grosseto,1-0,1-0
-2011-10-29,Torino,Empoli,2-1,0-1
-2011-10-29,Varese,Juve Stabia,2-1,1-1
-2011-10-29,Vicenza,Albinoleffe,2-1,0-1
-2011-11-01,Albinoleffe,Ascoli,1-0,1-0
-2011-11-01,Empoli,Nocerina,2-0,1-0
-2011-11-01,Grosseto,Bari,0-1,0-1
-2011-11-01,Gubbio,Cittadella,1-0,0-0
-2011-11-01,Juve Stabia,Vicenza,1-0,0-0
-2011-11-01,Modena,Sassuolo,2-5,0-3
-2011-11-01,Padova,Livorno,1-0,1-0
-2011-11-01,Pescara,Varese,3-1,1-1
-2011-11-01,Reggina,Torino,0-1,0-0
-2011-11-01,Sampdoria,Crotone,2-0,1-0
-2011-11-01,Verona,Brescia,1-0,0-0
-2011-11-05,Ascoli,Cittadella,0-1,0-1
-2011-11-05,Crotone,Reggina,1-1,0-1
-2011-11-05,Empoli,Albinoleffe,0-0,0-0
-2011-11-05,Livorno,Pescara,3-1,2-1
-2011-11-05,Nocerina,Grosseto,1-2,1-1
-2011-11-05,Padova,Juve Stabia,2-2,1-0
-2011-11-05,Sassuolo,Torino,0-0,0-0
-2011-11-05,Varese,Modena,0-0,0-0
-2011-11-05,Vicenza,Gubbio,3-1,1-1
-2011-11-07,Bari,Verona,0-1,0-0
-2011-11-07,Brescia,Sampdoria,0-0,0-0
-2011-11-12,Pescara,Padova,1-1,0-0
-2011-11-13,Brescia,Ascoli,0-1,0-1
-2011-11-13,Cittadella,Livorno,2-2,1-0
-2011-11-13,Grosseto,Varese,1-5,0-5
-2011-11-13,Gubbio,Sassuolo,0-1,0-1
-2011-11-13,Juve Stabia,Albinoleffe,2-2,2-0
-2011-11-13,Modena,Empoli,0-2,0-0
-2011-11-13,Reggina,Nocerina,2-1,1-0
-2011-11-13,Sampdoria,Vicenza,0-1,0-0
-2011-11-13,Torino,Bari,1-1,0-1
-2011-11-13,Verona,Crotone,2-1,1-0
-2011-11-18,Livorno,Ascoli,0-1,0-0
-2011-11-19,Bari,Sampdoria,1-1,0-1
-2011-11-19,Crotone,Torino,0-0,0-0
-2011-11-19,Empoli,Verona,1-3,0-2
-2011-11-19,Juve Stabia,Modena,2-2,1-0
-2011-11-19,Nocerina,Vicenza,2-2,1-0
-2011-11-19,Padova,Grosseto,0-1,0-1
-2011-11-19,Pescara,Gubbio,2-1,1-1
-2011-11-19,Sassuolo,Brescia,1-1,0-1
-2011-11-19,Varese,Cittadella,0-1,0-0
-2011-11-21,Albinoleffe,Reggina,1-1,1-0
-2011-11-26,Brescia,Albinoleffe,1-3,0-2
-2011-11-26,Cittadella,Crotone,0-1,0-1
-2011-11-26,Grosseto,Juve Stabia,0-3,0-0
-2011-11-26,Nocerina,Varese,2-4,2-0
-2011-11-26,Sampdoria,Modena,1-1,1-0
-2011-11-26,Sassuolo,Padova,0-1,0-0
-2011-11-26,Torino,Livorno,1-0,0-0
-2011-11-26,Verona,Reggina,1-0,1-0
-2011-11-27,Gubbio,Empoli,0-1,0-1
-2011-11-27,Vicenza,Pescara,1-1,0-0
-2011-11-28,Ascoli,Bari,3-1,1-0
-2011-12-03,Albinoleffe,Nocerina,2-2,1-0
-2011-12-03,Crotone,Sassuolo,1-1,0-1
-2011-12-03,Empoli,Ascoli,3-2,3-1
-2011-12-03,Juve Stabia,Gubbio,1-0,0-0
-2011-12-03,Livorno,Verona,0-2,0-1
-2011-12-03,Modena,Vicenza,0-3,0-1
-2011-12-03,Pescara,Grosseto,1-2,1-1
-2011-12-03,Reggina,Sampdoria,0-0,0-0
-2011-12-03,Varese,Brescia,2-2,0-2
-2011-12-05,Bari,Cittadella,2-2,0-1
-2011-12-09,Sampdoria,Juve Stabia,1-1,0-0
-2011-12-10,Ascoli,Varese,0-0,0-0
-2011-12-10,Cittadella,Reggina,3-2,1-1
-2011-12-10,Grosseto,Modena,1-1,0-0
-2011-12-10,Gubbio,Padova,1-0,1-0
-2011-12-10,Nocerina,Crotone,0-2,0-0
-2011-12-10,Sassuolo,Livorno,2-1,0-1
-2011-12-10,Torino,Pescara,4-2,1-0
-2011-12-10,Verona,Albinoleffe,1-0,0-0
-2011-12-10,Vicenza,Empoli,1-0,0-0
-2011-12-11,Brescia,Bari,1-3,1-1
-2011-12-14,Padova,Torino,1-0,0-0
-2011-12-16,Livorno,Brescia,0-2,0-2
-2011-12-17,Albinoleffe,Gubbio,0-0,0-0
-2011-12-17,Bari,Vicenza,2-2,2-0
-2011-12-17,Crotone,Ascoli,1-2,0-0
-2011-12-17,Empoli,Grosseto,2-2,2-1
-2011-12-17,Juve Stabia,Cittadella,3-1,2-1
-2011-12-17,Modena,Torino,2-1,0-1
-2011-12-17,Padova,Nocerina,2-2,1-1
-2011-12-17,Reggina,Sassuolo,1-1,1-1
-2011-12-18,Varese,Verona,0-0,0-0
-2011-12-19,Pescara,Sampdoria,1-0,0-0
-2012-01-06,Ascoli,Padova,0-2,0-0
-2012-01-06,Brescia,Crotone,3-0,1-0
-2012-01-06,Cittadella,Empoli,2-1,1-0
-2012-01-06,Grosseto,Livorno,1-1,0-0
-2012-01-06,Gubbio,Bari,2-2,0-0
-2012-01-06,Nocerina,Pescara,2-4,1-3
-2012-01-06,Sampdoria,Varese,0-1,0-0
-2012-01-06,Sassuolo,Juve Stabia,2-1,0-0
-2012-01-06,Torino,Albinoleffe,0-0,0-0
-2012-01-06,Verona,Modena,2-1,0-1
-2012-01-06,Vicenza,Reggina,0-0,0-0
-2012-01-13,Nocerina,Sassuolo,0-1,0-0
-2012-01-14,Albinoleffe,Cittadella,1-1,1-1
-2012-01-14,Gubbio,Grosseto,4-0,3-0
-2012-01-14,Juve Stabia,Empoli,3-1,2-0
-2012-01-14,Livorno,Crotone,2-1,1-1
-2012-01-14,Modena,Reggina,3-3,1-1
-2012-01-14,Padova,Sampdoria,1-2,0-1
-2012-01-14,Torino,Ascoli,2-1,1-1
-2012-01-14,Varese,Bari,0-2,0-1
-2012-01-14,Vicenza,Brescia,0-1,0-0
-2012-01-16,Pescara,Verona,3-1,1-1
-2012-01-20,Sampdoria,Livorno,1-1,0-0
-2012-01-21,Ascoli,Gubbio,2-1,1-0
-2012-01-21,Bari,Modena,0-1,0-1
-2012-01-21,Cittadella,Torino,1-1,1-1
-2012-01-21,Crotone,Varese,1-2,0-1
-2012-01-21,Empoli,Pescara,0-2,0-0
-2012-01-21,Grosseto,Albinoleffe,1-0,0-0
-2012-01-21,Sassuolo,Vicenza,4-2,1-0
-2012-01-21,Verona,Juve Stabia,2-0,1-0
-2012-01-22,Brescia,Nocerina,2-0,1-0
-2012-01-23,Reggina,Padova,1-4,1-2
-2012-01-27,Juve Stabia,Crotone,2-2,0-1
-2012-01-27,Pescara,Modena,3-1,2-1
-2012-01-28,Albinoleffe,Bari,0-2,0-0
-2012-01-28,Empoli,Brescia,0-2,0-0
-2012-01-28,Grosseto,Reggina,0-0,0-0
-2012-01-28,Gubbio,Sampdoria,0-0,0-0
-2012-01-28,Nocerina,Livorno,2-2,2-1
-2012-01-28,Padova,Cittadella,1-0,0-0
-2012-01-28,Sassuolo,Verona,2-0,2-0
-2012-01-28,Varese,Torino,0-0,0-0
-2012-01-28,Vicenza,Ascoli,1-1,1-1
-2012-01-31,Ascoli,Nocerina,1-0,0-0
-2012-01-31,Bari,Padova,3-1,1-1
-2012-01-31,Brescia,Juve Stabia,0-0,0-0
-2012-01-31,Cittadella,Sassuolo,0-0,0-0
-2012-01-31,Crotone,Pescara,1-2,1-1
-2012-01-31,Livorno,Varese,1-3,1-2
-2012-01-31,Reggina,Gubbio,3-1,2-0
-2012-01-31,Torino,Vicenza,1-0,0-0
-2012-01-31,Verona,Grosseto,2-0,2-0
-2012-02-04,Albinoleffe,Varese,1-2,1-1
-2012-02-04,Empoli,Crotone,1-1,0-1
-2012-02-04,Grosseto,Sampdoria,0-1,0-0
-2012-02-04,Juve Stabia,Livorno,1-2,1-2
-2012-02-04,Nocerina,Bari,1-1,0-1
-2012-02-04,Padova,Verona,0-0,0-0
-2012-02-05,Vicenza,Cittadella,1-4,0-1
-2012-02-11,Cittadella,Brescia,0-2,0-1
-2012-02-11,Crotone,Grosseto,2-2,0-1
-2012-02-11,Reggina,Empoli,3-2,1-0
-2012-02-11,Sampdoria,Albinoleffe,1-0,1-0
-2012-02-11,Torino,Nocerina,3-1,2-0
-2012-02-11,Varese,Gubbio,1-0,1-0
-2012-02-11,Verona,Ascoli,2-0,0-0
-2012-02-12,Bari,Sassuolo,1-2,0-1
-2012-02-12,Livorno,Vicenza,1-1,0-0
-2012-02-18,Albinoleffe,Pescara,1-1,0-1
-2012-02-18,Ascoli,Grosseto,0-2,0-0
-2012-02-18,Brescia,Modena,0-0,0-0
-2012-02-18,Juve Stabia,Reggina,2-1,1-0
-2012-02-18,Livorno,Bari,1-2,1-2
-2012-02-18,Nocerina,Cittadella,0-1,0-1
-2012-02-18,Padova,Empoli,1-1,1-1
-2012-02-18,Sassuolo,Varese,0-0,0-0
-2012-02-18,Verona,Gubbio,1-0,1-0
-2012-02-18,Vicenza,Crotone,1-1,0-0
-2012-02-20,Torino,Sampdoria,2-1,1-0
-2012-02-21,Modena,Albinoleffe,0-0,0-0
-2012-02-24,Pescara,Reggina,0-2,0-1
-2012-02-25,Gubbio,Modena,2-0,1-0
-2012-02-25,Sassuolo,Ascoli,0-0,0-0
-2012-02-26,Brescia,Torino,1-0,0-0
-2012-03-02,Varese,Vicenza,3-0,2-0
-2012-03-03,Bari,Crotone,1-1,1-0
-2012-03-03,Empoli,Livorno,1-1,0-1
-2012-03-03,Grosseto,Torino,0-3,0-1
-2012-03-03,Juve Stabia,Nocerina,2-2,0-2
-2012-03-03,Modena,Cittadella,3-0,2-0
-2012-03-03,Padova,Albinoleffe,3-2,2-1
-2012-03-03,Pescara,Sassuolo,3-2,0-1
-2012-03-03,Reggina,Ascoli,1-1,0-0
-2012-03-03,Sampdoria,Verona,2-0,1-0
-2012-03-05,Gubbio,Brescia,0-2,0-1
-2012-03-06,Modena,Padova,2-1,0-1
-2012-03-06,Pescara,Juve Stabia,2-0,1-0
-2012-03-06,Sampdoria,Empoli,1-0,0-0
-2012-03-10,Ascoli,Juve Stabia,0-0,0-0
-2012-03-10,Brescia,Padova,1-2,1-2
-2012-03-10,Cittadella,Pescara,1-2,1-1
-2012-03-10,Crotone,Modena,2-2,2-1
-2012-03-10,Livorno,Albinoleffe,4-1,3-0
-2012-03-10,Nocerina,Gubbio,2-1,1-0
-2012-03-10,Sassuolo,Sampdoria,0-0,0-0
-2012-03-10,Varese,Empoli,0-1,0-1
-2012-03-10,Vicenza,Grosseto,0-1,0-0
-2012-03-11,Bari,Reggina,2-1,1-0
-2012-03-12,Torino,Verona,1-4,0-2
-2012-03-16,Padova,Varese,1-1,1-0
-2012-03-17,Albinoleffe,Sassuolo,2-3,2-0
-2012-03-17,Empoli,Bari,1-0,1-0
-2012-03-17,Grosseto,Cittadella,2-2,2-0
-2012-03-17,Gubbio,Crotone,3-3,1-0
-2012-03-17,Juve Stabia,Torino,1-1,1-1
-2012-03-17,Modena,Nocerina,2-0,0-0
-2012-03-17,Reggina,Livorno,2-1,1-1
-2012-03-17,Sampdoria,Ascoli,0-0,0-0
-2012-03-17,Verona,Vicenza,2-0,2-0
-2012-03-19,Pescara,Brescia,1-1,1-1
-2012-03-23,Sassuolo,Empoli,1-0,0-0
-2012-03-24,Ascoli,Pescara,3-0,2-0
-2012-03-24,Bari,Juve Stabia,0-0,0-0
-2012-03-24,Brescia,Grosseto,2-1,1-1
-2012-03-24,Cittadella,Sampdoria,1-2,1-2
-2012-03-24,Crotone,Albinoleffe,5-2,3-1
-2012-03-24,Livorno,Modena,2-2,1-1
-2012-03-24,Nocerina,Verona,3-1,2-1
-2012-03-24,Torino,Gubbio,6-0,1-0
-2012-03-24,Varese,Reggina,2-0,2-0
-2012-03-26,Vicenza,Padova,0-1,0-1
-2012-03-30,Verona,Cittadella,3-2,2-0
-2012-03-31,Albinoleffe,Vicenza,0-1,0-0
-2012-03-31,Empoli,Torino,1-0,1-0
-2012-03-31,Grosseto,Sassuolo,2-2,0-1
-2012-03-31,Gubbio,Livorno,1-2,0-1
-2012-03-31,Juve Stabia,Varese,2-0,1-0
-2012-03-31,Modena,Ascoli,2-0,1-0
-2012-03-31,Padova,Crotone,1-2,0-2
-2012-03-31,Pescara,Bari,1-2,1-1
-2012-03-31,Sampdoria,Nocerina,2-0,2-0
-2012-04-02,Reggina,Brescia,1-1,0-1
-2012-04-05,Varese,Pescara,2-1,1-1
-2012-04-06,Ascoli,Albinoleffe,1-0,0-0
-2012-04-06,Bari,Grosseto,1-1,0-1
-2012-04-06,Brescia,Verona,2-1,1-1
-2012-04-06,Cittadella,Gubbio,2-1,2-0
-2012-04-06,Crotone,Sampdoria,1-0,0-0
-2012-04-06,Livorno,Padova,1-2,1-1
-2012-04-06,Nocerina,Empoli,2-1,0-1
-2012-04-06,Sassuolo,Modena,0-0,0-0
-2012-04-06,Vicenza,Juve Stabia,0-3,0-2
-2012-04-13,Juve Stabia,Padova,2-0,0-0
-2012-04-14,Cittadella,Ascoli,1-3,0-1
-2012-04-14,Grosseto,Nocerina,1-2,1-1
-2012-04-14,Gubbio,Vicenza,1-1,1-1
-2012-04-14,Modena,Varese,2-2,1-1
-2012-04-14,Reggina,Crotone,1-1,1-0
-2012-04-14,Sampdoria,Brescia,2-0,1-0
-2012-04-14,Verona,Bari,4-1,1-1
-2012-04-20,Padova,Pescara,0-6,0-1
-2012-04-21,Albinoleffe,Juve Stabia,1-2,1-1
-2012-04-21,Ascoli,Brescia,3-1,1-1
-2012-04-21,Bari,Torino,0-0,0-0
-2012-04-21,Crotone,Verona,3-1,3-0
-2012-04-21,Empoli,Modena,1-3,1-1
-2012-04-21,Nocerina,Reggina,0-4,0-1
-2012-04-21,Sassuolo,Gubbio,0-2,0-1
-2012-04-21,Vicenza,Sampdoria,1-1,0-1
-2012-04-23,Varese,Grosseto,1-3,1-0
-2012-04-25,Torino,Reggina,1-0,1-0
-2012-04-24,Livorno,Cittadella,1-2,0-1
-2012-04-27,Brescia,Sassuolo,1-2,0-0
-2012-04-27,Verona,Empoli,0-0,0-0
-2012-04-28,Ascoli,Livorno,2-0,1-0
-2012-04-28,Cittadella,Varese,0-1,0-1
-2012-04-28,Grosseto,Padova,2-2,0-2
-2012-04-28,Gubbio,Pescara,0-2,0-0
-2012-04-28,Modena,Juve Stabia,3-0,1-0
-2012-04-28,Reggina,Albinoleffe,1-0,0-0
-2012-04-28,Sampdoria,Bari,2-0,0-0
-2012-04-28,Torino,Crotone,2-1,2-0
-2012-04-28,Vicenza,Nocerina,0-1,0-1
-2012-05-01,Albinoleffe,Brescia,0-2,0-1
-2012-05-01,Bari,Ascoli,0-0,0-0
-2012-05-01,Crotone,Cittadella,3-1,0-1
-2012-05-01,Empoli,Gubbio,2-1,0-1
-2012-05-01,Juve Stabia,Grosseto,0-0,0-0
-2012-05-01,Livorno,Torino,0-1,0-1
-2012-05-01,Modena,Sampdoria,0-2,0-0
-2012-05-01,Padova,Sassuolo,0-2,0-0
-2012-05-01,Pescara,Vicenza,6-0,2-0
-2012-05-01,Reggina,Verona,0-1,0-0
-2012-05-01,Varese,Nocerina,2-1,1-0
-2012-05-05,Ascoli,Empoli,1-1,1-1
-2012-05-05,Brescia,Varese,1-2,1-1
-2012-05-05,Cittadella,Bari,1-0,1-0
-2012-05-05,Grosseto,Pescara,2-4,0-2
-2012-05-05,Nocerina,Albinoleffe,1-0,1-0
-2012-05-05,Sassuolo,Crotone,2-0,0-0
-2012-05-05,Verona,Livorno,1-0,0-0
-2012-05-05,Vicenza,Modena,2-1,1-0
-2012-05-06,Sampdoria,Reggina,3-1,2-0
-2012-05-07,Gubbio,Juve Stabia,0-0,0-0
-2012-05-07,Torino,Padova,3-1,1-0
-2012-05-08,Albinoleffe,Empoli,0-2,0-1
-2012-05-11,Bari,Brescia,2-2,1-2
-2012-05-12,Crotone,Nocerina,3-1,0-0
-2012-05-12,Empoli,Vicenza,1-1,0-1
-2012-05-12,Juve Stabia,Sampdoria,1-2,1-0
-2012-05-12,Livorno,Sassuolo,0-0,0-0
-2012-05-12,Modena,Grosseto,2-1,0-1
-2012-05-12,Padova,Gubbio,3-0,1-0
-2012-05-12,Pescara,Torino,2-0,2-0
-2012-05-12,Reggina,Cittadella,3-3,1-1
-2012-05-12,Varese,Ascoli,4-0,2-0
-2012-05-14,Albinoleffe,Verona,1-1,1-1
-2012-05-15,Pescara,Livorno,0-2,0-2
-2012-05-15,Torino,Sassuolo,3-0,1-0
-2012-05-19,Verona,Varese,3-0,1-0
-2012-05-20,Ascoli,Crotone,3-2,2-1
-2012-05-20,Brescia,Livorno,1-3,1-1
-2012-05-20,Cittadella,Juve Stabia,0-1,0-0
-2012-05-20,Grosseto,Empoli,1-1,1-1
-2012-05-20,Gubbio,Albinoleffe,1-2,1-1
-2012-05-20,Nocerina,Padova,3-0,3-0
-2012-05-20,Sampdoria,Pescara,1-3,0-2
-2012-05-20,Sassuolo,Reggina,4-1,1-1
-2012-05-20,Torino,Modena,2-0,1-0
-2012-05-20,Vicenza,Bari,3-1,2-1
-2012-05-26,Albinoleffe,Torino,0-0,0-0
-2012-05-26,Bari,Gubbio,3-0,2-0
-2012-05-26,Crotone,Brescia,4-1,0-0
-2012-05-26,Empoli,Cittadella,3-2,1-1
-2012-05-26,Juve Stabia,Sassuolo,1-3,0-0
-2012-05-26,Livorno,Grosseto,2-0,2-0
-2012-05-26,Modena,Verona,1-1,0-1
-2012-05-26,Padova,Ascoli,0-2,0-2
-2012-05-26,Pescara,Nocerina,1-0,0-0
-2012-05-26,Reggina,Vicenza,0-3,0-2
-2012-05-26,Varese,Sampdoria,3-1,2-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Thu) 25 Aug 2011 (34),Sampdoria (1),2-2,0-1,Padova (1)
+?,(Fri) 26 Aug 2011 (34),Verona (1),1-2,0-1,Pescara (1)
+?,(Sat) 27 Aug 2011 (34),Ascoli (1),1-2,1-0,Torino (1)
+?,(Sat) 27 Aug 2011 (34),Bari (1),0-0,0-0,Varese (1)
+?,(Sat) 27 Aug 2011 (34),Brescia (1),2-0,1-0,Vicenza (1)
+?,(Sat) 27 Aug 2011 (34),Cittadella (1),2-1,1-1,Albinoleffe (1)
+?,(Sat) 27 Aug 2011 (34),Crotone (1),1-2,1-1,Livorno (1)
+?,(Sat) 27 Aug 2011 (34),Empoli (1),2-1,0-1,Juve Stabia (1)
+?,(Sat) 27 Aug 2011 (34),Grosseto (1),2-0,2-0,Gubbio (1)
+?,(Sat) 27 Aug 2011 (34),Reggina (1),4-1,2-0,Modena (1)
+?,(Sat) 27 Aug 2011 (34),Sassuolo (1),3-1,3-1,Nocerina (1)
+?,(Tue) 30 Aug 2011 (35),Albinoleffe (2),2-2,1-2,Grosseto (2)
+?,(Tue) 30 Aug 2011 (35),Gubbio (2),2-3,0-2,Ascoli (2)
+?,(Tue) 30 Aug 2011 (35),Livorno (2),0-0,0-0,Sampdoria (2)
+?,(Tue) 30 Aug 2011 (35),Modena (2),0-1,0-0,Bari (2)
+?,(Tue) 30 Aug 2011 (35),Nocerina (2),1-1,1-1,Brescia (2)
+?,(Tue) 30 Aug 2011 (35),Padova (2),1-0,1-0,Reggina (2)
+?,(Tue) 30 Aug 2011 (35),Pescara (2),3-2,2-1,Empoli (2)
+?,(Tue) 30 Aug 2011 (35),Varese (2),0-0,0-0,Crotone (2)
+?,(Tue) 30 Aug 2011 (35),Vicenza (2),0-1,0-1,Sassuolo (2)
+?,(Wed) 31 Aug 2011 (35),Juve Stabia (2),1-2,1-2,Verona (2)
+?,(Wed) 31 Aug 2011 (35),Torino (2),1-1,0-0,Cittadella (2)
+?,(Sat) 3 Sep 2011 (35),Reggina (3),1-1,1-0,Grosseto (3)
+?,(Sun) 4 Sep 2011 (35),Ascoli (3),1-1,0-1,Vicenza (3)
+?,(Sun) 4 Sep 2011 (35),Bari (3),2-3,1-0,Albinoleffe (3)
+?,(Sun) 4 Sep 2011 (35),Brescia (3),2-1,1-0,Empoli (3)
+?,(Sun) 4 Sep 2011 (35),Cittadella (3),1-4,1-2,Padova (3)
+?,(Sun) 4 Sep 2011 (35),Crotone (3),0-0,0-0,Juve Stabia (3)
+?,(Sun) 4 Sep 2011 (35),Livorno (3),0-2,0-0,Nocerina (3)
+?,(Sun) 4 Sep 2011 (35),Modena (3),3-2,1-1,Pescara (3)
+?,(Sun) 4 Sep 2011 (35),Sampdoria (3),6-0,3-0,Gubbio (3)
+?,(Sun) 4 Sep 2011 (35),Torino (3),2-0,1-0,Varese (3)
+?,(Sun) 4 Sep 2011 (35),Verona (3),1-0,0-0,Sassuolo (3)
+?,(Fri) 9 Sep 2011 (36),Padova (4),1-0,1-0,Bari (4)
+?,(Sat) 10 Sep 2011 (36),Albinoleffe (4),2-1,0-0,Modena (4)
+?,(Sat) 10 Sep 2011 (36),Grosseto (4),2-1,1-1,Verona (4)
+?,(Sat) 10 Sep 2011 (36),Gubbio (4),1-3,1-0,Reggina (4)
+?,(Sat) 10 Sep 2011 (36),Juve Stabia (4),0-1,0-0,Brescia (4)
+?,(Sat) 10 Sep 2011 (36),Nocerina (4),0-1,0-1,Ascoli (4)
+?,(Sat) 10 Sep 2011 (36),Pescara (4),2-0,1-0,Crotone (4)
+?,(Sat) 10 Sep 2011 (36),Sassuolo (4),2-0,0-0,Cittadella (4)
+?,(Sat) 10 Sep 2011 (36),Varese (4),0-2,0-0,Livorno (4)
+?,(Mon) 12 Sep 2011 (37),Empoli (4),1-3,1-2,Sampdoria (4)
+?,(Mon) 12 Sep 2011 (37),Vicenza (4),0-1,0-0,Torino (4)
+?,(Fri) 16 Sep 2011 (37),Verona (5),2-2,2-1,Padova (5)
+?,(Sat) 17 Sep 2011 (37),Ascoli (5),0-1,0-0,Sassuolo (5)
+?,(Sat) 17 Sep 2011 (37),Bari (5),1-1,1-0,Nocerina (5)
+?,(Sat) 17 Sep 2011 (37),Cittadella (5),4-2,0-1,Vicenza (5)
+?,(Sat) 17 Sep 2011 (37),Crotone (5),2-1,2-1,Empoli (5)
+?,(Sat) 17 Sep 2011 (37),Livorno (5),3-0,0-0,Juve Stabia (5)
+?,(Sat) 17 Sep 2011 (37),Modena (5),1-1,1-1,Gubbio (5)
+?,(Sat) 17 Sep 2011 (37),Reggina (5),4-2,2-0,Pescara (5)
+?,(Sat) 17 Sep 2011 (37),Sampdoria (5),0-0,0-0,Grosseto (5)
+?,(Sat) 17 Sep 2011 (37),Varese (5),2-1,1-0,Albinoleffe (5)
+?,(Mon) 19 Sep 2011 (38),Torino (5),0-0,0-0,Brescia (5)
+?,(Fri) 23 Sep 2011 (38),Vicenza (6),1-1,1-1,Livorno (6)
+?,(Sat) 24 Sep 2011 (38),Albinoleffe (6),1-3,0-1,Sampdoria (6)
+?,(Sat) 24 Sep 2011 (38),Ascoli (6),1-2,1-1,Verona (6)
+?,(Sat) 24 Sep 2011 (38),Brescia (6),2-0,1-0,Cittadella (6)
+?,(Sat) 24 Sep 2011 (38),Grosseto (6),2-0,1-0,Crotone (6)
+?,(Sat) 24 Sep 2011 (38),Gubbio (6),0-0,0-0,Varese (6)
+?,(Sat) 24 Sep 2011 (38),Juve Stabia (6),3-2,1-1,Pescara (6)
+?,(Sat) 24 Sep 2011 (38),Nocerina (6),1-2,0-1,Torino (6)
+?,(Sat) 24 Sep 2011 (38),Padova (6),2-0,0-0,Modena (6)
+?,(Sat) 24 Sep 2011 (38),Sassuolo (6),1-2,0-0,Bari (6)
+?,(Mon) 26 Sep 2011 (39),Empoli (6),3-2,2-0,Reggina (6)
+?,(Fri) 30 Sep 2011 (39),Crotone (7),2-2,1-1,Vicenza (7)
+?,(Fri) 30 Sep 2011 (39),Sampdoria (7),1-2,1-1,Torino (7)
+?,(Fri) 30 Sep 2011 (39),Varese (7),0-1,0-0,Sassuolo (7)
+?,(Sat) 1 Oct 2011 (39),Bari (7),1-0,1-0,Livorno (7)
+?,(Sat) 1 Oct 2011 (39),Cittadella (7),1-3,1-2,Nocerina (7)
+?,(Sat) 1 Oct 2011 (39),Empoli (7),2-4,1-2,Padova (7)
+?,(Sat) 1 Oct 2011 (39),Grosseto (7),3-3,2-2,Ascoli (7)
+?,(Sat) 1 Oct 2011 (39),Gubbio (7),1-1,0-1,Verona (7)
+?,(Sat) 1 Oct 2011 (39),Modena (7),1-1,1-1,Brescia (7)
+?,(Sat) 1 Oct 2011 (39),Pescara (7),5-3,4-0,Albinoleffe (7)
+?,(Sat) 1 Oct 2011 (39),Reggina (7),1-2,0-0,Juve Stabia (7)
+?,(Tue) 4 Oct 2011 (40),Vicenza (8),0-2,0-0,Varese (8)
+?,(Wed) 5 Oct 2011 (40),Albinoleffe (8),1-0,1-0,Padova (8)
+?,(Wed) 5 Oct 2011 (40),Ascoli (8),1-1,0-1,Reggina (8)
+?,(Wed) 5 Oct 2011 (40),Brescia (8),2-2,1-1,Gubbio (8)
+?,(Wed) 5 Oct 2011 (40),Cittadella (8),2-0,0-0,Modena (8)
+?,(Wed) 5 Oct 2011 (40),Crotone (8),0-1,0-0,Bari (8)
+?,(Wed) 5 Oct 2011 (40),Livorno (8),0-0,0-0,Empoli (8)
+?,(Wed) 5 Oct 2011 (40),Nocerina (8),2-3,0-1,Juve Stabia (8)
+?,(Wed) 5 Oct 2011 (40),Sassuolo (8),1-1,1-0,Pescara (8)
+?,(Wed) 5 Oct 2011 (40),Torino (8),1-0,0-0,Grosseto (8)
+?,(Wed) 5 Oct 2011 (40),Verona (8),1-1,1-1,Sampdoria (8)
+?,(Sat) 8 Oct 2011 (40),Padova (9),2-1,1-1,Brescia (9)
+?,(Sat) 8 Oct 2011 (40),Pescara (9),1-0,0-0,Cittadella (9)
+?,(Sun) 9 Oct 2011 (40),Albinoleffe (9),0-4,0-2,Livorno (9)
+?,(Sun) 9 Oct 2011 (40),Empoli (9),1-2,1-1,Varese (9)
+?,(Sun) 9 Oct 2011 (40),Grosseto (9),1-1,1-1,Vicenza (9)
+?,(Sun) 9 Oct 2011 (40),Gubbio (9),2-1,1-1,Nocerina (9)
+?,(Sun) 9 Oct 2011 (40),Juve Stabia (9),2-1,2-0,Ascoli (9)
+?,(Sun) 9 Oct 2011 (40),Modena (9),1-1,0-1,Crotone (9)
+?,(Sun) 9 Oct 2011 (40),Reggina (9),3-1,2-1,Bari (9)
+?,(Sun) 9 Oct 2011 (40),Sampdoria (9),1-1,0-1,Sassuolo (9)
+?,(Sun) 9 Oct 2011 (40),Verona (9),1-3,1-2,Torino (9)
+?,(Fri) 14 Oct 2011 (41),Varese (10),3-0,0-0,Padova (10)
+?,(Sat) 15 Oct 2011 (41),Ascoli (10),1-2,0-0,Sampdoria (10)
+?,(Sat) 15 Oct 2011 (41),Bari (10),1-0,1-0,Empoli (10)
+?,(Sat) 15 Oct 2011 (41),Cittadella (10),2-0,2-0,Grosseto (10)
+?,(Sat) 15 Oct 2011 (41),Crotone (10),2-1,1-0,Gubbio (10)
+?,(Sat) 15 Oct 2011 (41),Livorno (10),0-2,0-0,Reggina (10)
+?,(Sat) 15 Oct 2011 (41),Nocerina (10),1-1,1-0,Modena (10)
+?,(Sat) 15 Oct 2011 (41),Sassuolo (10),1-0,0-0,Albinoleffe (10)
+?,(Sat) 15 Oct 2011 (41),Torino (10),1-0,0-0,Juve Stabia (10)
+?,(Sat) 15 Oct 2011 (41),Vicenza (10),2-1,0-0,Verona (10)
+?,(Mon) 17 Oct 2011 (42),Brescia (10),0-3,0-2,Pescara (10)
+?,(Fri) 21 Oct 2011 (42),Verona (11),1-1,0-0,Nocerina (11)
+?,(Sat) 22 Oct 2011 (42),Albinoleffe (11),1-3,0-1,Crotone (11)
+?,(Sat) 22 Oct 2011 (42),Empoli (11),1-1,1-0,Sassuolo (11)
+?,(Sat) 22 Oct 2011 (42),Grosseto (11),2-0,1-0,Brescia (11)
+?,(Sat) 22 Oct 2011 (42),Juve Stabia (11),1-0,1-0,Bari (11)
+?,(Sat) 22 Oct 2011 (42),Modena (11),1-0,1-0,Livorno (11)
+?,(Sat) 22 Oct 2011 (42),Padova (11),2-1,1-0,Vicenza (11)
+?,(Sat) 22 Oct 2011 (42),Pescara (11),4-1,2-0,Ascoli (11)
+?,(Sat) 22 Oct 2011 (42),Reggina (11),3-2,1-0,Varese (11)
+?,(Sat) 22 Oct 2011 (42),Sampdoria (11),0-0,0-0,Cittadella (11)
+?,(Mon) 24 Oct 2011 (43),Gubbio (11),1-0,0-0,Torino (11)
+?,(Fri) 28 Oct 2011 (43),Ascoli (12),0-1,0-0,Modena (12)
+?,(Fri) 28 Oct 2011 (43),Bari (12),0-2,0-1,Pescara (12)
+?,(Sat) 29 Oct 2011 (43),Brescia (12),0-3,0-1,Reggina (12)
+?,(Sat) 29 Oct 2011 (43),Cittadella (12),1-2,1-2,Verona (12)
+?,(Sat) 29 Oct 2011 (43),Crotone (12),2-1,2-0,Padova (12)
+?,(Sat) 29 Oct 2011 (43),Livorno (12),1-1,1-0,Gubbio (12)
+?,(Sat) 29 Oct 2011 (43),Nocerina (12),4-2,2-0,Sampdoria (12)
+?,(Sat) 29 Oct 2011 (43),Sassuolo (12),1-0,1-0,Grosseto (12)
+?,(Sat) 29 Oct 2011 (43),Torino (12),2-1,0-1,Empoli (12)
+?,(Sat) 29 Oct 2011 (43),Varese (12),2-1,1-1,Juve Stabia (12)
+?,(Sat) 29 Oct 2011 (43),Vicenza (12),2-1,0-1,Albinoleffe (12)
+?,(Tue) 1 Nov 2011 (44),Albinoleffe (13),1-0,1-0,Ascoli (13)
+?,(Tue) 1 Nov 2011 (44),Empoli (13),2-0,1-0,Nocerina (13)
+?,(Tue) 1 Nov 2011 (44),Grosseto (13),0-1,0-1,Bari (13)
+?,(Tue) 1 Nov 2011 (44),Gubbio (13),1-0,0-0,Cittadella (13)
+?,(Tue) 1 Nov 2011 (44),Juve Stabia (13),1-0,0-0,Vicenza (13)
+?,(Tue) 1 Nov 2011 (44),Modena (13),2-5,0-3,Sassuolo (13)
+?,(Tue) 1 Nov 2011 (44),Padova (13),1-0,1-0,Livorno (13)
+?,(Tue) 1 Nov 2011 (44),Pescara (13),3-1,1-1,Varese (13)
+?,(Tue) 1 Nov 2011 (44),Reggina (13),0-1,0-0,Torino (13)
+?,(Tue) 1 Nov 2011 (44),Sampdoria (13),2-0,1-0,Crotone (13)
+?,(Tue) 1 Nov 2011 (44),Verona (13),1-0,0-0,Brescia (13)
+?,(Sat) 5 Nov 2011 (44),Ascoli (14),0-1,0-1,Cittadella (14)
+?,(Sat) 5 Nov 2011 (44),Crotone (14),1-1,0-1,Reggina (14)
+?,(Sat) 5 Nov 2011 (44),Empoli (14),0-0,0-0,Albinoleffe (14)
+?,(Sat) 5 Nov 2011 (44),Livorno (14),3-1,2-1,Pescara (14)
+?,(Sat) 5 Nov 2011 (44),Nocerina (14),1-2,1-1,Grosseto (14)
+?,(Sat) 5 Nov 2011 (44),Padova (14),2-2,1-0,Juve Stabia (14)
+?,(Sat) 5 Nov 2011 (44),Sassuolo (14),0-0,0-0,Torino (14)
+?,(Sat) 5 Nov 2011 (44),Varese (14),0-0,0-0,Modena (14)
+?,(Sat) 5 Nov 2011 (44),Vicenza (14),3-1,1-1,Gubbio (14)
+?,(Mon) 7 Nov 2011 (45),Bari (14),0-1,0-0,Verona (14)
+?,(Mon) 7 Nov 2011 (45),Brescia (14),0-0,0-0,Sampdoria (14)
+?,(Sat) 12 Nov 2011 (45),Pescara (15),1-1,0-0,Padova (15)
+?,(Sun) 13 Nov 2011 (45),Brescia (15),0-1,0-1,Ascoli (15)
+?,(Sun) 13 Nov 2011 (45),Cittadella (15),2-2,1-0,Livorno (15)
+?,(Sun) 13 Nov 2011 (45),Grosseto (15),1-5,0-5,Varese (15)
+?,(Sun) 13 Nov 2011 (45),Gubbio (15),0-1,0-1,Sassuolo (15)
+?,(Sun) 13 Nov 2011 (45),Juve Stabia (15),2-2,2-0,Albinoleffe (15)
+?,(Sun) 13 Nov 2011 (45),Modena (15),0-2,0-0,Empoli (15)
+?,(Sun) 13 Nov 2011 (45),Reggina (15),2-1,1-0,Nocerina (15)
+?,(Sun) 13 Nov 2011 (45),Sampdoria (15),0-1,0-0,Vicenza (15)
+?,(Sun) 13 Nov 2011 (45),Torino (15),1-1,0-1,Bari (15)
+?,(Sun) 13 Nov 2011 (45),Verona (15),2-1,1-0,Crotone (15)
+?,(Fri) 18 Nov 2011 (46),Livorno (16),0-1,0-0,Ascoli (16)
+?,(Sat) 19 Nov 2011 (46),Bari (16),1-1,0-1,Sampdoria (16)
+?,(Sat) 19 Nov 2011 (46),Crotone (16),0-0,0-0,Torino (16)
+?,(Sat) 19 Nov 2011 (46),Empoli (16),1-3,0-2,Verona (16)
+?,(Sat) 19 Nov 2011 (46),Juve Stabia (16),2-2,1-0,Modena (16)
+?,(Sat) 19 Nov 2011 (46),Nocerina (16),2-2,1-0,Vicenza (16)
+?,(Sat) 19 Nov 2011 (46),Padova (16),0-1,0-1,Grosseto (16)
+?,(Sat) 19 Nov 2011 (46),Pescara (16),2-1,1-1,Gubbio (16)
+?,(Sat) 19 Nov 2011 (46),Sassuolo (16),1-1,0-1,Brescia (16)
+?,(Sat) 19 Nov 2011 (46),Varese (16),0-1,0-0,Cittadella (16)
+?,(Mon) 21 Nov 2011 (47),Albinoleffe (16),1-1,1-0,Reggina (16)
+?,(Sat) 26 Nov 2011 (47),Brescia (17),1-3,0-2,Albinoleffe (17)
+?,(Sat) 26 Nov 2011 (47),Cittadella (17),0-1,0-1,Crotone (17)
+?,(Sat) 26 Nov 2011 (47),Grosseto (17),0-3,0-0,Juve Stabia (17)
+?,(Sat) 26 Nov 2011 (47),Nocerina (17),2-4,2-0,Varese (17)
+?,(Sat) 26 Nov 2011 (47),Sampdoria (17),1-1,1-0,Modena (17)
+?,(Sat) 26 Nov 2011 (47),Sassuolo (17),0-1,0-0,Padova (17)
+?,(Sat) 26 Nov 2011 (47),Torino (17),1-0,0-0,Livorno (17)
+?,(Sat) 26 Nov 2011 (47),Verona (17),1-0,1-0,Reggina (17)
+?,(Sun) 27 Nov 2011 (47),Gubbio (17),0-1,0-1,Empoli (17)
+?,(Sun) 27 Nov 2011 (47),Vicenza (17),1-1,0-0,Pescara (17)
+?,(Mon) 28 Nov 2011 (48),Ascoli (17),3-1,1-0,Bari (17)
+?,(Sat) 3 Dec 2011 (48),Albinoleffe (18),2-2,1-0,Nocerina (18)
+?,(Sat) 3 Dec 2011 (48),Crotone (18),1-1,0-1,Sassuolo (18)
+?,(Sat) 3 Dec 2011 (48),Empoli (18),3-2,3-1,Ascoli (18)
+?,(Sat) 3 Dec 2011 (48),Juve Stabia (18),1-0,0-0,Gubbio (18)
+?,(Sat) 3 Dec 2011 (48),Livorno (18),0-2,0-1,Verona (18)
+?,(Sat) 3 Dec 2011 (48),Modena (18),0-3,0-1,Vicenza (18)
+?,(Sat) 3 Dec 2011 (48),Pescara (18),1-2,1-1,Grosseto (18)
+?,(Sat) 3 Dec 2011 (48),Reggina (18),0-0,0-0,Sampdoria (18)
+?,(Sat) 3 Dec 2011 (48),Varese (18),2-2,0-2,Brescia (18)
+?,(Mon) 5 Dec 2011 (49),Bari (18),2-2,0-1,Cittadella (18)
+?,(Fri) 9 Dec 2011 (49),Sampdoria (19),1-1,0-0,Juve Stabia (19)
+?,(Sat) 10 Dec 2011 (49),Ascoli (19),0-0,0-0,Varese (19)
+?,(Sat) 10 Dec 2011 (49),Cittadella (19),3-2,1-1,Reggina (19)
+?,(Sat) 10 Dec 2011 (49),Grosseto (19),1-1,0-0,Modena (19)
+?,(Sat) 10 Dec 2011 (49),Gubbio (19),1-0,1-0,Padova (18)
+?,(Sat) 10 Dec 2011 (49),Nocerina (19),0-2,0-0,Crotone (19)
+?,(Sat) 10 Dec 2011 (49),Sassuolo (19),2-1,0-1,Livorno (19)
+?,(Sat) 10 Dec 2011 (49),Torino (18),4-2,1-0,Pescara (19)
+?,(Sat) 10 Dec 2011 (49),Verona (19),1-0,0-0,Albinoleffe (19)
+?,(Sat) 10 Dec 2011 (49),Vicenza (19),1-0,0-0,Empoli (19)
+?,(Sun) 11 Dec 2011 (49),Brescia (19),1-3,1-1,Bari (19)
+?,(Wed) 14 Dec 2011 (50),Padova (19),1-0,0-0,Torino (19)
+?,(Fri) 16 Dec 2011 (50),Livorno (20),0-2,0-2,Brescia (20)
+?,(Sat) 17 Dec 2011 (50),Albinoleffe (20),0-0,0-0,Gubbio (20)
+?,(Sat) 17 Dec 2011 (50),Bari (20),2-2,2-0,Vicenza (20)
+?,(Sat) 17 Dec 2011 (50),Crotone (20),1-2,0-0,Ascoli (20)
+?,(Sat) 17 Dec 2011 (50),Empoli (20),2-2,2-1,Grosseto (20)
+?,(Sat) 17 Dec 2011 (50),Juve Stabia (20),3-1,2-1,Cittadella (20)
+?,(Sat) 17 Dec 2011 (50),Modena (20),2-1,0-1,Torino (20)
+?,(Sat) 17 Dec 2011 (50),Padova (20),2-2,1-1,Nocerina (20)
+?,(Sat) 17 Dec 2011 (50),Reggina (20),1-1,1-1,Sassuolo (20)
+?,(Sun) 18 Dec 2011 (50),Varese (20),0-0,0-0,Verona (20)
+?,(Mon) 19 Dec 2011 (51),Pescara (20),1-0,0-0,Sampdoria (20)
+?,(Fri) 6 Jan 2012 (1),Ascoli (21),0-2,0-0,Padova (21)
+?,(Fri) 6 Jan 2012 (1),Brescia (21),3-0,1-0,Crotone (21)
+?,(Fri) 6 Jan 2012 (1),Cittadella (21),2-1,1-0,Empoli (21)
+?,(Fri) 6 Jan 2012 (1),Grosseto (21),1-1,0-0,Livorno (21)
+?,(Fri) 6 Jan 2012 (1),Gubbio (21),2-2,0-0,Bari (21)
+?,(Fri) 6 Jan 2012 (1),Nocerina (21),2-4,1-3,Pescara (21)
+?,(Fri) 6 Jan 2012 (1),Sampdoria (21),0-1,0-0,Varese (21)
+?,(Fri) 6 Jan 2012 (1),Sassuolo (21),2-1,0-0,Juve Stabia (21)
+?,(Fri) 6 Jan 2012 (1),Torino (21),0-0,0-0,Albinoleffe (21)
+?,(Fri) 6 Jan 2012 (1),Verona (21),2-1,0-1,Modena (21)
+?,(Fri) 6 Jan 2012 (1),Vicenza (21),0-0,0-0,Reggina (21)
+?,(Fri) 13 Jan 2012 (2),Nocerina (22),0-1,0-0,Sassuolo (22)
+?,(Sat) 14 Jan 2012 (2),Albinoleffe (22),1-1,1-1,Cittadella (22)
+?,(Sat) 14 Jan 2012 (2),Gubbio (22),4-0,3-0,Grosseto (22)
+?,(Sat) 14 Jan 2012 (2),Juve Stabia (22),3-1,2-0,Empoli (22)
+?,(Sat) 14 Jan 2012 (2),Livorno (22),2-1,1-1,Crotone (22)
+?,(Sat) 14 Jan 2012 (2),Modena (22),3-3,1-1,Reggina (22)
+?,(Sat) 14 Jan 2012 (2),Padova (22),1-2,0-1,Sampdoria (22)
+?,(Sat) 14 Jan 2012 (2),Torino (22),2-1,1-1,Ascoli (22)
+?,(Sat) 14 Jan 2012 (2),Varese (22),0-2,0-1,Bari (22)
+?,(Sat) 14 Jan 2012 (2),Vicenza (22),0-1,0-0,Brescia (22)
+?,(Mon) 16 Jan 2012 (3),Pescara (22),3-1,1-1,Verona (22)
+?,(Fri) 20 Jan 2012 (3),Sampdoria (23),1-1,0-0,Livorno (23)
+?,(Sat) 21 Jan 2012 (3),Ascoli (23),2-1,1-0,Gubbio (23)
+?,(Sat) 21 Jan 2012 (3),Bari (23),0-1,0-1,Modena (23)
+?,(Sat) 21 Jan 2012 (3),Cittadella (23),1-1,1-1,Torino (23)
+?,(Sat) 21 Jan 2012 (3),Crotone (23),1-2,0-1,Varese (23)
+?,(Sat) 21 Jan 2012 (3),Empoli (23),0-2,0-0,Pescara (23)
+?,(Sat) 21 Jan 2012 (3),Grosseto (23),1-0,0-0,Albinoleffe (23)
+?,(Sat) 21 Jan 2012 (3),Sassuolo (23),4-2,1-0,Vicenza (23)
+?,(Sat) 21 Jan 2012 (3),Verona (23),2-0,1-0,Juve Stabia (23)
+?,(Sun) 22 Jan 2012 (3),Brescia (23),2-0,1-0,Nocerina (23)
+?,(Mon) 23 Jan 2012 (4),Reggina (23),1-4,1-2,Padova (23)
+?,(Fri) 27 Jan 2012 (4),Juve Stabia (24),2-2,0-1,Crotone (24)
+?,(Fri) 27 Jan 2012 (4),Pescara (24),3-1,2-1,Modena (24)
+?,(Sat) 28 Jan 2012 (4),Albinoleffe (24),0-2,0-0,Bari (24)
+?,(Sat) 28 Jan 2012 (4),Empoli (24),0-2,0-0,Brescia (24)
+?,(Sat) 28 Jan 2012 (4),Grosseto (24),0-0,0-0,Reggina (24)
+?,(Sat) 28 Jan 2012 (4),Gubbio (24),0-0,0-0,Sampdoria (24)
+?,(Sat) 28 Jan 2012 (4),Nocerina (24),2-2,2-1,Livorno (24)
+?,(Sat) 28 Jan 2012 (4),Padova (24),1-0,0-0,Cittadella (24)
+?,(Sat) 28 Jan 2012 (4),Sassuolo (24),2-0,2-0,Verona (24)
+?,(Sat) 28 Jan 2012 (4),Varese (24),0-0,0-0,Torino (24)
+?,(Sat) 28 Jan 2012 (4),Vicenza (24),1-1,1-1,Ascoli (24)
+?,(Tue) 31 Jan 2012 (5),Ascoli (25),1-0,0-0,Nocerina (25)
+?,(Tue) 31 Jan 2012 (5),Bari (25),3-1,1-1,Padova (25)
+?,(Tue) 31 Jan 2012 (5),Brescia (25),0-0,0-0,Juve Stabia (25)
+?,(Tue) 31 Jan 2012 (5),Cittadella (25),0-0,0-0,Sassuolo (25)
+?,(Tue) 31 Jan 2012 (5),Crotone (25),1-2,1-1,Pescara (25)
+?,(Tue) 31 Jan 2012 (5),Livorno (25),1-3,1-2,Varese (25)
+?,(Tue) 31 Jan 2012 (5),Reggina (25),3-1,2-0,Gubbio (25)
+?,(Tue) 31 Jan 2012 (5),Torino (25),1-0,0-0,Vicenza (25)
+?,(Tue) 31 Jan 2012 (5),Verona (25),2-0,2-0,Grosseto (25)
+?,(Sat) 4 Feb 2012 (5),Albinoleffe (25),1-2,1-1,Varese (26)
+?,(Sat) 4 Feb 2012 (5),Empoli (25),1-1,0-1,Crotone (26)
+?,(Sat) 4 Feb 2012 (5),Grosseto (26),0-1,0-0,Sampdoria (25)
+?,(Sat) 4 Feb 2012 (5),Juve Stabia (26),1-2,1-2,Livorno (26)
+?,(Sat) 4 Feb 2012 (5),Nocerina (26),1-1,0-1,Bari (26)
+?,(Sat) 4 Feb 2012 (5),Padova (26),0-0,0-0,Verona (26)
+?,(Sun) 5 Feb 2012 (5),Vicenza (26),1-4,0-1,Cittadella (26)
+?,(Sat) 11 Feb 2012 (6),Cittadella (27),0-2,0-1,Brescia (26)
+?,(Sat) 11 Feb 2012 (6),Crotone (27),2-2,0-1,Grosseto (27)
+?,(Sat) 11 Feb 2012 (6),Reggina (26),3-2,1-0,Empoli (26)
+?,(Sat) 11 Feb 2012 (6),Sampdoria (26),1-0,1-0,Albinoleffe (26)
+?,(Sat) 11 Feb 2012 (6),Torino (26),3-1,2-0,Nocerina (27)
+?,(Sat) 11 Feb 2012 (6),Varese (27),1-0,1-0,Gubbio (26)
+?,(Sat) 11 Feb 2012 (6),Verona (27),2-0,0-0,Ascoli (26)
+?,(Sun) 12 Feb 2012 (6),Bari (27),1-2,0-1,Sassuolo (26)
+?,(Sun) 12 Feb 2012 (6),Livorno (27),1-1,0-0,Vicenza (27)
+?,(Sat) 18 Feb 2012 (7),Albinoleffe (27),1-1,0-1,Pescara (26)
+?,(Sat) 18 Feb 2012 (7),Ascoli (27),0-2,0-0,Grosseto (28)
+?,(Sat) 18 Feb 2012 (7),Brescia (27),0-0,0-0,Modena (25)
+?,(Sat) 18 Feb 2012 (7),Juve Stabia (27),2-1,1-0,Reggina (27)
+?,(Sat) 18 Feb 2012 (7),Livorno (28),1-2,1-2,Bari (28)
+?,(Sat) 18 Feb 2012 (7),Nocerina (28),0-1,0-1,Cittadella (28)
+?,(Sat) 18 Feb 2012 (7),Padova (27),1-1,1-1,Empoli (27)
+?,(Sat) 18 Feb 2012 (7),Sassuolo (27),0-0,0-0,Varese (28)
+?,(Sat) 18 Feb 2012 (7),Verona (28),1-0,1-0,Gubbio (27)
+?,(Sat) 18 Feb 2012 (7),Vicenza (28),1-1,0-0,Crotone (28)
+?,(Mon) 20 Feb 2012 (8),Torino (27),2-1,1-0,Sampdoria (27)
+?,(Tue) 21 Feb 2012 (8),Modena (26),0-0,0-0,Albinoleffe (28)
+?,(Fri) 24 Feb 2012 (8),Pescara (27),0-2,0-1,Reggina (28)
+?,(Sat) 25 Feb 2012 (8),Gubbio (28),2-0,1-0,Modena (27)
+?,(Sat) 25 Feb 2012 (8),Sassuolo (28),0-0,0-0,Ascoli (28)
+?,(Sun) 26 Feb 2012 (8),Brescia (28),1-0,0-0,Torino (28)
+?,(Fri) 2 Mar 2012 (9),Varese (29),3-0,2-0,Vicenza (29)
+?,(Sat) 3 Mar 2012 (9),Bari (29),1-1,1-0,Crotone (29)
+?,(Sat) 3 Mar 2012 (9),Empoli (28),1-1,0-1,Livorno (29)
+?,(Sat) 3 Mar 2012 (9),Grosseto (29),0-3,0-1,Torino (29)
+?,(Sat) 3 Mar 2012 (9),Juve Stabia (28),2-2,0-2,Nocerina (29)
+?,(Sat) 3 Mar 2012 (9),Modena (28),3-0,2-0,Cittadella (29)
+?,(Sat) 3 Mar 2012 (9),Padova (28),3-2,2-1,Albinoleffe (29)
+?,(Sat) 3 Mar 2012 (9),Pescara (28),3-2,0-1,Sassuolo (29)
+?,(Sat) 3 Mar 2012 (9),Reggina (29),1-1,0-0,Ascoli (29)
+?,(Sat) 3 Mar 2012 (9),Sampdoria (28),2-0,1-0,Verona (29)
+?,(Mon) 5 Mar 2012 (10),Gubbio (29),0-2,0-1,Brescia (29)
+?,(Tue) 6 Mar 2012 (10),Modena (29),2-1,0-1,Padova (29)
+?,(Tue) 6 Mar 2012 (10),Pescara (29),2-0,1-0,Juve Stabia (29)
+?,(Tue) 6 Mar 2012 (10),Sampdoria (29),1-0,0-0,Empoli (29)
+?,(Sat) 10 Mar 2012 (10),Ascoli (30),0-0,0-0,Juve Stabia (30)
+?,(Sat) 10 Mar 2012 (10),Brescia (30),1-2,1-2,Padova (30)
+?,(Sat) 10 Mar 2012 (10),Cittadella (30),1-2,1-1,Pescara (30)
+?,(Sat) 10 Mar 2012 (10),Crotone (30),2-2,2-1,Modena (30)
+?,(Sat) 10 Mar 2012 (10),Livorno (30),4-1,3-0,Albinoleffe (30)
+?,(Sat) 10 Mar 2012 (10),Nocerina (30),2-1,1-0,Gubbio (30)
+?,(Sat) 10 Mar 2012 (10),Sassuolo (30),0-0,0-0,Sampdoria (30)
+?,(Sat) 10 Mar 2012 (10),Varese (30),0-1,0-1,Empoli (30)
+?,(Sat) 10 Mar 2012 (10),Vicenza (30),0-1,0-0,Grosseto (30)
+?,(Sun) 11 Mar 2012 (10),Bari (30),2-1,1-0,Reggina (30)
+?,(Mon) 12 Mar 2012 (11),Torino (30),1-4,0-2,Verona (30)
+?,(Fri) 16 Mar 2012 (11),Padova (31),1-1,1-0,Varese (31)
+?,(Sat) 17 Mar 2012 (11),Albinoleffe (31),2-3,2-0,Sassuolo (31)
+?,(Sat) 17 Mar 2012 (11),Empoli (31),1-0,1-0,Bari (31)
+?,(Sat) 17 Mar 2012 (11),Grosseto (31),2-2,2-0,Cittadella (31)
+?,(Sat) 17 Mar 2012 (11),Gubbio (31),3-3,1-0,Crotone (31)
+?,(Sat) 17 Mar 2012 (11),Juve Stabia (31),1-1,1-1,Torino (31)
+?,(Sat) 17 Mar 2012 (11),Modena (31),2-0,0-0,Nocerina (31)
+?,(Sat) 17 Mar 2012 (11),Reggina (31),2-1,1-1,Livorno (31)
+?,(Sat) 17 Mar 2012 (11),Sampdoria (31),0-0,0-0,Ascoli (31)
+?,(Sat) 17 Mar 2012 (11),Verona (31),2-0,2-0,Vicenza (31)
+?,(Mon) 19 Mar 2012 (12),Pescara (31),1-1,1-1,Brescia (31)
+?,(Fri) 23 Mar 2012 (12),Sassuolo (32),1-0,0-0,Empoli (32)
+?,(Sat) 24 Mar 2012 (12),Ascoli (32),3-0,2-0,Pescara (32)
+?,(Sat) 24 Mar 2012 (12),Bari (32),0-0,0-0,Juve Stabia (32)
+?,(Sat) 24 Mar 2012 (12),Brescia (32),2-1,1-1,Grosseto (32)
+?,(Sat) 24 Mar 2012 (12),Cittadella (32),1-2,1-2,Sampdoria (32)
+?,(Sat) 24 Mar 2012 (12),Crotone (32),5-2,3-1,Albinoleffe (32)
+?,(Sat) 24 Mar 2012 (12),Livorno (32),2-2,1-1,Modena (32)
+?,(Sat) 24 Mar 2012 (12),Nocerina (32),3-1,2-1,Verona (32)
+?,(Sat) 24 Mar 2012 (12),Torino (32),6-0,1-0,Gubbio (32)
+?,(Sat) 24 Mar 2012 (12),Varese (32),2-0,2-0,Reggina (32)
+?,(Mon) 26 Mar 2012 (13),Vicenza (32),0-1,0-1,Padova (32)
+?,(Fri) 30 Mar 2012 (13),Verona (33),3-2,2-0,Cittadella (33)
+?,(Sat) 31 Mar 2012 (13),Albinoleffe (33),0-1,0-0,Vicenza (33)
+?,(Sat) 31 Mar 2012 (13),Empoli (33),1-0,1-0,Torino (33)
+?,(Sat) 31 Mar 2012 (13),Grosseto (33),2-2,0-1,Sassuolo (33)
+?,(Sat) 31 Mar 2012 (13),Gubbio (33),1-2,0-1,Livorno (33)
+?,(Sat) 31 Mar 2012 (13),Juve Stabia (33),2-0,1-0,Varese (33)
+?,(Sat) 31 Mar 2012 (13),Modena (33),2-0,1-0,Ascoli (33)
+?,(Sat) 31 Mar 2012 (13),Padova (33),1-2,0-2,Crotone (33)
+?,(Sat) 31 Mar 2012 (13),Pescara (33),1-2,1-1,Bari (33)
+?,(Sat) 31 Mar 2012 (13),Sampdoria (33),2-0,2-0,Nocerina (33)
+?,(Mon) 2 Apr 2012 (14),Reggina (33),1-1,0-1,Brescia (33)
+?,(Thu) 5 Apr 2012 (14),Varese (34),2-1,1-1,Pescara (34)
+?,(Fri) 6 Apr 2012 (14),Ascoli (34),1-0,0-0,Albinoleffe (34)
+?,(Fri) 6 Apr 2012 (14),Bari (34),1-1,0-1,Grosseto (34)
+?,(Fri) 6 Apr 2012 (14),Brescia (34),2-1,1-1,Verona (34)
+?,(Fri) 6 Apr 2012 (14),Cittadella (34),2-1,2-0,Gubbio (34)
+?,(Fri) 6 Apr 2012 (14),Crotone (34),1-0,0-0,Sampdoria (34)
+?,(Fri) 6 Apr 2012 (14),Livorno (34),1-2,1-1,Padova (34)
+?,(Fri) 6 Apr 2012 (14),Nocerina (34),2-1,0-1,Empoli (34)
+?,(Fri) 6 Apr 2012 (14),Sassuolo (34),0-0,0-0,Modena (34)
+?,(Fri) 6 Apr 2012 (14),Vicenza (34),0-3,0-2,Juve Stabia (34)
+?,(Fri) 13 Apr 2012 (15),Juve Stabia (35),2-0,0-0,Padova (35)
+?,(Sat) 14 Apr 2012 (15),Cittadella (35),1-3,0-1,Ascoli (35)
+?,(Sat) 14 Apr 2012 (15),Grosseto (35),1-2,1-1,Nocerina (35)
+?,(Sat) 14 Apr 2012 (15),Gubbio (35),1-1,1-1,Vicenza (35)
+?,(Sat) 14 Apr 2012 (15),Modena (35),2-2,1-1,Varese (35)
+?,(Sat) 14 Apr 2012 (15),Reggina (34),1-1,1-0,Crotone (35)
+?,(Sat) 14 Apr 2012 (15),Sampdoria (35),2-0,1-0,Brescia (35)
+?,(Sat) 14 Apr 2012 (15),Verona (35),4-1,1-1,Bari (35)
+?,(Fri) 20 Apr 2012 (16),Padova (36),0-6,0-1,Pescara (35)
+?,(Sat) 21 Apr 2012 (16),Albinoleffe (35),1-2,1-1,Juve Stabia (36)
+?,(Sat) 21 Apr 2012 (16),Ascoli (36),3-1,1-1,Brescia (36)
+?,(Sat) 21 Apr 2012 (16),Bari (36),0-0,0-0,Torino (34)
+?,(Sat) 21 Apr 2012 (16),Crotone (36),3-1,3-0,Verona (36)
+?,(Sat) 21 Apr 2012 (16),Empoli (35),1-3,1-1,Modena (36)
+?,(Sat) 21 Apr 2012 (16),Nocerina (36),0-4,0-1,Reggina (35)
+?,(Sat) 21 Apr 2012 (16),Sassuolo (35),0-2,0-1,Gubbio (36)
+?,(Sat) 21 Apr 2012 (16),Vicenza (36),1-1,0-1,Sampdoria (36)
+?,(Mon) 23 Apr 2012 (17),Varese (36),1-3,1-0,Grosseto (36)
+?,(Wed) 25 Apr 2012 (17),Torino (35),1-0,1-0,Reggina (36)
+?,(Tue) 24 Apr 2012 (17),Livorno (35),1-2,0-1,Cittadella (36)
+?,(Fri) 27 Apr 2012 (17),Brescia (37),1-2,0-0,Sassuolo (36)
+?,(Fri) 27 Apr 2012 (17),Verona (37),0-0,0-0,Empoli (36)
+?,(Sat) 28 Apr 2012 (17),Ascoli (37),2-0,1-0,Livorno (36)
+?,(Sat) 28 Apr 2012 (17),Cittadella (37),0-1,0-1,Varese (37)
+?,(Sat) 28 Apr 2012 (17),Grosseto (37),2-2,0-2,Padova (37)
+?,(Sat) 28 Apr 2012 (17),Gubbio (37),0-2,0-0,Pescara (36)
+?,(Sat) 28 Apr 2012 (17),Modena (37),3-0,1-0,Juve Stabia (37)
+?,(Sat) 28 Apr 2012 (17),Reggina (37),1-0,0-0,Albinoleffe (36)
+?,(Sat) 28 Apr 2012 (17),Sampdoria (37),2-0,0-0,Bari (37)
+?,(Sat) 28 Apr 2012 (17),Torino (36),2-1,2-0,Crotone (37)
+?,(Sat) 28 Apr 2012 (17),Vicenza (37),0-1,0-1,Nocerina (37)
+?,(Tue) 1 May 2012 (18),Albinoleffe (37),0-2,0-1,Brescia (38)
+?,(Tue) 1 May 2012 (18),Bari (38),0-0,0-0,Ascoli (38)
+?,(Tue) 1 May 2012 (18),Crotone (38),3-1,0-1,Cittadella (38)
+?,(Tue) 1 May 2012 (18),Empoli (37),2-1,0-1,Gubbio (38)
+?,(Tue) 1 May 2012 (18),Juve Stabia (38),0-0,0-0,Grosseto (38)
+?,(Tue) 1 May 2012 (18),Livorno (37),0-1,0-1,Torino (37)
+?,(Tue) 1 May 2012 (18),Modena (38),0-2,0-0,Sampdoria (38)
+?,(Tue) 1 May 2012 (18),Padova (38),0-2,0-0,Sassuolo (37)
+?,(Tue) 1 May 2012 (18),Pescara (37),6-0,2-0,Vicenza (38)
+?,(Tue) 1 May 2012 (18),Reggina (38),0-1,0-0,Verona (38)
+?,(Tue) 1 May 2012 (18),Varese (38),2-1,1-0,Nocerina (38)
+?,(Sat) 5 May 2012 (18),Ascoli (39),1-1,1-1,Empoli (38)
+?,(Sat) 5 May 2012 (18),Brescia (39),1-2,1-1,Varese (39)
+?,(Sat) 5 May 2012 (18),Cittadella (39),1-0,1-0,Bari (39)
+?,(Sat) 5 May 2012 (18),Grosseto (39),2-4,0-2,Pescara (38)
+?,(Sat) 5 May 2012 (18),Nocerina (39),1-0,1-0,Albinoleffe (38)
+?,(Sat) 5 May 2012 (18),Sassuolo (38),2-0,0-0,Crotone (39)
+?,(Sat) 5 May 2012 (18),Verona (39),1-0,0-0,Livorno (38)
+?,(Sat) 5 May 2012 (18),Vicenza (39),2-1,1-0,Modena (39)
+?,(Sun) 6 May 2012 (18),Sampdoria (39),3-1,2-0,Reggina (39)
+?,(Mon) 7 May 2012 (19),Gubbio (39),0-0,0-0,Juve Stabia (39)
+?,(Mon) 7 May 2012 (19),Torino (38),3-1,1-0,Padova (39)
+?,(Tue) 8 May 2012 (19),Albinoleffe (39),0-2,0-1,Empoli (39)
+?,(Fri) 11 May 2012 (19),Bari (40),2-2,1-2,Brescia (40)
+?,(Sat) 12 May 2012 (19),Crotone (40),3-1,0-0,Nocerina (40)
+?,(Sat) 12 May 2012 (19),Empoli (40),1-1,0-1,Vicenza (40)
+?,(Sat) 12 May 2012 (19),Juve Stabia (40),1-2,1-0,Sampdoria (40)
+?,(Sat) 12 May 2012 (19),Livorno (39),0-0,0-0,Sassuolo (39)
+?,(Sat) 12 May 2012 (19),Modena (40),2-1,0-1,Grosseto (40)
+?,(Sat) 12 May 2012 (19),Padova (40),3-0,1-0,Gubbio (40)
+?,(Sat) 12 May 2012 (19),Pescara (39),2-0,2-0,Torino (39)
+?,(Sat) 12 May 2012 (19),Reggina (40),3-3,1-1,Cittadella (40)
+?,(Sat) 12 May 2012 (19),Varese (40),4-0,2-0,Ascoli (40)
+?,(Mon) 14 May 2012 (20),Albinoleffe (40),1-1,1-1,Verona (40)
+?,(Tue) 15 May 2012 (20),Pescara (40),0-2,0-2,Livorno (40)
+?,(Tue) 15 May 2012 (20),Torino (40),3-0,1-0,Sassuolo (40)
+?,(Sat) 19 May 2012 (20),Verona (41),3-0,1-0,Varese (41)
+?,(Sun) 20 May 2012 (20),Ascoli (41),3-2,2-1,Crotone (41)
+?,(Sun) 20 May 2012 (20),Brescia (41),1-3,1-1,Livorno (41)
+?,(Sun) 20 May 2012 (20),Cittadella (41),0-1,0-0,Juve Stabia (41)
+?,(Sun) 20 May 2012 (20),Grosseto (41),1-1,1-1,Empoli (41)
+?,(Sun) 20 May 2012 (20),Gubbio (41),1-2,1-1,Albinoleffe (41)
+?,(Sun) 20 May 2012 (20),Nocerina (41),3-0,3-0,Padova (41)
+?,(Sun) 20 May 2012 (20),Sampdoria (41),1-3,0-2,Pescara (41)
+?,(Sun) 20 May 2012 (20),Sassuolo (41),4-1,1-1,Reggina (41)
+?,(Sun) 20 May 2012 (20),Torino (41),2-0,1-0,Modena (41)
+?,(Sun) 20 May 2012 (20),Vicenza (41),3-1,2-1,Bari (41)
+?,(Sat) 26 May 2012 (21),Albinoleffe (42),0-0,0-0,Torino (42)
+?,(Sat) 26 May 2012 (21),Bari (42),3-0,2-0,Gubbio (42)
+?,(Sat) 26 May 2012 (21),Crotone (42),4-1,0-0,Brescia (42)
+?,(Sat) 26 May 2012 (21),Empoli (42),3-2,1-1,Cittadella (42)
+?,(Sat) 26 May 2012 (21),Juve Stabia (42),1-3,0-0,Sassuolo (42)
+?,(Sat) 26 May 2012 (21),Livorno (42),2-0,2-0,Grosseto (42)
+?,(Sat) 26 May 2012 (21),Modena (42),1-1,0-1,Verona (42)
+?,(Sat) 26 May 2012 (21),Padova (42),0-2,0-2,Ascoli (42)
+?,(Sat) 26 May 2012 (21),Pescara (42),1-0,0-0,Nocerina (42)
+?,(Sat) 26 May 2012 (21),Reggina (42),0-3,0-2,Vicenza (42)
+?,(Sat) 26 May 2012 (21),Varese (42),3-1,2-1,Sampdoria (42)

@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2013-08-23,Reggina,Bari,0-0,0-0
-2013-08-24,Avellino,Novara,2-1,1-0
-2013-08-24,Brescia,Virtus Lanciano,2-2,1-1
-2013-08-24,Empoli,Latina,3-1,3-0
-2013-08-24,Modena,Palermo,1-1,0-1
-2013-08-24,Padova,Trapani,0-2,0-0
-2013-08-24,Pescara,Juve Stabia,3-0,2-0
-2013-08-24,Siena,Crotone,5-2,3-0
-2013-08-24,Spezia,Cittadella,0-0,0-0
-2013-08-24,Ternana,Carpi,1-0,1-0
-2013-08-26,Cesena,Varese,1-0,0-0
-2013-08-31,Bari,Brescia,0-0,0-0
-2013-08-31,Cittadella,Ternana,2-2,0-0
-2013-08-31,Crotone,Cesena,1-2,1-0
-2013-08-31,Juve Stabia,Spezia,1-2,1-1
-2013-08-31,Latina,Avellino,1-1,0-1
-2013-08-31,Novara,Siena,2-1,0-0
-2013-08-31,Palermo,Empoli,1-2,1-1
-2013-08-31,Varese,Modena,1-1,0-0
-2013-08-31,Virtus Lanciano,Reggina,1-1,1-0
-2013-09-02,Trapani,Pescara,2-2,1-1
-2013-09-07,Brescia,Novara,1-1,1-0
-2013-09-07,Spezia,Carpi,0-2,0-1
-2013-09-08,Avellino,Ternana,1-0,0-0
-2013-09-08,Cesena,Virtus Lanciano,0-1,0-0
-2013-09-08,Empoli,Trapani,1-1,1-0
-2013-09-08,Latina,Varese,0-3,0-1
-2013-09-08,Modena,Cittadella,2-0,1-0
-2013-09-08,Padova,Palermo,0-3,0-2
-2013-09-08,Pescara,Crotone,2-2,1-1
-2013-09-08,Reggina,Juve Stabia,3-1,0-0
-2013-09-08,Siena,Bari,3-2,3-1
-2013-09-13,Palermo,Cesena,2-1,0-0
-2013-09-14,Bari,Modena,1-0,0-0
-2013-09-14,Carpi,Empoli,0-2,0-1
-2013-09-14,Cittadella,Latina,0-0,0-0
-2013-09-14,Crotone,Spezia,1-0,1-0
-2013-09-14,Juve Stabia,Siena,2-2,2-1
-2013-09-14,Novara,Padova,1-0,0-0
-2013-09-14,Trapani,Reggina,4-0,2-0
-2013-09-14,Varese,Pescara,3-2,1-1
-2013-09-14,Virtus Lanciano,Avellino,1-0,1-0
-2013-09-16,Ternana,Brescia,1-2,1-1
-2013-09-20,Latina,Virtus Lanciano,0-0,0-0
-2013-09-20,Spezia,Palermo,1-0,0-0
-2013-09-21,Avellino,Varese,1-1,0-1
-2013-09-21,Brescia,Crotone,1-2,0-2
-2013-09-21,Cesena,Carpi,4-1,1-0
-2013-09-21,Cittadella,Juve Stabia,0-2,0-1
-2013-09-21,Empoli,Padova,3-1,0-1
-2013-09-21,Modena,Trapani,3-1,2-0
-2013-09-21,Pescara,Bari,0-1,0-1
-2013-09-21,Reggina,Novara,1-1,0-1
-2013-09-21,Siena,Ternana,1-1,0-1
-2013-09-24,Bari,Palermo,2-1,1-0
-2013-09-24,Carpi,Brescia,0-0,0-0
-2013-09-24,Crotone,Modena,3-1,2-0
-2013-09-24,Empoli,Siena,0-0,0-0
-2013-09-24,Juve Stabia,Virtus Lanciano,0-1,0-1
-2013-09-24,Novara,Cittadella,2-2,2-1
-2013-09-24,Padova,Latina,0-0,0-0
-2013-09-24,Pescara,Avellino,1-1,1-0
-2013-09-24,Ternana,Spezia,1-2,0-1
-2013-09-24,Trapani,Cesena,0-1,0-1
-2013-09-24,Varese,Reggina,1-0,0-0
-2013-09-28,Cittadella,Crotone,1-0,0-0
-2013-09-28,Latina,Brescia,2-0,1-0
-2013-09-28,Modena,Padova,3-1,2-0
-2013-09-28,Palermo,Juve Stabia,3-0,1-0
-2013-09-28,Reggina,Carpi,0-1,0-0
-2013-09-28,Siena,Trapani,2-1,1-1
-2013-09-28,Spezia,Novara,0-0,0-0
-2013-09-28,Varese,Ternana,2-1,0-1
-2013-09-28,Virtus Lanciano,Bari,1-0,0-0
-2013-09-30,Avellino,Empoli,1-0,1-0
-2013-09-30,Cesena,Pescara,1-1,0-0
-2013-10-04,Padova,Varese,3-2,1-2
-2013-10-05,Avellino,Bari,1-0,0-0
-2013-10-05,Brescia,Palermo,1-1,1-0
-2013-10-05,Carpi,Cittadella,0-1,0-0
-2013-10-05,Cesena,Siena,1-1,0-0
-2013-10-05,Empoli,Modena,2-1,1-0
-2013-10-05,Novara,Virtus Lanciano,0-3,0-2
-2013-10-05,Pescara,Spezia,1-1,1-0
-2013-10-05,Ternana,Juve Stabia,1-1,0-0
-2013-10-05,Trapani,Latina,1-1,1-1
-2013-10-07,Crotone,Reggina,2-0,1-0
-2013-10-12,Reggina,Empoli,2-1,0-0
-2013-10-12,Spezia,Brescia,2-2,0-0
-2013-10-13,Bari,Crotone,1-2,0-1
-2013-10-13,Cittadella,Padova,1-0,1-0
-2013-10-13,Juve Stabia,Cesena,0-2,0-1
-2013-10-13,Latina,Modena,0-0,0-0
-2013-10-13,Palermo,Pescara,1-0,1-0
-2013-10-13,Siena,Avellino,3-0,1-0
-2013-10-13,Varese,Trapani,0-0,0-0
-2013-10-13,Virtus Lanciano,Ternana,1-1,0-1
-2013-10-14,Carpi,Novara,1-0,1-0
-2013-10-18,Cesena,Bari,2-1,2-0
-2013-10-19,Avellino,Carpi,4-1,3-0
-2013-10-19,Brescia,Cittadella,4-1,2-0
-2013-10-19,Crotone,Virtus Lanciano,1-2,0-0
-2013-10-19,Empoli,Varese,2-0,1-0
-2013-10-19,Modena,Reggina,3-0,1-0
-2013-10-19,Padova,Juve Stabia,2-1,1-0
-2013-10-19,Pescara,Latina,0-1,0-0
-2013-10-19,Ternana,Novara,5-0,2-0
-2013-10-19,Trapani,Spezia,1-1,1-0
-2013-10-21,Siena,Palermo,2-3,1-2
-2013-10-25,Reggina,Pescara,2-3,1-0
-2013-10-26,Bari,Trapani,1-1,0-0
-2013-10-26,Brescia,Siena,2-2,2-0
-2013-10-26,Carpi,Latina,1-1,0-1
-2013-10-26,Juve Stabia,Empoli,0-2,0-0
-2013-10-26,Palermo,Varese,0-0,0-0
-2013-10-26,Spezia,Modena,2-1,1-0
-2013-10-26,Ternana,Crotone,2-3,1-2
-2013-10-26,Virtus Lanciano,Padova,1-0,0-0
-2013-10-28,Novara,Cesena,1-1,0-1
-2013-10-29,Cittadella,Avellino,1-2,0-1
-2013-11-01,Cesena,Ternana,1-1,0-0
-2013-11-01,Crotone,Novara,2-2,1-1
-2013-11-01,Empoli,Bari,1-1,1-0
-2013-11-01,Latina,Reggina,1-0,0-0
-2013-11-01,Modena,Virtus Lanciano,1-0,1-0
-2013-11-01,Padova,Spezia,1-0,1-0
-2013-11-01,Pescara,Brescia,3-3,2-1
-2013-11-01,Trapani,Carpi,0-1,0-0
-2013-11-01,Varese,Juve Stabia,2-2,1-0
-2013-11-02,Siena,Cittadella,1-1,0-0
-2013-11-03,Avellino,Palermo,0-2,0-1
-2013-11-08,Spezia,Cesena,2-1,1-1
-2013-11-09,Bari,Varese,2-1,1-0
-2013-11-09,Brescia,Avellino,0-2,0-1
-2013-11-09,Carpi,Crotone,1-2,1-2
-2013-11-09,Cittadella,Pescara,0-1,0-1
-2013-11-09,Juve Stabia,Modena,1-1,1-0
-2013-11-09,Novara,Latina,2-2,0-2
-2013-11-09,Palermo,Trapani,3-0,0-0
-2013-11-09,Reggina,Padova,2-1,0-0
-2013-11-09,Virtus Lanciano,Siena,1-1,1-0
-2013-11-11,Ternana,Empoli,1-0,0-0
-2013-11-16,Padova,Brescia,0-0,0-0
-2013-11-16,Reggina,Palermo,0-2,0-1
-2013-11-17,Avellino,Juve Stabia,2-1,2-0
-2013-11-17,Cesena,Cittadella,2-2,1-1
-2013-11-17,Empoli,Virtus Lanciano,3-0,1-0
-2013-11-17,Latina,Bari,1-0,1-0
-2013-11-17,Modena,Carpi,2-3,1-2
-2013-11-17,Pescara,Ternana,2-1,1-0
-2013-11-17,Siena,Spezia,2-0,0-0
-2013-11-17,Trapani,Novara,2-1,0-1
-2013-11-17,Varese,Crotone,2-0,1-0
-2013-11-22,Novara,Pescara,0-0,0-0
-2013-11-23,Bari,Padova,2-2,2-1
-2013-11-23,Brescia,Cesena,0-0,0-0
-2013-11-23,Cittadella,Reggina,0-0,0-0
-2013-11-23,Crotone,Avellino,3-2,3-2
-2013-11-23,Juve Stabia,Trapani,2-3,1-3
-2013-11-23,Spezia,Empoli,1-3,1-2
-2013-11-23,Ternana,Modena,1-1,1-1
-2013-11-23,Virtus Lanciano,Varese,2-0,2-0
-2013-11-24,Carpi,Siena,0-1,0-0
-2013-11-24,Palermo,Latina,1-2,1-2
-2013-11-29,Empoli,Brescia,2-2,0-0
-2013-11-30,Avellino,Cesena,0-0,0-0
-2013-11-30,Latina,Juve Stabia,1-0,0-0
-2013-11-30,Modena,Siena,1-1,1-0
-2013-11-30,Padova,Crotone,0-0,0-0
-2013-11-30,Palermo,Novara,2-1,1-0
-2013-11-30,Pescara,Carpi,4-2,1-1
-2013-11-30,Reggina,Spezia,1-2,1-0
-2013-11-30,Trapani,Virtus Lanciano,1-0,0-0
-2013-11-30,Varese,Cittadella,2-1,2-1
-2013-12-02,Bari,Ternana,2-1,2-1
-2013-12-06,Cesena,Padova,0-1,0-0
-2013-12-07,Brescia,Reggina,2-1,1-0
-2013-12-07,Carpi,Varese,1-0,1-0
-2013-12-07,Cittadella,Trapani,2-2,0-1
-2013-12-07,Crotone,Empoli,1-1,1-1
-2013-12-07,Juve Stabia,Bari,1-1,1-0
-2013-12-07,Novara,Modena,1-0,1-0
-2013-12-07,Siena,Pescara,1-3,1-2
-2013-12-07,Ternana,Latina,1-0,0-0
-2013-12-07,Virtus Lanciano,Palermo,1-1,0-0
-2013-12-09,Spezia,Avellino,0-0,0-0
-2013-12-13,Reggina,Siena,0-2,0-1
-2013-12-14,Bari,Carpi,2-2,1-1
-2013-12-14,Empoli,Cesena,0-0,0-0
-2013-12-14,Juve Stabia,Novara,1-2,0-1
-2013-12-14,Latina,Crotone,2-3,0-1
-2013-12-14,Modena,Brescia,0-1,0-0
-2013-12-14,Padova,Ternana,1-1,0-0
-2013-12-14,Palermo,Cittadella,3-1,2-1
-2013-12-14,Trapani,Avellino,1-1,0-0
-2013-12-14,Varese,Spezia,4-0,1-0
-2013-12-15,Virtus Lanciano,Pescara,0-1,0-1
-2013-12-20,Pescara,Padova,1-0,0-0
-2013-12-20,Ternana,Trapani,0-2,0-0
-2013-12-21,Brescia,Varese,4-2,2-1
-2013-12-21,Carpi,Palermo,1-0,0-0
-2013-12-21,Cesena,Reggina,3-1,1-0
-2013-12-21,Cittadella,Bari,1-1,0-0
-2013-12-21,Crotone,Juve Stabia,1-1,0-1
-2013-12-21,Novara,Empoli,0-1,0-1
-2013-12-21,Siena,Latina,1-0,1-0
-2013-12-21,Spezia,Virtus Lanciano,2-0,0-0
-2013-12-22,Avellino,Modena,2-1,1-0
-2013-12-26,Bari,Spezia,1-2,0-0
-2013-12-26,Empoli,Cittadella,0-1,0-1
-2013-12-26,Juve Stabia,Brescia,1-2,1-1
-2013-12-26,Latina,Cesena,0-0,0-0
-2013-12-26,Modena,Pescara,0-1,0-1
-2013-12-26,Padova,Siena,2-2,1-1
-2013-12-26,Palermo,Ternana,1-0,0-0
-2013-12-26,Reggina,Avellino,1-1,1-0
-2013-12-26,Trapani,Crotone,1-0,1-0
-2013-12-26,Virtus Lanciano,Carpi,1-3,1-2
-2013-12-29,Avellino,Padova,2-1,1-1
-2013-12-29,Brescia,Trapani,3-3,1-1
-2013-12-29,Carpi,Juve Stabia,1-0,0-0
-2013-12-29,Cesena,Modena,1-1,1-1
-2013-12-29,Cittadella,Virtus Lanciano,1-2,0-1
-2013-12-29,Crotone,Palermo,1-2,0-1
-2013-12-29,Novara,Bari,0-1,0-0
-2013-12-29,Pescara,Empoli,1-2,0-1
-2013-12-29,Siena,Varese,1-1,0-0
-2013-12-29,Spezia,Latina,1-4,0-0
-2013-12-29,Ternana,Reggina,2-1,0-0
-2014-01-19,Varese,Novara,1-1,0-0
-2014-01-24,Trapani,Padova,2-1,2-0
-2014-01-25,Bari,Reggina,0-1,0-1
-2014-01-25,Carpi,Ternana,1-2,1-1
-2014-01-25,Cittadella,Spezia,1-2,1-0
-2014-01-25,Juve Stabia,Pescara,2-1,0-0
-2014-01-25,Latina,Empoli,2-1,0-0
-2014-01-25,Novara,Avellino,2-1,0-1
-2014-01-25,Palermo,Modena,0-0,0-0
-2014-01-25,Varese,Cesena,1-3,1-2
-2014-01-25,Virtus Lanciano,Brescia,1-0,0-0
-2014-01-27,Crotone,Siena,0-0,0-0
-2014-01-31,Avellino,Latina,1-1,0-0
-2014-02-01,Brescia,Bari,2-1,0-1
-2014-02-01,Cesena,Crotone,1-0,0-0
-2014-02-01,Modena,Varese,4-1,1-0
-2014-02-01,Padova,Carpi,1-4,1-1
-2014-02-01,Pescara,Trapani,0-1,0-0
-2014-02-01,Reggina,Virtus Lanciano,1-0,0-0
-2014-02-01,Siena,Novara,1-0,1-0
-2014-02-01,Spezia,Juve Stabia,1-1,0-1
-2014-02-01,Ternana,Cittadella,2-1,2-0
-2014-02-03,Empoli,Palermo,1-1,0-0
-2014-02-07,Virtus Lanciano,Cesena,1-1,0-1
-2014-02-08,Bari,Siena,2-1,2-0
-2014-02-08,Carpi,Spezia,1-1,0-0
-2014-02-08,Cittadella,Modena,0-1,0-0
-2014-02-08,Crotone,Pescara,3-0,1-0
-2014-02-08,Juve Stabia,Reggina,1-1,0-0
-2014-02-08,Palermo,Padova,1-0,0-0
-2014-02-08,Ternana,Avellino,1-1,0-0
-2014-02-08,Trapani,Empoli,0-0,0-0
-2014-02-08,Varese,Latina,0-0,0-0
-2014-02-10,Novara,Brescia,1-2,0-1
-2014-02-15,Avellino,Virtus Lanciano,1-3,0-3
-2014-02-15,Brescia,Ternana,1-1,1-0
-2014-02-15,Cesena,Palermo,0-0,0-0
-2014-02-15,Empoli,Carpi,1-1,0-1
-2014-02-15,Latina,Cittadella,1-0,1-0
-2014-02-15,Padova,Novara,1-0,0-0
-2014-02-15,Pescara,Varese,1-2,0-1
-2014-02-15,Reggina,Trapani,1-1,0-0
-2014-02-15,Siena,Juve Stabia,1-0,0-0
-2014-02-15,Spezia,Crotone,3-1,3-0
-2014-02-16,Modena,Bari,4-0,1-0
-2014-02-21,Crotone,Brescia,1-0,1-0
-2014-02-22,Bari,Pescara,1-0,0-0
-2014-02-22,Carpi,Cesena,1-2,1-1
-2014-02-22,Juve Stabia,Cittadella,1-1,0-0
-2014-02-22,Novara,Reggina,1-0,1-0
-2014-02-22,Padova,Empoli,0-1,0-1
-2014-02-22,Palermo,Spezia,1-1,1-0
-2014-02-22,Ternana,Siena,2-2,0-0
-2014-02-22,Trapani,Modena,2-0,1-0
-2014-02-22,Varese,Avellino,1-1,0-0
-2014-02-22,Virtus Lanciano,Latina,0-0,0-0
-2014-02-28,Latina,Padova,3-0,1-0
-2014-03-01,Avellino,Pescara,1-1,0-0
-2014-03-01,Brescia,Carpi,0-2,0-2
-2014-03-01,Cesena,Trapani,2-2,0-1
-2014-03-01,Cittadella,Novara,2-2,0-0
-2014-03-01,Modena,Crotone,2-0,1-0
-2014-03-01,Palermo,Bari,2-1,0-0
-2014-03-01,Reggina,Varese,3-4,2-0
-2014-03-01,Siena,Empoli,1-1,0-0
-2014-03-01,Spezia,Ternana,2-2,1-0
-2014-03-01,Virtus Lanciano,Juve Stabia,1-0,0-0
-2014-03-07,Empoli,Avellino,0-1,0-0
-2014-03-08,Bari,Virtus Lanciano,1-0,1-0
-2014-03-08,Brescia,Latina,0-2,0-2
-2014-03-08,Carpi,Reggina,0-3,0-0
-2014-03-08,Crotone,Cittadella,2-0,1-0
-2014-03-08,Novara,Spezia,2-0,1-0
-2014-03-08,Padova,Modena,2-2,0-2
-2014-03-08,Pescara,Cesena,2-0,1-0
-2014-03-08,Ternana,Varese,2-0,1-0
-2014-03-08,Trapani,Siena,0-2,0-0
-2014-03-10,Juve Stabia,Palermo,0-3,0-3
-2014-03-11,Carpi,Padova,1-1,1-0
-2014-03-14,Spezia,Pescara,0-1,0-1
-2014-03-15,Bari,Avellino,1-0,0-0
-2014-03-15,Cittadella,Carpi,1-0,0-0
-2014-03-15,Juve Stabia,Ternana,2-3,1-2
-2014-03-15,Latina,Trapani,0-1,0-0
-2014-03-15,Modena,Empoli,0-0,0-0
-2014-03-15,Palermo,Brescia,2-0,1-0
-2014-03-15,Reggina,Crotone,1-4,0-0
-2014-03-15,Siena,Cesena,1-0,1-0
-2014-03-15,Varese,Padova,0-3,0-1
-2014-03-15,Virtus Lanciano,Novara,2-1,1-0
-2014-03-21,Avellino,Siena,0-1,0-0
-2014-03-21,Trapani,Varese,1-1,1-1
-2014-03-22,Brescia,Spezia,0-2,0-1
-2014-03-22,Cesena,Juve Stabia,1-0,0-0
-2014-03-22,Crotone,Bari,0-0,0-0
-2014-03-22,Empoli,Reggina,4-0,4-0
-2014-03-22,Modena,Latina,4-0,0-0
-2014-03-22,Novara,Carpi,1-0,0-0
-2014-03-22,Padova,Cittadella,0-4,0-1
-2014-03-22,Pescara,Palermo,1-2,0-1
-2014-03-22,Ternana,Virtus Lanciano,1-1,1-1
-2014-03-25,Bari,Cesena,0-0,0-0
-2014-03-25,Carpi,Avellino,1-1,1-1
-2014-03-25,Cittadella,Brescia,0-1,0-0
-2014-03-25,Juve Stabia,Padova,1-1,1-0
-2014-03-25,Latina,Pescara,0-2,0-0
-2014-03-25,Novara,Ternana,1-1,1-1
-2014-03-25,Palermo,Siena,1-1,1-1
-2014-03-25,Reggina,Modena,2-2,1-0
-2014-03-25,Spezia,Trapani,0-1,0-1
-2014-03-25,Varese,Empoli,1-0,0-0
-2014-03-25,Virtus Lanciano,Crotone,0-1,0-0
-2014-03-29,Avellino,Cittadella,1-0,0-0
-2014-03-29,Cesena,Novara,2-0,0-0
-2014-03-29,Empoli,Juve Stabia,2-1,1-1
-2014-03-29,Latina,Carpi,1-0,1-0
-2014-03-29,Modena,Spezia,0-0,0-0
-2014-03-29,Padova,Virtus Lanciano,5-1,1-1
-2014-03-29,Pescara,Reggina,2-2,1-1
-2014-03-29,Siena,Brescia,2-1,1-0
-2014-03-29,Trapani,Bari,3-4,2-4
-2014-03-29,Varese,Palermo,1-2,1-1
-2014-03-30,Crotone,Ternana,1-1,0-1
-2014-04-04,Palermo,Avellino,2-0,0-0
-2014-04-05,Brescia,Pescara,3-0,0-0
-2014-04-05,Carpi,Trapani,3-2,1-1
-2014-04-05,Cittadella,Siena,1-0,0-0
-2014-04-05,Juve Stabia,Varese,2-4,1-2
-2014-04-05,Novara,Crotone,1-1,1-0
-2014-04-05,Reggina,Latina,0-1,0-0
-2014-04-05,Spezia,Padova,2-2,0-2
-2014-04-05,Ternana,Cesena,0-2,0-1
-2014-04-05,Virtus Lanciano,Modena,1-3,0-1
-2014-04-06,Bari,Empoli,3-0,1-0
-2014-04-11,Cesena,Spezia,0-2,0-0
-2014-04-12,Avellino,Brescia,0-1,0-0
-2014-04-12,Crotone,Carpi,0-0,0-0
-2014-04-12,Empoli,Ternana,1-0,0-0
-2014-04-12,Latina,Novara,4-1,0-0
-2014-04-12,Modena,Juve Stabia,4-2,2-2
-2014-04-12,Pescara,Cittadella,1-1,1-0
-2014-04-12,Siena,Virtus Lanciano,1-0,1-0
-2014-04-12,Trapani,Palermo,0-1,0-0
-2014-04-12,Varese,Bari,0-1,0-1
-2014-04-13,Padova,Reggina,2-2,1-1
-2014-04-17,Bari,Latina,0-1,0-1
-2014-04-17,Brescia,Padova,1-3,1-2
-2014-04-17,Carpi,Modena,2-2,1-0
-2014-04-17,Cittadella,Cesena,1-0,0-0
-2014-04-17,Crotone,Varese,3-2,1-1
-2014-04-17,Juve Stabia,Avellino,2-2,1-1
-2014-04-17,Novara,Trapani,3-1,2-0
-2014-04-17,Palermo,Reggina,1-0,1-0
-2014-04-17,Spezia,Siena,1-0,0-0
-2014-04-17,Ternana,Pescara,1-0,1-0
-2014-04-17,Virtus Lanciano,Empoli,2-1,0-1
-2014-04-25,Modena,Ternana,3-3,0-0
-2014-04-25,Pescara,Novara,0-0,0-0
-2014-04-26,Avellino,Crotone,2-0,1-0
-2014-04-26,Cesena,Brescia,0-3,0-1
-2014-04-26,Empoli,Spezia,2-0,1-0
-2014-04-26,Latina,Palermo,1-3,0-0
-2014-04-26,Padova,Bari,1-2,0-1
-2014-04-26,Reggina,Cittadella,0-1,0-0
-2014-04-26,Siena,Carpi,0-0,0-0
-2014-04-26,Trapani,Juve Stabia,3-0,1-0
-2014-04-26,Varese,Virtus Lanciano,0-1,0-1
-2014-05-02,Spezia,Reggina,2-1,1-1
-2014-05-03,Brescia,Empoli,1-3,1-1
-2014-05-03,Carpi,Pescara,2-0,1-0
-2014-05-03,Cesena,Avellino,2-0,0-0
-2014-05-03,Cittadella,Varese,5-1,2-0
-2014-05-03,Crotone,Padova,2-1,1-0
-2014-05-03,Juve Stabia,Latina,1-1,1-0
-2014-05-03,Novara,Palermo,0-1,0-1
-2014-05-03,Siena,Modena,1-3,0-1
-2014-05-03,Ternana,Bari,1-3,1-2
-2014-05-03,Virtus Lanciano,Trapani,2-2,0-1
-2014-05-09,Empoli,Crotone,3-1,2-0
-2014-05-09,Padova,Cesena,0-1,0-0
-2014-05-10,Avellino,Spezia,2-0,2-0
-2014-05-10,Bari,Juve Stabia,3-0,1-0
-2014-05-10,Latina,Ternana,2-0,0-0
-2014-05-10,Modena,Novara,3-1,1-1
-2014-05-10,Palermo,Virtus Lanciano,1-1,1-0
-2014-05-10,Pescara,Siena,1-0,0-0
-2014-05-10,Reggina,Brescia,1-1,1-0
-2014-05-10,Trapani,Cittadella,1-2,1-1
-2014-05-10,Varese,Carpi,0-2,0-0
-2014-05-13,Avellino,Trapani,3-3,2-1
-2014-05-13,Brescia,Modena,0-1,0-1
-2014-05-13,Carpi,Bari,1-2,0-1
-2014-05-13,Cesena,Empoli,1-0,0-0
-2014-05-13,Cittadella,Palermo,0-2,0-0
-2014-05-13,Crotone,Latina,0-1,0-1
-2014-05-13,Novara,Juve Stabia,2-0,1-0
-2014-05-13,Pescara,Virtus Lanciano,2-2,1-1
-2014-05-13,Siena,Reggina,2-1,1-0
-2014-05-13,Spezia,Varese,2-1,2-1
-2014-05-13,Ternana,Padova,2-1,1-0
-2014-05-17,Empoli,Novara,3-1,2-1
-2014-05-17,Juve Stabia,Crotone,2-2,1-1
-2014-05-17,Modena,Avellino,1-0,0-0
-2014-05-17,Padova,Pescara,2-1,1-0
-2014-05-17,Palermo,Carpi,1-2,1-1
-2014-05-17,Reggina,Cesena,1-2,1-1
-2014-05-17,Trapani,Ternana,2-1,1-0
-2014-05-17,Varese,Brescia,1-2,1-0
-2014-05-17,Virtus Lanciano,Spezia,2-2,0-0
-2014-05-19,Bari,Cittadella,1-0,0-0
-2014-05-19,Latina,Siena,0-3,0-1
-2014-05-24,Novara,Varese,0-0,0-0
-2014-05-25,Avellino,Reggina,3-0,1-0
-2014-05-25,Brescia,Juve Stabia,4-1,2-0
-2014-05-25,Carpi,Virtus Lanciano,2-2,2-0
-2014-05-25,Cesena,Latina,1-3,0-1
-2014-05-25,Cittadella,Empoli,2-2,2-2
-2014-05-25,Crotone,Trapani,2-1,1-1
-2014-05-25,Pescara,Modena,2-2,1-0
-2014-05-25,Siena,Padova,2-0,1-0
-2014-05-25,Spezia,Bari,2-0,1-0
-2014-05-25,Ternana,Palermo,1-2,1-2
-2014-05-30,Bari,Novara,4-1,0-0
-2014-05-30,Empoli,Pescara,2-0,0-0
-2014-05-30,Juve Stabia,Carpi,0-2,0-2
-2014-05-30,Latina,Spezia,0-0,0-0
-2014-05-30,Modena,Cesena,0-0,0-0
-2014-05-30,Padova,Avellino,2-1,2-1
-2014-05-30,Palermo,Crotone,0-0,0-0
-2014-05-30,Reggina,Ternana,1-2,1-1
-2014-05-30,Trapani,Brescia,0-1,0-0
-2014-05-30,Varese,Siena,2-0,0-0
-2014-05-30,Virtus Lanciano,Cittadella,0-0,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 23 Aug 2013 (33),Reggina (1),0-0,0-0,Bari (1)
+?,(Sat) 24 Aug 2013 (33),Avellino (1),2-1,1-0,Novara (1)
+?,(Sat) 24 Aug 2013 (33),Brescia (1),2-2,1-1,Virtus Lanciano (1)
+?,(Sat) 24 Aug 2013 (33),Empoli (1),3-1,3-0,Latina (1)
+?,(Sat) 24 Aug 2013 (33),Modena (1),1-1,0-1,Palermo (1)
+?,(Sat) 24 Aug 2013 (33),Padova (1),0-2,0-0,Trapani (1)
+?,(Sat) 24 Aug 2013 (33),Pescara (1),3-0,2-0,Juve Stabia (1)
+?,(Sat) 24 Aug 2013 (33),Siena (1),5-2,3-0,Crotone (1)
+?,(Sat) 24 Aug 2013 (33),Spezia (1),0-0,0-0,Cittadella (1)
+?,(Sat) 24 Aug 2013 (33),Ternana (1),1-0,1-0,Carpi (1)
+?,(Mon) 26 Aug 2013 (34),Cesena (1),1-0,0-0,Varese (1)
+?,(Sat) 31 Aug 2013 (34),Bari (2),0-0,0-0,Brescia (2)
+?,(Sat) 31 Aug 2013 (34),Cittadella (2),2-2,0-0,Ternana (2)
+?,(Sat) 31 Aug 2013 (34),Crotone (2),1-2,1-0,Cesena (2)
+?,(Sat) 31 Aug 2013 (34),Juve Stabia (2),1-2,1-1,Spezia (2)
+?,(Sat) 31 Aug 2013 (34),Latina (2),1-1,0-1,Avellino (2)
+?,(Sat) 31 Aug 2013 (34),Novara (2),2-1,0-0,Siena (2)
+?,(Sat) 31 Aug 2013 (34),Palermo (2),1-2,1-1,Empoli (2)
+?,(Sat) 31 Aug 2013 (34),Varese (2),1-1,0-0,Modena (2)
+?,(Sat) 31 Aug 2013 (34),Virtus Lanciano (2),1-1,1-0,Reggina (2)
+?,(Mon) 2 Sep 2013 (35),Trapani (2),2-2,1-1,Pescara (2)
+?,(Sat) 7 Sep 2013 (35),Brescia (3),1-1,1-0,Novara (3)
+?,(Sat) 7 Sep 2013 (35),Spezia (3),0-2,0-1,Carpi (2)
+?,(Sun) 8 Sep 2013 (35),Avellino (3),1-0,0-0,Ternana (3)
+?,(Sun) 8 Sep 2013 (35),Cesena (3),0-1,0-0,Virtus Lanciano (3)
+?,(Sun) 8 Sep 2013 (35),Empoli (3),1-1,1-0,Trapani (3)
+?,(Sun) 8 Sep 2013 (35),Latina (3),0-3,0-1,Varese (3)
+?,(Sun) 8 Sep 2013 (35),Modena (3),2-0,1-0,Cittadella (3)
+?,(Sun) 8 Sep 2013 (35),Padova (2),0-3,0-2,Palermo (3)
+?,(Sun) 8 Sep 2013 (35),Pescara (3),2-2,1-1,Crotone (3)
+?,(Sun) 8 Sep 2013 (35),Reggina (3),3-1,0-0,Juve Stabia (3)
+?,(Sun) 8 Sep 2013 (35),Siena (3),3-2,3-1,Bari (3)
+?,(Fri) 13 Sep 2013 (36),Palermo (4),2-1,0-0,Cesena (4)
+?,(Sat) 14 Sep 2013 (36),Bari (4),1-0,0-0,Modena (4)
+?,(Sat) 14 Sep 2013 (36),Carpi (3),0-2,0-1,Empoli (4)
+?,(Sat) 14 Sep 2013 (36),Cittadella (4),0-0,0-0,Latina (4)
+?,(Sat) 14 Sep 2013 (36),Crotone (4),1-0,1-0,Spezia (4)
+?,(Sat) 14 Sep 2013 (36),Juve Stabia (4),2-2,2-1,Siena (4)
+?,(Sat) 14 Sep 2013 (36),Novara (4),1-0,0-0,Padova (3)
+?,(Sat) 14 Sep 2013 (36),Trapani (4),4-0,2-0,Reggina (4)
+?,(Sat) 14 Sep 2013 (36),Varese (4),3-2,1-1,Pescara (4)
+?,(Sat) 14 Sep 2013 (36),Virtus Lanciano (4),1-0,1-0,Avellino (4)
+?,(Mon) 16 Sep 2013 (37),Ternana (4),1-2,1-1,Brescia (4)
+?,(Fri) 20 Sep 2013 (37),Latina (5),0-0,0-0,Virtus Lanciano (5)
+?,(Fri) 20 Sep 2013 (37),Spezia (5),1-0,0-0,Palermo (5)
+?,(Sat) 21 Sep 2013 (37),Avellino (5),1-1,0-1,Varese (5)
+?,(Sat) 21 Sep 2013 (37),Brescia (5),1-2,0-2,Crotone (5)
+?,(Sat) 21 Sep 2013 (37),Cesena (5),4-1,1-0,Carpi (4)
+?,(Sat) 21 Sep 2013 (37),Cittadella (5),0-2,0-1,Juve Stabia (5)
+?,(Sat) 21 Sep 2013 (37),Empoli (5),3-1,0-1,Padova (4)
+?,(Sat) 21 Sep 2013 (37),Modena (5),3-1,2-0,Trapani (5)
+?,(Sat) 21 Sep 2013 (37),Pescara (5),0-1,0-1,Bari (5)
+?,(Sat) 21 Sep 2013 (37),Reggina (5),1-1,0-1,Novara (5)
+?,(Sat) 21 Sep 2013 (37),Siena (5),1-1,0-1,Ternana (5)
+?,(Tue) 24 Sep 2013 (38),Bari (6),2-1,1-0,Palermo (6)
+?,(Tue) 24 Sep 2013 (38),Carpi (5),0-0,0-0,Brescia (6)
+?,(Tue) 24 Sep 2013 (38),Crotone (6),3-1,2-0,Modena (6)
+?,(Tue) 24 Sep 2013 (38),Empoli (6),0-0,0-0,Siena (6)
+?,(Tue) 24 Sep 2013 (38),Juve Stabia (6),0-1,0-1,Virtus Lanciano (6)
+?,(Tue) 24 Sep 2013 (38),Novara (6),2-2,2-1,Cittadella (6)
+?,(Tue) 24 Sep 2013 (38),Padova (5),0-0,0-0,Latina (6)
+?,(Tue) 24 Sep 2013 (38),Pescara (6),1-1,1-0,Avellino (6)
+?,(Tue) 24 Sep 2013 (38),Ternana (6),1-2,0-1,Spezia (6)
+?,(Tue) 24 Sep 2013 (38),Trapani (6),0-1,0-1,Cesena (6)
+?,(Tue) 24 Sep 2013 (38),Varese (6),1-0,0-0,Reggina (6)
+?,(Sat) 28 Sep 2013 (38),Cittadella (7),1-0,0-0,Crotone (7)
+?,(Sat) 28 Sep 2013 (38),Latina (7),2-0,1-0,Brescia (7)
+?,(Sat) 28 Sep 2013 (38),Modena (7),3-1,2-0,Padova (6)
+?,(Sat) 28 Sep 2013 (38),Palermo (7),3-0,1-0,Juve Stabia (7)
+?,(Sat) 28 Sep 2013 (38),Reggina (7),0-1,0-0,Carpi (6)
+?,(Sat) 28 Sep 2013 (38),Siena (7),2-1,1-1,Trapani (7)
+?,(Sat) 28 Sep 2013 (38),Spezia (7),0-0,0-0,Novara (7)
+?,(Sat) 28 Sep 2013 (38),Varese (7),2-1,0-1,Ternana (7)
+?,(Sat) 28 Sep 2013 (38),Virtus Lanciano (7),1-0,0-0,Bari (7)
+?,(Mon) 30 Sep 2013 (39),Avellino (7),1-0,1-0,Empoli (7)
+?,(Mon) 30 Sep 2013 (39),Cesena (7),1-1,0-0,Pescara (7)
+?,(Fri) 4 Oct 2013 (39),Padova (7),3-2,1-2,Varese (8)
+?,(Sat) 5 Oct 2013 (39),Avellino (8),1-0,0-0,Bari (8)
+?,(Sat) 5 Oct 2013 (39),Brescia (8),1-1,1-0,Palermo (8)
+?,(Sat) 5 Oct 2013 (39),Carpi (7),0-1,0-0,Cittadella (8)
+?,(Sat) 5 Oct 2013 (39),Cesena (8),1-1,0-0,Siena (8)
+?,(Sat) 5 Oct 2013 (39),Empoli (8),2-1,1-0,Modena (8)
+?,(Sat) 5 Oct 2013 (39),Novara (8),0-3,0-2,Virtus Lanciano (8)
+?,(Sat) 5 Oct 2013 (39),Pescara (8),1-1,1-0,Spezia (8)
+?,(Sat) 5 Oct 2013 (39),Ternana (8),1-1,0-0,Juve Stabia (8)
+?,(Sat) 5 Oct 2013 (39),Trapani (8),1-1,1-1,Latina (8)
+?,(Mon) 7 Oct 2013 (40),Crotone (8),2-0,1-0,Reggina (8)
+?,(Sat) 12 Oct 2013 (40),Reggina (9),2-1,0-0,Empoli (9)
+?,(Sat) 12 Oct 2013 (40),Spezia (9),2-2,0-0,Brescia (9)
+?,(Sun) 13 Oct 2013 (40),Bari (9),1-2,0-1,Crotone (9)
+?,(Sun) 13 Oct 2013 (40),Cittadella (9),1-0,1-0,Padova (8)
+?,(Sun) 13 Oct 2013 (40),Juve Stabia (9),0-2,0-1,Cesena (9)
+?,(Sun) 13 Oct 2013 (40),Latina (9),0-0,0-0,Modena (9)
+?,(Sun) 13 Oct 2013 (40),Palermo (9),1-0,1-0,Pescara (9)
+?,(Sun) 13 Oct 2013 (40),Siena (9),3-0,1-0,Avellino (9)
+?,(Sun) 13 Oct 2013 (40),Varese (9),0-0,0-0,Trapani (9)
+?,(Sun) 13 Oct 2013 (40),Virtus Lanciano (9),1-1,0-1,Ternana (9)
+?,(Mon) 14 Oct 2013 (41),Carpi (8),1-0,1-0,Novara (9)
+?,(Fri) 18 Oct 2013 (41),Cesena (10),2-1,2-0,Bari (10)
+?,(Sat) 19 Oct 2013 (41),Avellino (10),4-1,3-0,Carpi (9)
+?,(Sat) 19 Oct 2013 (41),Brescia (10),4-1,2-0,Cittadella (10)
+?,(Sat) 19 Oct 2013 (41),Crotone (10),1-2,0-0,Virtus Lanciano (10)
+?,(Sat) 19 Oct 2013 (41),Empoli (10),2-0,1-0,Varese (10)
+?,(Sat) 19 Oct 2013 (41),Modena (10),3-0,1-0,Reggina (10)
+?,(Sat) 19 Oct 2013 (41),Padova (9),2-1,1-0,Juve Stabia (10)
+?,(Sat) 19 Oct 2013 (41),Pescara (10),0-1,0-0,Latina (10)
+?,(Sat) 19 Oct 2013 (41),Ternana (10),5-0,2-0,Novara (10)
+?,(Sat) 19 Oct 2013 (41),Trapani (10),1-1,1-0,Spezia (10)
+?,(Mon) 21 Oct 2013 (42),Siena (10),2-3,1-2,Palermo (10)
+?,(Fri) 25 Oct 2013 (42),Reggina (11),2-3,1-0,Pescara (11)
+?,(Sat) 26 Oct 2013 (42),Bari (11),1-1,0-0,Trapani (11)
+?,(Sat) 26 Oct 2013 (42),Brescia (11),2-2,2-0,Siena (11)
+?,(Sat) 26 Oct 2013 (42),Carpi (10),1-1,0-1,Latina (11)
+?,(Sat) 26 Oct 2013 (42),Juve Stabia (11),0-2,0-0,Empoli (11)
+?,(Sat) 26 Oct 2013 (42),Palermo (11),0-0,0-0,Varese (11)
+?,(Sat) 26 Oct 2013 (42),Spezia (11),2-1,1-0,Modena (11)
+?,(Sat) 26 Oct 2013 (42),Ternana (11),2-3,1-2,Crotone (11)
+?,(Sat) 26 Oct 2013 (42),Virtus Lanciano (11),1-0,0-0,Padova (10)
+?,(Mon) 28 Oct 2013 (43),Novara (11),1-1,0-1,Cesena (11)
+?,(Tue) 29 Oct 2013 (43),Cittadella (11),1-2,0-1,Avellino (11)
+?,(Fri) 1 Nov 2013 (43),Cesena (12),1-1,0-0,Ternana (12)
+?,(Fri) 1 Nov 2013 (43),Crotone (12),2-2,1-1,Novara (12)
+?,(Fri) 1 Nov 2013 (43),Empoli (12),1-1,1-0,Bari (12)
+?,(Fri) 1 Nov 2013 (43),Latina (12),1-0,0-0,Reggina (12)
+?,(Fri) 1 Nov 2013 (43),Modena (12),1-0,1-0,Virtus Lanciano (12)
+?,(Fri) 1 Nov 2013 (43),Padova (11),1-0,1-0,Spezia (12)
+?,(Fri) 1 Nov 2013 (43),Pescara (12),3-3,2-1,Brescia (12)
+?,(Fri) 1 Nov 2013 (43),Trapani (12),0-1,0-0,Carpi (11)
+?,(Fri) 1 Nov 2013 (43),Varese (12),2-2,1-0,Juve Stabia (12)
+?,(Sat) 2 Nov 2013 (43),Siena (12),1-1,0-0,Cittadella (12)
+?,(Sun) 3 Nov 2013 (43),Avellino (12),0-2,0-1,Palermo (12)
+?,(Fri) 8 Nov 2013 (44),Spezia (13),2-1,1-1,Cesena (13)
+?,(Sat) 9 Nov 2013 (44),Bari (13),2-1,1-0,Varese (13)
+?,(Sat) 9 Nov 2013 (44),Brescia (13),0-2,0-1,Avellino (13)
+?,(Sat) 9 Nov 2013 (44),Carpi (12),1-2,1-2,Crotone (13)
+?,(Sat) 9 Nov 2013 (44),Cittadella (13),0-1,0-1,Pescara (13)
+?,(Sat) 9 Nov 2013 (44),Juve Stabia (13),1-1,1-0,Modena (13)
+?,(Sat) 9 Nov 2013 (44),Novara (13),2-2,0-2,Latina (13)
+?,(Sat) 9 Nov 2013 (44),Palermo (13),3-0,0-0,Trapani (13)
+?,(Sat) 9 Nov 2013 (44),Reggina (13),2-1,0-0,Padova (12)
+?,(Sat) 9 Nov 2013 (44),Virtus Lanciano (13),1-1,1-0,Siena (13)
+?,(Mon) 11 Nov 2013 (45),Ternana (13),1-0,0-0,Empoli (13)
+?,(Sat) 16 Nov 2013 (45),Padova (13),0-0,0-0,Brescia (14)
+?,(Sat) 16 Nov 2013 (45),Reggina (14),0-2,0-1,Palermo (14)
+?,(Sun) 17 Nov 2013 (45),Avellino (14),2-1,2-0,Juve Stabia (14)
+?,(Sun) 17 Nov 2013 (45),Cesena (14),2-2,1-1,Cittadella (14)
+?,(Sun) 17 Nov 2013 (45),Empoli (14),3-0,1-0,Virtus Lanciano (14)
+?,(Sun) 17 Nov 2013 (45),Latina (14),1-0,1-0,Bari (14)
+?,(Sun) 17 Nov 2013 (45),Modena (14),2-3,1-2,Carpi (13)
+?,(Sun) 17 Nov 2013 (45),Pescara (14),2-1,1-0,Ternana (14)
+?,(Sun) 17 Nov 2013 (45),Siena (14),2-0,0-0,Spezia (14)
+?,(Sun) 17 Nov 2013 (45),Trapani (14),2-1,0-1,Novara (14)
+?,(Sun) 17 Nov 2013 (45),Varese (14),2-0,1-0,Crotone (14)
+?,(Fri) 22 Nov 2013 (46),Novara (15),0-0,0-0,Pescara (15)
+?,(Sat) 23 Nov 2013 (46),Bari (15),2-2,2-1,Padova (14)
+?,(Sat) 23 Nov 2013 (46),Brescia (15),0-0,0-0,Cesena (15)
+?,(Sat) 23 Nov 2013 (46),Cittadella (15),0-0,0-0,Reggina (15)
+?,(Sat) 23 Nov 2013 (46),Crotone (15),3-2,3-2,Avellino (15)
+?,(Sat) 23 Nov 2013 (46),Juve Stabia (15),2-3,1-3,Trapani (15)
+?,(Sat) 23 Nov 2013 (46),Spezia (15),1-3,1-2,Empoli (15)
+?,(Sat) 23 Nov 2013 (46),Ternana (15),1-1,1-1,Modena (15)
+?,(Sat) 23 Nov 2013 (46),Virtus Lanciano (15),2-0,2-0,Varese (15)
+?,(Sun) 24 Nov 2013 (46),Carpi (14),0-1,0-0,Siena (15)
+?,(Sun) 24 Nov 2013 (46),Palermo (15),1-2,1-2,Latina (15)
+?,(Fri) 29 Nov 2013 (47),Empoli (16),2-2,0-0,Brescia (16)
+?,(Sat) 30 Nov 2013 (47),Avellino (16),0-0,0-0,Cesena (16)
+?,(Sat) 30 Nov 2013 (47),Latina (16),1-0,0-0,Juve Stabia (16)
+?,(Sat) 30 Nov 2013 (47),Modena (16),1-1,1-0,Siena (16)
+?,(Sat) 30 Nov 2013 (47),Padova (15),0-0,0-0,Crotone (16)
+?,(Sat) 30 Nov 2013 (47),Palermo (16),2-1,1-0,Novara (16)
+?,(Sat) 30 Nov 2013 (47),Pescara (16),4-2,1-1,Carpi (15)
+?,(Sat) 30 Nov 2013 (47),Reggina (16),1-2,1-0,Spezia (16)
+?,(Sat) 30 Nov 2013 (47),Trapani (16),1-0,0-0,Virtus Lanciano (16)
+?,(Sat) 30 Nov 2013 (47),Varese (16),2-1,2-1,Cittadella (16)
+?,(Mon) 2 Dec 2013 (48),Bari (16),2-1,2-1,Ternana (16)
+?,(Fri) 6 Dec 2013 (48),Cesena (17),0-1,0-0,Padova (16)
+?,(Sat) 7 Dec 2013 (48),Brescia (17),2-1,1-0,Reggina (17)
+?,(Sat) 7 Dec 2013 (48),Carpi (16),1-0,1-0,Varese (17)
+?,(Sat) 7 Dec 2013 (48),Cittadella (17),2-2,0-1,Trapani (17)
+?,(Sat) 7 Dec 2013 (48),Crotone (17),1-1,1-1,Empoli (17)
+?,(Sat) 7 Dec 2013 (48),Juve Stabia (17),1-1,1-0,Bari (17)
+?,(Sat) 7 Dec 2013 (48),Novara (17),1-0,1-0,Modena (17)
+?,(Sat) 7 Dec 2013 (48),Siena (17),1-3,1-2,Pescara (17)
+?,(Sat) 7 Dec 2013 (48),Ternana (17),1-0,0-0,Latina (17)
+?,(Sat) 7 Dec 2013 (48),Virtus Lanciano (17),1-1,0-0,Palermo (17)
+?,(Mon) 9 Dec 2013 (49),Spezia (17),0-0,0-0,Avellino (17)
+?,(Fri) 13 Dec 2013 (49),Reggina (18),0-2,0-1,Siena (18)
+?,(Sat) 14 Dec 2013 (49),Bari (18),2-2,1-1,Carpi (17)
+?,(Sat) 14 Dec 2013 (49),Empoli (18),0-0,0-0,Cesena (18)
+?,(Sat) 14 Dec 2013 (49),Juve Stabia (18),1-2,0-1,Novara (18)
+?,(Sat) 14 Dec 2013 (49),Latina (18),2-3,0-1,Crotone (18)
+?,(Sat) 14 Dec 2013 (49),Modena (18),0-1,0-0,Brescia (18)
+?,(Sat) 14 Dec 2013 (49),Padova (17),1-1,0-0,Ternana (18)
+?,(Sat) 14 Dec 2013 (49),Palermo (18),3-1,2-1,Cittadella (18)
+?,(Sat) 14 Dec 2013 (49),Trapani (18),1-1,0-0,Avellino (18)
+?,(Sat) 14 Dec 2013 (49),Varese (18),4-0,1-0,Spezia (18)
+?,(Sun) 15 Dec 2013 (49),Virtus Lanciano (18),0-1,0-1,Pescara (18)
+?,(Fri) 20 Dec 2013 (50),Pescara (19),1-0,0-0,Padova (18)
+?,(Fri) 20 Dec 2013 (50),Ternana (19),0-2,0-0,Trapani (19)
+?,(Sat) 21 Dec 2013 (50),Brescia (19),4-2,2-1,Varese (19)
+?,(Sat) 21 Dec 2013 (50),Carpi (18),1-0,0-0,Palermo (19)
+?,(Sat) 21 Dec 2013 (50),Cesena (19),3-1,1-0,Reggina (19)
+?,(Sat) 21 Dec 2013 (50),Cittadella (19),1-1,0-0,Bari (19)
+?,(Sat) 21 Dec 2013 (50),Crotone (19),1-1,0-1,Juve Stabia (19)
+?,(Sat) 21 Dec 2013 (50),Novara (19),0-1,0-1,Empoli (19)
+?,(Sat) 21 Dec 2013 (50),Siena (19),1-0,1-0,Latina (19)
+?,(Sat) 21 Dec 2013 (50),Spezia (19),2-0,0-0,Virtus Lanciano (19)
+?,(Sun) 22 Dec 2013 (50),Avellino (19),2-1,1-0,Modena (19)
+?,(Thu) 26 Dec 2013 (51),Bari (20),1-2,0-0,Spezia (20)
+?,(Thu) 26 Dec 2013 (51),Empoli (20),0-1,0-1,Cittadella (20)
+?,(Thu) 26 Dec 2013 (51),Juve Stabia (20),1-2,1-1,Brescia (20)
+?,(Thu) 26 Dec 2013 (51),Latina (20),0-0,0-0,Cesena (20)
+?,(Thu) 26 Dec 2013 (51),Modena (20),0-1,0-1,Pescara (20)
+?,(Thu) 26 Dec 2013 (51),Padova (19),2-2,1-1,Siena (20)
+?,(Thu) 26 Dec 2013 (51),Palermo (20),1-0,0-0,Ternana (20)
+?,(Thu) 26 Dec 2013 (51),Reggina (20),1-1,1-0,Avellino (20)
+?,(Thu) 26 Dec 2013 (51),Trapani (20),1-0,1-0,Crotone (20)
+?,(Thu) 26 Dec 2013 (51),Virtus Lanciano (20),1-3,1-2,Carpi (19)
+?,(Sun) 29 Dec 2013 (51),Avellino (21),2-1,1-1,Padova (20)
+?,(Sun) 29 Dec 2013 (51),Brescia (21),3-3,1-1,Trapani (21)
+?,(Sun) 29 Dec 2013 (51),Carpi (20),1-0,0-0,Juve Stabia (21)
+?,(Sun) 29 Dec 2013 (51),Cesena (21),1-1,1-1,Modena (21)
+?,(Sun) 29 Dec 2013 (51),Cittadella (21),1-2,0-1,Virtus Lanciano (21)
+?,(Sun) 29 Dec 2013 (51),Crotone (21),1-2,0-1,Palermo (21)
+?,(Sun) 29 Dec 2013 (51),Novara (20),0-1,0-0,Bari (21)
+?,(Sun) 29 Dec 2013 (51),Pescara (21),1-2,0-1,Empoli (21)
+?,(Sun) 29 Dec 2013 (51),Siena (21),1-1,0-0,Varese (20)
+?,(Sun) 29 Dec 2013 (51),Spezia (21),1-4,0-0,Latina (21)
+?,(Sun) 29 Dec 2013 (51),Ternana (21),2-1,0-0,Reggina (21)
+?,(Sun) 19 Jan 2014 (2),Varese (21),1-1,0-0,Novara (21)
+?,(Fri) 24 Jan 2014 (3),Trapani (22),2-1,2-0,Padova (21)
+?,(Sat) 25 Jan 2014 (3),Bari (22),0-1,0-1,Reggina (22)
+?,(Sat) 25 Jan 2014 (3),Carpi (21),1-2,1-1,Ternana (22)
+?,(Sat) 25 Jan 2014 (3),Cittadella (22),1-2,1-0,Spezia (22)
+?,(Sat) 25 Jan 2014 (3),Juve Stabia (22),2-1,0-0,Pescara (22)
+?,(Sat) 25 Jan 2014 (3),Latina (22),2-1,0-0,Empoli (22)
+?,(Sat) 25 Jan 2014 (3),Novara (22),2-1,0-1,Avellino (22)
+?,(Sat) 25 Jan 2014 (3),Palermo (22),0-0,0-0,Modena (22)
+?,(Sat) 25 Jan 2014 (3),Varese (22),1-3,1-2,Cesena (22)
+?,(Sat) 25 Jan 2014 (3),Virtus Lanciano (22),1-0,0-0,Brescia (22)
+?,(Mon) 27 Jan 2014 (4),Crotone (22),0-0,0-0,Siena (22)
+?,(Fri) 31 Jan 2014 (4),Avellino (23),1-1,0-0,Latina (23)
+?,(Sat) 1 Feb 2014 (4),Brescia (23),2-1,0-1,Bari (23)
+?,(Sat) 1 Feb 2014 (4),Cesena (23),1-0,0-0,Crotone (23)
+?,(Sat) 1 Feb 2014 (4),Modena (23),4-1,1-0,Varese (23)
+?,(Sat) 1 Feb 2014 (4),Padova (22),1-4,1-1,Carpi (22)
+?,(Sat) 1 Feb 2014 (4),Pescara (23),0-1,0-0,Trapani (23)
+?,(Sat) 1 Feb 2014 (4),Reggina (23),1-0,0-0,Virtus Lanciano (23)
+?,(Sat) 1 Feb 2014 (4),Siena (23),1-0,1-0,Novara (23)
+?,(Sat) 1 Feb 2014 (4),Spezia (23),1-1,0-1,Juve Stabia (23)
+?,(Sat) 1 Feb 2014 (4),Ternana (23),2-1,2-0,Cittadella (23)
+?,(Mon) 3 Feb 2014 (5),Empoli (23),1-1,0-0,Palermo (23)
+?,(Fri) 7 Feb 2014 (5),Virtus Lanciano (24),1-1,0-1,Cesena (24)
+?,(Sat) 8 Feb 2014 (5),Bari (24),2-1,2-0,Siena (24)
+?,(Sat) 8 Feb 2014 (5),Carpi (23),1-1,0-0,Spezia (24)
+?,(Sat) 8 Feb 2014 (5),Cittadella (24),0-1,0-0,Modena (24)
+?,(Sat) 8 Feb 2014 (5),Crotone (24),3-0,1-0,Pescara (24)
+?,(Sat) 8 Feb 2014 (5),Juve Stabia (24),1-1,0-0,Reggina (24)
+?,(Sat) 8 Feb 2014 (5),Palermo (24),1-0,0-0,Padova (23)
+?,(Sat) 8 Feb 2014 (5),Ternana (24),1-1,0-0,Avellino (24)
+?,(Sat) 8 Feb 2014 (5),Trapani (24),0-0,0-0,Empoli (24)
+?,(Sat) 8 Feb 2014 (5),Varese (24),0-0,0-0,Latina (24)
+?,(Mon) 10 Feb 2014 (6),Novara (24),1-2,0-1,Brescia (24)
+?,(Sat) 15 Feb 2014 (6),Avellino (25),1-3,0-3,Virtus Lanciano (25)
+?,(Sat) 15 Feb 2014 (6),Brescia (25),1-1,1-0,Ternana (25)
+?,(Sat) 15 Feb 2014 (6),Cesena (25),0-0,0-0,Palermo (25)
+?,(Sat) 15 Feb 2014 (6),Empoli (25),1-1,0-1,Carpi (24)
+?,(Sat) 15 Feb 2014 (6),Latina (25),1-0,1-0,Cittadella (25)
+?,(Sat) 15 Feb 2014 (6),Padova (24),1-0,0-0,Novara (25)
+?,(Sat) 15 Feb 2014 (6),Pescara (25),1-2,0-1,Varese (25)
+?,(Sat) 15 Feb 2014 (6),Reggina (25),1-1,0-0,Trapani (25)
+?,(Sat) 15 Feb 2014 (6),Siena (25),1-0,0-0,Juve Stabia (25)
+?,(Sat) 15 Feb 2014 (6),Spezia (25),3-1,3-0,Crotone (25)
+?,(Sun) 16 Feb 2014 (6),Modena (25),4-0,1-0,Bari (25)
+?,(Fri) 21 Feb 2014 (7),Crotone (26),1-0,1-0,Brescia (26)
+?,(Sat) 22 Feb 2014 (7),Bari (26),1-0,0-0,Pescara (26)
+?,(Sat) 22 Feb 2014 (7),Carpi (25),1-2,1-1,Cesena (26)
+?,(Sat) 22 Feb 2014 (7),Juve Stabia (26),1-1,0-0,Cittadella (26)
+?,(Sat) 22 Feb 2014 (7),Novara (26),1-0,1-0,Reggina (26)
+?,(Sat) 22 Feb 2014 (7),Padova (25),0-1,0-1,Empoli (26)
+?,(Sat) 22 Feb 2014 (7),Palermo (26),1-1,1-0,Spezia (26)
+?,(Sat) 22 Feb 2014 (7),Ternana (26),2-2,0-0,Siena (26)
+?,(Sat) 22 Feb 2014 (7),Trapani (26),2-0,1-0,Modena (26)
+?,(Sat) 22 Feb 2014 (7),Varese (26),1-1,0-0,Avellino (26)
+?,(Sat) 22 Feb 2014 (7),Virtus Lanciano (26),0-0,0-0,Latina (26)
+?,(Fri) 28 Feb 2014 (8),Latina (27),3-0,1-0,Padova (26)
+?,(Sat) 1 Mar 2014 (8),Avellino (27),1-1,0-0,Pescara (27)
+?,(Sat) 1 Mar 2014 (8),Brescia (27),0-2,0-2,Carpi (26)
+?,(Sat) 1 Mar 2014 (8),Cesena (27),2-2,0-1,Trapani (27)
+?,(Sat) 1 Mar 2014 (8),Cittadella (27),2-2,0-0,Novara (27)
+?,(Sat) 1 Mar 2014 (8),Modena (27),2-0,1-0,Crotone (27)
+?,(Sat) 1 Mar 2014 (8),Palermo (27),2-1,0-0,Bari (27)
+?,(Sat) 1 Mar 2014 (8),Reggina (27),3-4,2-0,Varese (27)
+?,(Sat) 1 Mar 2014 (8),Siena (27),1-1,0-0,Empoli (27)
+?,(Sat) 1 Mar 2014 (8),Spezia (27),2-2,1-0,Ternana (27)
+?,(Sat) 1 Mar 2014 (8),Virtus Lanciano (27),1-0,0-0,Juve Stabia (27)
+?,(Fri) 7 Mar 2014 (9),Empoli (28),0-1,0-0,Avellino (28)
+?,(Sat) 8 Mar 2014 (9),Bari (28),1-0,1-0,Virtus Lanciano (28)
+?,(Sat) 8 Mar 2014 (9),Brescia (28),0-2,0-2,Latina (28)
+?,(Sat) 8 Mar 2014 (9),Carpi (27),0-3,0-0,Reggina (28)
+?,(Sat) 8 Mar 2014 (9),Crotone (28),2-0,1-0,Cittadella (28)
+?,(Sat) 8 Mar 2014 (9),Novara (28),2-0,1-0,Spezia (28)
+?,(Sat) 8 Mar 2014 (9),Padova (27),2-2,0-2,Modena (28)
+?,(Sat) 8 Mar 2014 (9),Pescara (28),2-0,1-0,Cesena (28)
+?,(Sat) 8 Mar 2014 (9),Ternana (28),2-0,1-0,Varese (28)
+?,(Sat) 8 Mar 2014 (9),Trapani (28),0-2,0-0,Siena (28)
+?,(Mon) 10 Mar 2014 (10),Juve Stabia (28),0-3,0-3,Palermo (28)
+?,(Tue) 11 Mar 2014 (10),Carpi (28),1-1,1-0,Padova (28)
+?,(Fri) 14 Mar 2014 (10),Spezia (29),0-1,0-1,Pescara (29)
+?,(Sat) 15 Mar 2014 (10),Bari (29),1-0,0-0,Avellino (29)
+?,(Sat) 15 Mar 2014 (10),Cittadella (29),1-0,0-0,Carpi (29)
+?,(Sat) 15 Mar 2014 (10),Juve Stabia (29),2-3,1-2,Ternana (29)
+?,(Sat) 15 Mar 2014 (10),Latina (29),0-1,0-0,Trapani (29)
+?,(Sat) 15 Mar 2014 (10),Modena (29),0-0,0-0,Empoli (29)
+?,(Sat) 15 Mar 2014 (10),Palermo (29),2-0,1-0,Brescia (29)
+?,(Sat) 15 Mar 2014 (10),Reggina (29),1-4,0-0,Crotone (29)
+?,(Sat) 15 Mar 2014 (10),Siena (29),1-0,1-0,Cesena (29)
+?,(Sat) 15 Mar 2014 (10),Varese (29),0-3,0-1,Padova (29)
+?,(Sat) 15 Mar 2014 (10),Virtus Lanciano (29),2-1,1-0,Novara (29)
+?,(Fri) 21 Mar 2014 (11),Avellino (30),0-1,0-0,Siena (30)
+?,(Fri) 21 Mar 2014 (11),Trapani (30),1-1,1-1,Varese (30)
+?,(Sat) 22 Mar 2014 (11),Brescia (30),0-2,0-1,Spezia (30)
+?,(Sat) 22 Mar 2014 (11),Cesena (30),1-0,0-0,Juve Stabia (30)
+?,(Sat) 22 Mar 2014 (11),Crotone (30),0-0,0-0,Bari (30)
+?,(Sat) 22 Mar 2014 (11),Empoli (30),4-0,4-0,Reggina (30)
+?,(Sat) 22 Mar 2014 (11),Modena (30),4-0,0-0,Latina (30)
+?,(Sat) 22 Mar 2014 (11),Novara (30),1-0,0-0,Carpi (30)
+?,(Sat) 22 Mar 2014 (11),Padova (30),0-4,0-1,Cittadella (30)
+?,(Sat) 22 Mar 2014 (11),Pescara (30),1-2,0-1,Palermo (30)
+?,(Sat) 22 Mar 2014 (11),Ternana (30),1-1,1-1,Virtus Lanciano (30)
+?,(Tue) 25 Mar 2014 (12),Bari (31),0-0,0-0,Cesena (31)
+?,(Tue) 25 Mar 2014 (12),Carpi (31),1-1,1-1,Avellino (31)
+?,(Tue) 25 Mar 2014 (12),Cittadella (31),0-1,0-0,Brescia (31)
+?,(Tue) 25 Mar 2014 (12),Juve Stabia (31),1-1,1-0,Padova (31)
+?,(Tue) 25 Mar 2014 (12),Latina (31),0-2,0-0,Pescara (31)
+?,(Tue) 25 Mar 2014 (12),Novara (31),1-1,1-1,Ternana (31)
+?,(Tue) 25 Mar 2014 (12),Palermo (31),1-1,1-1,Siena (31)
+?,(Tue) 25 Mar 2014 (12),Reggina (31),2-2,1-0,Modena (31)
+?,(Tue) 25 Mar 2014 (12),Spezia (31),0-1,0-1,Trapani (31)
+?,(Tue) 25 Mar 2014 (12),Varese (31),1-0,0-0,Empoli (31)
+?,(Tue) 25 Mar 2014 (12),Virtus Lanciano (31),0-1,0-0,Crotone (31)
+?,(Sat) 29 Mar 2014 (12),Avellino (32),1-0,0-0,Cittadella (32)
+?,(Sat) 29 Mar 2014 (12),Cesena (32),2-0,0-0,Novara (32)
+?,(Sat) 29 Mar 2014 (12),Empoli (32),2-1,1-1,Juve Stabia (32)
+?,(Sat) 29 Mar 2014 (12),Latina (32),1-0,1-0,Carpi (32)
+?,(Sat) 29 Mar 2014 (12),Modena (32),0-0,0-0,Spezia (32)
+?,(Sat) 29 Mar 2014 (12),Padova (32),5-1,1-1,Virtus Lanciano (32)
+?,(Sat) 29 Mar 2014 (12),Pescara (32),2-2,1-1,Reggina (32)
+?,(Sat) 29 Mar 2014 (12),Siena (32),2-1,1-0,Brescia (32)
+?,(Sat) 29 Mar 2014 (12),Trapani (32),3-4,2-4,Bari (32)
+?,(Sat) 29 Mar 2014 (12),Varese (32),1-2,1-1,Palermo (32)
+?,(Sun) 30 Mar 2014 (12),Crotone (32),1-1,0-1,Ternana (32)
+?,(Fri) 4 Apr 2014 (13),Palermo (33),2-0,0-0,Avellino (33)
+?,(Sat) 5 Apr 2014 (13),Brescia (33),3-0,0-0,Pescara (33)
+?,(Sat) 5 Apr 2014 (13),Carpi (33),3-2,1-1,Trapani (33)
+?,(Sat) 5 Apr 2014 (13),Cittadella (33),1-0,0-0,Siena (33)
+?,(Sat) 5 Apr 2014 (13),Juve Stabia (33),2-4,1-2,Varese (33)
+?,(Sat) 5 Apr 2014 (13),Novara (33),1-1,1-0,Crotone (33)
+?,(Sat) 5 Apr 2014 (13),Reggina (33),0-1,0-0,Latina (33)
+?,(Sat) 5 Apr 2014 (13),Spezia (33),2-2,0-2,Padova (33)
+?,(Sat) 5 Apr 2014 (13),Ternana (33),0-2,0-1,Cesena (33)
+?,(Sat) 5 Apr 2014 (13),Virtus Lanciano (33),1-3,0-1,Modena (33)
+?,(Sun) 6 Apr 2014 (13),Bari (33),3-0,1-0,Empoli (33)
+?,(Fri) 11 Apr 2014 (14),Cesena (34),0-2,0-0,Spezia (34)
+?,(Sat) 12 Apr 2014 (14),Avellino (34),0-1,0-0,Brescia (34)
+?,(Sat) 12 Apr 2014 (14),Crotone (34),0-0,0-0,Carpi (34)
+?,(Sat) 12 Apr 2014 (14),Empoli (34),1-0,0-0,Ternana (34)
+?,(Sat) 12 Apr 2014 (14),Latina (34),4-1,0-0,Novara (34)
+?,(Sat) 12 Apr 2014 (14),Modena (34),4-2,2-2,Juve Stabia (34)
+?,(Sat) 12 Apr 2014 (14),Pescara (34),1-1,1-0,Cittadella (34)
+?,(Sat) 12 Apr 2014 (14),Siena (34),1-0,1-0,Virtus Lanciano (34)
+?,(Sat) 12 Apr 2014 (14),Trapani (34),0-1,0-0,Palermo (34)
+?,(Sat) 12 Apr 2014 (14),Varese (34),0-1,0-1,Bari (34)
+?,(Sun) 13 Apr 2014 (14),Padova (34),2-2,1-1,Reggina (34)
+?,(Thu) 17 Apr 2014 (15),Bari (35),0-1,0-1,Latina (35)
+?,(Thu) 17 Apr 2014 (15),Brescia (35),1-3,1-2,Padova (35)
+?,(Thu) 17 Apr 2014 (15),Carpi (35),2-2,1-0,Modena (35)
+?,(Thu) 17 Apr 2014 (15),Cittadella (35),1-0,0-0,Cesena (35)
+?,(Thu) 17 Apr 2014 (15),Crotone (35),3-2,1-1,Varese (35)
+?,(Thu) 17 Apr 2014 (15),Juve Stabia (35),2-2,1-1,Avellino (35)
+?,(Thu) 17 Apr 2014 (15),Novara (35),3-1,2-0,Trapani (35)
+?,(Thu) 17 Apr 2014 (15),Palermo (35),1-0,1-0,Reggina (35)
+?,(Thu) 17 Apr 2014 (15),Spezia (35),1-0,0-0,Siena (35)
+?,(Thu) 17 Apr 2014 (15),Ternana (35),1-0,1-0,Pescara (35)
+?,(Thu) 17 Apr 2014 (15),Virtus Lanciano (35),2-1,0-1,Empoli (35)
+?,(Fri) 25 Apr 2014 (16),Modena (36),3-3,0-0,Ternana (36)
+?,(Fri) 25 Apr 2014 (16),Pescara (36),0-0,0-0,Novara (36)
+?,(Sat) 26 Apr 2014 (16),Avellino (36),2-0,1-0,Crotone (36)
+?,(Sat) 26 Apr 2014 (16),Cesena (36),0-3,0-1,Brescia (36)
+?,(Sat) 26 Apr 2014 (16),Empoli (36),2-0,1-0,Spezia (36)
+?,(Sat) 26 Apr 2014 (16),Latina (36),1-3,0-0,Palermo (36)
+?,(Sat) 26 Apr 2014 (16),Padova (36),1-2,0-1,Bari (36)
+?,(Sat) 26 Apr 2014 (16),Reggina (36),0-1,0-0,Cittadella (36)
+?,(Sat) 26 Apr 2014 (16),Siena (36),0-0,0-0,Carpi (36)
+?,(Sat) 26 Apr 2014 (16),Trapani (36),3-0,1-0,Juve Stabia (36)
+?,(Sat) 26 Apr 2014 (16),Varese (36),0-1,0-1,Virtus Lanciano (36)
+?,(Fri) 2 May 2014 (17),Spezia (37),2-1,1-1,Reggina (37)
+?,(Sat) 3 May 2014 (17),Brescia (37),1-3,1-1,Empoli (37)
+?,(Sat) 3 May 2014 (17),Carpi (37),2-0,1-0,Pescara (37)
+?,(Sat) 3 May 2014 (17),Cesena (37),2-0,0-0,Avellino (37)
+?,(Sat) 3 May 2014 (17),Cittadella (37),5-1,2-0,Varese (37)
+?,(Sat) 3 May 2014 (17),Crotone (37),2-1,1-0,Padova (37)
+?,(Sat) 3 May 2014 (17),Juve Stabia (37),1-1,1-0,Latina (37)
+?,(Sat) 3 May 2014 (17),Novara (37),0-1,0-1,Palermo (37)
+?,(Sat) 3 May 2014 (17),Siena (37),1-3,0-1,Modena (37)
+?,(Sat) 3 May 2014 (17),Ternana (37),1-3,1-2,Bari (37)
+?,(Sat) 3 May 2014 (17),Virtus Lanciano (37),2-2,0-1,Trapani (37)
+?,(Fri) 9 May 2014 (18),Empoli (38),3-1,2-0,Crotone (38)
+?,(Fri) 9 May 2014 (18),Padova (38),0-1,0-0,Cesena (38)
+?,(Sat) 10 May 2014 (18),Avellino (38),2-0,2-0,Spezia (38)
+?,(Sat) 10 May 2014 (18),Bari (38),3-0,1-0,Juve Stabia (38)
+?,(Sat) 10 May 2014 (18),Latina (38),2-0,0-0,Ternana (38)
+?,(Sat) 10 May 2014 (18),Modena (38),3-1,1-1,Novara (38)
+?,(Sat) 10 May 2014 (18),Palermo (38),1-1,1-0,Virtus Lanciano (38)
+?,(Sat) 10 May 2014 (18),Pescara (38),1-0,0-0,Siena (38)
+?,(Sat) 10 May 2014 (18),Reggina (38),1-1,1-0,Brescia (38)
+?,(Sat) 10 May 2014 (18),Trapani (38),1-2,1-1,Cittadella (38)
+?,(Sat) 10 May 2014 (18),Varese (38),0-2,0-0,Carpi (38)
+?,(Tue) 13 May 2014 (19),Avellino (39),3-3,2-1,Trapani (39)
+?,(Tue) 13 May 2014 (19),Brescia (39),0-1,0-1,Modena (39)
+?,(Tue) 13 May 2014 (19),Carpi (39),1-2,0-1,Bari (39)
+?,(Tue) 13 May 2014 (19),Cesena (39),1-0,0-0,Empoli (39)
+?,(Tue) 13 May 2014 (19),Cittadella (39),0-2,0-0,Palermo (39)
+?,(Tue) 13 May 2014 (19),Crotone (39),0-1,0-1,Latina (39)
+?,(Tue) 13 May 2014 (19),Novara (39),2-0,1-0,Juve Stabia (39)
+?,(Tue) 13 May 2014 (19),Pescara (39),2-2,1-1,Virtus Lanciano (39)
+?,(Tue) 13 May 2014 (19),Siena (39),2-1,1-0,Reggina (39)
+?,(Tue) 13 May 2014 (19),Spezia (39),2-1,2-1,Varese (39)
+?,(Tue) 13 May 2014 (19),Ternana (39),2-1,1-0,Padova (39)
+?,(Sat) 17 May 2014 (19),Empoli (40),3-1,2-1,Novara (40)
+?,(Sat) 17 May 2014 (19),Juve Stabia (40),2-2,1-1,Crotone (40)
+?,(Sat) 17 May 2014 (19),Modena (40),1-0,0-0,Avellino (40)
+?,(Sat) 17 May 2014 (19),Padova (40),2-1,1-0,Pescara (40)
+?,(Sat) 17 May 2014 (19),Palermo (40),1-2,1-1,Carpi (40)
+?,(Sat) 17 May 2014 (19),Reggina (40),1-2,1-1,Cesena (40)
+?,(Sat) 17 May 2014 (19),Trapani (40),2-1,1-0,Ternana (40)
+?,(Sat) 17 May 2014 (19),Varese (40),1-2,1-0,Brescia (40)
+?,(Sat) 17 May 2014 (19),Virtus Lanciano (40),2-2,0-0,Spezia (40)
+?,(Mon) 19 May 2014 (20),Bari (40),1-0,0-0,Cittadella (40)
+?,(Mon) 19 May 2014 (20),Latina (40),0-3,0-1,Siena (40)
+?,(Sat) 24 May 2014 (20),Novara (41),0-0,0-0,Varese (41)
+?,(Sun) 25 May 2014 (20),Avellino (41),3-0,1-0,Reggina (41)
+?,(Sun) 25 May 2014 (20),Brescia (41),4-1,2-0,Juve Stabia (41)
+?,(Sun) 25 May 2014 (20),Carpi (41),2-2,2-0,Virtus Lanciano (41)
+?,(Sun) 25 May 2014 (20),Cesena (41),1-3,0-1,Latina (41)
+?,(Sun) 25 May 2014 (20),Cittadella (41),2-2,2-2,Empoli (41)
+?,(Sun) 25 May 2014 (20),Crotone (41),2-1,1-1,Trapani (41)
+?,(Sun) 25 May 2014 (20),Pescara (41),2-2,1-0,Modena (41)
+?,(Sun) 25 May 2014 (20),Siena (41),2-0,1-0,Padova (41)
+?,(Sun) 25 May 2014 (20),Spezia (41),2-0,1-0,Bari (41)
+?,(Sun) 25 May 2014 (20),Ternana (41),1-2,1-2,Palermo (41)
+?,(Fri) 30 May 2014 (21),Bari (42),4-1,0-0,Novara (42)
+?,(Fri) 30 May 2014 (21),Empoli (42),2-0,0-0,Pescara (42)
+?,(Fri) 30 May 2014 (21),Juve Stabia (42),0-2,0-2,Carpi (42)
+?,(Fri) 30 May 2014 (21),Latina (42),0-0,0-0,Spezia (42)
+?,(Fri) 30 May 2014 (21),Modena (42),0-0,0-0,Cesena (42)
+?,(Fri) 30 May 2014 (21),Padova (42),2-1,2-1,Avellino (42)
+?,(Fri) 30 May 2014 (21),Palermo (42),0-0,0-0,Crotone (42)
+?,(Fri) 30 May 2014 (21),Reggina (42),1-2,1-1,Ternana (42)
+?,(Fri) 30 May 2014 (21),Trapani (42),0-1,0-0,Brescia (42)
+?,(Fri) 30 May 2014 (21),Varese (42),2-0,0-0,Siena (42)
+?,(Fri) 30 May 2014 (21),Virtus Lanciano (42),0-0,0-0,Cittadella (42)

@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-2002-09-14,Ancona,Palermo,4-2,3-1
-2002-09-14,Bari,Ascoli,2-0,1-0
-2002-09-14,Cagliari,Napoli,2-2,1-2
-2002-09-14,Catania,Genoa,3-2,3-0
-2002-09-14,Cosenza,Vicenza,2-1,1-1
-2002-09-14,Salernitana,Ternana,0-3,0-1
-2002-09-14,Sampdoria,Lecce,4-2,1-1
-2002-09-14,Siena,Messina,1-0,0-0
-2002-09-14,Triestina,Venezia,1-2,0-1
-2002-09-14,Verona,Livorno,0-1,0-1
-2002-09-21,Ascoli,Sampdoria,0-0,0-0
-2002-09-21,Genoa,Bari,0-0,0-0
-2002-09-21,Lecce,Salernitana,2-1,0-0
-2002-09-21,Livorno,Triestina,2-0,0-0
-2002-09-21,Messina,Catania,3-3,1-1
-2002-09-21,Napoli,Cosenza,1-2,1-2
-2002-09-21,Palermo,Siena,1-0,1-0
-2002-09-21,Ternana,Cagliari,0-1,0-0
-2002-09-21,Venezia,Verona,1-1,1-0
-2002-09-21,Vicenza,Ancona,1-1,1-1
-2002-09-28,Ancona,Ternana,1-1,0-0
-2002-09-28,Bari,Napoli,0-1,0-0
-2002-09-28,Cagliari,Genoa,1-0,1-0
-2002-09-28,Messina,Lecce,0-2,0-0
-2002-09-28,Salernitana,Livorno,2-1,0-0
-2002-09-28,Sampdoria,Cosenza,2-1,0-0
-2002-09-28,Siena,Vicenza,0-0,0-0
-2002-09-28,Triestina,Palermo,2-1,1-0
-2002-09-28,Venezia,Ascoli,1-1,0-1
-2002-09-28,Verona,Catania,2-0,2-0
-2002-10-05,Ascoli,Messina,1-0,0-0
-2002-10-05,Catania,Ancona,0-0,0-0
-2002-10-05,Cosenza,Bari,0-2,0-1
-2002-10-05,Genoa,Salernitana,3-0,2-0
-2002-10-05,Lecce,Venezia,3-1,1-1
-2002-10-05,Napoli,Sampdoria,1-1,0-1
-2002-10-05,Palermo,Livorno,1-0,0-0
-2002-10-05,Siena,Cagliari,1-0,1-0
-2002-10-05,Ternana,Verona,1-0,1-0
-2002-10-05,Vicenza,Triestina,1-1,0-1
-2002-10-13,Ancona,Siena,1-1,1-1
-2002-10-13,Bari,Lecce,1-1,0-0
-2002-10-13,Cagliari,Ascoli,1-0,0-0
-2002-10-13,Livorno,Ternana,1-2,0-2
-2002-10-13,Messina,Vicenza,3-1,2-1
-2002-10-13,Salernitana,Palermo,3-1,0-0
-2002-10-13,Sampdoria,Catania,1-0,0-0
-2002-10-13,Triestina,Cosenza,1-0,1-0
-2002-10-13,Venezia,Genoa,0-1,0-0
-2002-10-13,Verona,Napoli,2-2,1-1
-2002-10-19,Ancona,Sampdoria,1-1,1-1
-2002-10-19,Cagliari,Verona,2-1,1-0
-2002-10-19,Catania,Salernitana,2-1,1-0
-2002-10-19,Cosenza,Ascoli,1-0,0-0
-2002-10-19,Genoa,Messina,1-1,1-1
-2002-10-19,Lecce,Triestina,1-1,1-1
-2002-10-19,Napoli,Livorno,0-1,0-1
-2002-10-19,Siena,Bari,1-1,1-1
-2002-10-19,Ternana,Venezia,1-1,1-0
-2002-10-19,Vicenza,Palermo,1-3,0-1
-2002-10-26,Ascoli,Ternana,2-0,1-0
-2002-10-26,Bari,Sampdoria,1-1,1-0
-2002-10-26,Cosenza,Siena,0-0,0-0
-2002-10-26,Genoa,Lecce,0-0,0-0
-2002-10-26,Livorno,Venezia,2-1,2-0
-2002-10-26,Messina,Verona,2-1,2-0
-2002-10-26,Palermo,Cagliari,1-1,1-0
-2002-10-26,Triestina,Catania,4-0,2-0
-2002-10-28,Salernitana,Ancona,0-2,0-0
-2002-10-28,Vicenza,Napoli,3-3,1-2
-2002-11-01,Cagliari,Lecce,1-1,1-0
-2002-11-01,Livorno,Genoa,2-0,0-0
-2002-11-02,Ancona,Messina,2-1,2-1
-2002-11-02,Bari,Palermo,0-1,0-1
-2002-11-02,Catania,Ascoli,1-1,0-0
-2002-11-02,Napoli,Siena,1-2,1-0
-2002-11-02,Sampdoria,Triestina,1-1,1-1
-2002-11-02,Ternana,Cosenza,1-0,1-0
-2002-11-02,Venezia,Salernitana,1-0,0-0
-2002-11-02,Verona,Vicenza,4-2,3-1
-2002-11-05,Ancona,Verona,1-1,1-0
-2002-11-05,Bari,Triestina,0-0,0-0
-2002-11-05,Cagliari,Venezia,1-0,0-0
-2002-11-05,Catania,Napoli,0-2,0-1
-2002-11-05,Cosenza,Palermo,1-2,0-1
-2002-11-05,Salernitana,Ascoli,1-2,1-1
-2002-11-05,Siena,Lecce,0-0,0-0
-2002-11-05,Ternana,Messina,1-0,1-0
-2002-11-05,Vicenza,Genoa,1-0,1-0
-2002-11-07,Sampdoria,Livorno,2-0,1-0
-2002-11-09,Vicenza,Bari,1-1,1-1
-2002-11-10,Ascoli,Verona,0-0,0-0
-2002-11-10,Cosenza,Cagliari,1-1,1-0
-2002-11-10,Genoa,Napoli,3-1,1-1
-2002-11-10,Lecce,Ternana,0-0,0-0
-2002-11-10,Messina,Livorno,2-1,1-0
-2002-11-10,Palermo,Venezia,0-2,0-0
-2002-11-10,Salernitana,Sampdoria,0-1,0-1
-2002-11-10,Triestina,Ancona,3-2,2-1
-2002-11-11,Siena,Catania,4-3,2-2
-2002-11-15,Sampdoria,Genoa,2-1,2-0
-2002-11-17,Ancona,Cosenza,1-0,0-0
-2002-11-17,Bari,Salernitana,1-1,0-1
-2002-11-17,Livorno,Ascoli,2-0,1-0
-2002-11-17,Napoli,Lecce,1-1,1-1
-2002-11-17,Ternana,Siena,1-1,0-0
-2002-11-17,Venezia,Vicenza,1-2,0-0
-2002-11-17,Verona,Triestina,1-0,1-0
-2002-11-18,Catania,Palermo,2-0,1-0
-2002-11-22,Ascoli,Ancona,1-0,1-0
-2002-11-24,Cosenza,Venezia,1-2,0-2
-2002-11-24,Lecce,Livorno,1-0,0-0
-2002-11-24,Messina,Bari,2-2,0-1
-2002-11-24,Palermo,Ternana,2-1,1-0
-2002-11-24,Salernitana,Napoli,2-0,2-0
-2002-11-24,Siena,Sampdoria,1-0,0-0
-2002-11-24,Triestina,Cagliari,3-0,2-0
-2002-11-24,Vicenza,Catania,2-1,1-0
-2002-11-25,Genoa,Verona,2-2,1-2
-2002-11-27,Cagliari,Messina,0-2,
-2002-11-29,Napoli,Palermo,0-0,0-0
-2002-12-01,Ascoli,Genoa,1-1,1-0
-2002-12-01,Bari,Ancona,0-0,0-0
-2002-12-01,Cagliari,Salernitana,2-0,0-0
-2002-12-01,Catania,Cosenza,0-2,0-1
-2002-12-01,Sampdoria,Vicenza,0-0,0-0
-2002-12-01,Ternana,Triestina,1-2,1-1
-2002-12-01,Venezia,Messina,0-2,0-1
-2002-12-01,Verona,Lecce,1-1,0-0
-2002-12-02,Livorno,Siena,1-1,0-0
-2002-12-06,Cosenza,Messina,3-3,2-3
-2002-12-08,Ancona,Cagliari,2-1,1-0
-2002-12-08,Catania,Bari,1-0,1-0
-2002-12-08,Lecce,Ascoli,2-1,1-1
-2002-12-08,Palermo,Genoa,0-0,0-0
-2002-12-08,Salernitana,Verona,1-3,1-1
-2002-12-08,Sampdoria,Ternana,1-2,1-1
-2002-12-08,Siena,Venezia,0-0,0-0
-2002-12-08,Vicenza,Livorno,0-0,0-0
-2002-12-09,Triestina,Napoli,2-1,1-0
-2002-12-13,Cagliari,Sampdoria,1-0,0-0
-2002-12-15,Ascoli,Napoli,4-0,3-0
-2002-12-15,Genoa,Ancona,4-2,1-1
-2002-12-15,Lecce,Vicenza,1-1,1-0
-2002-12-15,Livorno,Cosenza,4-2,2-1
-2002-12-15,Messina,Palermo,2-1,0-0
-2002-12-15,Salernitana,Triestina,2-2,1-1
-2002-12-15,Ternana,Bari,2-1,1-0
-2002-12-15,Venezia,Catania,2-1,1-0
-2002-12-16,Verona,Siena,1-2,0-1
-2002-12-21,Ancona,Lecce,1-3,0-2
-2002-12-21,Catania,Ternana,3-1,1-1
-2002-12-21,Napoli,Venezia,1-1,0-0
-2002-12-22,Bari,Livorno,0-3,0-1
-2002-12-22,Cosenza,Salernitana,0-0,0-0
-2002-12-22,Palermo,Ascoli,2-2,1-1
-2002-12-22,Sampdoria,Verona,3-2,3-0
-2002-12-22,Siena,Genoa,2-1,0-1
-2002-12-22,Triestina,Messina,2-1,1-1
-2002-12-22,Vicenza,Cagliari,4-2,1-1
-2003-01-06,Ascoli,Vicenza,1-4,0-2
-2003-01-06,Genoa,Ternana,1-0,1-0
-2003-01-06,Lecce,Catania,1-0,1-0
-2003-01-06,Livorno,Cagliari,1-0,1-0
-2003-01-06,Messina,Salernitana,2-0,1-0
-2003-01-06,Napoli,Ancona,1-1,0-0
-2003-01-06,Palermo,Sampdoria,0-0,0-0
-2003-01-06,Triestina,Siena,2-1,2-1
-2003-01-06,Venezia,Bari,1-1,1-1
-2003-01-06,Verona,Cosenza,1-0,0-0
-2003-01-10,Salernitana,Vicenza,0-1,0-0
-2003-01-12,Ascoli,Siena,2-1,1-1
-2003-01-12,Cagliari,Bari,1-0,0-0
-2003-01-12,Genoa,Triestina,2-2,2-1
-2003-01-12,Livorno,Catania,2-1,0-1
-2003-01-12,Messina,Sampdoria,3-3,2-2
-2003-01-12,Ternana,Napoli,1-1,1-1
-2003-01-12,Venezia,Ancona,2-4,1-2
-2003-01-12,Verona,Palermo,0-0,0-0
-2003-01-13,Lecce,Cosenza,0-0,0-0
-2003-01-17,Sampdoria,Venezia,4-0,1-0
-2003-01-19,Bari,Verona,1-1,0-0
-2003-01-19,Catania,Cagliari,2-1,1-1
-2003-01-19,Cosenza,Genoa,2-1,1-0
-2003-01-19,Napoli,Messina,1-0,1-0
-2003-01-19,Palermo,Lecce,2-0,1-0
-2003-01-19,Siena,Salernitana,3-0,2-0
-2003-01-19,Triestina,Ascoli,3-1,1-1
-2003-01-19,Vicenza,Ternana,1-0,1-0
-2003-01-20,Ancona,Livorno,1-0,0-0
-2003-01-24,Ascoli,Salernitana,3-0,1-0
-2003-01-26,Genoa,Vicenza,0-2,0-0
-2003-01-26,Lecce,Siena,1-1,0-0
-2003-01-26,Livorno,Sampdoria,1-1,0-0
-2003-01-26,Messina,Ternana,2-2,2-1
-2003-01-26,Palermo,Cosenza,1-0,0-0
-2003-01-26,Triestina,Bari,1-2,0-0
-2003-01-26,Venezia,Cagliari,3-0,3-0
-2003-01-26,Verona,Ancona,0-1,0-1
-2003-01-27,Napoli,Catania,1-0,0-0
-2003-01-31,Bari,Venezia,0-1,0-1
-2003-02-02,Ancona,Napoli,3-2,1-1
-2003-02-02,Cagliari,Livorno,1-1,0-0
-2003-02-02,Catania,Lecce,2-1,2-0
-2003-02-02,Cosenza,Verona,0-1,0-0
-2003-02-02,Salernitana,Messina,0-0,0-0
-2003-02-02,Sampdoria,Palermo,1-0,1-0
-2003-02-02,Ternana,Genoa,1-3,1-0
-2003-02-02,Vicenza,Ascoli,2-1,2-0
-2003-02-03,Siena,Triestina,1-0,0-0
-2003-02-07,Genoa,Catania,2-0,2-0
-2003-02-09,Ascoli,Bari,3-2,1-1
-2003-02-09,Livorno,Verona,1-1,1-1
-2003-02-09,Messina,Siena,0-0,0-0
-2003-02-09,Napoli,Cagliari,2-0,1-0
-2003-02-09,Palermo,Ancona,0-1,0-1
-2003-02-09,Ternana,Salernitana,4-0,2-0
-2003-02-09,Venezia,Triestina,1-0,0-0
-2003-02-09,Vicenza,Cosenza,3-0,0-0
-2003-02-10,Lecce,Sampdoria,1-0,0-0
-2003-02-21,Verona,Venezia,1-0,1-0
-2003-02-23,Ancona,Vicenza,3-1,1-1
-2003-02-23,Bari,Genoa,2-1,0-1
-2003-02-23,Cagliari,Ternana,1-1,0-1
-2003-02-23,Catania,Messina,1-1,0-0
-2003-02-23,Cosenza,Napoli,1-0,1-0
-2003-02-23,Salernitana,Lecce,2-1,0-0
-2003-02-23,Sampdoria,Ascoli,3-0,2-0
-2003-02-23,Siena,Palermo,2-1,2-0
-2003-02-24,Triestina,Livorno,1-0,1-0
-2003-02-28,Ternana,Ancona,1-0,0-0
-2003-03-02,Ascoli,Venezia,1-2,1-0
-2003-03-02,Catania,Verona,2-1,0-0
-2003-03-02,Cosenza,Sampdoria,1-3,1-0
-2003-03-02,Genoa,Cagliari,1-3,0-2
-2003-03-02,Lecce,Messina,1-1,1-1
-2003-03-02,Livorno,Salernitana,0-0,0-0
-2003-03-02,Palermo,Triestina,1-0,0-0
-2003-03-02,Vicenza,Siena,1-1,1-0
-2003-03-03,Napoli,Bari,1-1,1-0
-2003-03-07,Cagliari,Siena,2-3,1-3
-2003-03-09,Ancona,Catania,2-0,0-0
-2003-03-09,Bari,Cosenza,1-0,1-0
-2003-03-09,Livorno,Palermo,2-2,0-2
-2003-03-09,Messina,Ascoli,3-2,0-2
-2003-03-09,Salernitana,Genoa,2-2,0-2
-2003-03-09,Triestina,Vicenza,1-1,1-0
-2003-03-09,Venezia,Lecce,2-2,2-2
-2003-03-09,Verona,Ternana,0-1,0-1
-2003-03-10,Sampdoria,Napoli,2-0,1-0
-2003-03-14,Vicenza,Messina,2-1,0-1
-2003-03-16,Ascoli,Cagliari,1-1,0-0
-2003-03-16,Catania,Sampdoria,0-0,0-0
-2003-03-16,Cosenza,Triestina,1-0,1-0
-2003-03-16,Genoa,Venezia,0-0,0-0
-2003-03-16,Lecce,Bari,1-0,0-0
-2003-03-16,Napoli,Verona,0-0,0-0
-2003-03-16,Palermo,Salernitana,1-1,1-0
-2003-03-16,Ternana,Livorno,1-1,0-0
-2003-03-17,Siena,Ancona,0-0,0-0
-2003-03-21,Messina,Genoa,2-1,1-1
-2003-03-23,Ascoli,Cosenza,3-0,1-0
-2003-03-23,Bari,Siena,0-0,0-0
-2003-03-23,Livorno,Napoli,1-1,1-1
-2003-03-23,Palermo,Vicenza,1-0,1-0
-2003-03-23,Salernitana,Catania,0-0,0-0
-2003-03-23,Sampdoria,Ancona,2-1,1-0
-2003-03-23,Triestina,Lecce,0-1,0-1
-2003-03-23,Venezia,Ternana,0-0,0-0
-2003-03-24,Verona,Cagliari,1-1,0-0
-2003-03-30,Ancona,Salernitana,3-1,2-0
-2003-03-30,Cagliari,Palermo,2-2,0-1
-2003-03-30,Catania,Triestina,1-2,1-0
-2003-03-30,Lecce,Genoa,2-1,0-0
-2003-03-30,Sampdoria,Bari,1-1,1-1
-2003-03-30,Siena,Cosenza,1-0,1-0
-2003-03-30,Ternana,Ascoli,2-1,1-1
-2003-03-30,Venezia,Livorno,1-1,1-1
-2003-03-30,Verona,Messina,4-1,3-0
-2003-03-31,Napoli,Vicenza,2-1,1-1
-2003-04-04,Palermo,Bari,2-2,0-0
-2003-04-05,Ascoli,Catania,2-1,1-0
-2003-04-05,Cosenza,Ternana,0-3,0-1
-2003-04-05,Genoa,Livorno,3-1,0-0
-2003-04-05,Lecce,Cagliari,1-1,1-0
-2003-04-05,Messina,Ancona,1-1,0-0
-2003-04-05,Salernitana,Venezia,1-1,0-0
-2003-04-05,Siena,Napoli,2-0,1-0
-2003-04-05,Vicenza,Verona,4-1,1-1
-2003-04-07,Triestina,Sampdoria,2-2,2-0
-2003-04-11,Bari,Vicenza,1-1,1-0
-2003-04-12,Ancona,Triestina,3-0,2-0
-2003-04-12,Cagliari,Cosenza,3-0,1-0
-2003-04-12,Catania,Siena,1-1,1-1
-2003-04-12,Livorno,Messina,4-1,2-0
-2003-04-12,Napoli,Genoa,2-2,1-1
-2003-04-12,Sampdoria,Salernitana,1-0,1-0
-2003-04-12,Venezia,Palermo,0-2,0-1
-2003-04-12,Verona,Ascoli,1-0,1-0
-2003-04-14,Ternana,Lecce,0-0,0-0
-2003-04-19,Ascoli,Livorno,2-1,0-0
-2003-04-19,Cosenza,Ancona,0-0,0-0
-2003-04-19,Genoa,Sampdoria,0-2,0-2
-2003-04-19,Lecce,Napoli,1-1,0-1
-2003-04-19,Messina,Cagliari,2-2,1-1
-2003-04-19,Palermo,Catania,3-3,1-1
-2003-04-19,Salernitana,Bari,1-2,1-1
-2003-04-19,Siena,Ternana,0-1,0-1
-2003-04-19,Triestina,Verona,3-1,1-0
-2003-04-19,Vicenza,Venezia,2-1,1-1
-2003-04-25,Cagliari,Triestina,2-0,0-0
-2003-04-26,Bari,Messina,1-0,0-0
-2003-04-26,Catania,Vicenza,2-1,1-0
-2003-04-26,Livorno,Lecce,1-2,0-0
-2003-04-26,Napoli,Salernitana,2-1,1-1
-2003-04-26,Ternana,Palermo,0-0,0-0
-2003-04-26,Venezia,Cosenza,0-2,0-1
-2003-04-26,Verona,Genoa,2-2,0-0
-2003-04-27,Ancona,Ascoli,1-1,1-1
-2003-04-28,Sampdoria,Siena,0-0,
-2003-05-02,Palermo,Napoli,2-1,2-0
-2003-05-03,Ancona,Bari,1-2,0-1
-2003-05-03,Cosenza,Catania,3-1,2-0
-2003-05-03,Genoa,Ascoli,1-2,1-0
-2003-05-03,Lecce,Verona,1-1,1-0
-2003-05-03,Messina,Venezia,1-1,1-1
-2003-05-03,Salernitana,Cagliari,1-2,0-1
-2003-05-03,Triestina,Ternana,4-3,2-1
-2003-05-03,Vicenza,Sampdoria,1-2,0-1
-2003-05-05,Siena,Livorno,2-0,1-0
-2003-05-09,Bari,Catania,2-1,2-1
-2003-05-10,Ascoli,Lecce,1-0,1-0
-2003-05-10,Cagliari,Ancona,2-1,0-0
-2003-05-10,Genoa,Palermo,1-1,0-1
-2003-05-10,Livorno,Vicenza,2-2,0-1
-2003-05-10,Messina,Cosenza,1-0,1-0
-2003-05-10,Napoli,Triestina,2-1,1-0
-2003-05-10,Venezia,Siena,1-3,0-1
-2003-05-10,Verona,Salernitana,2-0,1-0
-2003-05-12,Ternana,Sampdoria,1-1,0-0
-2003-05-17,Ancona,Genoa,1-0,0-0
-2003-05-17,Bari,Ternana,2-1,1-0
-2003-05-17,Catania,Venezia,2-0,1-0
-2003-05-17,Cosenza,Livorno,0-2,0-1
-2003-05-17,Napoli,Ascoli,2-0,1-0
-2003-05-17,Palermo,Messina,2-1,1-1
-2003-05-17,Sampdoria,Cagliari,3-1,2-0
-2003-05-17,Siena,Verona,0-0,0-0
-2003-05-17,Triestina,Salernitana,2-0,2-0
-2003-05-17,Vicenza,Lecce,1-1,0-0
-2003-05-24,Ascoli,Palermo,1-2,0-1
-2003-05-24,Cagliari,Vicenza,3-0,1-0
-2003-05-24,Genoa,Siena,1-3,1-2
-2003-05-24,Lecce,Ancona,2-1,1-0
-2003-05-24,Livorno,Bari,2-2,1-1
-2003-05-24,Messina,Triestina,2-2,1-1
-2003-05-24,Salernitana,Cosenza,1-2,1-2
-2003-05-24,Ternana,Catania,3-1,1-1
-2003-05-24,Venezia,Napoli,2-1,1-1
-2003-05-24,Verona,Sampdoria,0-0,0-0
-2003-05-31,Ancona,Venezia,2-1,1-0
-2003-05-31,Bari,Cagliari,0-0,0-0
-2003-05-31,Catania,Livorno,3-2,1-1
-2003-05-31,Cosenza,Lecce,1-2,1-1
-2003-05-31,Napoli,Ternana,1-0,1-0
-2003-05-31,Palermo,Verona,2-0,2-0
-2003-05-31,Sampdoria,Messina,1-1,0-1
-2003-05-31,Siena,Ascoli,4-0,0-0
-2003-05-31,Triestina,Genoa,1-0,1-0
-2003-05-31,Vicenza,Salernitana,2-2,0-0
-2003-06-07,Ascoli,Triestina,2-2,1-2
-2003-06-07,Cagliari,Catania,1-2,0-1
-2003-06-07,Genoa,Cosenza,3-0,1-0
-2003-06-07,Lecce,Palermo,3-0,1-0
-2003-06-07,Livorno,Ancona,1-1,0-0
-2003-06-07,Messina,Napoli,1-1,1-1
-2003-06-07,Salernitana,Siena,1-1,0-0
-2003-06-07,Ternana,Vicenza,1-1,1-1
-2003-06-07,Venezia,Sampdoria,3-1,1-0
-2003-06-07,Verona,Bari,1-1,1-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 14 Sep 2002 (36),Ancona (1),4-2,3-1,Palermo (1)
+?,(Sat) 14 Sep 2002 (36),Bari (1),2-0,1-0,Ascoli (1)
+?,(Sat) 14 Sep 2002 (36),Cagliari (1),2-2,1-2,Napoli (1)
+?,(Sat) 14 Sep 2002 (36),Catania (1),3-2,3-0,Genoa (1)
+?,(Sat) 14 Sep 2002 (36),Cosenza (1),2-1,1-1,Vicenza (1)
+?,(Sat) 14 Sep 2002 (36),Salernitana (1),0-3,0-1,Ternana (1)
+?,(Sat) 14 Sep 2002 (36),Sampdoria (1),4-2,1-1,Lecce (1)
+?,(Sat) 14 Sep 2002 (36),Siena (1),1-0,0-0,Messina (1)
+?,(Sat) 14 Sep 2002 (36),Triestina (1),1-2,0-1,Venezia (1)
+?,(Sat) 14 Sep 2002 (36),Verona (1),0-1,0-1,Livorno (1)
+?,(Sat) 21 Sep 2002 (37),Ascoli (2),0-0,0-0,Sampdoria (2)
+?,(Sat) 21 Sep 2002 (37),Genoa (2),0-0,0-0,Bari (2)
+?,(Sat) 21 Sep 2002 (37),Lecce (2),2-1,0-0,Salernitana (2)
+?,(Sat) 21 Sep 2002 (37),Livorno (2),2-0,0-0,Triestina (2)
+?,(Sat) 21 Sep 2002 (37),Messina (2),3-3,1-1,Catania (2)
+?,(Sat) 21 Sep 2002 (37),Napoli (2),1-2,1-2,Cosenza (2)
+?,(Sat) 21 Sep 2002 (37),Palermo (2),1-0,1-0,Siena (2)
+?,(Sat) 21 Sep 2002 (37),Ternana (2),0-1,0-0,Cagliari (2)
+?,(Sat) 21 Sep 2002 (37),Venezia (2),1-1,1-0,Verona (2)
+?,(Sat) 21 Sep 2002 (37),Vicenza (2),1-1,1-1,Ancona (2)
+?,(Sat) 28 Sep 2002 (38),Ancona (3),1-1,0-0,Ternana (3)
+?,(Sat) 28 Sep 2002 (38),Bari (3),0-1,0-0,Napoli (3)
+?,(Sat) 28 Sep 2002 (38),Cagliari (3),1-0,1-0,Genoa (3)
+?,(Sat) 28 Sep 2002 (38),Messina (3),0-2,0-0,Lecce (3)
+?,(Sat) 28 Sep 2002 (38),Salernitana (3),2-1,0-0,Livorno (3)
+?,(Sat) 28 Sep 2002 (38),Sampdoria (3),2-1,0-0,Cosenza (3)
+?,(Sat) 28 Sep 2002 (38),Siena (3),0-0,0-0,Vicenza (3)
+?,(Sat) 28 Sep 2002 (38),Triestina (3),2-1,1-0,Palermo (3)
+?,(Sat) 28 Sep 2002 (38),Venezia (3),1-1,0-1,Ascoli (3)
+?,(Sat) 28 Sep 2002 (38),Verona (3),2-0,2-0,Catania (3)
+?,(Sat) 5 Oct 2002 (39),Ascoli (4),1-0,0-0,Messina (4)
+?,(Sat) 5 Oct 2002 (39),Catania (4),0-0,0-0,Ancona (4)
+?,(Sat) 5 Oct 2002 (39),Cosenza (4),0-2,0-1,Bari (4)
+?,(Sat) 5 Oct 2002 (39),Genoa (4),3-0,2-0,Salernitana (4)
+?,(Sat) 5 Oct 2002 (39),Lecce (4),3-1,1-1,Venezia (4)
+?,(Sat) 5 Oct 2002 (39),Napoli (4),1-1,0-1,Sampdoria (4)
+?,(Sat) 5 Oct 2002 (39),Palermo (4),1-0,0-0,Livorno (4)
+?,(Sat) 5 Oct 2002 (39),Siena (4),1-0,1-0,Cagliari (4)
+?,(Sat) 5 Oct 2002 (39),Ternana (4),1-0,1-0,Verona (4)
+?,(Sat) 5 Oct 2002 (39),Vicenza (4),1-1,0-1,Triestina (4)
+?,(Sun) 13 Oct 2002 (40),Ancona (5),1-1,1-1,Siena (5)
+?,(Sun) 13 Oct 2002 (40),Bari (5),1-1,0-0,Lecce (5)
+?,(Sun) 13 Oct 2002 (40),Cagliari (5),1-0,0-0,Ascoli (5)
+?,(Sun) 13 Oct 2002 (40),Livorno (5),1-2,0-2,Ternana (5)
+?,(Sun) 13 Oct 2002 (40),Messina (5),3-1,2-1,Vicenza (5)
+?,(Sun) 13 Oct 2002 (40),Salernitana (5),3-1,0-0,Palermo (5)
+?,(Sun) 13 Oct 2002 (40),Sampdoria (5),1-0,0-0,Catania (5)
+?,(Sun) 13 Oct 2002 (40),Triestina (5),1-0,1-0,Cosenza (5)
+?,(Sun) 13 Oct 2002 (40),Venezia (5),0-1,0-0,Genoa (5)
+?,(Sun) 13 Oct 2002 (40),Verona (5),2-2,1-1,Napoli (5)
+?,(Sat) 19 Oct 2002 (41),Ancona (6),1-1,1-1,Sampdoria (6)
+?,(Sat) 19 Oct 2002 (41),Cagliari (6),2-1,1-0,Verona (6)
+?,(Sat) 19 Oct 2002 (41),Catania (6),2-1,1-0,Salernitana (6)
+?,(Sat) 19 Oct 2002 (41),Cosenza (6),1-0,0-0,Ascoli (6)
+?,(Sat) 19 Oct 2002 (41),Genoa (6),1-1,1-1,Messina (6)
+?,(Sat) 19 Oct 2002 (41),Lecce (6),1-1,1-1,Triestina (6)
+?,(Sat) 19 Oct 2002 (41),Napoli (6),0-1,0-1,Livorno (6)
+?,(Sat) 19 Oct 2002 (41),Siena (6),1-1,1-1,Bari (6)
+?,(Sat) 19 Oct 2002 (41),Ternana (6),1-1,1-0,Venezia (6)
+?,(Sat) 19 Oct 2002 (41),Vicenza (6),1-3,0-1,Palermo (6)
+?,(Sat) 26 Oct 2002 (42),Ascoli (7),2-0,1-0,Ternana (7)
+?,(Sat) 26 Oct 2002 (42),Bari (7),1-1,1-0,Sampdoria (7)
+?,(Sat) 26 Oct 2002 (42),Cosenza (7),0-0,0-0,Siena (7)
+?,(Sat) 26 Oct 2002 (42),Genoa (7),0-0,0-0,Lecce (7)
+?,(Sat) 26 Oct 2002 (42),Livorno (7),2-1,2-0,Venezia (7)
+?,(Sat) 26 Oct 2002 (42),Messina (7),2-1,2-0,Verona (7)
+?,(Sat) 26 Oct 2002 (42),Palermo (7),1-1,1-0,Cagliari (7)
+?,(Sat) 26 Oct 2002 (42),Triestina (7),4-0,2-0,Catania (7)
+?,(Mon) 28 Oct 2002 (43),Salernitana (7),0-2,0-0,Ancona (7)
+?,(Mon) 28 Oct 2002 (43),Vicenza (7),3-3,1-2,Napoli (7)
+?,(Fri) 1 Nov 2002 (43),Cagliari (8),1-1,1-0,Lecce (8)
+?,(Fri) 1 Nov 2002 (43),Livorno (8),2-0,0-0,Genoa (8)
+?,(Sat) 2 Nov 2002 (43),Ancona (8),2-1,2-1,Messina (8)
+?,(Sat) 2 Nov 2002 (43),Bari (8),0-1,0-1,Palermo (8)
+?,(Sat) 2 Nov 2002 (43),Catania (8),1-1,0-0,Ascoli (8)
+?,(Sat) 2 Nov 2002 (43),Napoli (8),1-2,1-0,Siena (8)
+?,(Sat) 2 Nov 2002 (43),Sampdoria (8),1-1,1-1,Triestina (8)
+?,(Sat) 2 Nov 2002 (43),Ternana (8),1-0,1-0,Cosenza (8)
+?,(Sat) 2 Nov 2002 (43),Venezia (8),1-0,0-0,Salernitana (8)
+?,(Sat) 2 Nov 2002 (43),Verona (8),4-2,3-1,Vicenza (8)
+?,(Tue) 5 Nov 2002 (44),Ancona (9),1-1,1-0,Verona (9)
+?,(Tue) 5 Nov 2002 (44),Bari (9),0-0,0-0,Triestina (9)
+?,(Tue) 5 Nov 2002 (44),Cagliari (9),1-0,0-0,Venezia (9)
+?,(Tue) 5 Nov 2002 (44),Catania (9),0-2,0-1,Napoli (9)
+?,(Tue) 5 Nov 2002 (44),Cosenza (9),1-2,0-1,Palermo (9)
+?,(Tue) 5 Nov 2002 (44),Salernitana (9),1-2,1-1,Ascoli (9)
+?,(Tue) 5 Nov 2002 (44),Siena (9),0-0,0-0,Lecce (9)
+?,(Tue) 5 Nov 2002 (44),Ternana (9),1-0,1-0,Messina (9)
+?,(Tue) 5 Nov 2002 (44),Vicenza (9),1-0,1-0,Genoa (9)
+?,(Thu) 7 Nov 2002 (44),Sampdoria (9),2-0,1-0,Livorno (9)
+?,(Sat) 9 Nov 2002 (44),Vicenza (10),1-1,1-1,Bari (10)
+?,(Sun) 10 Nov 2002 (44),Ascoli (10),0-0,0-0,Verona (10)
+?,(Sun) 10 Nov 2002 (44),Cosenza (10),1-1,1-0,Cagliari (10)
+?,(Sun) 10 Nov 2002 (44),Genoa (10),3-1,1-1,Napoli (10)
+?,(Sun) 10 Nov 2002 (44),Lecce (10),0-0,0-0,Ternana (10)
+?,(Sun) 10 Nov 2002 (44),Messina (10),2-1,1-0,Livorno (10)
+?,(Sun) 10 Nov 2002 (44),Palermo (10),0-2,0-0,Venezia (10)
+?,(Sun) 10 Nov 2002 (44),Salernitana (10),0-1,0-1,Sampdoria (10)
+?,(Sun) 10 Nov 2002 (44),Triestina (10),3-2,2-1,Ancona (10)
+?,(Mon) 11 Nov 2002 (45),Siena (10),4-3,2-2,Catania (10)
+?,(Fri) 15 Nov 2002 (45),Sampdoria (11),2-1,2-0,Genoa (11)
+?,(Sun) 17 Nov 2002 (45),Ancona (11),1-0,0-0,Cosenza (11)
+?,(Sun) 17 Nov 2002 (45),Bari (11),1-1,0-1,Salernitana (11)
+?,(Sun) 17 Nov 2002 (45),Livorno (11),2-0,1-0,Ascoli (11)
+?,(Sun) 17 Nov 2002 (45),Napoli (11),1-1,1-1,Lecce (11)
+?,(Sun) 17 Nov 2002 (45),Ternana (11),1-1,0-0,Siena (11)
+?,(Sun) 17 Nov 2002 (45),Venezia (11),1-2,0-0,Vicenza (11)
+?,(Sun) 17 Nov 2002 (45),Verona (11),1-0,1-0,Triestina (11)
+?,(Mon) 18 Nov 2002 (46),Catania (11),2-0,1-0,Palermo (11)
+?,(Fri) 22 Nov 2002 (46),Ascoli (12),1-0,1-0,Ancona (12)
+?,(Sun) 24 Nov 2002 (46),Cosenza (12),1-2,0-2,Venezia (12)
+?,(Sun) 24 Nov 2002 (46),Lecce (12),1-0,0-0,Livorno (12)
+?,(Sun) 24 Nov 2002 (46),Messina (11),2-2,0-1,Bari (12)
+?,(Sun) 24 Nov 2002 (46),Palermo (12),2-1,1-0,Ternana (12)
+?,(Sun) 24 Nov 2002 (46),Salernitana (12),2-0,2-0,Napoli (12)
+?,(Sun) 24 Nov 2002 (46),Siena (12),1-0,0-0,Sampdoria (12)
+?,(Sun) 24 Nov 2002 (46),Triestina (12),3-0,2-0,Cagliari (11)
+?,(Sun) 24 Nov 2002 (46),Vicenza (12),2-1,1-0,Catania (12)
+?,(Mon) 25 Nov 2002 (47),Genoa (12),2-2,1-2,Verona (12)
+?,(Wed) 27 Nov 2002 (47),Cagliari (12),0-2,?,Messina (12)
+?,(Fri) 29 Nov 2002 (47),Napoli (13),0-0,0-0,Palermo (13)
+?,(Sun) 1 Dec 2002 (47),Ascoli (13),1-1,1-0,Genoa (13)
+?,(Sun) 1 Dec 2002 (47),Bari (13),0-0,0-0,Ancona (13)
+?,(Sun) 1 Dec 2002 (47),Cagliari (13),2-0,0-0,Salernitana (13)
+?,(Sun) 1 Dec 2002 (47),Catania (13),0-2,0-1,Cosenza (13)
+?,(Sun) 1 Dec 2002 (47),Sampdoria (13),0-0,0-0,Vicenza (13)
+?,(Sun) 1 Dec 2002 (47),Ternana (13),1-2,1-1,Triestina (13)
+?,(Sun) 1 Dec 2002 (47),Venezia (13),0-2,0-1,Messina (13)
+?,(Sun) 1 Dec 2002 (47),Verona (13),1-1,0-0,Lecce (13)
+?,(Mon) 2 Dec 2002 (48),Livorno (13),1-1,0-0,Siena (13)
+?,(Fri) 6 Dec 2002 (48),Cosenza (14),3-3,2-3,Messina (14)
+?,(Sun) 8 Dec 2002 (48),Ancona (14),2-1,1-0,Cagliari (14)
+?,(Sun) 8 Dec 2002 (48),Catania (14),1-0,1-0,Bari (14)
+?,(Sun) 8 Dec 2002 (48),Lecce (14),2-1,1-1,Ascoli (14)
+?,(Sun) 8 Dec 2002 (48),Palermo (14),0-0,0-0,Genoa (14)
+?,(Sun) 8 Dec 2002 (48),Salernitana (14),1-3,1-1,Verona (14)
+?,(Sun) 8 Dec 2002 (48),Sampdoria (14),1-2,1-1,Ternana (14)
+?,(Sun) 8 Dec 2002 (48),Siena (14),0-0,0-0,Venezia (14)
+?,(Sun) 8 Dec 2002 (48),Vicenza (14),0-0,0-0,Livorno (14)
+?,(Mon) 9 Dec 2002 (49),Triestina (14),2-1,1-0,Napoli (14)
+?,(Fri) 13 Dec 2002 (49),Cagliari (15),1-0,0-0,Sampdoria (15)
+?,(Sun) 15 Dec 2002 (49),Ascoli (15),4-0,3-0,Napoli (15)
+?,(Sun) 15 Dec 2002 (49),Genoa (15),4-2,1-1,Ancona (15)
+?,(Sun) 15 Dec 2002 (49),Lecce (15),1-1,1-0,Vicenza (15)
+?,(Sun) 15 Dec 2002 (49),Livorno (15),4-2,2-1,Cosenza (15)
+?,(Sun) 15 Dec 2002 (49),Messina (15),2-1,0-0,Palermo (15)
+?,(Sun) 15 Dec 2002 (49),Salernitana (15),2-2,1-1,Triestina (15)
+?,(Sun) 15 Dec 2002 (49),Ternana (15),2-1,1-0,Bari (15)
+?,(Sun) 15 Dec 2002 (49),Venezia (15),2-1,1-0,Catania (15)
+?,(Mon) 16 Dec 2002 (50),Verona (15),1-2,0-1,Siena (15)
+?,(Sat) 21 Dec 2002 (50),Ancona (16),1-3,0-2,Lecce (16)
+?,(Sat) 21 Dec 2002 (50),Catania (16),3-1,1-1,Ternana (16)
+?,(Sat) 21 Dec 2002 (50),Napoli (16),1-1,0-0,Venezia (16)
+?,(Sun) 22 Dec 2002 (50),Bari (16),0-3,0-1,Livorno (16)
+?,(Sun) 22 Dec 2002 (50),Cosenza (16),0-0,0-0,Salernitana (16)
+?,(Sun) 22 Dec 2002 (50),Palermo (16),2-2,1-1,Ascoli (16)
+?,(Sun) 22 Dec 2002 (50),Sampdoria (16),3-2,3-0,Verona (16)
+?,(Sun) 22 Dec 2002 (50),Siena (16),2-1,0-1,Genoa (16)
+?,(Sun) 22 Dec 2002 (50),Triestina (16),2-1,1-1,Messina (16)
+?,(Sun) 22 Dec 2002 (50),Vicenza (16),4-2,1-1,Cagliari (16)
+?,(Mon) 6 Jan 2003 (1),Ascoli (17),1-4,0-2,Vicenza (17)
+?,(Mon) 6 Jan 2003 (1),Genoa (17),1-0,1-0,Ternana (17)
+?,(Mon) 6 Jan 2003 (1),Lecce (17),1-0,1-0,Catania (17)
+?,(Mon) 6 Jan 2003 (1),Livorno (17),1-0,1-0,Cagliari (17)
+?,(Mon) 6 Jan 2003 (1),Messina (17),2-0,1-0,Salernitana (17)
+?,(Mon) 6 Jan 2003 (1),Napoli (17),1-1,0-0,Ancona (17)
+?,(Mon) 6 Jan 2003 (1),Palermo (17),0-0,0-0,Sampdoria (17)
+?,(Mon) 6 Jan 2003 (1),Triestina (17),2-1,2-1,Siena (17)
+?,(Mon) 6 Jan 2003 (1),Venezia (17),1-1,1-1,Bari (17)
+?,(Mon) 6 Jan 2003 (1),Verona (17),1-0,0-0,Cosenza (17)
+?,(Fri) 10 Jan 2003 (1),Salernitana (18),0-1,0-0,Vicenza (18)
+?,(Sun) 12 Jan 2003 (1),Ascoli (18),2-1,1-1,Siena (18)
+?,(Sun) 12 Jan 2003 (1),Cagliari (18),1-0,0-0,Bari (18)
+?,(Sun) 12 Jan 2003 (1),Genoa (18),2-2,2-1,Triestina (18)
+?,(Sun) 12 Jan 2003 (1),Livorno (18),2-1,0-1,Catania (18)
+?,(Sun) 12 Jan 2003 (1),Messina (18),3-3,2-2,Sampdoria (18)
+?,(Sun) 12 Jan 2003 (1),Ternana (18),1-1,1-1,Napoli (18)
+?,(Sun) 12 Jan 2003 (1),Venezia (18),2-4,1-2,Ancona (18)
+?,(Sun) 12 Jan 2003 (1),Verona (18),0-0,0-0,Palermo (18)
+?,(Mon) 13 Jan 2003 (2),Lecce (18),0-0,0-0,Cosenza (18)
+?,(Fri) 17 Jan 2003 (2),Sampdoria (19),4-0,1-0,Venezia (19)
+?,(Sun) 19 Jan 2003 (2),Bari (19),1-1,0-0,Verona (19)
+?,(Sun) 19 Jan 2003 (2),Catania (19),2-1,1-1,Cagliari (19)
+?,(Sun) 19 Jan 2003 (2),Cosenza (19),2-1,1-0,Genoa (19)
+?,(Sun) 19 Jan 2003 (2),Napoli (19),1-0,1-0,Messina (19)
+?,(Sun) 19 Jan 2003 (2),Palermo (19),2-0,1-0,Lecce (19)
+?,(Sun) 19 Jan 2003 (2),Siena (19),3-0,2-0,Salernitana (19)
+?,(Sun) 19 Jan 2003 (2),Triestina (19),3-1,1-1,Ascoli (19)
+?,(Sun) 19 Jan 2003 (2),Vicenza (19),1-0,1-0,Ternana (19)
+?,(Mon) 20 Jan 2003 (3),Ancona (19),1-0,0-0,Livorno (19)
+?,(Fri) 24 Jan 2003 (3),Ascoli (20),3-0,1-0,Salernitana (20)
+?,(Sun) 26 Jan 2003 (3),Genoa (20),0-2,0-0,Vicenza (20)
+?,(Sun) 26 Jan 2003 (3),Lecce (20),1-1,0-0,Siena (20)
+?,(Sun) 26 Jan 2003 (3),Livorno (20),1-1,0-0,Sampdoria (20)
+?,(Sun) 26 Jan 2003 (3),Messina (20),2-2,2-1,Ternana (20)
+?,(Sun) 26 Jan 2003 (3),Palermo (20),1-0,0-0,Cosenza (20)
+?,(Sun) 26 Jan 2003 (3),Triestina (20),1-2,0-0,Bari (20)
+?,(Sun) 26 Jan 2003 (3),Venezia (20),3-0,3-0,Cagliari (20)
+?,(Sun) 26 Jan 2003 (3),Verona (20),0-1,0-1,Ancona (20)
+?,(Mon) 27 Jan 2003 (4),Napoli (20),1-0,0-0,Catania (20)
+?,(Fri) 31 Jan 2003 (4),Bari (21),0-1,0-1,Venezia (21)
+?,(Sun) 2 Feb 2003 (4),Ancona (21),3-2,1-1,Napoli (21)
+?,(Sun) 2 Feb 2003 (4),Cagliari (21),1-1,0-0,Livorno (21)
+?,(Sun) 2 Feb 2003 (4),Catania (21),2-1,2-0,Lecce (21)
+?,(Sun) 2 Feb 2003 (4),Cosenza (21),0-1,0-0,Verona (21)
+?,(Sun) 2 Feb 2003 (4),Salernitana (21),0-0,0-0,Messina (21)
+?,(Sun) 2 Feb 2003 (4),Sampdoria (21),1-0,1-0,Palermo (21)
+?,(Sun) 2 Feb 2003 (4),Ternana (21),1-3,1-0,Genoa (21)
+?,(Sun) 2 Feb 2003 (4),Vicenza (21),2-1,2-0,Ascoli (21)
+?,(Mon) 3 Feb 2003 (5),Siena (21),1-0,0-0,Triestina (21)
+?,(Fri) 7 Feb 2003 (5),Genoa (22),2-0,2-0,Catania (22)
+?,(Sun) 9 Feb 2003 (5),Ascoli (22),3-2,1-1,Bari (22)
+?,(Sun) 9 Feb 2003 (5),Livorno (22),1-1,1-1,Verona (22)
+?,(Sun) 9 Feb 2003 (5),Messina (22),0-0,0-0,Siena (22)
+?,(Sun) 9 Feb 2003 (5),Napoli (22),2-0,1-0,Cagliari (22)
+?,(Sun) 9 Feb 2003 (5),Palermo (22),0-1,0-1,Ancona (22)
+?,(Sun) 9 Feb 2003 (5),Ternana (22),4-0,2-0,Salernitana (22)
+?,(Sun) 9 Feb 2003 (5),Venezia (22),1-0,0-0,Triestina (22)
+?,(Sun) 9 Feb 2003 (5),Vicenza (22),3-0,0-0,Cosenza (22)
+?,(Mon) 10 Feb 2003 (6),Lecce (22),1-0,0-0,Sampdoria (22)
+?,(Fri) 21 Feb 2003 (7),Verona (23),1-0,1-0,Venezia (23)
+?,(Sun) 23 Feb 2003 (7),Ancona (23),3-1,1-1,Vicenza (23)
+?,(Sun) 23 Feb 2003 (7),Bari (23),2-1,0-1,Genoa (23)
+?,(Sun) 23 Feb 2003 (7),Cagliari (23),1-1,0-1,Ternana (23)
+?,(Sun) 23 Feb 2003 (7),Catania (23),1-1,0-0,Messina (23)
+?,(Sun) 23 Feb 2003 (7),Cosenza (23),1-0,1-0,Napoli (23)
+?,(Sun) 23 Feb 2003 (7),Salernitana (23),2-1,0-0,Lecce (23)
+?,(Sun) 23 Feb 2003 (7),Sampdoria (23),3-0,2-0,Ascoli (23)
+?,(Sun) 23 Feb 2003 (7),Siena (23),2-1,2-0,Palermo (23)
+?,(Mon) 24 Feb 2003 (8),Triestina (23),1-0,1-0,Livorno (23)
+?,(Fri) 28 Feb 2003 (8),Ternana (24),1-0,0-0,Ancona (24)
+?,(Sun) 2 Mar 2003 (8),Ascoli (24),1-2,1-0,Venezia (24)
+?,(Sun) 2 Mar 2003 (8),Catania (24),2-1,0-0,Verona (24)
+?,(Sun) 2 Mar 2003 (8),Cosenza (24),1-3,1-0,Sampdoria (24)
+?,(Sun) 2 Mar 2003 (8),Genoa (24),1-3,0-2,Cagliari (24)
+?,(Sun) 2 Mar 2003 (8),Lecce (24),1-1,1-1,Messina (24)
+?,(Sun) 2 Mar 2003 (8),Livorno (24),0-0,0-0,Salernitana (24)
+?,(Sun) 2 Mar 2003 (8),Palermo (24),1-0,0-0,Triestina (24)
+?,(Sun) 2 Mar 2003 (8),Vicenza (24),1-1,1-0,Siena (24)
+?,(Mon) 3 Mar 2003 (9),Napoli (24),1-1,1-0,Bari (24)
+?,(Fri) 7 Mar 2003 (9),Cagliari (25),2-3,1-3,Siena (25)
+?,(Sun) 9 Mar 2003 (9),Ancona (25),2-0,0-0,Catania (25)
+?,(Sun) 9 Mar 2003 (9),Bari (25),1-0,1-0,Cosenza (25)
+?,(Sun) 9 Mar 2003 (9),Livorno (25),2-2,0-2,Palermo (25)
+?,(Sun) 9 Mar 2003 (9),Messina (25),3-2,0-2,Ascoli (25)
+?,(Sun) 9 Mar 2003 (9),Salernitana (25),2-2,0-2,Genoa (25)
+?,(Sun) 9 Mar 2003 (9),Triestina (25),1-1,1-0,Vicenza (25)
+?,(Sun) 9 Mar 2003 (9),Venezia (25),2-2,2-2,Lecce (25)
+?,(Sun) 9 Mar 2003 (9),Verona (25),0-1,0-1,Ternana (25)
+?,(Mon) 10 Mar 2003 (10),Sampdoria (25),2-0,1-0,Napoli (25)
+?,(Fri) 14 Mar 2003 (10),Vicenza (26),2-1,0-1,Messina (26)
+?,(Sun) 16 Mar 2003 (10),Ascoli (26),1-1,0-0,Cagliari (26)
+?,(Sun) 16 Mar 2003 (10),Catania (26),0-0,0-0,Sampdoria (26)
+?,(Sun) 16 Mar 2003 (10),Cosenza (26),1-0,1-0,Triestina (26)
+?,(Sun) 16 Mar 2003 (10),Genoa (26),0-0,0-0,Venezia (26)
+?,(Sun) 16 Mar 2003 (10),Lecce (26),1-0,0-0,Bari (26)
+?,(Sun) 16 Mar 2003 (10),Napoli (26),0-0,0-0,Verona (26)
+?,(Sun) 16 Mar 2003 (10),Palermo (26),1-1,1-0,Salernitana (26)
+?,(Sun) 16 Mar 2003 (10),Ternana (26),1-1,0-0,Livorno (26)
+?,(Mon) 17 Mar 2003 (11),Siena (26),0-0,0-0,Ancona (26)
+?,(Fri) 21 Mar 2003 (11),Messina (27),2-1,1-1,Genoa (27)
+?,(Sun) 23 Mar 2003 (11),Ascoli (27),3-0,1-0,Cosenza (27)
+?,(Sun) 23 Mar 2003 (11),Bari (27),0-0,0-0,Siena (27)
+?,(Sun) 23 Mar 2003 (11),Livorno (27),1-1,1-1,Napoli (27)
+?,(Sun) 23 Mar 2003 (11),Palermo (27),1-0,1-0,Vicenza (27)
+?,(Sun) 23 Mar 2003 (11),Salernitana (27),0-0,0-0,Catania (27)
+?,(Sun) 23 Mar 2003 (11),Sampdoria (27),2-1,1-0,Ancona (27)
+?,(Sun) 23 Mar 2003 (11),Triestina (27),0-1,0-1,Lecce (27)
+?,(Sun) 23 Mar 2003 (11),Venezia (27),0-0,0-0,Ternana (27)
+?,(Mon) 24 Mar 2003 (12),Verona (27),1-1,0-0,Cagliari (27)
+?,(Sun) 30 Mar 2003 (12),Ancona (28),3-1,2-0,Salernitana (28)
+?,(Sun) 30 Mar 2003 (12),Cagliari (28),2-2,0-1,Palermo (28)
+?,(Sun) 30 Mar 2003 (12),Catania (28),1-2,1-0,Triestina (28)
+?,(Sun) 30 Mar 2003 (12),Lecce (28),2-1,0-0,Genoa (28)
+?,(Sun) 30 Mar 2003 (12),Sampdoria (28),1-1,1-1,Bari (28)
+?,(Sun) 30 Mar 2003 (12),Siena (28),1-0,1-0,Cosenza (28)
+?,(Sun) 30 Mar 2003 (12),Ternana (28),2-1,1-1,Ascoli (28)
+?,(Sun) 30 Mar 2003 (12),Venezia (28),1-1,1-1,Livorno (28)
+?,(Sun) 30 Mar 2003 (12),Verona (28),4-1,3-0,Messina (28)
+?,(Mon) 31 Mar 2003 (13),Napoli (28),2-1,1-1,Vicenza (28)
+?,(Fri) 4 Apr 2003 (13),Palermo (29),2-2,0-0,Bari (29)
+?,(Sat) 5 Apr 2003 (13),Ascoli (29),2-1,1-0,Catania (29)
+?,(Sat) 5 Apr 2003 (13),Cosenza (29),0-3,0-1,Ternana (29)
+?,(Sat) 5 Apr 2003 (13),Genoa (29),3-1,0-0,Livorno (29)
+?,(Sat) 5 Apr 2003 (13),Lecce (29),1-1,1-0,Cagliari (29)
+?,(Sat) 5 Apr 2003 (13),Messina (29),1-1,0-0,Ancona (29)
+?,(Sat) 5 Apr 2003 (13),Salernitana (29),1-1,0-0,Venezia (29)
+?,(Sat) 5 Apr 2003 (13),Siena (29),2-0,1-0,Napoli (29)
+?,(Sat) 5 Apr 2003 (13),Vicenza (29),4-1,1-1,Verona (29)
+?,(Mon) 7 Apr 2003 (14),Triestina (29),2-2,2-0,Sampdoria (29)
+?,(Fri) 11 Apr 2003 (14),Bari (30),1-1,1-0,Vicenza (30)
+?,(Sat) 12 Apr 2003 (14),Ancona (30),3-0,2-0,Triestina (30)
+?,(Sat) 12 Apr 2003 (14),Cagliari (30),3-0,1-0,Cosenza (30)
+?,(Sat) 12 Apr 2003 (14),Catania (30),1-1,1-1,Siena (30)
+?,(Sat) 12 Apr 2003 (14),Livorno (30),4-1,2-0,Messina (30)
+?,(Sat) 12 Apr 2003 (14),Napoli (30),2-2,1-1,Genoa (30)
+?,(Sat) 12 Apr 2003 (14),Sampdoria (30),1-0,1-0,Salernitana (30)
+?,(Sat) 12 Apr 2003 (14),Venezia (30),0-2,0-1,Palermo (30)
+?,(Sat) 12 Apr 2003 (14),Verona (30),1-0,1-0,Ascoli (30)
+?,(Mon) 14 Apr 2003 (15),Ternana (30),0-0,0-0,Lecce (30)
+?,(Sat) 19 Apr 2003 (15),Ascoli (31),2-1,0-0,Livorno (31)
+?,(Sat) 19 Apr 2003 (15),Cosenza (31),0-0,0-0,Ancona (31)
+?,(Sat) 19 Apr 2003 (15),Genoa (31),0-2,0-2,Sampdoria (31)
+?,(Sat) 19 Apr 2003 (15),Lecce (31),1-1,0-1,Napoli (31)
+?,(Sat) 19 Apr 2003 (15),Messina (31),2-2,1-1,Cagliari (31)
+?,(Sat) 19 Apr 2003 (15),Palermo (31),3-3,1-1,Catania (31)
+?,(Sat) 19 Apr 2003 (15),Salernitana (31),1-2,1-1,Bari (31)
+?,(Sat) 19 Apr 2003 (15),Siena (31),0-1,0-1,Ternana (31)
+?,(Sat) 19 Apr 2003 (15),Triestina (31),3-1,1-0,Verona (31)
+?,(Sat) 19 Apr 2003 (15),Vicenza (31),2-1,1-1,Venezia (31)
+?,(Fri) 25 Apr 2003 (16),Cagliari (32),2-0,0-0,Triestina (32)
+?,(Sat) 26 Apr 2003 (16),Bari (32),1-0,0-0,Messina (32)
+?,(Sat) 26 Apr 2003 (16),Catania (32),2-1,1-0,Vicenza (32)
+?,(Sat) 26 Apr 2003 (16),Livorno (32),1-2,0-0,Lecce (32)
+?,(Sat) 26 Apr 2003 (16),Napoli (32),2-1,1-1,Salernitana (32)
+?,(Sat) 26 Apr 2003 (16),Ternana (32),0-0,0-0,Palermo (32)
+?,(Sat) 26 Apr 2003 (16),Venezia (32),0-2,0-1,Cosenza (32)
+?,(Sat) 26 Apr 2003 (16),Verona (32),2-2,0-0,Genoa (32)
+?,(Sun) 27 Apr 2003 (16),Ancona (32),1-1,1-1,Ascoli (32)
+?,(Mon) 28 Apr 2003 (17),Sampdoria (32),0-0,?,Siena (32)
+?,(Fri) 2 May 2003 (17),Palermo (33),2-1,2-0,Napoli (33)
+?,(Sat) 3 May 2003 (17),Ancona (33),1-2,0-1,Bari (33)
+?,(Sat) 3 May 2003 (17),Cosenza (33),3-1,2-0,Catania (33)
+?,(Sat) 3 May 2003 (17),Genoa (33),1-2,1-0,Ascoli (33)
+?,(Sat) 3 May 2003 (17),Lecce (33),1-1,1-0,Verona (33)
+?,(Sat) 3 May 2003 (17),Messina (33),1-1,1-1,Venezia (33)
+?,(Sat) 3 May 2003 (17),Salernitana (33),1-2,0-1,Cagliari (33)
+?,(Sat) 3 May 2003 (17),Triestina (33),4-3,2-1,Ternana (33)
+?,(Sat) 3 May 2003 (17),Vicenza (33),1-2,0-1,Sampdoria (33)
+?,(Mon) 5 May 2003 (18),Siena (33),2-0,1-0,Livorno (33)
+?,(Fri) 9 May 2003 (18),Bari (34),2-1,2-1,Catania (34)
+?,(Sat) 10 May 2003 (18),Ascoli (34),1-0,1-0,Lecce (34)
+?,(Sat) 10 May 2003 (18),Cagliari (34),2-1,0-0,Ancona (34)
+?,(Sat) 10 May 2003 (18),Genoa (34),1-1,0-1,Palermo (34)
+?,(Sat) 10 May 2003 (18),Livorno (34),2-2,0-1,Vicenza (34)
+?,(Sat) 10 May 2003 (18),Messina (34),1-0,1-0,Cosenza (34)
+?,(Sat) 10 May 2003 (18),Napoli (34),2-1,1-0,Triestina (34)
+?,(Sat) 10 May 2003 (18),Venezia (34),1-3,0-1,Siena (34)
+?,(Sat) 10 May 2003 (18),Verona (34),2-0,1-0,Salernitana (34)
+?,(Mon) 12 May 2003 (19),Ternana (34),1-1,0-0,Sampdoria (34)
+?,(Sat) 17 May 2003 (19),Ancona (35),1-0,0-0,Genoa (35)
+?,(Sat) 17 May 2003 (19),Bari (35),2-1,1-0,Ternana (35)
+?,(Sat) 17 May 2003 (19),Catania (35),2-0,1-0,Venezia (35)
+?,(Sat) 17 May 2003 (19),Cosenza (35),0-2,0-1,Livorno (35)
+?,(Sat) 17 May 2003 (19),Napoli (35),2-0,1-0,Ascoli (35)
+?,(Sat) 17 May 2003 (19),Palermo (35),2-1,1-1,Messina (35)
+?,(Sat) 17 May 2003 (19),Sampdoria (35),3-1,2-0,Cagliari (35)
+?,(Sat) 17 May 2003 (19),Siena (35),0-0,0-0,Verona (35)
+?,(Sat) 17 May 2003 (19),Triestina (35),2-0,2-0,Salernitana (35)
+?,(Sat) 17 May 2003 (19),Vicenza (35),1-1,0-0,Lecce (35)
+?,(Sat) 24 May 2003 (20),Ascoli (36),1-2,0-1,Palermo (36)
+?,(Sat) 24 May 2003 (20),Cagliari (36),3-0,1-0,Vicenza (36)
+?,(Sat) 24 May 2003 (20),Genoa (36),1-3,1-2,Siena (36)
+?,(Sat) 24 May 2003 (20),Lecce (36),2-1,1-0,Ancona (36)
+?,(Sat) 24 May 2003 (20),Livorno (36),2-2,1-1,Bari (36)
+?,(Sat) 24 May 2003 (20),Messina (36),2-2,1-1,Triestina (36)
+?,(Sat) 24 May 2003 (20),Salernitana (36),1-2,1-2,Cosenza (36)
+?,(Sat) 24 May 2003 (20),Ternana (36),3-1,1-1,Catania (36)
+?,(Sat) 24 May 2003 (20),Venezia (36),2-1,1-1,Napoli (36)
+?,(Sat) 24 May 2003 (20),Verona (36),0-0,0-0,Sampdoria (36)
+?,(Sat) 31 May 2003 (21),Ancona (37),2-1,1-0,Venezia (37)
+?,(Sat) 31 May 2003 (21),Bari (37),0-0,0-0,Cagliari (37)
+?,(Sat) 31 May 2003 (21),Catania (37),3-2,1-1,Livorno (37)
+?,(Sat) 31 May 2003 (21),Cosenza (37),1-2,1-1,Lecce (37)
+?,(Sat) 31 May 2003 (21),Napoli (37),1-0,1-0,Ternana (37)
+?,(Sat) 31 May 2003 (21),Palermo (37),2-0,2-0,Verona (37)
+?,(Sat) 31 May 2003 (21),Sampdoria (37),1-1,0-1,Messina (37)
+?,(Sat) 31 May 2003 (21),Siena (37),4-0,0-0,Ascoli (37)
+?,(Sat) 31 May 2003 (21),Triestina (37),1-0,1-0,Genoa (37)
+?,(Sat) 31 May 2003 (21),Vicenza (37),2-2,0-0,Salernitana (37)
+?,(Sat) 7 Jun 2003 (22),Ascoli (38),2-2,1-2,Triestina (38)
+?,(Sat) 7 Jun 2003 (22),Cagliari (38),1-2,0-1,Catania (38)
+?,(Sat) 7 Jun 2003 (22),Genoa (38),3-0,1-0,Cosenza (38)
+?,(Sat) 7 Jun 2003 (22),Lecce (38),3-0,1-0,Palermo (38)
+?,(Sat) 7 Jun 2003 (22),Livorno (38),1-1,0-0,Ancona (38)
+?,(Sat) 7 Jun 2003 (22),Messina (38),1-1,1-1,Napoli (38)
+?,(Sat) 7 Jun 2003 (22),Salernitana (38),1-1,0-0,Siena (38)
+?,(Sat) 7 Jun 2003 (22),Ternana (38),1-1,1-1,Vicenza (38)
+?,(Sat) 7 Jun 2003 (22),Venezia (38),3-1,1-0,Sampdoria (38)
+?,(Sat) 7 Jun 2003 (22),Verona (38),1-1,1-1,Bari (38)

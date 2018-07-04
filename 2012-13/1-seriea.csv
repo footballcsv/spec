@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-2012-08-25,Fiorentina,Udinese,2-1,0-1
-2012-08-25,Juventus,Parma,2-0,0-0
-2012-08-26,Atalanta,Lazio,0-1,0-1
-2012-08-26,Chievo,Bologna,2-0,0-0
-2012-08-26,Genoa,Cagliari,2-0,0-0
-2012-08-26,Milan,Sampdoria,0-1,0-0
-2012-08-26,Palermo,Napoli,0-3,0-1
-2012-08-26,Pescara,Inter,0-3,0-2
-2012-08-26,Roma,Catania,2-2,0-1
-2012-08-26,Siena,Torino,0-0,0-0
-2012-09-01,Bologna,Milan,1-3,1-1
-2012-09-01,Torino,Pescara,3-0,1-0
-2012-09-02,Cagliari,Atalanta,1-1,0-0
-2012-09-02,Catania,Genoa,3-2,0-1
-2012-09-02,Inter,Roma,1-3,1-1
-2012-09-02,Lazio,Palermo,3-0,1-0
-2012-09-02,Napoli,Fiorentina,2-1,0-0
-2012-09-02,Parma,Chievo,2-0,1-0
-2012-09-02,Sampdoria,Siena,2-1,1-0
-2012-09-02,Udinese,Juventus,1-4,0-2
-2012-09-15,Milan,Atalanta,0-1,0-0
-2012-09-15,Palermo,Cagliari,1-1,1-0
-2012-09-16,Chievo,Lazio,1-3,0-2
-2012-09-16,Fiorentina,Catania,2-0,1-0
-2012-09-16,Genoa,Juventus,1-3,1-0
-2012-09-16,Napoli,Parma,3-1,2-1
-2012-09-16,Pescara,Sampdoria,2-3,0-1
-2012-09-16,Roma,Bologna,2-3,2-0
-2012-09-16,Siena,Udinese,2-2,0-2
-2012-09-16,Torino,Inter,0-2,0-1
-2012-09-22,Juventus,Chievo,2-0,0-0
-2012-09-22,Parma,Fiorentina,1-1,0-1
-2012-09-23,Atalanta,Palermo,1-0,0-0
-2012-09-23,Bologna,Pescara,1-1,1-1
-2012-09-23,Cagliari,Roma,0-3,
-2012-09-23,Catania,Napoli,0-0,0-0
-2012-09-23,Inter,Siena,0-2,0-0
-2012-09-23,Lazio,Genoa,0-1,0-0
-2012-09-23,Sampdoria,Torino,1-1,0-0
-2012-09-23,Udinese,Milan,2-1,1-0
-2012-09-25,Fiorentina,Juventus,0-0,0-0
-2012-09-26,Catania,Atalanta,2-1,0-0
-2012-09-26,Chievo,Inter,0-2,0-1
-2012-09-26,Genoa,Parma,1-1,0-1
-2012-09-26,Milan,Cagliari,2-0,1-0
-2012-09-26,Napoli,Lazio,3-0,2-0
-2012-09-26,Pescara,Palermo,1-0,0-0
-2012-09-26,Roma,Sampdoria,1-1,1-0
-2012-09-26,Torino,Udinese,0-0,0-0
-2012-09-27,Siena,Bologna,1-0,0-0
-2012-09-29,Juventus,Roma,4-1,3-0
-2012-09-29,Parma,Milan,1-1,0-0
-2012-09-30,Atalanta,Torino,1-5,1-1
-2012-09-30,Bologna,Catania,4-0,2-0
-2012-09-30,Cagliari,Pescara,1-2,0-0
-2012-09-30,Inter,Fiorentina,2-1,2-1
-2012-09-30,Lazio,Siena,2-1,2-0
-2012-09-30,Palermo,Chievo,4-1,1-1
-2012-09-30,Sampdoria,Napoli,0-1,0-0
-2012-09-30,Udinese,Genoa,0-0,0-0
-2012-10-06,Chievo,Sampdoria,2-1,1-0
-2012-10-06,Genoa,Palermo,1-1,0-1
-2012-10-07,Catania,Parma,2-0,1-0
-2012-10-07,Fiorentina,Bologna,1-0,1-0
-2012-10-07,Milan,Inter,0-1,0-1
-2012-10-07,Napoli,Udinese,2-1,2-1
-2012-10-07,Pescara,Lazio,0-3,0-3
-2012-10-07,Roma,Atalanta,2-0,1-0
-2012-10-07,Siena,Juventus,1-2,1-1
-2012-10-07,Torino,Cagliari,0-1,0-0
-2012-10-20,Juventus,Napoli,2-0,0-0
-2012-10-20,Lazio,Milan,3-2,2-0
-2012-10-21,Atalanta,Siena,2-1,0-0
-2012-10-21,Cagliari,Bologna,1-0,0-0
-2012-10-21,Chievo,Fiorentina,1-1,1-1
-2012-10-21,Genoa,Roma,2-4,2-2
-2012-10-21,Inter,Catania,2-0,1-0
-2012-10-21,Palermo,Torino,0-0,0-0
-2012-10-21,Parma,Sampdoria,2-1,1-0
-2012-10-21,Udinese,Pescara,1-0,0-0
-2012-10-27,Milan,Genoa,1-0,0-0
-2012-10-27,Siena,Palermo,0-0,0-0
-2012-10-28,Bologna,Inter,1-3,0-1
-2012-10-28,Catania,Juventus,0-1,0-0
-2012-10-28,Fiorentina,Lazio,2-0,1-0
-2012-10-28,Napoli,Chievo,1-0,0-0
-2012-10-28,Pescara,Atalanta,0-0,0-0
-2012-10-28,Roma,Udinese,2-3,2-1
-2012-10-28,Sampdoria,Cagliari,0-1,0-0
-2012-10-28,Torino,Parma,1-3,0-0
-2012-10-30,Palermo,Milan,2-2,1-0
-2012-10-31,Atalanta,Napoli,1-0,1-0
-2012-10-31,Cagliari,Siena,4-2,3-1
-2012-10-31,Chievo,Pescara,2-0,0-0
-2012-10-31,Inter,Sampdoria,3-2,0-1
-2012-10-31,Juventus,Bologna,2-1,0-0
-2012-10-31,Lazio,Torino,1-1,0-1
-2012-10-31,Parma,Roma,3-2,2-1
-2012-10-31,Udinese,Catania,2-2,1-0
-2012-11-01,Genoa,Fiorentina,0-1,0-1
-2012-11-03,Juventus,Inter,1-3,1-0
-2012-11-03,Milan,Chievo,5-1,3-1
-2012-11-04,Bologna,Udinese,1-1,0-0
-2012-11-04,Catania,Lazio,4-0,3-0
-2012-11-04,Fiorentina,Cagliari,4-1,1-1
-2012-11-04,Napoli,Torino,1-1,1-0
-2012-11-04,Pescara,Parma,2-0,0-0
-2012-11-04,Roma,Palermo,4-1,2-0
-2012-11-04,Sampdoria,Atalanta,1-2,0-1
-2012-11-04,Siena,Genoa,1-0,0-0
-2012-11-10,Cagliari,Catania,0-0,0-0
-2012-11-10,Pescara,Juventus,1-6,1-5
-2012-11-11,Atalanta,Inter,3-2,1-0
-2012-11-11,Chievo,Udinese,2-2,1-1
-2012-11-11,Genoa,Napoli,2-4,1-0
-2012-11-11,Lazio,Roma,3-2,2-1
-2012-11-11,Milan,Fiorentina,1-3,0-2
-2012-11-11,Palermo,Sampdoria,2-0,0-0
-2012-11-11,Parma,Siena,0-0,0-0
-2012-11-11,Torino,Bologna,1-0,0-0
-2012-11-17,Juventus,Lazio,0-0,0-0
-2012-11-17,Napoli,Milan,2-2,2-1
-2012-11-18,Bologna,Palermo,3-0,2-0
-2012-11-18,Catania,Chievo,2-1,0-0
-2012-11-18,Fiorentina,Atalanta,4-1,3-1
-2012-11-18,Inter,Cagliari,2-2,1-1
-2012-11-18,Sampdoria,Genoa,3-1,2-0
-2012-11-18,Siena,Pescara,1-0,1-0
-2012-11-18,Udinese,Parma,2-2,1-0
-2012-11-19,Roma,Torino,2-0,0-0
-2012-11-24,Palermo,Catania,3-1,1-0
-2012-11-25,Atalanta,Genoa,0-1,0-1
-2012-11-25,Chievo,Siena,0-0,0-0
-2012-11-25,Milan,Juventus,1-0,1-0
-2012-11-25,Pescara,Roma,0-1,0-1
-2012-11-25,Sampdoria,Bologna,1-0,0-0
-2012-11-25,Torino,Fiorentina,2-2,1-0
-2012-11-26,Cagliari,Napoli,0-1,0-0
-2012-11-26,Parma,Inter,1-0,0-0
-2012-11-27,Lazio,Udinese,3-0,2-0
-2012-11-30,Catania,Milan,1-3,1-0
-2012-12-01,Juventus,Torino,3-0,0-0
-2012-12-02,Bologna,Atalanta,2-1,1-0
-2012-12-02,Fiorentina,Sampdoria,2-2,1-0
-2012-12-02,Genoa,Chievo,2-4,1-3
-2012-12-02,Inter,Palermo,1-0,0-0
-2012-12-02,Lazio,Parma,2-1,2-0
-2012-12-02,Napoli,Pescara,5-1,2-1
-2012-12-02,Siena,Roma,1-3,1-0
-2012-12-02,Udinese,Cagliari,4-1,2-0
-2012-12-08,Atalanta,Parma,2-1,2-1
-2012-12-08,Roma,Fiorentina,4-2,3-1
-2012-12-09,Cagliari,Chievo,0-2,0-0
-2012-12-09,Inter,Napoli,2-1,2-0
-2012-12-09,Palermo,Juventus,0-1,0-0
-2012-12-09,Pescara,Genoa,2-0,0-0
-2012-12-09,Siena,Catania,1-3,1-0
-2012-12-09,Torino,Milan,2-4,1-1
-2012-12-10,Bologna,Lazio,0-0,0-0
-2012-12-10,Sampdoria,Udinese,0-2,0-2
-2012-12-15,Lazio,Inter,1-0,0-0
-2012-12-15,Udinese,Palermo,1-1,0-1
-2012-12-16,Catania,Sampdoria,3-1,0-1
-2012-12-16,Chievo,Roma,1-0,0-0
-2012-12-16,Fiorentina,Siena,4-1,3-0
-2012-12-16,Genoa,Torino,1-1,1-1
-2012-12-16,Juventus,Atalanta,3-0,3-0
-2012-12-16,Milan,Pescara,4-1,1-0
-2012-12-16,Napoli,Bologna,2-3,0-1
-2012-12-16,Parma,Cagliari,4-1,1-1
-2012-12-21,Cagliari,Juventus,1-3,1-0
-2012-12-21,Pescara,Catania,2-1,1-1
-2012-12-22,Atalanta,Udinese,1-1,1-1
-2012-12-22,Bologna,Parma,1-2,0-0
-2012-12-22,Inter,Genoa,1-1,0-0
-2012-12-22,Palermo,Fiorentina,0-3,0-0
-2012-12-22,Roma,Milan,4-2,3-0
-2012-12-22,Sampdoria,Lazio,0-1,0-1
-2012-12-22,Siena,Napoli,0-2,0-0
-2012-12-22,Torino,Chievo,2-0,2-0
-2013-01-05,Catania,Torino,0-0,0-0
-2013-01-05,Lazio,Cagliari,2-1,0-0
-2013-01-06,Chievo,Atalanta,1-0,1-0
-2013-01-06,Fiorentina,Pescara,0-2,0-0
-2013-01-06,Genoa,Bologna,2-0,0-0
-2013-01-06,Juventus,Sampdoria,1-2,1-0
-2013-01-06,Milan,Siena,2-1,0-0
-2013-01-06,Napoli,Roma,4-1,1-0
-2013-01-06,Parma,Palermo,2-1,0-0
-2013-01-06,Udinese,Inter,3-0,0-0
-2013-01-12,Bologna,Chievo,4-0,2-0
-2013-01-12,Inter,Pescara,2-0,1-0
-2013-01-13,Cagliari,Genoa,2-1,0-0
-2013-01-13,Catania,Roma,1-0,0-0
-2013-01-13,Lazio,Atalanta,2-0,0-0
-2013-01-13,Napoli,Palermo,3-0,2-0
-2013-01-13,Parma,Juventus,1-1,0-0
-2013-01-13,Sampdoria,Milan,0-0,0-0
-2013-01-13,Torino,Siena,3-2,3-1
-2013-01-13,Udinese,Fiorentina,3-1,1-1
-2013-01-19,Juventus,Udinese,4-0,1-0
-2013-01-19,Milan,Bologna,2-1,0-0
-2013-01-19,Palermo,Lazio,2-2,0-1
-2013-01-20,Atalanta,Cagliari,1-1,0-1
-2013-01-20,Chievo,Parma,1-1,0-1
-2013-01-20,Fiorentina,Napoli,1-1,1-1
-2013-01-20,Genoa,Catania,0-2,0-1
-2013-01-20,Pescara,Torino,0-2,0-2
-2013-01-20,Roma,Inter,1-1,1-1
-2013-01-20,Siena,Sampdoria,1-0,0-0
-2013-01-26,Juventus,Genoa,1-1,0-0
-2013-01-26,Lazio,Chievo,0-1,0-0
-2013-01-27,Atalanta,Milan,0-1,0-1
-2013-01-27,Bologna,Roma,3-3,2-2
-2013-01-27,Cagliari,Palermo,1-1,0-1
-2013-01-27,Catania,Fiorentina,2-1,0-1
-2013-01-27,Inter,Torino,2-2,1-1
-2013-01-27,Parma,Napoli,1-2,0-1
-2013-01-27,Sampdoria,Pescara,6-0,2-0
-2013-01-27,Udinese,Siena,1-0,1-0
-2013-02-01,Roma,Cagliari,2-4,1-1
-2013-02-02,Napoli,Catania,2-0,2-0
-2013-02-02,Torino,Sampdoria,0-0,0-0
-2013-02-03,Chievo,Juventus,1-2,0-2
-2013-02-03,Fiorentina,Parma,2-0,1-0
-2013-02-03,Genoa,Lazio,3-2,2-0
-2013-02-03,Milan,Udinese,2-1,1-0
-2013-02-03,Palermo,Atalanta,1-2,0-0
-2013-02-03,Pescara,Bologna,2-3,2-1
-2013-02-03,Siena,Inter,3-1,2-1
-2013-02-09,Juventus,Fiorentina,2-0,2-0
-2013-02-09,Lazio,Napoli,1-1,1-0
-2013-02-10,Atalanta,Catania,0-0,0-0
-2013-02-10,Bologna,Siena,1-1,1-1
-2013-02-10,Cagliari,Milan,1-1,1-0
-2013-02-10,Inter,Chievo,3-1,2-1
-2013-02-10,Palermo,Pescara,1-1,0-0
-2013-02-10,Parma,Genoa,0-0,0-0
-2013-02-10,Sampdoria,Roma,3-1,0-0
-2013-02-10,Udinese,Torino,1-0,1-0
-2013-02-15,Milan,Parma,2-1,1-0
-2013-02-16,Chievo,Palermo,1-1,0-1
-2013-02-16,Roma,Juventus,1-0,0-0
-2013-02-17,Catania,Bologna,1-0,1-0
-2013-02-17,Fiorentina,Inter,4-1,2-0
-2013-02-17,Genoa,Udinese,1-0,1-0
-2013-02-17,Napoli,Sampdoria,0-0,0-0
-2013-02-17,Pescara,Cagliari,0-2,0-0
-2013-02-17,Torino,Atalanta,2-1,1-0
-2013-02-18,Siena,Lazio,3-0,2-0
-2013-02-23,Palermo,Genoa,0-0,0-0
-2013-02-24,Atalanta,Roma,2-3,2-2
-2013-02-24,Cagliari,Torino,4-3,1-0
-2013-02-24,Inter,Milan,1-1,0-1
-2013-02-24,Juventus,Siena,3-0,1-0
-2013-02-24,Parma,Catania,1-2,0-2
-2013-02-24,Sampdoria,Chievo,2-0,1-0
-2013-02-25,Lazio,Pescara,2-0,2-0
-2013-02-25,Udinese,Napoli,0-0,0-0
-2013-02-26,Bologna,Fiorentina,2-1,0-1
-2013-03-01,Napoli,Juventus,1-1,1-1
-2013-03-02,Milan,Lazio,3-0,2-0
-2013-03-03,Bologna,Cagliari,3-0,2-0
-2013-03-03,Catania,Inter,2-3,2-0
-2013-03-03,Fiorentina,Chievo,2-1,1-1
-2013-03-03,Pescara,Udinese,0-1,0-1
-2013-03-03,Roma,Genoa,3-1,1-1
-2013-03-03,Sampdoria,Parma,1-0,0-0
-2013-03-03,Siena,Atalanta,0-2,0-1
-2013-03-03,Torino,Palermo,0-0,0-0
-2013-03-08,Genoa,Milan,0-2,0-1
-2013-03-09,Udinese,Roma,1-1,0-1
-2013-03-10,Atalanta,Pescara,2-1,1-1
-2013-03-10,Cagliari,Sampdoria,3-1,1-0
-2013-03-10,Chievo,Napoli,2-0,2-0
-2013-03-10,Inter,Bologna,0-1,0-0
-2013-03-10,Juventus,Catania,1-0,0-0
-2013-03-10,Lazio,Fiorentina,0-2,0-1
-2013-03-10,Palermo,Siena,1-2,1-0
-2013-03-10,Parma,Torino,4-1,0-0
-2013-03-16,Bologna,Juventus,0-2,0-0
-2013-03-16,Catania,Udinese,3-1,0-0
-2013-03-17,Fiorentina,Genoa,3-2,1-0
-2013-03-17,Milan,Palermo,2-0,1-0
-2013-03-17,Napoli,Atalanta,3-2,1-1
-2013-03-17,Pescara,Chievo,0-2,0-0
-2013-03-17,Roma,Parma,2-0,1-0
-2013-03-17,Siena,Cagliari,0-0,0-0
-2013-03-17,Torino,Lazio,1-0,0-0
-2013-03-30,Atalanta,Sampdoria,0-0,0-0
-2013-03-30,Cagliari,Fiorentina,2-1,2-0
-2013-03-30,Chievo,Milan,0-1,0-1
-2013-03-30,Genoa,Siena,2-2,1-1
-2013-03-30,Inter,Juventus,1-2,0-1
-2013-03-30,Lazio,Catania,2-1,0-0
-2013-03-30,Palermo,Roma,2-0,2-0
-2013-03-30,Parma,Pescara,3-0,1-0
-2013-03-30,Torino,Napoli,3-5,1-1
-2013-03-30,Udinese,Bologna,0-0,0-0
-2013-04-03,Sampdoria,Inter,0-2,0-1
-2013-04-06,Bologna,Torino,2-2,0-1
-2013-04-06,Juventus,Pescara,2-1,0-0
-2013-04-07,Catania,Cagliari,0-0,0-0
-2013-04-07,Fiorentina,Milan,2-2,0-1
-2013-04-07,Inter,Atalanta,3-4,1-0
-2013-04-07,Napoli,Genoa,2-0,2-0
-2013-04-07,Sampdoria,Palermo,1-3,1-1
-2013-04-07,Siena,Parma,0-0,0-0
-2013-04-07,Udinese,Chievo,3-1,2-1
-2013-04-08,Roma,Lazio,1-1,0-1
-2013-04-13,Atalanta,Fiorentina,0-2,0-0
-2013-04-13,Pescara,Siena,2-3,0-2
-2013-04-14,Cagliari,Inter,2-0,0-0
-2013-04-14,Chievo,Catania,0-0,0-0
-2013-04-14,Genoa,Sampdoria,1-1,0-1
-2013-04-14,Milan,Napoli,1-1,1-1
-2013-04-14,Palermo,Bologna,1-1,1-1
-2013-04-14,Parma,Udinese,0-3,0-2
-2013-04-14,Torino,Roma,1-2,1-1
-2013-04-15,Lazio,Juventus,0-2,0-2
-2013-04-20,Genoa,Atalanta,1-1,1-1
-2013-04-20,Udinese,Lazio,1-0,1-0
-2013-04-21,Bologna,Sampdoria,1-1,1-0
-2013-04-21,Catania,Palermo,1-1,0-0
-2013-04-21,Fiorentina,Torino,4-3,3-1
-2013-04-21,Inter,Parma,1-0,0-0
-2013-04-21,Juventus,Milan,1-0,0-0
-2013-04-21,Napoli,Cagliari,3-2,0-1
-2013-04-21,Roma,Pescara,1-1,0-1
-2013-04-21,Siena,Chievo,0-1,0-1
-2013-04-27,Atalanta,Bologna,1-1,0-0
-2013-04-27,Cagliari,Udinese,0-1,0-0
-2013-04-27,Pescara,Napoli,0-3,0-0
-2013-04-28,Chievo,Genoa,0-1,0-0
-2013-04-28,Milan,Catania,4-2,1-1
-2013-04-28,Palermo,Inter,1-0,1-0
-2013-04-28,Parma,Lazio,0-0,0-0
-2013-04-28,Roma,Siena,4-0,3-0
-2013-04-28,Sampdoria,Fiorentina,0-3,0-2
-2013-04-28,Torino,Juventus,0-2,0-0
-2013-05-04,Chievo,Cagliari,0-0,0-0
-2013-05-04,Fiorentina,Roma,0-1,0-0
-2013-05-05,Catania,Siena,3-0,1-0
-2013-05-05,Genoa,Pescara,4-1,2-1
-2013-05-05,Juventus,Palermo,1-0,0-0
-2013-05-05,Lazio,Bologna,6-0,4-0
-2013-05-05,Milan,Torino,1-0,0-0
-2013-05-05,Napoli,Inter,3-1,2-1
-2013-05-05,Parma,Atalanta,2-0,1-0
-2013-05-05,Udinese,Sampdoria,3-1,1-1
-2013-05-07,Roma,Chievo,0-1,0-0
-2013-05-08,Atalanta,Juventus,0-1,0-1
-2013-05-08,Bologna,Napoli,0-3,0-0
-2013-05-08,Cagliari,Parma,0-1,0-0
-2013-05-08,Inter,Lazio,1-3,1-2
-2013-05-08,Palermo,Udinese,2-3,1-1
-2013-05-08,Pescara,Milan,0-4,0-2
-2013-05-08,Sampdoria,Catania,1-1,1-0
-2013-05-08,Siena,Fiorentina,0-1,0-1
-2013-05-08,Torino,Genoa,0-0,0-0
-2013-05-11,Catania,Pescara,1-0,0-0
-2013-05-11,Juventus,Cagliari,1-1,0-1
-2013-05-12,Chievo,Torino,1-1,1-1
-2013-05-12,Fiorentina,Palermo,1-0,1-0
-2013-05-12,Genoa,Inter,0-0,0-0
-2013-05-12,Lazio,Sampdoria,2-0,1-0
-2013-05-12,Milan,Roma,0-0,0-0
-2013-05-12,Napoli,Siena,2-1,0-1
-2013-05-12,Parma,Bologna,0-2,0-1
-2013-05-12,Udinese,Atalanta,2-1,1-1
-2013-05-18,Sampdoria,Juventus,3-2,1-1
-2013-05-19,Atalanta,Chievo,2-2,1-0
-2013-05-19,Bologna,Genoa,0-0,0-0
-2013-05-19,Cagliari,Lazio,1-0,0-0
-2013-05-19,Inter,Udinese,2-5,1-3
-2013-05-19,Palermo,Parma,1-3,0-3
-2013-05-19,Pescara,Fiorentina,1-5,0-3
-2013-05-19,Roma,Napoli,2-1,0-0
-2013-05-19,Siena,Milan,1-2,1-0
-2013-05-19,Torino,Catania,2-2,0-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 25 Aug 2012 (34),Fiorentina (1),2-1,0-1,Udinese (1)
+?,(Sat) 25 Aug 2012 (34),Juventus (1),2-0,0-0,Parma (1)
+?,(Sun) 26 Aug 2012 (34),Atalanta (1),0-1,0-1,Lazio (1)
+?,(Sun) 26 Aug 2012 (34),Chievo (1),2-0,0-0,Bologna (1)
+?,(Sun) 26 Aug 2012 (34),Genoa (1),2-0,0-0,Cagliari (1)
+?,(Sun) 26 Aug 2012 (34),Milan (1),0-1,0-0,Sampdoria (1)
+?,(Sun) 26 Aug 2012 (34),Palermo (1),0-3,0-1,Napoli (1)
+?,(Sun) 26 Aug 2012 (34),Pescara (1),0-3,0-2,Inter (1)
+?,(Sun) 26 Aug 2012 (34),Roma (1),2-2,0-1,Catania (1)
+?,(Sun) 26 Aug 2012 (34),Siena (1),0-0,0-0,Torino (1)
+?,(Sat) 1 Sep 2012 (35),Bologna (2),1-3,1-1,Milan (2)
+?,(Sat) 1 Sep 2012 (35),Torino (2),3-0,1-0,Pescara (2)
+?,(Sun) 2 Sep 2012 (35),Cagliari (2),1-1,0-0,Atalanta (2)
+?,(Sun) 2 Sep 2012 (35),Catania (2),3-2,0-1,Genoa (2)
+?,(Sun) 2 Sep 2012 (35),Inter (2),1-3,1-1,Roma (2)
+?,(Sun) 2 Sep 2012 (35),Lazio (2),3-0,1-0,Palermo (2)
+?,(Sun) 2 Sep 2012 (35),Napoli (2),2-1,0-0,Fiorentina (2)
+?,(Sun) 2 Sep 2012 (35),Parma (2),2-0,1-0,Chievo (2)
+?,(Sun) 2 Sep 2012 (35),Sampdoria (2),2-1,1-0,Siena (2)
+?,(Sun) 2 Sep 2012 (35),Udinese (2),1-4,0-2,Juventus (2)
+?,(Sat) 15 Sep 2012 (37),Milan (3),0-1,0-0,Atalanta (3)
+?,(Sat) 15 Sep 2012 (37),Palermo (3),1-1,1-0,Cagliari (3)
+?,(Sun) 16 Sep 2012 (37),Chievo (3),1-3,0-2,Lazio (3)
+?,(Sun) 16 Sep 2012 (37),Fiorentina (3),2-0,1-0,Catania (3)
+?,(Sun) 16 Sep 2012 (37),Genoa (3),1-3,1-0,Juventus (3)
+?,(Sun) 16 Sep 2012 (37),Napoli (3),3-1,2-1,Parma (3)
+?,(Sun) 16 Sep 2012 (37),Pescara (3),2-3,0-1,Sampdoria (3)
+?,(Sun) 16 Sep 2012 (37),Roma (3),2-3,2-0,Bologna (3)
+?,(Sun) 16 Sep 2012 (37),Siena (3),2-2,0-2,Udinese (3)
+?,(Sun) 16 Sep 2012 (37),Torino (3),0-2,0-1,Inter (3)
+?,(Sat) 22 Sep 2012 (38),Juventus (4),2-0,0-0,Chievo (4)
+?,(Sat) 22 Sep 2012 (38),Parma (4),1-1,0-1,Fiorentina (4)
+?,(Sun) 23 Sep 2012 (38),Atalanta (4),1-0,0-0,Palermo (4)
+?,(Sun) 23 Sep 2012 (38),Bologna (4),1-1,1-1,Pescara (4)
+?,(Sun) 23 Sep 2012 (38),Cagliari (4),0-3,?,Roma (4)
+?,(Sun) 23 Sep 2012 (38),Catania (4),0-0,0-0,Napoli (4)
+?,(Sun) 23 Sep 2012 (38),Inter (4),0-2,0-0,Siena (4)
+?,(Sun) 23 Sep 2012 (38),Lazio (4),0-1,0-0,Genoa (4)
+?,(Sun) 23 Sep 2012 (38),Sampdoria (4),1-1,0-0,Torino (4)
+?,(Sun) 23 Sep 2012 (38),Udinese (4),2-1,1-0,Milan (4)
+?,(Tue) 25 Sep 2012 (39),Fiorentina (5),0-0,0-0,Juventus (5)
+?,(Wed) 26 Sep 2012 (39),Catania (5),2-1,0-0,Atalanta (5)
+?,(Wed) 26 Sep 2012 (39),Chievo (5),0-2,0-1,Inter (5)
+?,(Wed) 26 Sep 2012 (39),Genoa (5),1-1,0-1,Parma (5)
+?,(Wed) 26 Sep 2012 (39),Milan (5),2-0,1-0,Cagliari (5)
+?,(Wed) 26 Sep 2012 (39),Napoli (5),3-0,2-0,Lazio (5)
+?,(Wed) 26 Sep 2012 (39),Pescara (5),1-0,0-0,Palermo (5)
+?,(Wed) 26 Sep 2012 (39),Roma (5),1-1,1-0,Sampdoria (5)
+?,(Wed) 26 Sep 2012 (39),Torino (5),0-0,0-0,Udinese (5)
+?,(Thu) 27 Sep 2012 (39),Siena (5),1-0,0-0,Bologna (5)
+?,(Sat) 29 Sep 2012 (39),Juventus (6),4-1,3-0,Roma (6)
+?,(Sat) 29 Sep 2012 (39),Parma (6),1-1,0-0,Milan (6)
+?,(Sun) 30 Sep 2012 (39),Atalanta (6),1-5,1-1,Torino (6)
+?,(Sun) 30 Sep 2012 (39),Bologna (6),4-0,2-0,Catania (6)
+?,(Sun) 30 Sep 2012 (39),Cagliari (6),1-2,0-0,Pescara (6)
+?,(Sun) 30 Sep 2012 (39),Inter (6),2-1,2-1,Fiorentina (6)
+?,(Sun) 30 Sep 2012 (39),Lazio (6),2-1,2-0,Siena (6)
+?,(Sun) 30 Sep 2012 (39),Palermo (6),4-1,1-1,Chievo (6)
+?,(Sun) 30 Sep 2012 (39),Sampdoria (6),0-1,0-0,Napoli (6)
+?,(Sun) 30 Sep 2012 (39),Udinese (6),0-0,0-0,Genoa (6)
+?,(Sat) 6 Oct 2012 (40),Chievo (7),2-1,1-0,Sampdoria (7)
+?,(Sat) 6 Oct 2012 (40),Genoa (7),1-1,0-1,Palermo (7)
+?,(Sun) 7 Oct 2012 (40),Catania (7),2-0,1-0,Parma (7)
+?,(Sun) 7 Oct 2012 (40),Fiorentina (7),1-0,1-0,Bologna (7)
+?,(Sun) 7 Oct 2012 (40),Milan (7),0-1,0-1,Inter (7)
+?,(Sun) 7 Oct 2012 (40),Napoli (7),2-1,2-1,Udinese (7)
+?,(Sun) 7 Oct 2012 (40),Pescara (7),0-3,0-3,Lazio (7)
+?,(Sun) 7 Oct 2012 (40),Roma (7),2-0,1-0,Atalanta (7)
+?,(Sun) 7 Oct 2012 (40),Siena (7),1-2,1-1,Juventus (7)
+?,(Sun) 7 Oct 2012 (40),Torino (7),0-1,0-0,Cagliari (7)
+?,(Sat) 20 Oct 2012 (42),Juventus (8),2-0,0-0,Napoli (8)
+?,(Sat) 20 Oct 2012 (42),Lazio (8),3-2,2-0,Milan (8)
+?,(Sun) 21 Oct 2012 (42),Atalanta (8),2-1,0-0,Siena (8)
+?,(Sun) 21 Oct 2012 (42),Cagliari (8),1-0,0-0,Bologna (8)
+?,(Sun) 21 Oct 2012 (42),Chievo (8),1-1,1-1,Fiorentina (8)
+?,(Sun) 21 Oct 2012 (42),Genoa (8),2-4,2-2,Roma (8)
+?,(Sun) 21 Oct 2012 (42),Inter (8),2-0,1-0,Catania (8)
+?,(Sun) 21 Oct 2012 (42),Palermo (8),0-0,0-0,Torino (8)
+?,(Sun) 21 Oct 2012 (42),Parma (8),2-1,1-0,Sampdoria (8)
+?,(Sun) 21 Oct 2012 (42),Udinese (8),1-0,0-0,Pescara (8)
+?,(Sat) 27 Oct 2012 (43),Milan (9),1-0,0-0,Genoa (9)
+?,(Sat) 27 Oct 2012 (43),Siena (9),0-0,0-0,Palermo (9)
+?,(Sun) 28 Oct 2012 (43),Bologna (9),1-3,0-1,Inter (9)
+?,(Sun) 28 Oct 2012 (43),Catania (9),0-1,0-0,Juventus (9)
+?,(Sun) 28 Oct 2012 (43),Fiorentina (9),2-0,1-0,Lazio (9)
+?,(Sun) 28 Oct 2012 (43),Napoli (9),1-0,0-0,Chievo (9)
+?,(Sun) 28 Oct 2012 (43),Pescara (9),0-0,0-0,Atalanta (9)
+?,(Sun) 28 Oct 2012 (43),Roma (9),2-3,2-1,Udinese (9)
+?,(Sun) 28 Oct 2012 (43),Sampdoria (9),0-1,0-0,Cagliari (9)
+?,(Sun) 28 Oct 2012 (43),Torino (9),1-3,0-0,Parma (9)
+?,(Tue) 30 Oct 2012 (44),Palermo (10),2-2,1-0,Milan (10)
+?,(Wed) 31 Oct 2012 (44),Atalanta (10),1-0,1-0,Napoli (10)
+?,(Wed) 31 Oct 2012 (44),Cagliari (10),4-2,3-1,Siena (10)
+?,(Wed) 31 Oct 2012 (44),Chievo (10),2-0,0-0,Pescara (10)
+?,(Wed) 31 Oct 2012 (44),Inter (10),3-2,0-1,Sampdoria (10)
+?,(Wed) 31 Oct 2012 (44),Juventus (10),2-1,0-0,Bologna (10)
+?,(Wed) 31 Oct 2012 (44),Lazio (10),1-1,0-1,Torino (10)
+?,(Wed) 31 Oct 2012 (44),Parma (10),3-2,2-1,Roma (10)
+?,(Wed) 31 Oct 2012 (44),Udinese (10),2-2,1-0,Catania (10)
+?,(Thu) 1 Nov 2012 (44),Genoa (10),0-1,0-1,Fiorentina (10)
+?,(Sat) 3 Nov 2012 (44),Juventus (11),1-3,1-0,Inter (11)
+?,(Sat) 3 Nov 2012 (44),Milan (11),5-1,3-1,Chievo (11)
+?,(Sun) 4 Nov 2012 (44),Bologna (11),1-1,0-0,Udinese (11)
+?,(Sun) 4 Nov 2012 (44),Catania (11),4-0,3-0,Lazio (11)
+?,(Sun) 4 Nov 2012 (44),Fiorentina (11),4-1,1-1,Cagliari (11)
+?,(Sun) 4 Nov 2012 (44),Napoli (11),1-1,1-0,Torino (11)
+?,(Sun) 4 Nov 2012 (44),Pescara (11),2-0,0-0,Parma (11)
+?,(Sun) 4 Nov 2012 (44),Roma (11),4-1,2-0,Palermo (11)
+?,(Sun) 4 Nov 2012 (44),Sampdoria (11),1-2,0-1,Atalanta (11)
+?,(Sun) 4 Nov 2012 (44),Siena (11),1-0,0-0,Genoa (11)
+?,(Sat) 10 Nov 2012 (45),Cagliari (12),0-0,0-0,Catania (12)
+?,(Sat) 10 Nov 2012 (45),Pescara (12),1-6,1-5,Juventus (12)
+?,(Sun) 11 Nov 2012 (45),Atalanta (12),3-2,1-0,Inter (12)
+?,(Sun) 11 Nov 2012 (45),Chievo (12),2-2,1-1,Udinese (12)
+?,(Sun) 11 Nov 2012 (45),Genoa (12),2-4,1-0,Napoli (12)
+?,(Sun) 11 Nov 2012 (45),Lazio (12),3-2,2-1,Roma (12)
+?,(Sun) 11 Nov 2012 (45),Milan (12),1-3,0-2,Fiorentina (12)
+?,(Sun) 11 Nov 2012 (45),Palermo (12),2-0,0-0,Sampdoria (12)
+?,(Sun) 11 Nov 2012 (45),Parma (12),0-0,0-0,Siena (12)
+?,(Sun) 11 Nov 2012 (45),Torino (12),1-0,0-0,Bologna (12)
+?,(Sat) 17 Nov 2012 (46),Juventus (13),0-0,0-0,Lazio (13)
+?,(Sat) 17 Nov 2012 (46),Napoli (13),2-2,2-1,Milan (13)
+?,(Sun) 18 Nov 2012 (46),Bologna (13),3-0,2-0,Palermo (13)
+?,(Sun) 18 Nov 2012 (46),Catania (13),2-1,0-0,Chievo (13)
+?,(Sun) 18 Nov 2012 (46),Fiorentina (13),4-1,3-1,Atalanta (13)
+?,(Sun) 18 Nov 2012 (46),Inter (13),2-2,1-1,Cagliari (13)
+?,(Sun) 18 Nov 2012 (46),Sampdoria (13),3-1,2-0,Genoa (13)
+?,(Sun) 18 Nov 2012 (46),Siena (13),1-0,1-0,Pescara (13)
+?,(Sun) 18 Nov 2012 (46),Udinese (13),2-2,1-0,Parma (13)
+?,(Mon) 19 Nov 2012 (47),Roma (13),2-0,0-0,Torino (13)
+?,(Sat) 24 Nov 2012 (47),Palermo (14),3-1,1-0,Catania (14)
+?,(Sun) 25 Nov 2012 (47),Atalanta (14),0-1,0-1,Genoa (14)
+?,(Sun) 25 Nov 2012 (47),Chievo (14),0-0,0-0,Siena (14)
+?,(Sun) 25 Nov 2012 (47),Milan (14),1-0,1-0,Juventus (14)
+?,(Sun) 25 Nov 2012 (47),Pescara (14),0-1,0-1,Roma (14)
+?,(Sun) 25 Nov 2012 (47),Sampdoria (14),1-0,0-0,Bologna (14)
+?,(Sun) 25 Nov 2012 (47),Torino (14),2-2,1-0,Fiorentina (14)
+?,(Mon) 26 Nov 2012 (48),Cagliari (14),0-1,0-0,Napoli (14)
+?,(Mon) 26 Nov 2012 (48),Parma (14),1-0,0-0,Inter (14)
+?,(Tue) 27 Nov 2012 (48),Lazio (14),3-0,2-0,Udinese (14)
+?,(Fri) 30 Nov 2012 (48),Catania (15),1-3,1-0,Milan (15)
+?,(Sat) 1 Dec 2012 (48),Juventus (15),3-0,0-0,Torino (15)
+?,(Sun) 2 Dec 2012 (48),Bologna (15),2-1,1-0,Atalanta (15)
+?,(Sun) 2 Dec 2012 (48),Fiorentina (15),2-2,1-0,Sampdoria (15)
+?,(Sun) 2 Dec 2012 (48),Genoa (15),2-4,1-3,Chievo (15)
+?,(Sun) 2 Dec 2012 (48),Inter (15),1-0,0-0,Palermo (15)
+?,(Sun) 2 Dec 2012 (48),Lazio (15),2-1,2-0,Parma (15)
+?,(Sun) 2 Dec 2012 (48),Napoli (15),5-1,2-1,Pescara (15)
+?,(Sun) 2 Dec 2012 (48),Siena (15),1-3,1-0,Roma (15)
+?,(Sun) 2 Dec 2012 (48),Udinese (15),4-1,2-0,Cagliari (15)
+?,(Sat) 8 Dec 2012 (49),Atalanta (16),2-1,2-1,Parma (16)
+?,(Sat) 8 Dec 2012 (49),Roma (16),4-2,3-1,Fiorentina (16)
+?,(Sun) 9 Dec 2012 (49),Cagliari (16),0-2,0-0,Chievo (16)
+?,(Sun) 9 Dec 2012 (49),Inter (16),2-1,2-0,Napoli (16)
+?,(Sun) 9 Dec 2012 (49),Palermo (16),0-1,0-0,Juventus (16)
+?,(Sun) 9 Dec 2012 (49),Pescara (16),2-0,0-0,Genoa (16)
+?,(Sun) 9 Dec 2012 (49),Siena (16),1-3,1-0,Catania (16)
+?,(Sun) 9 Dec 2012 (49),Torino (16),2-4,1-1,Milan (16)
+?,(Mon) 10 Dec 2012 (50),Bologna (16),0-0,0-0,Lazio (16)
+?,(Mon) 10 Dec 2012 (50),Sampdoria (16),0-2,0-2,Udinese (16)
+?,(Sat) 15 Dec 2012 (50),Lazio (17),1-0,0-0,Inter (17)
+?,(Sat) 15 Dec 2012 (50),Udinese (17),1-1,0-1,Palermo (17)
+?,(Sun) 16 Dec 2012 (50),Catania (17),3-1,0-1,Sampdoria (17)
+?,(Sun) 16 Dec 2012 (50),Chievo (17),1-0,0-0,Roma (17)
+?,(Sun) 16 Dec 2012 (50),Fiorentina (17),4-1,3-0,Siena (17)
+?,(Sun) 16 Dec 2012 (50),Genoa (17),1-1,1-1,Torino (17)
+?,(Sun) 16 Dec 2012 (50),Juventus (17),3-0,3-0,Atalanta (17)
+?,(Sun) 16 Dec 2012 (50),Milan (17),4-1,1-0,Pescara (17)
+?,(Sun) 16 Dec 2012 (50),Napoli (17),2-3,0-1,Bologna (17)
+?,(Sun) 16 Dec 2012 (50),Parma (17),4-1,1-1,Cagliari (17)
+?,(Fri) 21 Dec 2012 (51),Cagliari (18),1-3,1-0,Juventus (18)
+?,(Fri) 21 Dec 2012 (51),Pescara (18),2-1,1-1,Catania (18)
+?,(Sat) 22 Dec 2012 (51),Atalanta (18),1-1,1-1,Udinese (18)
+?,(Sat) 22 Dec 2012 (51),Bologna (18),1-2,0-0,Parma (18)
+?,(Sat) 22 Dec 2012 (51),Inter (18),1-1,0-0,Genoa (18)
+?,(Sat) 22 Dec 2012 (51),Palermo (18),0-3,0-0,Fiorentina (18)
+?,(Sat) 22 Dec 2012 (51),Roma (18),4-2,3-0,Milan (18)
+?,(Sat) 22 Dec 2012 (51),Sampdoria (18),0-1,0-1,Lazio (18)
+?,(Sat) 22 Dec 2012 (51),Siena (18),0-2,0-0,Napoli (18)
+?,(Sat) 22 Dec 2012 (51),Torino (18),2-0,2-0,Chievo (18)
+?,(Sat) 5 Jan 2013 (0),Catania (19),0-0,0-0,Torino (19)
+?,(Sat) 5 Jan 2013 (0),Lazio (19),2-1,0-0,Cagliari (19)
+?,(Sun) 6 Jan 2013 (0),Chievo (19),1-0,1-0,Atalanta (19)
+?,(Sun) 6 Jan 2013 (0),Fiorentina (19),0-2,0-0,Pescara (19)
+?,(Sun) 6 Jan 2013 (0),Genoa (19),2-0,0-0,Bologna (19)
+?,(Sun) 6 Jan 2013 (0),Juventus (19),1-2,1-0,Sampdoria (19)
+?,(Sun) 6 Jan 2013 (0),Milan (19),2-1,0-0,Siena (19)
+?,(Sun) 6 Jan 2013 (0),Napoli (19),4-1,1-0,Roma (19)
+?,(Sun) 6 Jan 2013 (0),Parma (19),2-1,0-0,Palermo (19)
+?,(Sun) 6 Jan 2013 (0),Udinese (19),3-0,0-0,Inter (19)
+?,(Sat) 12 Jan 2013 (1),Bologna (20),4-0,2-0,Chievo (20)
+?,(Sat) 12 Jan 2013 (1),Inter (20),2-0,1-0,Pescara (20)
+?,(Sun) 13 Jan 2013 (1),Cagliari (20),2-1,0-0,Genoa (20)
+?,(Sun) 13 Jan 2013 (1),Catania (20),1-0,0-0,Roma (20)
+?,(Sun) 13 Jan 2013 (1),Lazio (20),2-0,0-0,Atalanta (20)
+?,(Sun) 13 Jan 2013 (1),Napoli (20),3-0,2-0,Palermo (20)
+?,(Sun) 13 Jan 2013 (1),Parma (20),1-1,0-0,Juventus (20)
+?,(Sun) 13 Jan 2013 (1),Sampdoria (20),0-0,0-0,Milan (20)
+?,(Sun) 13 Jan 2013 (1),Torino (20),3-2,3-1,Siena (20)
+?,(Sun) 13 Jan 2013 (1),Udinese (20),3-1,1-1,Fiorentina (20)
+?,(Sat) 19 Jan 2013 (2),Juventus (21),4-0,1-0,Udinese (21)
+?,(Sat) 19 Jan 2013 (2),Milan (21),2-1,0-0,Bologna (21)
+?,(Sat) 19 Jan 2013 (2),Palermo (21),2-2,0-1,Lazio (21)
+?,(Sun) 20 Jan 2013 (2),Atalanta (21),1-1,0-1,Cagliari (21)
+?,(Sun) 20 Jan 2013 (2),Chievo (21),1-1,0-1,Parma (21)
+?,(Sun) 20 Jan 2013 (2),Fiorentina (21),1-1,1-1,Napoli (21)
+?,(Sun) 20 Jan 2013 (2),Genoa (21),0-2,0-1,Catania (21)
+?,(Sun) 20 Jan 2013 (2),Pescara (21),0-2,0-2,Torino (21)
+?,(Sun) 20 Jan 2013 (2),Roma (21),1-1,1-1,Inter (21)
+?,(Sun) 20 Jan 2013 (2),Siena (21),1-0,0-0,Sampdoria (21)
+?,(Sat) 26 Jan 2013 (3),Juventus (22),1-1,0-0,Genoa (22)
+?,(Sat) 26 Jan 2013 (3),Lazio (22),0-1,0-0,Chievo (22)
+?,(Sun) 27 Jan 2013 (3),Atalanta (22),0-1,0-1,Milan (22)
+?,(Sun) 27 Jan 2013 (3),Bologna (22),3-3,2-2,Roma (22)
+?,(Sun) 27 Jan 2013 (3),Cagliari (22),1-1,0-1,Palermo (22)
+?,(Sun) 27 Jan 2013 (3),Catania (22),2-1,0-1,Fiorentina (22)
+?,(Sun) 27 Jan 2013 (3),Inter (22),2-2,1-1,Torino (22)
+?,(Sun) 27 Jan 2013 (3),Parma (22),1-2,0-1,Napoli (22)
+?,(Sun) 27 Jan 2013 (3),Sampdoria (22),6-0,2-0,Pescara (22)
+?,(Sun) 27 Jan 2013 (3),Udinese (22),1-0,1-0,Siena (22)
+?,(Fri) 1 Feb 2013 (4),Roma (23),2-4,1-1,Cagliari (23)
+?,(Sat) 2 Feb 2013 (4),Napoli (23),2-0,2-0,Catania (23)
+?,(Sat) 2 Feb 2013 (4),Torino (23),0-0,0-0,Sampdoria (23)
+?,(Sun) 3 Feb 2013 (4),Chievo (23),1-2,0-2,Juventus (23)
+?,(Sun) 3 Feb 2013 (4),Fiorentina (23),2-0,1-0,Parma (23)
+?,(Sun) 3 Feb 2013 (4),Genoa (23),3-2,2-0,Lazio (23)
+?,(Sun) 3 Feb 2013 (4),Milan (23),2-1,1-0,Udinese (23)
+?,(Sun) 3 Feb 2013 (4),Palermo (23),1-2,0-0,Atalanta (23)
+?,(Sun) 3 Feb 2013 (4),Pescara (23),2-3,2-1,Bologna (23)
+?,(Sun) 3 Feb 2013 (4),Siena (23),3-1,2-1,Inter (23)
+?,(Sat) 9 Feb 2013 (5),Juventus (24),2-0,2-0,Fiorentina (24)
+?,(Sat) 9 Feb 2013 (5),Lazio (24),1-1,1-0,Napoli (24)
+?,(Sun) 10 Feb 2013 (5),Atalanta (24),0-0,0-0,Catania (24)
+?,(Sun) 10 Feb 2013 (5),Bologna (24),1-1,1-1,Siena (24)
+?,(Sun) 10 Feb 2013 (5),Cagliari (24),1-1,1-0,Milan (24)
+?,(Sun) 10 Feb 2013 (5),Inter (24),3-1,2-1,Chievo (24)
+?,(Sun) 10 Feb 2013 (5),Palermo (24),1-1,0-0,Pescara (24)
+?,(Sun) 10 Feb 2013 (5),Parma (24),0-0,0-0,Genoa (24)
+?,(Sun) 10 Feb 2013 (5),Sampdoria (24),3-1,0-0,Roma (24)
+?,(Sun) 10 Feb 2013 (5),Udinese (24),1-0,1-0,Torino (24)
+?,(Fri) 15 Feb 2013 (6),Milan (25),2-1,1-0,Parma (25)
+?,(Sat) 16 Feb 2013 (6),Chievo (25),1-1,0-1,Palermo (25)
+?,(Sat) 16 Feb 2013 (6),Roma (25),1-0,0-0,Juventus (25)
+?,(Sun) 17 Feb 2013 (6),Catania (25),1-0,1-0,Bologna (25)
+?,(Sun) 17 Feb 2013 (6),Fiorentina (25),4-1,2-0,Inter (25)
+?,(Sun) 17 Feb 2013 (6),Genoa (25),1-0,1-0,Udinese (25)
+?,(Sun) 17 Feb 2013 (6),Napoli (25),0-0,0-0,Sampdoria (25)
+?,(Sun) 17 Feb 2013 (6),Pescara (25),0-2,0-0,Cagliari (25)
+?,(Sun) 17 Feb 2013 (6),Torino (25),2-1,1-0,Atalanta (25)
+?,(Mon) 18 Feb 2013 (7),Siena (25),3-0,2-0,Lazio (25)
+?,(Sat) 23 Feb 2013 (7),Palermo (26),0-0,0-0,Genoa (26)
+?,(Sun) 24 Feb 2013 (7),Atalanta (26),2-3,2-2,Roma (26)
+?,(Sun) 24 Feb 2013 (7),Cagliari (26),4-3,1-0,Torino (26)
+?,(Sun) 24 Feb 2013 (7),Inter (26),1-1,0-1,Milan (26)
+?,(Sun) 24 Feb 2013 (7),Juventus (26),3-0,1-0,Siena (26)
+?,(Sun) 24 Feb 2013 (7),Parma (26),1-2,0-2,Catania (26)
+?,(Sun) 24 Feb 2013 (7),Sampdoria (26),2-0,1-0,Chievo (26)
+?,(Mon) 25 Feb 2013 (8),Lazio (26),2-0,2-0,Pescara (26)
+?,(Mon) 25 Feb 2013 (8),Udinese (26),0-0,0-0,Napoli (26)
+?,(Tue) 26 Feb 2013 (8),Bologna (26),2-1,0-1,Fiorentina (26)
+?,(Fri) 1 Mar 2013 (8),Napoli (27),1-1,1-1,Juventus (27)
+?,(Sat) 2 Mar 2013 (8),Milan (27),3-0,2-0,Lazio (27)
+?,(Sun) 3 Mar 2013 (8),Bologna (27),3-0,2-0,Cagliari (27)
+?,(Sun) 3 Mar 2013 (8),Catania (27),2-3,2-0,Inter (27)
+?,(Sun) 3 Mar 2013 (8),Fiorentina (27),2-1,1-1,Chievo (27)
+?,(Sun) 3 Mar 2013 (8),Pescara (27),0-1,0-1,Udinese (27)
+?,(Sun) 3 Mar 2013 (8),Roma (27),3-1,1-1,Genoa (27)
+?,(Sun) 3 Mar 2013 (8),Sampdoria (27),1-0,0-0,Parma (27)
+?,(Sun) 3 Mar 2013 (8),Siena (27),0-2,0-1,Atalanta (27)
+?,(Sun) 3 Mar 2013 (8),Torino (27),0-0,0-0,Palermo (27)
+?,(Fri) 8 Mar 2013 (9),Genoa (28),0-2,0-1,Milan (28)
+?,(Sat) 9 Mar 2013 (9),Udinese (28),1-1,0-1,Roma (28)
+?,(Sun) 10 Mar 2013 (9),Atalanta (28),2-1,1-1,Pescara (28)
+?,(Sun) 10 Mar 2013 (9),Cagliari (28),3-1,1-0,Sampdoria (28)
+?,(Sun) 10 Mar 2013 (9),Chievo (28),2-0,2-0,Napoli (28)
+?,(Sun) 10 Mar 2013 (9),Inter (28),0-1,0-0,Bologna (28)
+?,(Sun) 10 Mar 2013 (9),Juventus (28),1-0,0-0,Catania (28)
+?,(Sun) 10 Mar 2013 (9),Lazio (28),0-2,0-1,Fiorentina (28)
+?,(Sun) 10 Mar 2013 (9),Palermo (28),1-2,1-0,Siena (28)
+?,(Sun) 10 Mar 2013 (9),Parma (28),4-1,0-0,Torino (28)
+?,(Sat) 16 Mar 2013 (10),Bologna (29),0-2,0-0,Juventus (29)
+?,(Sat) 16 Mar 2013 (10),Catania (29),3-1,0-0,Udinese (29)
+?,(Sun) 17 Mar 2013 (10),Fiorentina (29),3-2,1-0,Genoa (29)
+?,(Sun) 17 Mar 2013 (10),Milan (29),2-0,1-0,Palermo (29)
+?,(Sun) 17 Mar 2013 (10),Napoli (29),3-2,1-1,Atalanta (29)
+?,(Sun) 17 Mar 2013 (10),Pescara (29),0-2,0-0,Chievo (29)
+?,(Sun) 17 Mar 2013 (10),Roma (29),2-0,1-0,Parma (29)
+?,(Sun) 17 Mar 2013 (10),Siena (29),0-0,0-0,Cagliari (29)
+?,(Sun) 17 Mar 2013 (10),Torino (29),1-0,0-0,Lazio (29)
+?,(Sat) 30 Mar 2013 (12),Atalanta (30),0-0,0-0,Sampdoria (29)
+?,(Sat) 30 Mar 2013 (12),Cagliari (30),2-1,2-0,Fiorentina (30)
+?,(Sat) 30 Mar 2013 (12),Chievo (30),0-1,0-1,Milan (30)
+?,(Sat) 30 Mar 2013 (12),Genoa (30),2-2,1-1,Siena (30)
+?,(Sat) 30 Mar 2013 (12),Inter (29),1-2,0-1,Juventus (30)
+?,(Sat) 30 Mar 2013 (12),Lazio (30),2-1,0-0,Catania (30)
+?,(Sat) 30 Mar 2013 (12),Palermo (30),2-0,2-0,Roma (30)
+?,(Sat) 30 Mar 2013 (12),Parma (30),3-0,1-0,Pescara (30)
+?,(Sat) 30 Mar 2013 (12),Torino (30),3-5,1-1,Napoli (30)
+?,(Sat) 30 Mar 2013 (12),Udinese (30),0-0,0-0,Bologna (30)
+?,(Wed) 3 Apr 2013 (13),Sampdoria (30),0-2,0-1,Inter (30)
+?,(Sat) 6 Apr 2013 (13),Bologna (31),2-2,0-1,Torino (31)
+?,(Sat) 6 Apr 2013 (13),Juventus (31),2-1,0-0,Pescara (31)
+?,(Sun) 7 Apr 2013 (13),Catania (31),0-0,0-0,Cagliari (31)
+?,(Sun) 7 Apr 2013 (13),Fiorentina (31),2-2,0-1,Milan (31)
+?,(Sun) 7 Apr 2013 (13),Inter (31),3-4,1-0,Atalanta (31)
+?,(Sun) 7 Apr 2013 (13),Napoli (31),2-0,2-0,Genoa (31)
+?,(Sun) 7 Apr 2013 (13),Sampdoria (31),1-3,1-1,Palermo (31)
+?,(Sun) 7 Apr 2013 (13),Siena (31),0-0,0-0,Parma (31)
+?,(Sun) 7 Apr 2013 (13),Udinese (31),3-1,2-1,Chievo (31)
+?,(Mon) 8 Apr 2013 (14),Roma (31),1-1,0-1,Lazio (31)
+?,(Sat) 13 Apr 2013 (14),Atalanta (32),0-2,0-0,Fiorentina (32)
+?,(Sat) 13 Apr 2013 (14),Pescara (32),2-3,0-2,Siena (32)
+?,(Sun) 14 Apr 2013 (14),Cagliari (32),2-0,0-0,Inter (32)
+?,(Sun) 14 Apr 2013 (14),Chievo (32),0-0,0-0,Catania (32)
+?,(Sun) 14 Apr 2013 (14),Genoa (32),1-1,0-1,Sampdoria (32)
+?,(Sun) 14 Apr 2013 (14),Milan (32),1-1,1-1,Napoli (32)
+?,(Sun) 14 Apr 2013 (14),Palermo (32),1-1,1-1,Bologna (32)
+?,(Sun) 14 Apr 2013 (14),Parma (32),0-3,0-2,Udinese (32)
+?,(Sun) 14 Apr 2013 (14),Torino (32),1-2,1-1,Roma (32)
+?,(Mon) 15 Apr 2013 (15),Lazio (32),0-2,0-2,Juventus (32)
+?,(Sat) 20 Apr 2013 (15),Genoa (33),1-1,1-1,Atalanta (33)
+?,(Sat) 20 Apr 2013 (15),Udinese (33),1-0,1-0,Lazio (33)
+?,(Sun) 21 Apr 2013 (15),Bologna (33),1-1,1-0,Sampdoria (33)
+?,(Sun) 21 Apr 2013 (15),Catania (33),1-1,0-0,Palermo (33)
+?,(Sun) 21 Apr 2013 (15),Fiorentina (33),4-3,3-1,Torino (33)
+?,(Sun) 21 Apr 2013 (15),Inter (33),1-0,0-0,Parma (33)
+?,(Sun) 21 Apr 2013 (15),Juventus (33),1-0,0-0,Milan (33)
+?,(Sun) 21 Apr 2013 (15),Napoli (33),3-2,0-1,Cagliari (33)
+?,(Sun) 21 Apr 2013 (15),Roma (33),1-1,0-1,Pescara (33)
+?,(Sun) 21 Apr 2013 (15),Siena (33),0-1,0-1,Chievo (33)
+?,(Sat) 27 Apr 2013 (16),Atalanta (34),1-1,0-0,Bologna (34)
+?,(Sat) 27 Apr 2013 (16),Cagliari (34),0-1,0-0,Udinese (34)
+?,(Sat) 27 Apr 2013 (16),Pescara (34),0-3,0-0,Napoli (34)
+?,(Sun) 28 Apr 2013 (16),Chievo (34),0-1,0-0,Genoa (34)
+?,(Sun) 28 Apr 2013 (16),Milan (34),4-2,1-1,Catania (34)
+?,(Sun) 28 Apr 2013 (16),Palermo (34),1-0,1-0,Inter (34)
+?,(Sun) 28 Apr 2013 (16),Parma (34),0-0,0-0,Lazio (34)
+?,(Sun) 28 Apr 2013 (16),Roma (34),4-0,3-0,Siena (34)
+?,(Sun) 28 Apr 2013 (16),Sampdoria (34),0-3,0-2,Fiorentina (34)
+?,(Sun) 28 Apr 2013 (16),Torino (34),0-2,0-0,Juventus (34)
+?,(Sat) 4 May 2013 (17),Chievo (35),0-0,0-0,Cagliari (35)
+?,(Sat) 4 May 2013 (17),Fiorentina (35),0-1,0-0,Roma (35)
+?,(Sun) 5 May 2013 (17),Catania (35),3-0,1-0,Siena (35)
+?,(Sun) 5 May 2013 (17),Genoa (35),4-1,2-1,Pescara (35)
+?,(Sun) 5 May 2013 (17),Juventus (35),1-0,0-0,Palermo (35)
+?,(Sun) 5 May 2013 (17),Lazio (35),6-0,4-0,Bologna (35)
+?,(Sun) 5 May 2013 (17),Milan (35),1-0,0-0,Torino (35)
+?,(Sun) 5 May 2013 (17),Napoli (35),3-1,2-1,Inter (35)
+?,(Sun) 5 May 2013 (17),Parma (35),2-0,1-0,Atalanta (35)
+?,(Sun) 5 May 2013 (17),Udinese (35),3-1,1-1,Sampdoria (35)
+?,(Tue) 7 May 2013 (18),Roma (36),0-1,0-0,Chievo (36)
+?,(Wed) 8 May 2013 (18),Atalanta (36),0-1,0-1,Juventus (36)
+?,(Wed) 8 May 2013 (18),Bologna (36),0-3,0-0,Napoli (36)
+?,(Wed) 8 May 2013 (18),Cagliari (36),0-1,0-0,Parma (36)
+?,(Wed) 8 May 2013 (18),Inter (36),1-3,1-2,Lazio (36)
+?,(Wed) 8 May 2013 (18),Palermo (36),2-3,1-1,Udinese (36)
+?,(Wed) 8 May 2013 (18),Pescara (36),0-4,0-2,Milan (36)
+?,(Wed) 8 May 2013 (18),Sampdoria (36),1-1,1-0,Catania (36)
+?,(Wed) 8 May 2013 (18),Siena (36),0-1,0-1,Fiorentina (36)
+?,(Wed) 8 May 2013 (18),Torino (36),0-0,0-0,Genoa (36)
+?,(Sat) 11 May 2013 (18),Catania (37),1-0,0-0,Pescara (37)
+?,(Sat) 11 May 2013 (18),Juventus (37),1-1,0-1,Cagliari (37)
+?,(Sun) 12 May 2013 (18),Chievo (37),1-1,1-1,Torino (37)
+?,(Sun) 12 May 2013 (18),Fiorentina (37),1-0,1-0,Palermo (37)
+?,(Sun) 12 May 2013 (18),Genoa (37),0-0,0-0,Inter (37)
+?,(Sun) 12 May 2013 (18),Lazio (37),2-0,1-0,Sampdoria (37)
+?,(Sun) 12 May 2013 (18),Milan (37),0-0,0-0,Roma (37)
+?,(Sun) 12 May 2013 (18),Napoli (37),2-1,0-1,Siena (37)
+?,(Sun) 12 May 2013 (18),Parma (37),0-2,0-1,Bologna (37)
+?,(Sun) 12 May 2013 (18),Udinese (37),2-1,1-1,Atalanta (37)
+?,(Sat) 18 May 2013 (19),Sampdoria (38),3-2,1-1,Juventus (38)
+?,(Sun) 19 May 2013 (19),Atalanta (38),2-2,1-0,Chievo (38)
+?,(Sun) 19 May 2013 (19),Bologna (38),0-0,0-0,Genoa (38)
+?,(Sun) 19 May 2013 (19),Cagliari (38),1-0,0-0,Lazio (38)
+?,(Sun) 19 May 2013 (19),Inter (38),2-5,1-3,Udinese (38)
+?,(Sun) 19 May 2013 (19),Palermo (38),1-3,0-3,Parma (38)
+?,(Sun) 19 May 2013 (19),Pescara (38),1-5,0-3,Fiorentina (38)
+?,(Sun) 19 May 2013 (19),Roma (38),2-1,0-0,Napoli (38)
+?,(Sun) 19 May 2013 (19),Siena (38),1-2,1-0,Milan (38)
+?,(Sun) 19 May 2013 (19),Torino (38),2-2,0-1,Catania (38)

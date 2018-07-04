@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2007-08-25,Albinoleffe,Spezia,3-2,1-2
-2007-08-25,Ascoli,Piacenza,4-1,3-0
-2007-08-25,Bari,Pisa,1-2,0-0
-2007-08-25,Bologna,Rimini,0-0,0-0
-2007-08-25,Brescia,Vicenza,2-0,1-0
-2007-08-25,Cesena,Chievo,1-1,1-0
-2007-08-25,Frosinone,Lecce,1-2,0-2
-2007-08-25,Mantova,Ravenna,1-1,0-0
-2007-08-25,Modena,Grosseto,3-0,0-0
-2007-08-25,Treviso,Avellino,1-0,0-0
-2007-08-25,Triestina,Messina,1-1,0-0
-2007-08-31,Grosseto,Brescia,0-1,0-0
-2007-09-01,Avellino,Mantova,0-1,0-0
-2007-09-01,Chievo,Triestina,3-0,3-0
-2007-09-01,Lecce,Treviso,1-0,1-0
-2007-09-01,Messina,Cesena,1-0,1-0
-2007-09-01,Piacenza,Modena,1-2,1-0
-2007-09-01,Pisa,Frosinone,0-1,0-0
-2007-09-01,Ravenna,Ascoli,2-1,0-0
-2007-09-01,Rimini,Bari,2-1,1-1
-2007-09-01,Vicenza,Albinoleffe,1-1,1-0
-2007-09-03,Spezia,Bologna,0-2,0-1
-2007-09-09,Ascoli,Rimini,0-0,0-0
-2007-09-09,Albinoleffe,Grosseto,2-1,1-0
-2007-09-09,Bari,Vicenza,2-0,2-0
-2007-09-09,Bologna,Ravenna,2-1,0-1
-2007-09-09,Cesena,Pisa,1-2,1-1
-2007-09-09,Frosinone,Avellino,2-1,1-1
-2007-09-09,Mantova,Messina,4-0,1-0
-2007-09-09,Modena,Spezia,2-2,0-2
-2007-09-09,Treviso,Chievo,0-1,0-1
-2007-09-09,Triestina,Lecce,1-1,0-1
-2007-09-15,Avellino,Bologna,1-0,1-0
-2007-09-15,Chievo,Modena,0-0,0-0
-2007-09-15,Grosseto,Cesena,0-0,0-0
-2007-09-15,Lecce,Ascoli,0-0,0-0
-2007-09-15,Messina,Frosinone,0-0,0-0
-2007-09-15,Piacenza,Bari,1-0,0-0
-2007-09-15,Pisa,Brescia,0-3,0-1
-2007-09-15,Ravenna,Albinoleffe,0-2,0-0
-2007-09-15,Rimini,Treviso,2-1,1-1
-2007-09-15,Spezia,Triestina,0-1,0-0
-2007-09-15,Vicenza,Mantova,0-0,0-0
-2007-09-18,Brescia,Piacenza,2-0,1-0
-2007-09-22,Ascoli,Spezia,1-0,1-0
-2007-09-22,Avellino,Lecce,0-2,0-1
-2007-09-22,Bari,Ravenna,4-2,2-1
-2007-09-22,Brescia,Messina,3-1,2-0
-2007-09-22,Cesena,Vicenza,3-3,2-1
-2007-09-22,Frosinone,Chievo,1-2,1-1
-2007-09-22,Grosseto,Rimini,2-1,0-1
-2007-09-22,Mantova,Pisa,0-1,0-1
-2007-09-22,Modena,Albinoleffe,2-3,0-1
-2007-09-22,Treviso,Piacenza,1-0,0-0
-2007-09-22,Triestina,Bologna,1-3,0-1
-2007-09-25,Albinoleffe,Cesena,1-0,0-0
-2007-09-25,Bari,Mantova,2-0,1-0
-2007-09-25,Bologna,Brescia,2-2,0-1
-2007-09-25,Chievo,Avellino,3-0,0-0
-2007-09-25,Messina,Treviso,2-0,1-0
-2007-09-25,Piacenza,Lecce,0-1,0-0
-2007-09-25,Pisa,Triestina,2-1,1-0
-2007-09-25,Ravenna,Grosseto,2-1,1-1
-2007-09-25,Rimini,Modena,1-0,0-0
-2007-09-25,Spezia,Frosinone,3-0,2-0
-2007-09-25,Vicenza,Ascoli,1-1,0-0
-2007-09-29,Albinoleffe,Bari,4-1,3-0
-2007-09-29,Ascoli,Avellino,3-1,1-1
-2007-09-29,Brescia,Ravenna,2-1,1-1
-2007-09-29,Cesena,Bologna,0-0,0-0
-2007-09-29,Frosinone,Rimini,3-2,1-1
-2007-09-29,Grosseto,Vicenza,2-1,0-0
-2007-09-29,Lecce,Chievo,3-0,1-0
-2007-09-29,Modena,Messina,1-0,1-0
-2007-09-29,Piacenza,Spezia,1-0,0-0
-2007-09-29,Treviso,Pisa,2-3,2-2
-2007-09-29,Triestina,Mantova,1-0,1-0
-2007-10-06,Avellino,Piacenza,0-1,0-0
-2007-10-06,Bari,Grosseto,0-0,0-0
-2007-10-06,Bologna,Lecce,1-0,0-0
-2007-10-06,Cesena,Brescia,1-1,0-1
-2007-10-06,Chievo,Rimini,2-2,2-2
-2007-10-06,Mantova,Modena,3-2,1-0
-2007-10-06,Messina,Albinoleffe,2-1,0-1
-2007-10-06,Pisa,Ascoli,2-1,2-1
-2007-10-06,Ravenna,Frosinone,0-2,0-0
-2007-10-06,Spezia,Treviso,5-2,3-2
-2007-10-06,Vicenza,Triestina,2-2,0-0
-2007-10-14,Albinoleffe,Pisa,2-3,0-1
-2007-10-14,Ascoli,Chievo,1-2,0-1
-2007-10-14,Frosinone,Bari,4-1,2-0
-2007-10-14,Grosseto,Messina,0-0,0-0
-2007-10-14,Lecce,Spezia,2-2,1-0
-2007-10-14,Modena,Cesena,1-1,0-1
-2007-10-14,Piacenza,Bologna,0-1,0-0
-2007-10-14,Ravenna,Triestina,2-2,1-1
-2007-10-14,Rimini,Avellino,2-2,1-1
-2007-10-14,Treviso,Vicenza,1-3,0-1
-2007-10-20,Avellino,Albinoleffe,0-0,0-0
-2007-10-20,Bologna,Treviso,1-0,1-0
-2007-10-20,Cesena,Bari,0-0,0-0
-2007-10-20,Chievo,Ravenna,3-2,1-1
-2007-10-20,Lecce,Brescia,1-2,1-1
-2007-10-20,Mantova,Grosseto,0-0,0-0
-2007-10-20,Messina,Ascoli,1-0,0-0
-2007-10-20,Pisa,Piacenza,3-1,1-0
-2007-10-20,Spezia,Rimini,0-1,0-0
-2007-10-20,Triestina,Frosinone,1-2,1-1
-2007-10-20,Vicenza,Modena,1-2,0-2
-2007-10-23,Brescia,Mantova,0-3,0-0
-2007-10-27,Albinoleffe,Mantova,2-0,2-0
-2007-10-27,Ascoli,Cesena,5-2,0-0
-2007-10-27,Bari,Messina,1-1,1-1
-2007-10-27,Brescia,Triestina,4-1,3-0
-2007-10-27,Frosinone,Bologna,0-0,0-0
-2007-10-27,Grosseto,Pisa,2-0,1-0
-2007-10-27,Modena,Avellino,1-0,1-0
-2007-10-27,Piacenza,Chievo,1-3,1-1
-2007-10-27,Ravenna,Treviso,1-0,1-0
-2007-10-27,Rimini,Lecce,2-3,1-1
-2007-10-27,Vicenza,Spezia,0-0,0-0
-2007-10-30,Avellino,Ravenna,3-2,3-2
-2007-10-30,Chievo,Albinoleffe,0-1,0-1
-2007-10-30,Lecce,Grosseto,1-1,0-0
-2007-10-30,Mantova,Cesena,4-1,3-0
-2007-10-30,Messina,Vicenza,0-2,0-1
-2007-10-30,Pisa,Modena,3-3,1-1
-2007-10-30,Rimini,Piacenza,0-1,0-0
-2007-10-30,Spezia,Brescia,1-0,1-0
-2007-10-30,Treviso,Frosinone,2-1,0-0
-2007-10-30,Triestina,Bari,1-1,0-0
-2007-11-03,Albinoleffe,Triestina,5-1,2-1
-2007-11-03,Ascoli,Treviso,2-1,2-0
-2007-11-03,Bari,Brescia,0-0,0-0
-2007-11-03,Chievo,Messina,4-1,2-1
-2007-11-03,Frosinone,Piacenza,2-2,2-0
-2007-11-03,Grosseto,Avellino,2-1,1-0
-2007-11-03,Mantova,Rimini,0-1,0-0
-2007-11-03,Modena,Bologna,1-2,0-1
-2007-11-03,Ravenna,Spezia,2-2,1-1
-2007-11-03,Vicenza,Pisa,1-3,1-2
-2007-11-10,Ascoli,Frosinone,2-0,1-0
-2007-11-10,Avellino,Vicenza,3-0,0-0
-2007-11-10,Bologna,Chievo,4-0,3-0
-2007-11-10,Brescia,Albinoleffe,1-2,0-0
-2007-11-10,Lecce,Modena,2-0,1-0
-2007-11-10,Messina,Pisa,1-2,0-0
-2007-11-10,Piacenza,Ravenna,2-0,0-0
-2007-11-10,Rimini,Cesena,4-1,3-1
-2007-11-10,Spezia,Bari,1-1,0-1
-2007-11-10,Treviso,Mantova,2-2,2-1
-2007-11-10,Triestina,Grosseto,4-0,1-0
-2007-11-24,Ascoli,Mantova,1-3,0-0
-2007-11-24,Avellino,Spezia,2-2,1-1
-2007-11-24,Bologna,Albinoleffe,1-0,1-0
-2007-11-24,Chievo,Pisa,2-2,2-1
-2007-11-24,Frosinone,Grosseto,4-1,1-0
-2007-11-24,Lecce,Ravenna,3-1,0-1
-2007-11-24,Modena,Bari,3-0,2-0
-2007-11-24,Piacenza,Messina,0-1,0-1
-2007-11-24,Rimini,Vicenza,5-1,3-1
-2007-11-24,Treviso,Brescia,3-0,1-0
-2007-11-24,Triestina,Cesena,2-1,1-0
-2007-12-01,Bari,Bologna,1-1,1-1
-2007-12-01,Brescia,Chievo,0-2,0-0
-2007-12-01,Cesena,Spezia,1-1,1-0
-2007-12-01,Grosseto,Ascoli,1-1,0-0
-2007-12-01,Mantova,Frosinone,3-2,1-1
-2007-12-01,Messina,Avellino,1-0,1-0
-2007-12-01,Modena,Triestina,1-2,0-1
-2007-12-01,Pisa,Lecce,1-1,0-1
-2007-12-01,Ravenna,Rimini,0-1,0-1
-2007-12-01,Vicenza,Piacenza,0-1,0-0
-2007-12-04,Albinoleffe,Treviso,0-0,0-0
-2007-12-04,Bologna,Ascoli,0-0,0-0
-2007-12-04,Cesena,Lecce,0-1,0-0
-2007-12-08,Albinoleffe,Piacenza,2-0,0-0
-2007-12-08,Bari,Ascoli,1-1,0-0
-2007-12-08,Brescia,Modena,2-0,1-0
-2007-12-08,Cesena,Frosinone,3-0,0-0
-2007-12-08,Grosseto,Treviso,1-1,0-1
-2007-12-08,Mantova,Lecce,1-0,1-0
-2007-12-08,Messina,Ravenna,2-1,1-1
-2007-12-08,Pisa,Avellino,0-0,0-0
-2007-12-08,Spezia,Chievo,0-1,0-0
-2007-12-08,Triestina,Rimini,1-0,0-0
-2007-12-08,Vicenza,Bologna,0-1,0-0
-2007-12-15,Avellino,Cesena,3-1,2-1
-2007-12-15,Bologna,Grosseto,1-0,0-0
-2007-12-15,Chievo,Mantova,2-3,1-1
-2007-12-15,Frosinone,Vicenza,0-0,0-0
-2007-12-15,Lecce,Albinoleffe,3-0,0-0
-2007-12-15,Piacenza,Triestina,2-0,1-0
-2007-12-15,Ravenna,Modena,1-1,0-1
-2007-12-15,Rimini,Pisa,1-1,1-0
-2007-12-15,Spezia,Messina,2-0,1-0
-2007-12-15,Treviso,Bari,1-2,0-2
-2007-12-22,Albinoleffe,Ascoli,0-0,0-0
-2007-12-22,Bari,Lecce,0-4,0-2
-2007-12-22,Brescia,Rimini,2-0,0-0
-2007-12-22,Cesena,Treviso,4-1,1-0
-2007-12-22,Grosseto,Piacenza,2-1,0-0
-2007-12-22,Mantova,Spezia,3-1,1-0
-2007-12-22,Messina,Bologna,2-1,2-1
-2007-12-22,Modena,Frosinone,2-2,1-1
-2007-12-22,Pisa,Ravenna,1-0,1-0
-2007-12-22,Triestina,Avellino,2-2,0-2
-2007-12-22,Vicenza,Chievo,1-3,0-0
-2008-01-12,Ascoli,Modena,1-1,0-0
-2008-01-12,Avellino,Bari,3-2,1-2
-2008-01-12,Bologna,Mantova,3-0,1-0
-2008-01-12,Chievo,Grosseto,2-0,1-0
-2008-01-12,Frosinone,Brescia,0-0,0-0
-2008-01-12,Lecce,Messina,0-0,0-0
-2008-01-12,Piacenza,Cesena,0-0,0-0
-2008-01-12,Ravenna,Vicenza,0-1,0-1
-2008-01-12,Rimini,Albinoleffe,0-0,0-0
-2008-01-12,Spezia,Pisa,1-4,1-2
-2008-01-12,Treviso,Triestina,2-0,1-0
-2008-01-19,Albinoleffe,Frosinone,2-0,0-0
-2008-01-19,Bari,Chievo,2-3,2-1
-2008-01-19,Brescia,Avellino,3-0,1-0
-2008-01-19,Cesena,Ravenna,1-1,1-1
-2008-01-19,Grosseto,Spezia,3-0,1-0
-2008-01-19,Mantova,Piacenza,1-0,0-0
-2008-01-19,Messina,Rimini,1-0,1-0
-2008-01-19,Modena,Treviso,1-1,1-1
-2008-01-19,Pisa,Bologna,0-0,0-0
-2008-01-19,Triestina,Ascoli,1-1,1-0
-2008-01-19,Vicenza,Lecce,1-3,1-0
-2008-01-26,Avellino,Treviso,1-1,0-0
-2008-01-26,Chievo,Cesena,3-1,1-1
-2008-01-26,Grosseto,Modena,0-2,0-1
-2008-01-26,Lecce,Frosinone,3-0,1-0
-2008-01-26,Messina,Triestina,1-2,1-1
-2008-01-26,Piacenza,Ascoli,2-1,0-0
-2008-01-26,Pisa,Bari,1-1,0-1
-2008-01-26,Ravenna,Mantova,5-2,3-2
-2008-01-26,Rimini,Bologna,1-2,1-1
-2008-01-26,Spezia,Albinoleffe,0-2,0-1
-2008-01-26,Vicenza,Brescia,1-1,1-1
-2008-02-02,Albinoleffe,Vicenza,0-0,0-0
-2008-02-02,Ascoli,Ravenna,5-0,2-0
-2008-02-02,Bari,Rimini,0-1,0-1
-2008-02-02,Bologna,Spezia,3-2,3-0
-2008-02-02,Brescia,Grosseto,4-1,1-1
-2008-02-02,Cesena,Messina,1-0,1-0
-2008-02-02,Frosinone,Pisa,1-5,1-4
-2008-02-02,Mantova,Avellino,2-0,1-0
-2008-02-02,Modena,Piacenza,2-0,2-0
-2008-02-02,Treviso,Lecce,0-0,0-0
-2008-02-02,Triestina,Chievo,1-1,0-0
-2008-02-09,Avellino,Frosinone,0-1,0-0
-2008-02-09,Chievo,Treviso,1-0,1-0
-2008-02-09,Grosseto,Albinoleffe,2-2,1-2
-2008-02-09,Lecce,Triestina,1-0,0-0
-2008-02-09,Messina,Mantova,1-0,1-0
-2008-02-09,Piacenza,Brescia,2-4,2-1
-2008-02-09,Pisa,Cesena,3-0,0-0
-2008-02-09,Ravenna,Bologna,1-1,0-0
-2008-02-09,Rimini,Ascoli,3-0,1-0
-2008-02-09,Spezia,Modena,2-2,1-1
-2008-02-09,Vicenza,Bari,2-3,0-2
-2008-02-12,Albinoleffe,Ravenna,3-1,0-1
-2008-02-12,Ascoli,Lecce,2-1,2-1
-2008-02-12,Bari,Piacenza,2-1,1-0
-2008-02-12,Bologna,Avellino,3-1,1-0
-2008-02-12,Brescia,Pisa,1-0,1-0
-2008-02-12,Cesena,Grosseto,0-0,0-0
-2008-02-12,Frosinone,Messina,4-0,3-0
-2008-02-12,Mantova,Vicenza,2-3,0-2
-2008-02-12,Modena,Chievo,1-2,1-2
-2008-02-12,Treviso,Rimini,0-2,0-1
-2008-02-12,Triestina,Spezia,0-0,0-0
-2008-02-16,Albinoleffe,Modena,3-1,1-1
-2008-02-16,Bologna,Triestina,2-0,1-0
-2008-02-16,Chievo,Frosinone,2-0,1-0
-2008-02-16,Lecce,Avellino,2-0,1-0
-2008-02-16,Messina,Brescia,2-1,1-0
-2008-02-16,Piacenza,Treviso,0-0,0-0
-2008-02-16,Pisa,Mantova,1-1,1-1
-2008-02-16,Ravenna,Bari,1-2,1-2
-2008-02-16,Rimini,Grosseto,2-0,1-0
-2008-02-16,Spezia,Ascoli,0-0,0-0
-2008-02-16,Vicenza,Cesena,1-0,0-0
-2008-02-23,Ascoli,Vicenza,1-0,0-0
-2008-02-23,Avellino,Chievo,1-1,0-1
-2008-02-23,Brescia,Bologna,2-0,1-0
-2008-02-23,Cesena,Albinoleffe,0-3,0-2
-2008-02-23,Frosinone,Spezia,4-2,4-1
-2008-02-23,Grosseto,Ravenna,2-2,1-1
-2008-02-23,Lecce,Piacenza,3-1,1-1
-2008-02-23,Mantova,Bari,1-1,1-1
-2008-02-23,Modena,Rimini,0-2,0-1
-2008-02-23,Treviso,Messina,6-2,2-2
-2008-02-23,Triestina,Pisa,0-1,0-1
-2008-02-26,Ascoli,Brescia,0-1,0-0
-2008-03-01,Avellino,Ascoli,0-2,0-1
-2008-03-01,Bari,Albinoleffe,0-1,0-0
-2008-03-01,Bologna,Cesena,2-1,1-1
-2008-03-01,Chievo,Lecce,3-3,2-1
-2008-03-01,Mantova,Triestina,2-0,0-0
-2008-03-01,Messina,Modena,3-3,0-1
-2008-03-01,Pisa,Treviso,2-0,1-0
-2008-03-01,Ravenna,Brescia,0-0,0-0
-2008-03-01,Rimini,Frosinone,1-1,0-1
-2008-03-01,Spezia,Piacenza,1-2,0-1
-2008-03-01,Vicenza,Grosseto,0-0,0-0
-2008-03-08,Albinoleffe,Messina,1-0,0-0
-2008-03-08,Ascoli,Pisa,1-0,0-0
-2008-03-08,Brescia,Cesena,3-0,3-0
-2008-03-08,Frosinone,Ravenna,2-1,1-0
-2008-03-08,Grosseto,Bari,2-2,2-1
-2008-03-08,Lecce,Bologna,0-0,0-0
-2008-03-08,Modena,Mantova,2-2,1-0
-2008-03-08,Piacenza,Avellino,1-0,1-0
-2008-03-08,Rimini,Chievo,0-0,0-0
-2008-03-08,Treviso,Spezia,1-1,0-0
-2008-03-08,Triestina,Vicenza,5-1,2-1
-2008-03-15,Avellino,Rimini,2-1,1-0
-2008-03-15,Bari,Frosinone,3-1,2-1
-2008-03-15,Bologna,Piacenza,1-2,1-1
-2008-03-15,Cesena,Modena,2-1,1-0
-2008-03-15,Chievo,Ascoli,3-1,2-1
-2008-03-15,Mantova,Brescia,1-1,1-1
-2008-03-15,Messina,Grosseto,1-1,0-1
-2008-03-15,Pisa,Albinoleffe,2-0,1-0
-2008-03-15,Spezia,Lecce,1-1,0-0
-2008-03-15,Triestina,Ravenna,4-3,1-0
-2008-03-15,Vicenza,Treviso,0-0,0-0
-2008-03-18,Albinoleffe,Avellino,3-3,0-1
-2008-03-18,Ascoli,Messina,1-1,1-1
-2008-03-18,Bari,Cesena,0-0,0-0
-2008-03-18,Brescia,Lecce,0-0,0-0
-2008-03-18,Frosinone,Triestina,0-1,0-1
-2008-03-18,Grosseto,Mantova,1-0,1-0
-2008-03-18,Modena,Vicenza,1-1,0-1
-2008-03-18,Piacenza,Pisa,4-2,1-1
-2008-03-18,Ravenna,Chievo,1-1,1-1
-2008-03-18,Rimini,Spezia,4-2,1-1
-2008-03-18,Treviso,Bologna,0-2,0-2
-2008-03-21,Avellino,Modena,1-1,1-1
-2008-03-21,Bologna,Frosinone,2-1,2-0
-2008-03-21,Cesena,Ascoli,1-1,0-0
-2008-03-21,Chievo,Piacenza,1-0,0-0
-2008-03-21,Lecce,Rimini,2-0,0-0
-2008-03-21,Mantova,Albinoleffe,0-1,0-0
-2008-03-21,Messina,Bari,1-2,0-0
-2008-03-21,Pisa,Grosseto,0-0,0-0
-2008-03-21,Spezia,Vicenza,1-1,1-1
-2008-03-21,Treviso,Ravenna,1-1,1-0
-2008-03-21,Triestina,Brescia,1-0,0-0
-2008-03-29,Albinoleffe,Chievo,0-2,0-1
-2008-03-29,Ascoli,Bologna,2-2,1-2
-2008-03-29,Bari,Triestina,2-0,1-0
-2008-03-29,Brescia,Spezia,1-0,0-0
-2008-03-29,Cesena,Mantova,1-1,1-1
-2008-03-29,Frosinone,Treviso,1-0,0-0
-2008-03-29,Grosseto,Lecce,1-1,1-1
-2008-03-29,Modena,Pisa,0-0,0-0
-2008-03-29,Piacenza,Rimini,2-1,1-0
-2008-03-29,Ravenna,Avellino,0-1,0-0
-2008-03-29,Vicenza,Messina,3-1,0-1
-2008-04-05,Avellino,Grosseto,0-3,0-1
-2008-04-05,Bologna,Modena,4-1,2-1
-2008-04-05,Brescia,Bari,0-0,0-0
-2008-04-05,Lecce,Cesena,3-0,2-0
-2008-04-05,Messina,Chievo,2-3,1-1
-2008-04-05,Piacenza,Frosinone,1-2,1-0
-2008-04-05,Pisa,Vicenza,1-1,0-1
-2008-04-05,Rimini,Mantova,1-1,0-0
-2008-04-05,Spezia,Ravenna,2-0,1-0
-2008-04-05,Treviso,Ascoli,2-1,1-1
-2008-04-05,Triestina,Albinoleffe,2-4,1-2
-2008-04-12,Albinoleffe,Brescia,2-3,1-2
-2008-04-12,Bari,Spezia,2-1,0-1
-2008-04-12,Cesena,Rimini,1-2,1-0
-2008-04-12,Chievo,Bologna,1-1,1-1
-2008-04-12,Frosinone,Ascoli,3-3,1-2
-2008-04-12,Grosseto,Triestina,1-2,1-2
-2008-04-12,Mantova,Treviso,2-1,2-1
-2008-04-12,Modena,Lecce,1-2,1-0
-2008-04-12,Pisa,Messina,0-0,0-0
-2008-04-12,Ravenna,Piacenza,1-0,0-0
-2008-04-12,Vicenza,Avellino,2-1,0-1
-2008-04-19,Ascoli,Grosseto,3-5,2-4
-2008-04-19,Avellino,Messina,1-2,0-1
-2008-04-19,Bologna,Bari,1-1,0-0
-2008-04-19,Chievo,Brescia,3-0,2-0
-2008-04-19,Frosinone,Mantova,2-1,1-1
-2008-04-19,Lecce,Pisa,1-1,0-0
-2008-04-19,Piacenza,Vicenza,1-1,0-0
-2008-04-19,Rimini,Ravenna,3-4,0-1
-2008-04-19,Spezia,Cesena,1-0,0-0
-2008-04-19,Treviso,Albinoleffe,0-1,0-0
-2008-04-19,Triestina,Modena,3-1,0-1
-2008-04-26,Albinoleffe,Bologna,1-0,1-0
-2008-04-26,Bari,Modena,1-1,0-1
-2008-04-26,Brescia,Treviso,0-0,0-0
-2008-04-26,Cesena,Triestina,1-1,1-1
-2008-04-26,Grosseto,Frosinone,1-1,1-0
-2008-04-26,Mantova,Ascoli,0-1,0-0
-2008-04-26,Messina,Piacenza,2-0,1-0
-2008-04-26,Pisa,Chievo,1-1,1-1
-2008-04-26,Ravenna,Lecce,1-3,0-1
-2008-04-26,Spezia,Avellino,2-2,1-1
-2008-04-26,Vicenza,Rimini,3-2,0-1
-2008-05-03,Ascoli,Bari,2-0,0-0
-2008-05-03,Avellino,Pisa,3-1,2-1
-2008-05-03,Bologna,Vicenza,1-0,1-0
-2008-05-03,Chievo,Spezia,5-0,3-0
-2008-05-03,Frosinone,Cesena,5-2,0-0
-2008-05-03,Lecce,Mantova,1-1,1-0
-2008-05-03,Modena,Brescia,0-3,0-0
-2008-05-03,Piacenza,Albinoleffe,1-3,0-2
-2008-05-03,Ravenna,Messina,1-0,0-0
-2008-05-03,Rimini,Triestina,4-3,1-0
-2008-05-10,Albinoleffe,Lecce,0-4,0-1
-2008-05-10,Bari,Treviso,0-1,0-1
-2008-05-10,Brescia,Ascoli,0-4,0-1
-2008-05-10,Cesena,Avellino,1-0,1-0
-2008-05-10,Grosseto,Bologna,3-0,3-0
-2008-05-10,Mantova,Chievo,1-0,1-0
-2008-05-10,Messina,Spezia,0-0,0-0
-2008-05-10,Modena,Ravenna,1-2,1-0
-2008-05-10,Pisa,Rimini,0-2,0-0
-2008-05-10,Triestina,Piacenza,1-1,0-0
-2008-05-10,Vicenza,Frosinone,2-1,1-0
-2008-05-14,Treviso,Grosseto,2-1,0-1
-2008-05-17,Ascoli,Albinoleffe,3-2,1-1
-2008-05-17,Avellino,Triestina,2-2,0-0
-2008-05-17,Bologna,Messina,3-0,1-0
-2008-05-17,Chievo,Vicenza,2-1,1-0
-2008-05-17,Frosinone,Modena,2-4,2-3
-2008-05-17,Lecce,Bari,1-2,0-0
-2008-05-17,Piacenza,Grosseto,1-1,0-0
-2008-05-17,Ravenna,Pisa,1-4,1-1
-2008-05-17,Rimini,Brescia,2-1,0-0
-2008-05-17,Spezia,Mantova,0-1,0-0
-2008-05-17,Treviso,Cesena,2-1,2-1
-2008-05-25,Albinoleffe,Rimini,0-4,0-2
-2008-05-25,Bari,Avellino,1-0,1-0
-2008-05-25,Brescia,Frosinone,2-2,1-1
-2008-05-25,Cesena,Piacenza,2-2,2-2
-2008-05-25,Grosseto,Chievo,1-1,0-1
-2008-05-25,Mantova,Bologna,0-1,0-0
-2008-05-25,Messina,Lecce,1-3,1-2
-2008-05-25,Modena,Ascoli,2-1,2-1
-2008-05-25,Pisa,Spezia,1-0,1-0
-2008-05-25,Triestina,Treviso,0-1,0-1
-2008-05-25,Vicenza,Ravenna,1-0,0-0
-2008-06-01,Ascoli,Triestina,3-1,2-0
-2008-06-01,Avellino,Brescia,1-1,1-1
-2008-06-01,Bologna,Pisa,1-0,1-0
-2008-06-01,Chievo,Bari,2-2,2-1
-2008-06-01,Frosinone,Albinoleffe,2-2,1-0
-2008-06-01,Lecce,Vicenza,1-0,1-0
-2008-06-01,Piacenza,Mantova,3-3,1-0
-2008-06-01,Ravenna,Cesena,0-0,0-0
-2008-06-01,Rimini,Messina,3-0,2-0
-2008-06-01,Spezia,Grosseto,2-2,1-1
-2008-06-01,Treviso,Modena,1-1,1-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 25 Aug 2007 (34),Albinoleffe (1),3-2,1-2,Spezia (1)
+?,(Sat) 25 Aug 2007 (34),Ascoli (1),4-1,3-0,Piacenza (1)
+?,(Sat) 25 Aug 2007 (34),Bari (1),1-2,0-0,Pisa (1)
+?,(Sat) 25 Aug 2007 (34),Bologna (1),0-0,0-0,Rimini (1)
+?,(Sat) 25 Aug 2007 (34),Brescia (1),2-0,1-0,Vicenza (1)
+?,(Sat) 25 Aug 2007 (34),Cesena (1),1-1,1-0,Chievo (1)
+?,(Sat) 25 Aug 2007 (34),Frosinone (1),1-2,0-2,Lecce (1)
+?,(Sat) 25 Aug 2007 (34),Mantova (1),1-1,0-0,Ravenna (1)
+?,(Sat) 25 Aug 2007 (34),Modena (1),3-0,0-0,Grosseto (1)
+?,(Sat) 25 Aug 2007 (34),Treviso (1),1-0,0-0,Avellino (1)
+?,(Sat) 25 Aug 2007 (34),Triestina (1),1-1,0-0,Messina (1)
+?,(Fri) 31 Aug 2007 (35),Grosseto (2),0-1,0-0,Brescia (2)
+?,(Sat) 1 Sep 2007 (35),Avellino (2),0-1,0-0,Mantova (2)
+?,(Sat) 1 Sep 2007 (35),Chievo (2),3-0,3-0,Triestina (2)
+?,(Sat) 1 Sep 2007 (35),Lecce (2),1-0,1-0,Treviso (2)
+?,(Sat) 1 Sep 2007 (35),Messina (2),1-0,1-0,Cesena (2)
+?,(Sat) 1 Sep 2007 (35),Piacenza (2),1-2,1-0,Modena (2)
+?,(Sat) 1 Sep 2007 (35),Pisa (2),0-1,0-0,Frosinone (2)
+?,(Sat) 1 Sep 2007 (35),Ravenna (2),2-1,0-0,Ascoli (2)
+?,(Sat) 1 Sep 2007 (35),Rimini (2),2-1,1-1,Bari (2)
+?,(Sat) 1 Sep 2007 (35),Vicenza (2),1-1,1-0,Albinoleffe (2)
+?,(Mon) 3 Sep 2007 (36),Spezia (2),0-2,0-1,Bologna (2)
+?,(Sun) 9 Sep 2007 (36),Ascoli (3),0-0,0-0,Rimini (3)
+?,(Sun) 9 Sep 2007 (36),Albinoleffe (3),2-1,1-0,Grosseto (3)
+?,(Sun) 9 Sep 2007 (36),Bari (3),2-0,2-0,Vicenza (3)
+?,(Sun) 9 Sep 2007 (36),Bologna (3),2-1,0-1,Ravenna (3)
+?,(Sun) 9 Sep 2007 (36),Cesena (3),1-2,1-1,Pisa (3)
+?,(Sun) 9 Sep 2007 (36),Frosinone (3),2-1,1-1,Avellino (3)
+?,(Sun) 9 Sep 2007 (36),Mantova (3),4-0,1-0,Messina (3)
+?,(Sun) 9 Sep 2007 (36),Modena (3),2-2,0-2,Spezia (3)
+?,(Sun) 9 Sep 2007 (36),Treviso (3),0-1,0-1,Chievo (3)
+?,(Sun) 9 Sep 2007 (36),Triestina (3),1-1,0-1,Lecce (3)
+?,(Sat) 15 Sep 2007 (37),Avellino (4),1-0,1-0,Bologna (4)
+?,(Sat) 15 Sep 2007 (37),Chievo (4),0-0,0-0,Modena (4)
+?,(Sat) 15 Sep 2007 (37),Grosseto (4),0-0,0-0,Cesena (4)
+?,(Sat) 15 Sep 2007 (37),Lecce (4),0-0,0-0,Ascoli (4)
+?,(Sat) 15 Sep 2007 (37),Messina (4),0-0,0-0,Frosinone (4)
+?,(Sat) 15 Sep 2007 (37),Piacenza (3),1-0,0-0,Bari (4)
+?,(Sat) 15 Sep 2007 (37),Pisa (4),0-3,0-1,Brescia (3)
+?,(Sat) 15 Sep 2007 (37),Ravenna (4),0-2,0-0,Albinoleffe (4)
+?,(Sat) 15 Sep 2007 (37),Rimini (4),2-1,1-1,Treviso (4)
+?,(Sat) 15 Sep 2007 (37),Spezia (4),0-1,0-0,Triestina (4)
+?,(Sat) 15 Sep 2007 (37),Vicenza (4),0-0,0-0,Mantova (4)
+?,(Tue) 18 Sep 2007 (38),Brescia (4),2-0,1-0,Piacenza (4)
+?,(Sat) 22 Sep 2007 (38),Ascoli (5),1-0,1-0,Spezia (5)
+?,(Sat) 22 Sep 2007 (38),Avellino (5),0-2,0-1,Lecce (5)
+?,(Sat) 22 Sep 2007 (38),Bari (5),4-2,2-1,Ravenna (5)
+?,(Sat) 22 Sep 2007 (38),Brescia (5),3-1,2-0,Messina (5)
+?,(Sat) 22 Sep 2007 (38),Cesena (5),3-3,2-1,Vicenza (5)
+?,(Sat) 22 Sep 2007 (38),Frosinone (5),1-2,1-1,Chievo (5)
+?,(Sat) 22 Sep 2007 (38),Grosseto (5),2-1,0-1,Rimini (5)
+?,(Sat) 22 Sep 2007 (38),Mantova (5),0-1,0-1,Pisa (5)
+?,(Sat) 22 Sep 2007 (38),Modena (5),2-3,0-1,Albinoleffe (5)
+?,(Sat) 22 Sep 2007 (38),Treviso (5),1-0,0-0,Piacenza (5)
+?,(Sat) 22 Sep 2007 (38),Triestina (5),1-3,0-1,Bologna (5)
+?,(Tue) 25 Sep 2007 (39),Albinoleffe (6),1-0,0-0,Cesena (6)
+?,(Tue) 25 Sep 2007 (39),Bari (6),2-0,1-0,Mantova (6)
+?,(Tue) 25 Sep 2007 (39),Bologna (6),2-2,0-1,Brescia (6)
+?,(Tue) 25 Sep 2007 (39),Chievo (6),3-0,0-0,Avellino (6)
+?,(Tue) 25 Sep 2007 (39),Messina (6),2-0,1-0,Treviso (6)
+?,(Tue) 25 Sep 2007 (39),Piacenza (6),0-1,0-0,Lecce (6)
+?,(Tue) 25 Sep 2007 (39),Pisa (6),2-1,1-0,Triestina (6)
+?,(Tue) 25 Sep 2007 (39),Ravenna (6),2-1,1-1,Grosseto (6)
+?,(Tue) 25 Sep 2007 (39),Rimini (6),1-0,0-0,Modena (6)
+?,(Tue) 25 Sep 2007 (39),Spezia (6),3-0,2-0,Frosinone (6)
+?,(Tue) 25 Sep 2007 (39),Vicenza (6),1-1,0-0,Ascoli (6)
+?,(Sat) 29 Sep 2007 (39),Albinoleffe (7),4-1,3-0,Bari (7)
+?,(Sat) 29 Sep 2007 (39),Ascoli (7),3-1,1-1,Avellino (7)
+?,(Sat) 29 Sep 2007 (39),Brescia (7),2-1,1-1,Ravenna (7)
+?,(Sat) 29 Sep 2007 (39),Cesena (7),0-0,0-0,Bologna (7)
+?,(Sat) 29 Sep 2007 (39),Frosinone (7),3-2,1-1,Rimini (7)
+?,(Sat) 29 Sep 2007 (39),Grosseto (7),2-1,0-0,Vicenza (7)
+?,(Sat) 29 Sep 2007 (39),Lecce (7),3-0,1-0,Chievo (7)
+?,(Sat) 29 Sep 2007 (39),Modena (7),1-0,1-0,Messina (7)
+?,(Sat) 29 Sep 2007 (39),Piacenza (7),1-0,0-0,Spezia (7)
+?,(Sat) 29 Sep 2007 (39),Treviso (7),2-3,2-2,Pisa (7)
+?,(Sat) 29 Sep 2007 (39),Triestina (7),1-0,1-0,Mantova (7)
+?,(Sat) 6 Oct 2007 (40),Avellino (8),0-1,0-0,Piacenza (8)
+?,(Sat) 6 Oct 2007 (40),Bari (8),0-0,0-0,Grosseto (8)
+?,(Sat) 6 Oct 2007 (40),Bologna (8),1-0,0-0,Lecce (8)
+?,(Sat) 6 Oct 2007 (40),Cesena (8),1-1,0-1,Brescia (8)
+?,(Sat) 6 Oct 2007 (40),Chievo (8),2-2,2-2,Rimini (8)
+?,(Sat) 6 Oct 2007 (40),Mantova (8),3-2,1-0,Modena (8)
+?,(Sat) 6 Oct 2007 (40),Messina (8),2-1,0-1,Albinoleffe (8)
+?,(Sat) 6 Oct 2007 (40),Pisa (8),2-1,2-1,Ascoli (8)
+?,(Sat) 6 Oct 2007 (40),Ravenna (8),0-2,0-0,Frosinone (8)
+?,(Sat) 6 Oct 2007 (40),Spezia (8),5-2,3-2,Treviso (8)
+?,(Sat) 6 Oct 2007 (40),Vicenza (8),2-2,0-0,Triestina (8)
+?,(Sun) 14 Oct 2007 (41),Albinoleffe (9),2-3,0-1,Pisa (9)
+?,(Sun) 14 Oct 2007 (41),Ascoli (9),1-2,0-1,Chievo (9)
+?,(Sun) 14 Oct 2007 (41),Frosinone (9),4-1,2-0,Bari (9)
+?,(Sun) 14 Oct 2007 (41),Grosseto (9),0-0,0-0,Messina (9)
+?,(Sun) 14 Oct 2007 (41),Lecce (9),2-2,1-0,Spezia (9)
+?,(Sun) 14 Oct 2007 (41),Modena (9),1-1,0-1,Cesena (9)
+?,(Sun) 14 Oct 2007 (41),Piacenza (9),0-1,0-0,Bologna (9)
+?,(Sun) 14 Oct 2007 (41),Ravenna (9),2-2,1-1,Triestina (9)
+?,(Sun) 14 Oct 2007 (41),Rimini (9),2-2,1-1,Avellino (9)
+?,(Sun) 14 Oct 2007 (41),Treviso (9),1-3,0-1,Vicenza (9)
+?,(Sat) 20 Oct 2007 (42),Avellino (10),0-0,0-0,Albinoleffe (10)
+?,(Sat) 20 Oct 2007 (42),Bologna (10),1-0,1-0,Treviso (10)
+?,(Sat) 20 Oct 2007 (42),Cesena (10),0-0,0-0,Bari (10)
+?,(Sat) 20 Oct 2007 (42),Chievo (10),3-2,1-1,Ravenna (10)
+?,(Sat) 20 Oct 2007 (42),Lecce (10),1-2,1-1,Brescia (9)
+?,(Sat) 20 Oct 2007 (42),Mantova (9),0-0,0-0,Grosseto (10)
+?,(Sat) 20 Oct 2007 (42),Messina (10),1-0,0-0,Ascoli (10)
+?,(Sat) 20 Oct 2007 (42),Pisa (10),3-1,1-0,Piacenza (10)
+?,(Sat) 20 Oct 2007 (42),Spezia (10),0-1,0-0,Rimini (10)
+?,(Sat) 20 Oct 2007 (42),Triestina (10),1-2,1-1,Frosinone (10)
+?,(Sat) 20 Oct 2007 (42),Vicenza (10),1-2,0-2,Modena (10)
+?,(Tue) 23 Oct 2007 (43),Brescia (10),0-3,0-0,Mantova (10)
+?,(Sat) 27 Oct 2007 (43),Albinoleffe (11),2-0,2-0,Mantova (11)
+?,(Sat) 27 Oct 2007 (43),Ascoli (11),5-2,0-0,Cesena (11)
+?,(Sat) 27 Oct 2007 (43),Bari (11),1-1,1-1,Messina (11)
+?,(Sat) 27 Oct 2007 (43),Brescia (11),4-1,3-0,Triestina (11)
+?,(Sat) 27 Oct 2007 (43),Frosinone (11),0-0,0-0,Bologna (11)
+?,(Sat) 27 Oct 2007 (43),Grosseto (11),2-0,1-0,Pisa (11)
+?,(Sat) 27 Oct 2007 (43),Modena (11),1-0,1-0,Avellino (11)
+?,(Sat) 27 Oct 2007 (43),Piacenza (11),1-3,1-1,Chievo (11)
+?,(Sat) 27 Oct 2007 (43),Ravenna (11),1-0,1-0,Treviso (11)
+?,(Sat) 27 Oct 2007 (43),Rimini (11),2-3,1-1,Lecce (11)
+?,(Sat) 27 Oct 2007 (43),Vicenza (11),0-0,0-0,Spezia (11)
+?,(Tue) 30 Oct 2007 (44),Avellino (12),3-2,3-2,Ravenna (12)
+?,(Tue) 30 Oct 2007 (44),Chievo (12),0-1,0-1,Albinoleffe (12)
+?,(Tue) 30 Oct 2007 (44),Lecce (12),1-1,0-0,Grosseto (12)
+?,(Tue) 30 Oct 2007 (44),Mantova (12),4-1,3-0,Cesena (12)
+?,(Tue) 30 Oct 2007 (44),Messina (12),0-2,0-1,Vicenza (12)
+?,(Tue) 30 Oct 2007 (44),Pisa (12),3-3,1-1,Modena (12)
+?,(Tue) 30 Oct 2007 (44),Rimini (12),0-1,0-0,Piacenza (12)
+?,(Tue) 30 Oct 2007 (44),Spezia (12),1-0,1-0,Brescia (12)
+?,(Tue) 30 Oct 2007 (44),Treviso (12),2-1,0-0,Frosinone (12)
+?,(Tue) 30 Oct 2007 (44),Triestina (12),1-1,0-0,Bari (12)
+?,(Sat) 3 Nov 2007 (44),Albinoleffe (13),5-1,2-1,Triestina (13)
+?,(Sat) 3 Nov 2007 (44),Ascoli (12),2-1,2-0,Treviso (13)
+?,(Sat) 3 Nov 2007 (44),Bari (13),0-0,0-0,Brescia (13)
+?,(Sat) 3 Nov 2007 (44),Chievo (13),4-1,2-1,Messina (13)
+?,(Sat) 3 Nov 2007 (44),Frosinone (13),2-2,2-0,Piacenza (13)
+?,(Sat) 3 Nov 2007 (44),Grosseto (13),2-1,1-0,Avellino (13)
+?,(Sat) 3 Nov 2007 (44),Mantova (13),0-1,0-0,Rimini (13)
+?,(Sat) 3 Nov 2007 (44),Modena (13),1-2,0-1,Bologna (12)
+?,(Sat) 3 Nov 2007 (44),Ravenna (13),2-2,1-1,Spezia (13)
+?,(Sat) 3 Nov 2007 (44),Vicenza (13),1-3,1-2,Pisa (13)
+?,(Sat) 10 Nov 2007 (45),Ascoli (13),2-0,1-0,Frosinone (14)
+?,(Sat) 10 Nov 2007 (45),Avellino (14),3-0,0-0,Vicenza (14)
+?,(Sat) 10 Nov 2007 (45),Bologna (13),4-0,3-0,Chievo (14)
+?,(Sat) 10 Nov 2007 (45),Brescia (14),1-2,0-0,Albinoleffe (14)
+?,(Sat) 10 Nov 2007 (45),Lecce (13),2-0,1-0,Modena (14)
+?,(Sat) 10 Nov 2007 (45),Messina (14),1-2,0-0,Pisa (14)
+?,(Sat) 10 Nov 2007 (45),Piacenza (14),2-0,0-0,Ravenna (14)
+?,(Sat) 10 Nov 2007 (45),Rimini (14),4-1,3-1,Cesena (13)
+?,(Sat) 10 Nov 2007 (45),Spezia (14),1-1,0-1,Bari (14)
+?,(Sat) 10 Nov 2007 (45),Treviso (14),2-2,2-1,Mantova (14)
+?,(Sat) 10 Nov 2007 (45),Triestina (14),4-0,1-0,Grosseto (14)
+?,(Sat) 24 Nov 2007 (47),Ascoli (14),1-3,0-0,Mantova (15)
+?,(Sat) 24 Nov 2007 (47),Avellino (15),2-2,1-1,Spezia (15)
+?,(Sat) 24 Nov 2007 (47),Bologna (14),1-0,1-0,Albinoleffe (15)
+?,(Sat) 24 Nov 2007 (47),Chievo (15),2-2,2-1,Pisa (15)
+?,(Sat) 24 Nov 2007 (47),Frosinone (15),4-1,1-0,Grosseto (15)
+?,(Sat) 24 Nov 2007 (47),Lecce (14),3-1,0-1,Ravenna (15)
+?,(Sat) 24 Nov 2007 (47),Modena (15),3-0,2-0,Bari (15)
+?,(Sat) 24 Nov 2007 (47),Piacenza (15),0-1,0-1,Messina (15)
+?,(Sat) 24 Nov 2007 (47),Rimini (15),5-1,3-1,Vicenza (15)
+?,(Sat) 24 Nov 2007 (47),Treviso (15),3-0,1-0,Brescia (15)
+?,(Sat) 24 Nov 2007 (47),Triestina (15),2-1,1-0,Cesena (14)
+?,(Sat) 1 Dec 2007 (48),Bari (16),1-1,1-1,Bologna (15)
+?,(Sat) 1 Dec 2007 (48),Brescia (16),0-2,0-0,Chievo (16)
+?,(Sat) 1 Dec 2007 (48),Cesena (15),1-1,1-0,Spezia (16)
+?,(Sat) 1 Dec 2007 (48),Grosseto (16),1-1,0-0,Ascoli (15)
+?,(Sat) 1 Dec 2007 (48),Mantova (16),3-2,1-1,Frosinone (16)
+?,(Sat) 1 Dec 2007 (48),Messina (16),1-0,1-0,Avellino (16)
+?,(Sat) 1 Dec 2007 (48),Modena (16),1-2,0-1,Triestina (16)
+?,(Sat) 1 Dec 2007 (48),Pisa (16),1-1,0-1,Lecce (15)
+?,(Sat) 1 Dec 2007 (48),Ravenna (16),0-1,0-1,Rimini (16)
+?,(Sat) 1 Dec 2007 (48),Vicenza (16),0-1,0-0,Piacenza (16)
+?,(Tue) 4 Dec 2007 (49),Albinoleffe (16),0-0,0-0,Treviso (16)
+?,(Tue) 4 Dec 2007 (49),Bologna (16),0-0,0-0,Ascoli (16)
+?,(Tue) 4 Dec 2007 (49),Cesena (16),0-1,0-0,Lecce (16)
+?,(Sat) 8 Dec 2007 (49),Albinoleffe (17),2-0,0-0,Piacenza (17)
+?,(Sat) 8 Dec 2007 (49),Bari (17),1-1,0-0,Ascoli (17)
+?,(Sat) 8 Dec 2007 (49),Brescia (17),2-0,1-0,Modena (17)
+?,(Sat) 8 Dec 2007 (49),Cesena (17),3-0,0-0,Frosinone (17)
+?,(Sat) 8 Dec 2007 (49),Grosseto (17),1-1,0-1,Treviso (17)
+?,(Sat) 8 Dec 2007 (49),Mantova (17),1-0,1-0,Lecce (17)
+?,(Sat) 8 Dec 2007 (49),Messina (17),2-1,1-1,Ravenna (17)
+?,(Sat) 8 Dec 2007 (49),Pisa (17),0-0,0-0,Avellino (17)
+?,(Sat) 8 Dec 2007 (49),Spezia (17),0-1,0-0,Chievo (17)
+?,(Sat) 8 Dec 2007 (49),Triestina (17),1-0,0-0,Rimini (17)
+?,(Sat) 8 Dec 2007 (49),Vicenza (17),0-1,0-0,Bologna (17)
+?,(Sat) 15 Dec 2007 (50),Avellino (18),3-1,2-1,Cesena (18)
+?,(Sat) 15 Dec 2007 (50),Bologna (18),1-0,0-0,Grosseto (18)
+?,(Sat) 15 Dec 2007 (50),Chievo (18),2-3,1-1,Mantova (18)
+?,(Sat) 15 Dec 2007 (50),Frosinone (18),0-0,0-0,Vicenza (18)
+?,(Sat) 15 Dec 2007 (50),Lecce (18),3-0,0-0,Albinoleffe (18)
+?,(Sat) 15 Dec 2007 (50),Piacenza (18),2-0,1-0,Triestina (18)
+?,(Sat) 15 Dec 2007 (50),Ravenna (18),1-1,0-1,Modena (18)
+?,(Sat) 15 Dec 2007 (50),Rimini (18),1-1,1-0,Pisa (18)
+?,(Sat) 15 Dec 2007 (50),Spezia (18),2-0,1-0,Messina (18)
+?,(Sat) 15 Dec 2007 (50),Treviso (18),1-2,0-2,Bari (18)
+?,(Sat) 22 Dec 2007 (51),Albinoleffe (19),0-0,0-0,Ascoli (18)
+?,(Sat) 22 Dec 2007 (51),Bari (19),0-4,0-2,Lecce (19)
+?,(Sat) 22 Dec 2007 (51),Brescia (18),2-0,0-0,Rimini (19)
+?,(Sat) 22 Dec 2007 (51),Cesena (19),4-1,1-0,Treviso (19)
+?,(Sat) 22 Dec 2007 (51),Grosseto (19),2-1,0-0,Piacenza (19)
+?,(Sat) 22 Dec 2007 (51),Mantova (19),3-1,1-0,Spezia (19)
+?,(Sat) 22 Dec 2007 (51),Messina (19),2-1,2-1,Bologna (19)
+?,(Sat) 22 Dec 2007 (51),Modena (19),2-2,1-1,Frosinone (19)
+?,(Sat) 22 Dec 2007 (51),Pisa (19),1-0,1-0,Ravenna (19)
+?,(Sat) 22 Dec 2007 (51),Triestina (19),2-2,0-2,Avellino (19)
+?,(Sat) 22 Dec 2007 (51),Vicenza (19),1-3,0-0,Chievo (19)
+?,(Sat) 12 Jan 2008 (1),Ascoli (19),1-1,0-0,Modena (20)
+?,(Sat) 12 Jan 2008 (1),Avellino (20),3-2,1-2,Bari (20)
+?,(Sat) 12 Jan 2008 (1),Bologna (20),3-0,1-0,Mantova (20)
+?,(Sat) 12 Jan 2008 (1),Chievo (20),2-0,1-0,Grosseto (20)
+?,(Sat) 12 Jan 2008 (1),Frosinone (20),0-0,0-0,Brescia (19)
+?,(Sat) 12 Jan 2008 (1),Lecce (20),0-0,0-0,Messina (20)
+?,(Sat) 12 Jan 2008 (1),Piacenza (20),0-0,0-0,Cesena (20)
+?,(Sat) 12 Jan 2008 (1),Ravenna (20),0-1,0-1,Vicenza (20)
+?,(Sat) 12 Jan 2008 (1),Rimini (20),0-0,0-0,Albinoleffe (20)
+?,(Sat) 12 Jan 2008 (1),Spezia (20),1-4,1-2,Pisa (20)
+?,(Sat) 12 Jan 2008 (1),Treviso (20),2-0,1-0,Triestina (20)
+?,(Sat) 19 Jan 2008 (2),Albinoleffe (21),2-0,0-0,Frosinone (21)
+?,(Sat) 19 Jan 2008 (2),Bari (21),2-3,2-1,Chievo (21)
+?,(Sat) 19 Jan 2008 (2),Brescia (20),3-0,1-0,Avellino (21)
+?,(Sat) 19 Jan 2008 (2),Cesena (21),1-1,1-1,Ravenna (21)
+?,(Sat) 19 Jan 2008 (2),Grosseto (21),3-0,1-0,Spezia (21)
+?,(Sat) 19 Jan 2008 (2),Mantova (21),1-0,0-0,Piacenza (21)
+?,(Sat) 19 Jan 2008 (2),Messina (21),1-0,1-0,Rimini (21)
+?,(Sat) 19 Jan 2008 (2),Modena (21),1-1,1-1,Treviso (21)
+?,(Sat) 19 Jan 2008 (2),Pisa (21),0-0,0-0,Bologna (21)
+?,(Sat) 19 Jan 2008 (2),Triestina (21),1-1,1-0,Ascoli (20)
+?,(Sat) 19 Jan 2008 (2),Vicenza (21),1-3,1-0,Lecce (21)
+?,(Sat) 26 Jan 2008 (3),Avellino (22),1-1,0-0,Treviso (22)
+?,(Sat) 26 Jan 2008 (3),Chievo (22),3-1,1-1,Cesena (22)
+?,(Sat) 26 Jan 2008 (3),Grosseto (22),0-2,0-1,Modena (22)
+?,(Sat) 26 Jan 2008 (3),Lecce (22),3-0,1-0,Frosinone (22)
+?,(Sat) 26 Jan 2008 (3),Messina (22),1-2,1-1,Triestina (22)
+?,(Sat) 26 Jan 2008 (3),Piacenza (22),2-1,0-0,Ascoli (21)
+?,(Sat) 26 Jan 2008 (3),Pisa (22),1-1,0-1,Bari (22)
+?,(Sat) 26 Jan 2008 (3),Ravenna (22),5-2,3-2,Mantova (22)
+?,(Sat) 26 Jan 2008 (3),Rimini (22),1-2,1-1,Bologna (22)
+?,(Sat) 26 Jan 2008 (3),Spezia (22),0-2,0-1,Albinoleffe (22)
+?,(Sat) 26 Jan 2008 (3),Vicenza (22),1-1,1-1,Brescia (21)
+?,(Sat) 2 Feb 2008 (4),Albinoleffe (23),0-0,0-0,Vicenza (23)
+?,(Sat) 2 Feb 2008 (4),Ascoli (22),5-0,2-0,Ravenna (23)
+?,(Sat) 2 Feb 2008 (4),Bari (23),0-1,0-1,Rimini (23)
+?,(Sat) 2 Feb 2008 (4),Bologna (23),3-2,3-0,Spezia (23)
+?,(Sat) 2 Feb 2008 (4),Brescia (22),4-1,1-1,Grosseto (23)
+?,(Sat) 2 Feb 2008 (4),Cesena (23),1-0,1-0,Messina (23)
+?,(Sat) 2 Feb 2008 (4),Frosinone (23),1-5,1-4,Pisa (23)
+?,(Sat) 2 Feb 2008 (4),Mantova (23),2-0,1-0,Avellino (23)
+?,(Sat) 2 Feb 2008 (4),Modena (23),2-0,2-0,Piacenza (23)
+?,(Sat) 2 Feb 2008 (4),Treviso (23),0-0,0-0,Lecce (23)
+?,(Sat) 2 Feb 2008 (4),Triestina (23),1-1,0-0,Chievo (23)
+?,(Sat) 9 Feb 2008 (5),Avellino (24),0-1,0-0,Frosinone (24)
+?,(Sat) 9 Feb 2008 (5),Chievo (24),1-0,1-0,Treviso (24)
+?,(Sat) 9 Feb 2008 (5),Grosseto (24),2-2,1-2,Albinoleffe (24)
+?,(Sat) 9 Feb 2008 (5),Lecce (24),1-0,0-0,Triestina (24)
+?,(Sat) 9 Feb 2008 (5),Messina (24),1-0,1-0,Mantova (24)
+?,(Sat) 9 Feb 2008 (5),Piacenza (24),2-4,2-1,Brescia (23)
+?,(Sat) 9 Feb 2008 (5),Pisa (24),3-0,0-0,Cesena (24)
+?,(Sat) 9 Feb 2008 (5),Ravenna (24),1-1,0-0,Bologna (24)
+?,(Sat) 9 Feb 2008 (5),Rimini (24),3-0,1-0,Ascoli (23)
+?,(Sat) 9 Feb 2008 (5),Spezia (24),2-2,1-1,Modena (24)
+?,(Sat) 9 Feb 2008 (5),Vicenza (24),2-3,0-2,Bari (24)
+?,(Tue) 12 Feb 2008 (6),Albinoleffe (25),3-1,0-1,Ravenna (25)
+?,(Tue) 12 Feb 2008 (6),Ascoli (24),2-1,2-1,Lecce (25)
+?,(Tue) 12 Feb 2008 (6),Bari (25),2-1,1-0,Piacenza (25)
+?,(Tue) 12 Feb 2008 (6),Bologna (25),3-1,1-0,Avellino (25)
+?,(Tue) 12 Feb 2008 (6),Brescia (24),1-0,1-0,Pisa (25)
+?,(Tue) 12 Feb 2008 (6),Cesena (25),0-0,0-0,Grosseto (25)
+?,(Tue) 12 Feb 2008 (6),Frosinone (25),4-0,3-0,Messina (25)
+?,(Tue) 12 Feb 2008 (6),Mantova (25),2-3,0-2,Vicenza (25)
+?,(Tue) 12 Feb 2008 (6),Modena (25),1-2,1-2,Chievo (25)
+?,(Tue) 12 Feb 2008 (6),Treviso (25),0-2,0-1,Rimini (25)
+?,(Tue) 12 Feb 2008 (6),Triestina (25),0-0,0-0,Spezia (25)
+?,(Sat) 16 Feb 2008 (6),Albinoleffe (26),3-1,1-1,Modena (26)
+?,(Sat) 16 Feb 2008 (6),Bologna (26),2-0,1-0,Triestina (26)
+?,(Sat) 16 Feb 2008 (6),Chievo (26),2-0,1-0,Frosinone (26)
+?,(Sat) 16 Feb 2008 (6),Lecce (26),2-0,1-0,Avellino (26)
+?,(Sat) 16 Feb 2008 (6),Messina (26),2-1,1-0,Brescia (25)
+?,(Sat) 16 Feb 2008 (6),Piacenza (26),0-0,0-0,Treviso (26)
+?,(Sat) 16 Feb 2008 (6),Pisa (26),1-1,1-1,Mantova (26)
+?,(Sat) 16 Feb 2008 (6),Ravenna (26),1-2,1-2,Bari (26)
+?,(Sat) 16 Feb 2008 (6),Rimini (26),2-0,1-0,Grosseto (26)
+?,(Sat) 16 Feb 2008 (6),Spezia (26),0-0,0-0,Ascoli (25)
+?,(Sat) 16 Feb 2008 (6),Vicenza (26),1-0,0-0,Cesena (26)
+?,(Sat) 23 Feb 2008 (7),Ascoli (26),1-0,0-0,Vicenza (27)
+?,(Sat) 23 Feb 2008 (7),Avellino (27),1-1,0-1,Chievo (27)
+?,(Sat) 23 Feb 2008 (7),Brescia (26),2-0,1-0,Bologna (27)
+?,(Sat) 23 Feb 2008 (7),Cesena (27),0-3,0-2,Albinoleffe (27)
+?,(Sat) 23 Feb 2008 (7),Frosinone (27),4-2,4-1,Spezia (27)
+?,(Sat) 23 Feb 2008 (7),Grosseto (27),2-2,1-1,Ravenna (27)
+?,(Sat) 23 Feb 2008 (7),Lecce (27),3-1,1-1,Piacenza (27)
+?,(Sat) 23 Feb 2008 (7),Mantova (27),1-1,1-1,Bari (27)
+?,(Sat) 23 Feb 2008 (7),Modena (27),0-2,0-1,Rimini (27)
+?,(Sat) 23 Feb 2008 (7),Treviso (27),6-2,2-2,Messina (27)
+?,(Sat) 23 Feb 2008 (7),Triestina (27),0-1,0-1,Pisa (27)
+?,(Tue) 26 Feb 2008 (8),Ascoli (27),0-1,0-0,Brescia (27)
+?,(Sat) 1 Mar 2008 (8),Avellino (28),0-2,0-1,Ascoli (28)
+?,(Sat) 1 Mar 2008 (8),Bari (28),0-1,0-0,Albinoleffe (28)
+?,(Sat) 1 Mar 2008 (8),Bologna (28),2-1,1-1,Cesena (28)
+?,(Sat) 1 Mar 2008 (8),Chievo (28),3-3,2-1,Lecce (28)
+?,(Sat) 1 Mar 2008 (8),Mantova (28),2-0,0-0,Triestina (28)
+?,(Sat) 1 Mar 2008 (8),Messina (28),3-3,0-1,Modena (28)
+?,(Sat) 1 Mar 2008 (8),Pisa (28),2-0,1-0,Treviso (28)
+?,(Sat) 1 Mar 2008 (8),Ravenna (28),0-0,0-0,Brescia (28)
+?,(Sat) 1 Mar 2008 (8),Rimini (28),1-1,0-1,Frosinone (28)
+?,(Sat) 1 Mar 2008 (8),Spezia (28),1-2,0-1,Piacenza (28)
+?,(Sat) 1 Mar 2008 (8),Vicenza (28),0-0,0-0,Grosseto (28)
+?,(Sat) 8 Mar 2008 (9),Albinoleffe (29),1-0,0-0,Messina (29)
+?,(Sat) 8 Mar 2008 (9),Ascoli (29),1-0,0-0,Pisa (29)
+?,(Sat) 8 Mar 2008 (9),Brescia (29),3-0,3-0,Cesena (29)
+?,(Sat) 8 Mar 2008 (9),Frosinone (29),2-1,1-0,Ravenna (29)
+?,(Sat) 8 Mar 2008 (9),Grosseto (29),2-2,2-1,Bari (29)
+?,(Sat) 8 Mar 2008 (9),Lecce (29),0-0,0-0,Bologna (29)
+?,(Sat) 8 Mar 2008 (9),Modena (29),2-2,1-0,Mantova (29)
+?,(Sat) 8 Mar 2008 (9),Piacenza (29),1-0,1-0,Avellino (29)
+?,(Sat) 8 Mar 2008 (9),Rimini (29),0-0,0-0,Chievo (29)
+?,(Sat) 8 Mar 2008 (9),Treviso (29),1-1,0-0,Spezia (29)
+?,(Sat) 8 Mar 2008 (9),Triestina (29),5-1,2-1,Vicenza (29)
+?,(Sat) 15 Mar 2008 (10),Avellino (30),2-1,1-0,Rimini (30)
+?,(Sat) 15 Mar 2008 (10),Bari (30),3-1,2-1,Frosinone (30)
+?,(Sat) 15 Mar 2008 (10),Bologna (30),1-2,1-1,Piacenza (30)
+?,(Sat) 15 Mar 2008 (10),Cesena (30),2-1,1-0,Modena (30)
+?,(Sat) 15 Mar 2008 (10),Chievo (30),3-1,2-1,Ascoli (30)
+?,(Sat) 15 Mar 2008 (10),Mantova (30),1-1,1-1,Brescia (30)
+?,(Sat) 15 Mar 2008 (10),Messina (30),1-1,0-1,Grosseto (30)
+?,(Sat) 15 Mar 2008 (10),Pisa (30),2-0,1-0,Albinoleffe (30)
+?,(Sat) 15 Mar 2008 (10),Spezia (30),1-1,0-0,Lecce (30)
+?,(Sat) 15 Mar 2008 (10),Triestina (30),4-3,1-0,Ravenna (30)
+?,(Sat) 15 Mar 2008 (10),Vicenza (30),0-0,0-0,Treviso (30)
+?,(Tue) 18 Mar 2008 (11),Albinoleffe (31),3-3,0-1,Avellino (31)
+?,(Tue) 18 Mar 2008 (11),Ascoli (31),1-1,1-1,Messina (31)
+?,(Tue) 18 Mar 2008 (11),Bari (31),0-0,0-0,Cesena (31)
+?,(Tue) 18 Mar 2008 (11),Brescia (31),0-0,0-0,Lecce (31)
+?,(Tue) 18 Mar 2008 (11),Frosinone (31),0-1,0-1,Triestina (31)
+?,(Tue) 18 Mar 2008 (11),Grosseto (31),1-0,1-0,Mantova (31)
+?,(Tue) 18 Mar 2008 (11),Modena (31),1-1,0-1,Vicenza (31)
+?,(Tue) 18 Mar 2008 (11),Piacenza (31),4-2,1-1,Pisa (31)
+?,(Tue) 18 Mar 2008 (11),Ravenna (31),1-1,1-1,Chievo (31)
+?,(Tue) 18 Mar 2008 (11),Rimini (31),4-2,1-1,Spezia (31)
+?,(Tue) 18 Mar 2008 (11),Treviso (31),0-2,0-2,Bologna (31)
+?,(Fri) 21 Mar 2008 (11),Avellino (32),1-1,1-1,Modena (32)
+?,(Fri) 21 Mar 2008 (11),Bologna (32),2-1,2-0,Frosinone (32)
+?,(Fri) 21 Mar 2008 (11),Cesena (32),1-1,0-0,Ascoli (32)
+?,(Fri) 21 Mar 2008 (11),Chievo (32),1-0,0-0,Piacenza (32)
+?,(Fri) 21 Mar 2008 (11),Lecce (32),2-0,0-0,Rimini (32)
+?,(Fri) 21 Mar 2008 (11),Mantova (32),0-1,0-0,Albinoleffe (32)
+?,(Fri) 21 Mar 2008 (11),Messina (32),1-2,0-0,Bari (32)
+?,(Fri) 21 Mar 2008 (11),Pisa (32),0-0,0-0,Grosseto (32)
+?,(Fri) 21 Mar 2008 (11),Spezia (32),1-1,1-1,Vicenza (32)
+?,(Fri) 21 Mar 2008 (11),Treviso (32),1-1,1-0,Ravenna (32)
+?,(Fri) 21 Mar 2008 (11),Triestina (32),1-0,0-0,Brescia (32)
+?,(Sat) 29 Mar 2008 (12),Albinoleffe (33),0-2,0-1,Chievo (33)
+?,(Sat) 29 Mar 2008 (12),Ascoli (33),2-2,1-2,Bologna (33)
+?,(Sat) 29 Mar 2008 (12),Bari (33),2-0,1-0,Triestina (33)
+?,(Sat) 29 Mar 2008 (12),Brescia (33),1-0,0-0,Spezia (33)
+?,(Sat) 29 Mar 2008 (12),Cesena (33),1-1,1-1,Mantova (33)
+?,(Sat) 29 Mar 2008 (12),Frosinone (33),1-0,0-0,Treviso (33)
+?,(Sat) 29 Mar 2008 (12),Grosseto (33),1-1,1-1,Lecce (33)
+?,(Sat) 29 Mar 2008 (12),Modena (33),0-0,0-0,Pisa (33)
+?,(Sat) 29 Mar 2008 (12),Piacenza (33),2-1,1-0,Rimini (33)
+?,(Sat) 29 Mar 2008 (12),Ravenna (33),0-1,0-0,Avellino (33)
+?,(Sat) 29 Mar 2008 (12),Vicenza (33),3-1,0-1,Messina (33)
+?,(Sat) 5 Apr 2008 (13),Avellino (34),0-3,0-1,Grosseto (34)
+?,(Sat) 5 Apr 2008 (13),Bologna (34),4-1,2-1,Modena (34)
+?,(Sat) 5 Apr 2008 (13),Brescia (34),0-0,0-0,Bari (34)
+?,(Sat) 5 Apr 2008 (13),Lecce (34),3-0,2-0,Cesena (34)
+?,(Sat) 5 Apr 2008 (13),Messina (34),2-3,1-1,Chievo (34)
+?,(Sat) 5 Apr 2008 (13),Piacenza (34),1-2,1-0,Frosinone (34)
+?,(Sat) 5 Apr 2008 (13),Pisa (34),1-1,0-1,Vicenza (34)
+?,(Sat) 5 Apr 2008 (13),Rimini (34),1-1,0-0,Mantova (34)
+?,(Sat) 5 Apr 2008 (13),Spezia (34),2-0,1-0,Ravenna (34)
+?,(Sat) 5 Apr 2008 (13),Treviso (34),2-1,1-1,Ascoli (34)
+?,(Sat) 5 Apr 2008 (13),Triestina (34),2-4,1-2,Albinoleffe (34)
+?,(Sat) 12 Apr 2008 (14),Albinoleffe (35),2-3,1-2,Brescia (35)
+?,(Sat) 12 Apr 2008 (14),Bari (35),2-1,0-1,Spezia (35)
+?,(Sat) 12 Apr 2008 (14),Cesena (35),1-2,1-0,Rimini (35)
+?,(Sat) 12 Apr 2008 (14),Chievo (35),1-1,1-1,Bologna (35)
+?,(Sat) 12 Apr 2008 (14),Frosinone (35),3-3,1-2,Ascoli (35)
+?,(Sat) 12 Apr 2008 (14),Grosseto (35),1-2,1-2,Triestina (35)
+?,(Sat) 12 Apr 2008 (14),Mantova (35),2-1,2-1,Treviso (35)
+?,(Sat) 12 Apr 2008 (14),Modena (35),1-2,1-0,Lecce (35)
+?,(Sat) 12 Apr 2008 (14),Pisa (35),0-0,0-0,Messina (35)
+?,(Sat) 12 Apr 2008 (14),Ravenna (35),1-0,0-0,Piacenza (35)
+?,(Sat) 12 Apr 2008 (14),Vicenza (35),2-1,0-1,Avellino (35)
+?,(Sat) 19 Apr 2008 (15),Ascoli (36),3-5,2-4,Grosseto (36)
+?,(Sat) 19 Apr 2008 (15),Avellino (36),1-2,0-1,Messina (36)
+?,(Sat) 19 Apr 2008 (15),Bologna (36),1-1,0-0,Bari (36)
+?,(Sat) 19 Apr 2008 (15),Chievo (36),3-0,2-0,Brescia (36)
+?,(Sat) 19 Apr 2008 (15),Frosinone (36),2-1,1-1,Mantova (36)
+?,(Sat) 19 Apr 2008 (15),Lecce (36),1-1,0-0,Pisa (36)
+?,(Sat) 19 Apr 2008 (15),Piacenza (36),1-1,0-0,Vicenza (36)
+?,(Sat) 19 Apr 2008 (15),Rimini (36),3-4,0-1,Ravenna (36)
+?,(Sat) 19 Apr 2008 (15),Spezia (36),1-0,0-0,Cesena (36)
+?,(Sat) 19 Apr 2008 (15),Treviso (36),0-1,0-0,Albinoleffe (36)
+?,(Sat) 19 Apr 2008 (15),Triestina (36),3-1,0-1,Modena (36)
+?,(Sat) 26 Apr 2008 (16),Albinoleffe (37),1-0,1-0,Bologna (37)
+?,(Sat) 26 Apr 2008 (16),Bari (37),1-1,0-1,Modena (37)
+?,(Sat) 26 Apr 2008 (16),Brescia (37),0-0,0-0,Treviso (37)
+?,(Sat) 26 Apr 2008 (16),Cesena (37),1-1,1-1,Triestina (37)
+?,(Sat) 26 Apr 2008 (16),Grosseto (37),1-1,1-0,Frosinone (37)
+?,(Sat) 26 Apr 2008 (16),Mantova (37),0-1,0-0,Ascoli (37)
+?,(Sat) 26 Apr 2008 (16),Messina (37),2-0,1-0,Piacenza (37)
+?,(Sat) 26 Apr 2008 (16),Pisa (37),1-1,1-1,Chievo (37)
+?,(Sat) 26 Apr 2008 (16),Ravenna (37),1-3,0-1,Lecce (37)
+?,(Sat) 26 Apr 2008 (16),Spezia (37),2-2,1-1,Avellino (37)
+?,(Sat) 26 Apr 2008 (16),Vicenza (37),3-2,0-1,Rimini (37)
+?,(Sat) 3 May 2008 (17),Ascoli (38),2-0,0-0,Bari (38)
+?,(Sat) 3 May 2008 (17),Avellino (38),3-1,2-1,Pisa (38)
+?,(Sat) 3 May 2008 (17),Bologna (38),1-0,1-0,Vicenza (38)
+?,(Sat) 3 May 2008 (17),Chievo (38),5-0,3-0,Spezia (38)
+?,(Sat) 3 May 2008 (17),Frosinone (38),5-2,0-0,Cesena (38)
+?,(Sat) 3 May 2008 (17),Lecce (38),1-1,1-0,Mantova (38)
+?,(Sat) 3 May 2008 (17),Modena (38),0-3,0-0,Brescia (38)
+?,(Sat) 3 May 2008 (17),Piacenza (38),1-3,0-2,Albinoleffe (38)
+?,(Sat) 3 May 2008 (17),Ravenna (38),1-0,0-0,Messina (38)
+?,(Sat) 3 May 2008 (17),Rimini (38),4-3,1-0,Triestina (38)
+?,(Sat) 10 May 2008 (18),Albinoleffe (39),0-4,0-1,Lecce (39)
+?,(Sat) 10 May 2008 (18),Bari (39),0-1,0-1,Treviso (38)
+?,(Sat) 10 May 2008 (18),Brescia (39),0-4,0-1,Ascoli (39)
+?,(Sat) 10 May 2008 (18),Cesena (39),1-0,1-0,Avellino (39)
+?,(Sat) 10 May 2008 (18),Grosseto (38),3-0,3-0,Bologna (39)
+?,(Sat) 10 May 2008 (18),Mantova (39),1-0,1-0,Chievo (39)
+?,(Sat) 10 May 2008 (18),Messina (39),0-0,0-0,Spezia (39)
+?,(Sat) 10 May 2008 (18),Modena (39),1-2,1-0,Ravenna (39)
+?,(Sat) 10 May 2008 (18),Pisa (39),0-2,0-0,Rimini (39)
+?,(Sat) 10 May 2008 (18),Triestina (39),1-1,0-0,Piacenza (39)
+?,(Sat) 10 May 2008 (18),Vicenza (39),2-1,1-0,Frosinone (39)
+?,(Wed) 14 May 2008 (19),Treviso (39),2-1,0-1,Grosseto (39)
+?,(Sat) 17 May 2008 (19),Ascoli (40),3-2,1-1,Albinoleffe (40)
+?,(Sat) 17 May 2008 (19),Avellino (40),2-2,0-0,Triestina (40)
+?,(Sat) 17 May 2008 (19),Bologna (40),3-0,1-0,Messina (40)
+?,(Sat) 17 May 2008 (19),Chievo (40),2-1,1-0,Vicenza (40)
+?,(Sat) 17 May 2008 (19),Frosinone (40),2-4,2-3,Modena (40)
+?,(Sat) 17 May 2008 (19),Lecce (40),1-2,0-0,Bari (40)
+?,(Sat) 17 May 2008 (19),Piacenza (40),1-1,0-0,Grosseto (40)
+?,(Sat) 17 May 2008 (19),Ravenna (40),1-4,1-1,Pisa (40)
+?,(Sat) 17 May 2008 (19),Rimini (40),2-1,0-0,Brescia (40)
+?,(Sat) 17 May 2008 (19),Spezia (40),0-1,0-0,Mantova (40)
+?,(Sat) 17 May 2008 (19),Treviso (40),2-1,2-1,Cesena (40)
+?,(Sun) 25 May 2008 (20),Albinoleffe (41),0-4,0-2,Rimini (41)
+?,(Sun) 25 May 2008 (20),Bari (41),1-0,1-0,Avellino (41)
+?,(Sun) 25 May 2008 (20),Brescia (41),2-2,1-1,Frosinone (41)
+?,(Sun) 25 May 2008 (20),Cesena (41),2-2,2-2,Piacenza (41)
+?,(Sun) 25 May 2008 (20),Grosseto (41),1-1,0-1,Chievo (41)
+?,(Sun) 25 May 2008 (20),Mantova (41),0-1,0-0,Bologna (41)
+?,(Sun) 25 May 2008 (20),Messina (41),1-3,1-2,Lecce (41)
+?,(Sun) 25 May 2008 (20),Modena (41),2-1,2-1,Ascoli (41)
+?,(Sun) 25 May 2008 (20),Pisa (41),1-0,1-0,Spezia (41)
+?,(Sun) 25 May 2008 (20),Triestina (41),0-1,0-1,Treviso (41)
+?,(Sun) 25 May 2008 (20),Vicenza (41),1-0,0-0,Ravenna (41)
+?,(Sun) 1 Jun 2008 (21),Ascoli (42),3-1,2-0,Triestina (42)
+?,(Sun) 1 Jun 2008 (21),Avellino (42),1-1,1-1,Brescia (42)
+?,(Sun) 1 Jun 2008 (21),Bologna (42),1-0,1-0,Pisa (42)
+?,(Sun) 1 Jun 2008 (21),Chievo (42),2-2,2-1,Bari (42)
+?,(Sun) 1 Jun 2008 (21),Frosinone (42),2-2,1-0,Albinoleffe (42)
+?,(Sun) 1 Jun 2008 (21),Lecce (42),1-0,1-0,Vicenza (42)
+?,(Sun) 1 Jun 2008 (21),Piacenza (42),3-3,1-0,Mantova (42)
+?,(Sun) 1 Jun 2008 (21),Ravenna (42),0-0,0-0,Cesena (42)
+?,(Sun) 1 Jun 2008 (21),Rimini (42),3-0,2-0,Messina (42)
+?,(Sun) 1 Jun 2008 (21),Spezia (42),2-2,1-1,Grosseto (42)
+?,(Sun) 1 Jun 2008 (21),Treviso (42),1-1,1-1,Modena (42)

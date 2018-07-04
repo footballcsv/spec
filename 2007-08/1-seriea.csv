@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-2007-08-25,Juventus,Livorno,5-1,1-0
-2007-08-25,Lazio,Torino,2-2,0-1
-2007-08-26,Fiorentina,Empoli,3-1,0-0
-2007-08-26,Genoa,Milan,0-3,0-3
-2007-08-26,Inter,Udinese,1-1,1-0
-2007-08-26,Napoli,Cagliari,0-2,0-0
-2007-08-26,Palermo,Roma,0-2,0-2
-2007-08-26,Parma,Catania,2-2,2-2
-2007-08-26,Reggina,Atalanta,1-1,0-0
-2007-08-26,Siena,Sampdoria,1-2,0-1
-2007-09-01,Empoli,Inter,0-2,0-1
-2007-09-02,Atalanta,Parma,2-0,1-0
-2007-09-02,Cagliari,Juventus,2-3,0-0
-2007-09-02,Catania,Genoa,0-0,0-0
-2007-09-02,Livorno,Palermo,2-4,0-4
-2007-09-02,Roma,Siena,3-0,1-0
-2007-09-02,Sampdoria,Lazio,0-0,0-0
-2007-09-02,Torino,Reggina,2-2,1-1
-2007-09-02,Udinese,Napoli,0-5,0-2
-2007-09-03,Milan,Fiorentina,1-1,1-0
-2007-09-15,Lazio,Empoli,0-0,0-0
-2007-09-15,Siena,Milan,1-1,1-0
-2007-09-16,Fiorentina,Atalanta,2-2,1-0
-2007-09-16,Genoa,Livorno,1-1,0-0
-2007-09-16,Inter,Catania,2-0,1-0
-2007-09-16,Juventus,Udinese,0-1,0-0
-2007-09-16,Napoli,Sampdoria,2-0,1-0
-2007-09-16,Palermo,Torino,1-1,1-0
-2007-09-16,Parma,Cagliari,1-1,0-1
-2007-09-16,Reggina,Roma,0-2,0-0
-2007-09-22,Milan,Parma,1-1,1-0
-2007-09-22,Udinese,Reggina,2-0,1-0
-2007-09-23,Atalanta,Lazio,2-1,1-0
-2007-09-23,Cagliari,Palermo,0-1,0-1
-2007-09-23,Catania,Fiorentina,0-1,0-1
-2007-09-23,Empoli,Napoli,0-0,0-0
-2007-09-23,Livorno,Inter,2-2,1-1
-2007-09-23,Roma,Juventus,2-2,2-1
-2007-09-23,Sampdoria,Genoa,0-0,0-0
-2007-09-23,Torino,Siena,1-1,1-0
-2007-09-26,Catania,Empoli,1-0,0-0
-2007-09-26,Fiorentina,Roma,2-2,1-2
-2007-09-26,Genoa,Udinese,3-2,1-0
-2007-09-26,Inter,Sampdoria,3-0,1-0
-2007-09-26,Juventus,Reggina,4-0,0-0
-2007-09-26,Lazio,Cagliari,3-1,0-0
-2007-09-26,Napoli,Livorno,1-0,0-0
-2007-09-26,Palermo,Milan,2-1,0-1
-2007-09-26,Parma,Torino,2-0,0-0
-2007-09-26,Siena,Atalanta,1-1,1-0
-2007-09-29,Livorno,Fiorentina,0-3,0-1
-2007-09-29,Roma,Inter,1-4,0-1
-2007-09-30,Cagliari,Siena,1-0,1-0
-2007-09-30,Empoli,Palermo,3-1,0-1
-2007-09-30,Milan,Catania,1-1,0-1
-2007-09-30,Napoli,Genoa,1-2,0-1
-2007-09-30,Reggina,Lazio,1-1,1-0
-2007-09-30,Sampdoria,Atalanta,3-0,1-0
-2007-09-30,Torino,Juventus,0-1,0-0
-2007-09-30,Udinese,Parma,2-1,0-0
-2007-10-06,Atalanta,Udinese,0-0,0-0
-2007-10-06,Inter,Napoli,2-1,2-0
-2007-10-07,Catania,Livorno,1-0,1-0
-2007-10-07,Fiorentina,Juventus,1-1,0-1
-2007-10-07,Genoa,Cagliari,2-0,0-0
-2007-10-07,Lazio,Milan,1-5,1-2
-2007-10-07,Palermo,Reggina,1-1,0-0
-2007-10-07,Parma,Roma,0-3,0-2
-2007-10-07,Siena,Empoli,3-0,0-0
-2007-10-07,Torino,Sampdoria,1-0,0-0
-2007-10-20,Reggina,Inter,0-1,0-1
-2007-10-20,Roma,Napoli,4-4,2-1
-2007-10-21,Atalanta,Torino,2-2,1-0
-2007-10-21,Cagliari,Catania,1-1,0-1
-2007-10-21,Fiorentina,Siena,3-0,2-0
-2007-10-21,Juventus,Genoa,1-0,1-0
-2007-10-21,Livorno,Lazio,0-1,0-1
-2007-10-21,Milan,Empoli,0-1,0-0
-2007-10-21,Sampdoria,Parma,3-0,1-0
-2007-10-21,Udinese,Palermo,1-1,0-1
-2007-10-27,Napoli,Juventus,3-1,0-0
-2007-10-27,Torino,Cagliari,2-0,0-0
-2007-10-28,Catania,Sampdoria,2-0,2-0
-2007-10-28,Empoli,Atalanta,0-1,0-0
-2007-10-28,Genoa,Fiorentina,0-0,0-0
-2007-10-28,Lazio,Udinese,0-1,0-0
-2007-10-28,Milan,Roma,0-1,0-0
-2007-10-28,Palermo,Inter,0-0,0-0
-2007-10-28,Parma,Livorno,3-2,1-1
-2007-10-28,Siena,Reggina,0-0,0-0
-2007-10-31,Atalanta,Cagliari,2-2,0-1
-2007-10-31,Fiorentina,Napoli,1-0,0-0
-2007-10-31,Inter,Genoa,4-1,1-0
-2007-10-31,Juventus,Empoli,3-0,0-0
-2007-10-31,Palermo,Parma,1-1,0-1
-2007-10-31,Reggina,Livorno,1-3,1-1
-2007-10-31,Roma,Lazio,3-2,2-1
-2007-10-31,Sampdoria,Milan,0-5,0-0
-2007-10-31,Siena,Catania,1-1,0-0
-2007-10-31,Udinese,Torino,2-1,1-0
-2007-11-03,Lazio,Fiorentina,0-1,0-1
-2007-11-03,Milan,Torino,0-0,0-0
-2007-11-04,Cagliari,Sampdoria,0-3,0-3
-2007-11-04,Catania,Atalanta,1-2,0-0
-2007-11-04,Empoli,Roma,2-2,0-2
-2007-11-04,Genoa,Palermo,3-3,0-1
-2007-11-04,Juventus,Inter,1-1,0-1
-2007-11-04,Livorno,Udinese,0-0,0-0
-2007-11-04,Napoli,Reggina,1-1,0-0
-2007-11-04,Parma,Siena,2-2,1-1
-2007-11-10,Palermo,Napoli,2-1,0-0
-2007-11-10,Sampdoria,Empoli,3-0,2-0
-2007-11-11,Fiorentina,Udinese,1-2,1-1
-2007-11-11,Parma,Juventus,2-2,1-0
-2007-11-11,Reggina,Genoa,2-0,1-0
-2007-11-11,Siena,Livorno,2-3,1-3
-2007-11-11,Torino,Catania,1-1,1-0
-2007-11-24,Genoa,Roma,0-1,0-0
-2007-11-24,Inter,Atalanta,2-1,2-1
-2007-11-25,Cagliari,Milan,1-2,1-0
-2007-11-25,Empoli,Torino,0-0,0-0
-2007-11-25,Juventus,Palermo,5-0,2-0
-2007-11-25,Lazio,Parma,1-0,0-0
-2007-11-25,Livorno,Sampdoria,3-1,2-0
-2007-11-25,Napoli,Catania,2-0,1-0
-2007-11-25,Reggina,Fiorentina,0-0,0-0
-2007-11-25,Udinese,Siena,2-0,1-0
-2007-12-01,Milan,Juventus,0-0,0-0
-2007-12-01,Sampdoria,Reggina,3-0,1-0
-2007-12-02,Atalanta,Napoli,5-1,3-0
-2007-12-02,Cagliari,Livorno,0-0,0-0
-2007-12-02,Catania,Palermo,3-1,2-0
-2007-12-02,Fiorentina,Inter,0-2,0-2
-2007-12-02,Parma,Empoli,1-0,1-0
-2007-12-02,Roma,Udinese,2-1,2-1
-2007-12-02,Siena,Lazio,1-1,1-1
-2007-12-02,Torino,Genoa,1-1,0-0
-2007-12-05,Inter,Lazio,3-0,2-0
-2007-12-05,Roma,Cagliari,2-0,2-0
-2007-12-08,Lazio,Catania,2-0,1-0
-2007-12-08,Palermo,Fiorentina,2-0,1-0
-2007-12-09,Empoli,Cagliari,4-1,2-0
-2007-12-09,Genoa,Siena,1-3,0-3
-2007-12-09,Inter,Torino,4-0,1-0
-2007-12-09,Juventus,Atalanta,1-0,0-0
-2007-12-09,Livorno,Roma,1-1,1-1
-2007-12-09,Napoli,Parma,1-0,1-0
-2007-12-09,Udinese,Sampdoria,3-2,1-2
-2007-12-15,Catania,Udinese,2-0,1-0
-2007-12-15,Lazio,Juventus,2-3,1-1
-2007-12-16,Atalanta,Palermo,1-3,0-2
-2007-12-16,Cagliari,Inter,0-2,0-0
-2007-12-16,Empoli,Genoa,1-1,1-0
-2007-12-16,Parma,Reggina,3-0,1-0
-2007-12-16,Sampdoria,Fiorentina,2-2,1-1
-2007-12-16,Siena,Napoli,1-1,0-0
-2007-12-16,Torino,Roma,0-0,0-0
-2007-12-22,Genoa,Parma,1-0,1-0
-2007-12-22,Roma,Sampdoria,2-0,1-0
-2007-12-23,Fiorentina,Cagliari,5-1,3-1
-2007-12-23,Inter,Milan,2-1,1-1
-2007-12-23,Juventus,Siena,2-0,1-0
-2007-12-23,Livorno,Atalanta,1-1,1-1
-2007-12-23,Napoli,Torino,1-1,0-1
-2007-12-23,Palermo,Lazio,2-2,1-0
-2007-12-23,Reggina,Catania,3-1,1-0
-2007-12-23,Udinese,Empoli,2-2,1-0
-2008-01-12,Catania,Juventus,1-1,1-0
-2008-01-12,Empoli,Reggina,1-1,1-1
-2008-01-13,Atalanta,Roma,1-2,1-2
-2008-01-13,Cagliari,Udinese,0-1,0-1
-2008-01-13,Lazio,Genoa,1-2,1-0
-2008-01-13,Milan,Napoli,5-2,2-2
-2008-01-13,Parma,Fiorentina,1-2,0-1
-2008-01-13,Sampdoria,Palermo,3-0,2-0
-2008-01-13,Siena,Inter,2-3,1-2
-2008-01-13,Torino,Livorno,1-2,0-2
-2008-01-19,Fiorentina,Torino,2-1,1-0
-2008-01-19,Genoa,Atalanta,2-1,0-0
-2008-01-20,Inter,Parma,3-2,1-1
-2008-01-20,Juventus,Sampdoria,0-0,0-0
-2008-01-20,Livorno,Empoli,1-0,0-0
-2008-01-20,Napoli,Lazio,2-2,1-2
-2008-01-20,Palermo,Siena,2-3,1-2
-2008-01-20,Reggina,Cagliari,2-0,0-0
-2008-01-20,Roma,Catania,2-0,1-0
-2008-01-20,Udinese,Milan,0-1,0-0
-2008-01-23,Atalanta,Milan,2-1,1-1
-2008-01-26,Roma,Palermo,1-0,0-0
-2008-01-26,Sampdoria,Siena,1-0,1-0
-2008-01-27,Atalanta,Reggina,2-2,1-0
-2008-01-27,Cagliari,Napoli,2-1,0-0
-2008-01-27,Catania,Parma,0-0,0-0
-2008-01-27,Empoli,Fiorentina,0-2,0-0
-2008-01-27,Livorno,Juventus,1-3,0-1
-2008-01-27,Milan,Genoa,2-0,0-0
-2008-01-27,Torino,Lazio,0-0,0-0
-2008-01-27,Udinese,Inter,0-0,0-0
-2008-01-30,Reggina,Milan,0-1,0-1
-2008-02-02,Napoli,Udinese,3-1,1-1
-2008-02-02,Palermo,Livorno,1-0,0-0
-2008-02-03,Fiorentina,Milan,0-1,0-0
-2008-02-03,Genoa,Catania,2-1,1-0
-2008-02-03,Inter,Empoli,1-0,1-0
-2008-02-03,Juventus,Cagliari,1-1,0-0
-2008-02-03,Lazio,Sampdoria,2-1,1-1
-2008-02-03,Parma,Atalanta,2-3,1-1
-2008-02-03,Reggina,Torino,1-3,0-2
-2008-02-03,Siena,Roma,3-0,2-0
-2008-02-09,Atalanta,Fiorentina,2-2,1-1
-2008-02-09,Roma,Reggina,2-0,1-0
-2008-02-10,Cagliari,Parma,1-1,1-1
-2008-02-10,Catania,Inter,0-2,0-0
-2008-02-10,Empoli,Lazio,1-0,1-0
-2008-02-10,Livorno,Genoa,1-1,1-0
-2008-02-10,Milan,Siena,1-0,0-0
-2008-02-10,Sampdoria,Napoli,2-0,0-0
-2008-02-10,Torino,Palermo,3-1,0-1
-2008-02-10,Udinese,Juventus,1-2,1-0
-2008-02-13,Milan,Livorno,1-1,0-0
-2008-02-16,Inter,Livorno,2-0,2-0
-2008-02-16,Juventus,Roma,1-0,1-0
-2008-02-16,Parma,Milan,0-0,0-0
-2008-02-17,Fiorentina,Catania,2-1,1-0
-2008-02-17,Genoa,Sampdoria,0-1,0-0
-2008-02-17,Lazio,Atalanta,3-0,1-0
-2008-02-17,Napoli,Empoli,1-3,1-1
-2008-02-17,Palermo,Cagliari,2-1,2-0
-2008-02-17,Reggina,Udinese,1-3,0-1
-2008-02-17,Siena,Torino,0-0,0-0
-2008-02-23,Reggina,Juventus,2-1,1-0
-2008-02-23,Torino,Parma,4-4,2-4
-2008-02-24,Atalanta,Siena,2-2,2-2
-2008-02-24,Cagliari,Lazio,1-0,0-0
-2008-02-24,Empoli,Catania,2-0,1-0
-2008-02-24,Livorno,Napoli,1-2,0-0
-2008-02-24,Milan,Palermo,2-1,1-1
-2008-02-24,Roma,Fiorentina,1-0,0-0
-2008-02-24,Sampdoria,Inter,1-1,0-0
-2008-02-24,Udinese,Genoa,3-5,2-2
-2008-02-26,Juventus,Torino,0-0,0-0
-2008-02-27,Atalanta,Sampdoria,4-1,3-1
-2008-02-27,Catania,Milan,1-1,0-0
-2008-02-27,Fiorentina,Livorno,1-0,0-0
-2008-02-27,Genoa,Napoli,2-0,1-0
-2008-02-27,Inter,Roma,1-1,0-1
-2008-02-27,Lazio,Reggina,1-0,1-0
-2008-02-27,Palermo,Empoli,2-0,2-0
-2008-02-27,Parma,Udinese,2-0,0-0
-2008-02-27,Siena,Cagliari,1-0,0-0
-2008-03-01,Milan,Lazio,1-1,0-0
-2008-03-01,Roma,Parma,4-0,1-0
-2008-03-02,Cagliari,Genoa,2-1,2-1
-2008-03-02,Empoli,Siena,0-2,0-1
-2008-03-02,Juventus,Fiorentina,2-3,1-1
-2008-03-02,Livorno,Catania,1-0,0-0
-2008-03-02,Napoli,Inter,1-0,1-0
-2008-03-02,Reggina,Palermo,0-0,0-0
-2008-03-02,Sampdoria,Torino,2-2,1-1
-2008-03-02,Udinese,Atalanta,2-0,2-0
-2008-03-08,Inter,Reggina,2-0,2-0
-2008-03-08,Palermo,Udinese,1-1,1-0
-2008-03-09,Catania,Cagliari,2-1,1-1
-2008-03-09,Empoli,Milan,1-3,1-1
-2008-03-09,Genoa,Juventus,0-2,0-2
-2008-03-09,Lazio,Livorno,2-0,2-0
-2008-03-09,Napoli,Roma,0-2,0-1
-2008-03-09,Parma,Sampdoria,1-2,0-1
-2008-03-09,Siena,Fiorentina,1-0,0-0
-2008-03-09,Torino,Atalanta,1-0,1-0
-2008-03-15,Roma,Milan,2-1,0-0
-2008-03-15,Udinese,Lazio,2-2,0-1
-2008-03-16,Atalanta,Empoli,4-1,2-0
-2008-03-16,Cagliari,Torino,3-0,2-0
-2008-03-16,Fiorentina,Genoa,3-1,2-0
-2008-03-16,Inter,Palermo,2-1,2-1
-2008-03-16,Juventus,Napoli,1-0,0-0
-2008-03-16,Livorno,Parma,1-1,1-0
-2008-03-16,Reggina,Siena,4-0,3-0
-2008-03-16,Sampdoria,Catania,3-1,0-0
-2008-03-19,Cagliari,Atalanta,1-0,1-0
-2008-03-19,Catania,Siena,0-0,0-0
-2008-03-19,Empoli,Juventus,0-0,0-0
-2008-03-19,Genoa,Inter,1-1,0-1
-2008-03-19,Lazio,Roma,3-2,1-1
-2008-03-19,Livorno,Reggina,1-1,0-1
-2008-03-19,Milan,Sampdoria,1-2,0-2
-2008-03-19,Napoli,Fiorentina,2-0,2-0
-2008-03-19,Parma,Palermo,2-1,0-0
-2008-03-19,Torino,Udinese,0-1,0-1
-2008-03-22,Atalanta,Catania,0-0,0-0
-2008-03-22,Fiorentina,Lazio,1-0,0-0
-2008-03-22,Inter,Juventus,1-2,0-0
-2008-03-22,Palermo,Genoa,2-3,1-1
-2008-03-22,Reggina,Napoli,1-1,0-0
-2008-03-22,Roma,Empoli,2-1,1-0
-2008-03-22,Sampdoria,Cagliari,1-1,0-1
-2008-03-22,Siena,Parma,2-0,0-0
-2008-03-22,Torino,Milan,0-1,0-0
-2008-03-22,Udinese,Livorno,2-0,1-0
-2008-03-29,Cagliari,Roma,1-1,1-1
-2008-03-29,Lazio,Inter,1-1,0-1
-2008-03-30,Catania,Torino,1-2,1-1
-2008-03-30,Empoli,Sampdoria,0-2,0-2
-2008-03-30,Genoa,Reggina,2-0,0-0
-2008-03-30,Livorno,Siena,0-0,0-0
-2008-03-30,Milan,Atalanta,1-2,0-2
-2008-03-30,Napoli,Palermo,1-0,0-0
-2008-03-30,Udinese,Fiorentina,3-1,1-0
-2008-04-05,Milan,Cagliari,3-1,2-0
-2008-04-05,Roma,Genoa,3-2,2-0
-2008-04-06,Atalanta,Inter,0-2,0-1
-2008-04-06,Catania,Napoli,3-0,2-0
-2008-04-06,Fiorentina,Reggina,2-0,1-0
-2008-04-06,Palermo,Juventus,3-2,1-0
-2008-04-06,Parma,Lazio,2-2,2-2
-2008-04-06,Sampdoria,Livorno,2-0,0-0
-2008-04-06,Siena,Udinese,1-1,0-0
-2008-04-06,Torino,Empoli,0-1,0-0
-2008-04-12,Juventus,Milan,3-2,2-2
-2008-04-12,Palermo,Catania,1-0,0-0
-2008-04-13,Empoli,Parma,1-1,1-1
-2008-04-13,Genoa,Torino,3-0,0-0
-2008-04-13,Inter,Fiorentina,2-0,0-0
-2008-04-13,Lazio,Siena,1-1,1-0
-2008-04-13,Livorno,Cagliari,1-2,1-1
-2008-04-13,Napoli,Atalanta,2-0,0-0
-2008-04-13,Reggina,Sampdoria,1-0,1-0
-2008-04-13,Udinese,Roma,1-3,0-0
-2008-04-16,Juventus,Parma,3-0,2-0
-2008-04-19,Fiorentina,Palermo,1-0,1-0
-2008-04-19,Roma,Livorno,1-1,0-0
-2008-04-20,Atalanta,Juventus,0-4,0-3
-2008-04-20,Cagliari,Empoli,2-0,1-0
-2008-04-20,Catania,Lazio,1-0,1-0
-2008-04-20,Milan,Reggina,5-1,2-1
-2008-04-20,Parma,Napoli,1-2,1-1
-2008-04-20,Sampdoria,Udinese,3-0,2-0
-2008-04-20,Siena,Genoa,0-1,0-1
-2008-04-20,Torino,Inter,0-1,0-1
-2008-04-27,Fiorentina,Sampdoria,2-2,0-0
-2008-04-27,Genoa,Empoli,0-1,0-1
-2008-04-27,Inter,Cagliari,2-1,1-0
-2008-04-27,Juventus,Lazio,5-2,4-0
-2008-04-27,Livorno,Milan,1-4,0-1
-2008-04-27,Napoli,Siena,0-0,0-0
-2008-04-27,Palermo,Atalanta,0-0,0-0
-2008-04-27,Reggina,Parma,2-1,0-1
-2008-04-27,Roma,Torino,4-1,4-0
-2008-04-27,Udinese,Catania,2-1,2-1
-2008-05-04,Atalanta,Livorno,3-2,0-0
-2008-05-04,Cagliari,Fiorentina,2-1,1-0
-2008-05-04,Catania,Reggina,1-2,0-1
-2008-05-04,Empoli,Udinese,0-1,0-1
-2008-05-04,Lazio,Palermo,1-2,1-0
-2008-05-04,Milan,Inter,2-1,0-0
-2008-05-04,Parma,Genoa,1-0,0-0
-2008-05-04,Sampdoria,Roma,0-3,0-0
-2008-05-04,Siena,Juventus,1-0,1-0
-2008-05-04,Torino,Napoli,2-1,1-0
-2008-05-11,Fiorentina,Parma,3-1,1-1
-2008-05-11,Genoa,Lazio,0-2,0-2
-2008-05-11,Inter,Siena,2-2,2-1
-2008-05-11,Juventus,Catania,1-1,0-0
-2008-05-11,Livorno,Torino,0-1,0-1
-2008-05-11,Napoli,Milan,3-1,1-0
-2008-05-11,Palermo,Sampdoria,0-2,0-0
-2008-05-11,Reggina,Empoli,2-0,0-0
-2008-05-11,Roma,Atalanta,2-1,1-0
-2008-05-11,Udinese,Cagliari,0-2,0-0
-2008-05-17,Sampdoria,Juventus,3-3,2-2
-2008-05-18,Atalanta,Genoa,2-0,1-0
-2008-05-18,Cagliari,Reggina,2-2,1-0
-2008-05-18,Catania,Roma,1-1,0-1
-2008-05-18,Empoli,Livorno,2-1,1-0
-2008-05-18,Lazio,Napoli,2-1,1-0
-2008-05-18,Milan,Udinese,4-1,0-1
-2008-05-18,Parma,Inter,0-2,0-0
-2008-05-18,Siena,Palermo,2-2,1-2
-2008-05-18,Torino,Fiorentina,0-1,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 25 Aug 2007 (34),Juventus (1),5-1,1-0,Livorno (1)
+?,(Sat) 25 Aug 2007 (34),Lazio (1),2-2,0-1,Torino (1)
+?,(Sun) 26 Aug 2007 (34),Fiorentina (1),3-1,0-0,Empoli (1)
+?,(Sun) 26 Aug 2007 (34),Genoa (1),0-3,0-3,Milan (1)
+?,(Sun) 26 Aug 2007 (34),Inter (1),1-1,1-0,Udinese (1)
+?,(Sun) 26 Aug 2007 (34),Napoli (1),0-2,0-0,Cagliari (1)
+?,(Sun) 26 Aug 2007 (34),Palermo (1),0-2,0-2,Roma (1)
+?,(Sun) 26 Aug 2007 (34),Parma (1),2-2,2-2,Catania (1)
+?,(Sun) 26 Aug 2007 (34),Reggina (1),1-1,0-0,Atalanta (1)
+?,(Sun) 26 Aug 2007 (34),Siena (1),1-2,0-1,Sampdoria (1)
+?,(Sat) 1 Sep 2007 (35),Empoli (2),0-2,0-1,Inter (2)
+?,(Sun) 2 Sep 2007 (35),Atalanta (2),2-0,1-0,Parma (2)
+?,(Sun) 2 Sep 2007 (35),Cagliari (2),2-3,0-0,Juventus (2)
+?,(Sun) 2 Sep 2007 (35),Catania (2),0-0,0-0,Genoa (2)
+?,(Sun) 2 Sep 2007 (35),Livorno (2),2-4,0-4,Palermo (2)
+?,(Sun) 2 Sep 2007 (35),Roma (2),3-0,1-0,Siena (2)
+?,(Sun) 2 Sep 2007 (35),Sampdoria (2),0-0,0-0,Lazio (2)
+?,(Sun) 2 Sep 2007 (35),Torino (2),2-2,1-1,Reggina (2)
+?,(Sun) 2 Sep 2007 (35),Udinese (2),0-5,0-2,Napoli (2)
+?,(Mon) 3 Sep 2007 (36),Milan (2),1-1,1-0,Fiorentina (2)
+?,(Sat) 15 Sep 2007 (37),Lazio (3),0-0,0-0,Empoli (3)
+?,(Sat) 15 Sep 2007 (37),Siena (3),1-1,1-0,Milan (3)
+?,(Sun) 16 Sep 2007 (37),Fiorentina (3),2-2,1-0,Atalanta (3)
+?,(Sun) 16 Sep 2007 (37),Genoa (3),1-1,0-0,Livorno (3)
+?,(Sun) 16 Sep 2007 (37),Inter (3),2-0,1-0,Catania (3)
+?,(Sun) 16 Sep 2007 (37),Juventus (3),0-1,0-0,Udinese (3)
+?,(Sun) 16 Sep 2007 (37),Napoli (3),2-0,1-0,Sampdoria (3)
+?,(Sun) 16 Sep 2007 (37),Palermo (3),1-1,1-0,Torino (3)
+?,(Sun) 16 Sep 2007 (37),Parma (3),1-1,0-1,Cagliari (3)
+?,(Sun) 16 Sep 2007 (37),Reggina (3),0-2,0-0,Roma (3)
+?,(Sat) 22 Sep 2007 (38),Milan (4),1-1,1-0,Parma (4)
+?,(Sat) 22 Sep 2007 (38),Udinese (4),2-0,1-0,Reggina (4)
+?,(Sun) 23 Sep 2007 (38),Atalanta (4),2-1,1-0,Lazio (4)
+?,(Sun) 23 Sep 2007 (38),Cagliari (4),0-1,0-1,Palermo (4)
+?,(Sun) 23 Sep 2007 (38),Catania (4),0-1,0-1,Fiorentina (4)
+?,(Sun) 23 Sep 2007 (38),Empoli (4),0-0,0-0,Napoli (4)
+?,(Sun) 23 Sep 2007 (38),Livorno (4),2-2,1-1,Inter (4)
+?,(Sun) 23 Sep 2007 (38),Roma (4),2-2,2-1,Juventus (4)
+?,(Sun) 23 Sep 2007 (38),Sampdoria (4),0-0,0-0,Genoa (4)
+?,(Sun) 23 Sep 2007 (38),Torino (4),1-1,1-0,Siena (4)
+?,(Wed) 26 Sep 2007 (39),Catania (5),1-0,0-0,Empoli (5)
+?,(Wed) 26 Sep 2007 (39),Fiorentina (5),2-2,1-2,Roma (5)
+?,(Wed) 26 Sep 2007 (39),Genoa (5),3-2,1-0,Udinese (5)
+?,(Wed) 26 Sep 2007 (39),Inter (5),3-0,1-0,Sampdoria (5)
+?,(Wed) 26 Sep 2007 (39),Juventus (5),4-0,0-0,Reggina (5)
+?,(Wed) 26 Sep 2007 (39),Lazio (5),3-1,0-0,Cagliari (5)
+?,(Wed) 26 Sep 2007 (39),Napoli (5),1-0,0-0,Livorno (5)
+?,(Wed) 26 Sep 2007 (39),Palermo (5),2-1,0-1,Milan (5)
+?,(Wed) 26 Sep 2007 (39),Parma (5),2-0,0-0,Torino (5)
+?,(Wed) 26 Sep 2007 (39),Siena (5),1-1,1-0,Atalanta (5)
+?,(Sat) 29 Sep 2007 (39),Livorno (6),0-3,0-1,Fiorentina (6)
+?,(Sat) 29 Sep 2007 (39),Roma (6),1-4,0-1,Inter (6)
+?,(Sun) 30 Sep 2007 (39),Cagliari (6),1-0,1-0,Siena (6)
+?,(Sun) 30 Sep 2007 (39),Empoli (6),3-1,0-1,Palermo (6)
+?,(Sun) 30 Sep 2007 (39),Milan (6),1-1,0-1,Catania (6)
+?,(Sun) 30 Sep 2007 (39),Napoli (6),1-2,0-1,Genoa (6)
+?,(Sun) 30 Sep 2007 (39),Reggina (6),1-1,1-0,Lazio (6)
+?,(Sun) 30 Sep 2007 (39),Sampdoria (6),3-0,1-0,Atalanta (6)
+?,(Sun) 30 Sep 2007 (39),Torino (6),0-1,0-0,Juventus (6)
+?,(Sun) 30 Sep 2007 (39),Udinese (6),2-1,0-0,Parma (6)
+?,(Sat) 6 Oct 2007 (40),Atalanta (7),0-0,0-0,Udinese (7)
+?,(Sat) 6 Oct 2007 (40),Inter (7),2-1,2-0,Napoli (7)
+?,(Sun) 7 Oct 2007 (40),Catania (7),1-0,1-0,Livorno (7)
+?,(Sun) 7 Oct 2007 (40),Fiorentina (7),1-1,0-1,Juventus (7)
+?,(Sun) 7 Oct 2007 (40),Genoa (7),2-0,0-0,Cagliari (7)
+?,(Sun) 7 Oct 2007 (40),Lazio (7),1-5,1-2,Milan (7)
+?,(Sun) 7 Oct 2007 (40),Palermo (7),1-1,0-0,Reggina (7)
+?,(Sun) 7 Oct 2007 (40),Parma (7),0-3,0-2,Roma (7)
+?,(Sun) 7 Oct 2007 (40),Siena (7),3-0,0-0,Empoli (7)
+?,(Sun) 7 Oct 2007 (40),Torino (7),1-0,0-0,Sampdoria (7)
+?,(Sat) 20 Oct 2007 (42),Reggina (8),0-1,0-1,Inter (8)
+?,(Sat) 20 Oct 2007 (42),Roma (8),4-4,2-1,Napoli (8)
+?,(Sun) 21 Oct 2007 (42),Atalanta (8),2-2,1-0,Torino (8)
+?,(Sun) 21 Oct 2007 (42),Cagliari (8),1-1,0-1,Catania (8)
+?,(Sun) 21 Oct 2007 (42),Fiorentina (8),3-0,2-0,Siena (8)
+?,(Sun) 21 Oct 2007 (42),Juventus (8),1-0,1-0,Genoa (8)
+?,(Sun) 21 Oct 2007 (42),Livorno (8),0-1,0-1,Lazio (8)
+?,(Sun) 21 Oct 2007 (42),Milan (8),0-1,0-0,Empoli (8)
+?,(Sun) 21 Oct 2007 (42),Sampdoria (8),3-0,1-0,Parma (8)
+?,(Sun) 21 Oct 2007 (42),Udinese (8),1-1,0-1,Palermo (8)
+?,(Sat) 27 Oct 2007 (43),Napoli (9),3-1,0-0,Juventus (9)
+?,(Sat) 27 Oct 2007 (43),Torino (9),2-0,0-0,Cagliari (9)
+?,(Sun) 28 Oct 2007 (43),Catania (9),2-0,2-0,Sampdoria (9)
+?,(Sun) 28 Oct 2007 (43),Empoli (9),0-1,0-0,Atalanta (9)
+?,(Sun) 28 Oct 2007 (43),Genoa (9),0-0,0-0,Fiorentina (9)
+?,(Sun) 28 Oct 2007 (43),Lazio (9),0-1,0-0,Udinese (9)
+?,(Sun) 28 Oct 2007 (43),Milan (9),0-1,0-0,Roma (9)
+?,(Sun) 28 Oct 2007 (43),Palermo (9),0-0,0-0,Inter (9)
+?,(Sun) 28 Oct 2007 (43),Parma (9),3-2,1-1,Livorno (9)
+?,(Sun) 28 Oct 2007 (43),Siena (9),0-0,0-0,Reggina (9)
+?,(Wed) 31 Oct 2007 (44),Atalanta (10),2-2,0-1,Cagliari (10)
+?,(Wed) 31 Oct 2007 (44),Fiorentina (10),1-0,0-0,Napoli (10)
+?,(Wed) 31 Oct 2007 (44),Inter (10),4-1,1-0,Genoa (10)
+?,(Wed) 31 Oct 2007 (44),Juventus (10),3-0,0-0,Empoli (10)
+?,(Wed) 31 Oct 2007 (44),Palermo (10),1-1,0-1,Parma (10)
+?,(Wed) 31 Oct 2007 (44),Reggina (10),1-3,1-1,Livorno (10)
+?,(Wed) 31 Oct 2007 (44),Roma (10),3-2,2-1,Lazio (10)
+?,(Wed) 31 Oct 2007 (44),Sampdoria (10),0-5,0-0,Milan (10)
+?,(Wed) 31 Oct 2007 (44),Siena (10),1-1,0-0,Catania (10)
+?,(Wed) 31 Oct 2007 (44),Udinese (10),2-1,1-0,Torino (10)
+?,(Sat) 3 Nov 2007 (44),Lazio (11),0-1,0-1,Fiorentina (11)
+?,(Sat) 3 Nov 2007 (44),Milan (11),0-0,0-0,Torino (11)
+?,(Sun) 4 Nov 2007 (44),Cagliari (11),0-3,0-3,Sampdoria (11)
+?,(Sun) 4 Nov 2007 (44),Catania (11),1-2,0-0,Atalanta (11)
+?,(Sun) 4 Nov 2007 (44),Empoli (11),2-2,0-2,Roma (11)
+?,(Sun) 4 Nov 2007 (44),Genoa (11),3-3,0-1,Palermo (11)
+?,(Sun) 4 Nov 2007 (44),Juventus (11),1-1,0-1,Inter (11)
+?,(Sun) 4 Nov 2007 (44),Livorno (11),0-0,0-0,Udinese (11)
+?,(Sun) 4 Nov 2007 (44),Napoli (11),1-1,0-0,Reggina (11)
+?,(Sun) 4 Nov 2007 (44),Parma (11),2-2,1-1,Siena (11)
+?,(Sat) 10 Nov 2007 (45),Palermo (12),2-1,0-0,Napoli (12)
+?,(Sat) 10 Nov 2007 (45),Sampdoria (12),3-0,2-0,Empoli (12)
+?,(Sun) 11 Nov 2007 (45),Fiorentina (12),1-2,1-1,Udinese (12)
+?,(Sun) 11 Nov 2007 (45),Parma (12),2-2,1-0,Juventus (12)
+?,(Sun) 11 Nov 2007 (45),Reggina (12),2-0,1-0,Genoa (12)
+?,(Sun) 11 Nov 2007 (45),Siena (12),2-3,1-3,Livorno (12)
+?,(Sun) 11 Nov 2007 (45),Torino (12),1-1,1-0,Catania (12)
+?,(Sat) 24 Nov 2007 (47),Genoa (13),0-1,0-0,Roma (12)
+?,(Sat) 24 Nov 2007 (47),Inter (12),2-1,2-1,Atalanta (12)
+?,(Sun) 25 Nov 2007 (47),Cagliari (12),1-2,1-0,Milan (12)
+?,(Sun) 25 Nov 2007 (47),Empoli (13),0-0,0-0,Torino (13)
+?,(Sun) 25 Nov 2007 (47),Juventus (13),5-0,2-0,Palermo (13)
+?,(Sun) 25 Nov 2007 (47),Lazio (12),1-0,0-0,Parma (13)
+?,(Sun) 25 Nov 2007 (47),Livorno (13),3-1,2-0,Sampdoria (13)
+?,(Sun) 25 Nov 2007 (47),Napoli (13),2-0,1-0,Catania (13)
+?,(Sun) 25 Nov 2007 (47),Reggina (13),0-0,0-0,Fiorentina (13)
+?,(Sun) 25 Nov 2007 (47),Udinese (13),2-0,1-0,Siena (13)
+?,(Sat) 1 Dec 2007 (48),Milan (13),0-0,0-0,Juventus (14)
+?,(Sat) 1 Dec 2007 (48),Sampdoria (14),3-0,1-0,Reggina (14)
+?,(Sun) 2 Dec 2007 (48),Atalanta (13),5-1,3-0,Napoli (14)
+?,(Sun) 2 Dec 2007 (48),Cagliari (13),0-0,0-0,Livorno (14)
+?,(Sun) 2 Dec 2007 (48),Catania (14),3-1,2-0,Palermo (14)
+?,(Sun) 2 Dec 2007 (48),Fiorentina (14),0-2,0-2,Inter (13)
+?,(Sun) 2 Dec 2007 (48),Parma (14),1-0,1-0,Empoli (14)
+?,(Sun) 2 Dec 2007 (48),Roma (13),2-1,2-1,Udinese (14)
+?,(Sun) 2 Dec 2007 (48),Siena (14),1-1,1-1,Lazio (13)
+?,(Sun) 2 Dec 2007 (48),Torino (14),1-1,0-0,Genoa (14)
+?,(Wed) 5 Dec 2007 (49),Inter (14),3-0,2-0,Lazio (14)
+?,(Wed) 5 Dec 2007 (49),Roma (14),2-0,2-0,Cagliari (14)
+?,(Sat) 8 Dec 2007 (49),Lazio (15),2-0,1-0,Catania (15)
+?,(Sat) 8 Dec 2007 (49),Palermo (15),2-0,1-0,Fiorentina (15)
+?,(Sun) 9 Dec 2007 (49),Empoli (15),4-1,2-0,Cagliari (15)
+?,(Sun) 9 Dec 2007 (49),Genoa (15),1-3,0-3,Siena (15)
+?,(Sun) 9 Dec 2007 (49),Inter (15),4-0,1-0,Torino (15)
+?,(Sun) 9 Dec 2007 (49),Juventus (15),1-0,0-0,Atalanta (14)
+?,(Sun) 9 Dec 2007 (49),Livorno (15),1-1,1-1,Roma (15)
+?,(Sun) 9 Dec 2007 (49),Napoli (15),1-0,1-0,Parma (15)
+?,(Sun) 9 Dec 2007 (49),Udinese (15),3-2,1-2,Sampdoria (15)
+?,(Sat) 15 Dec 2007 (50),Catania (16),2-0,1-0,Udinese (16)
+?,(Sat) 15 Dec 2007 (50),Lazio (16),2-3,1-1,Juventus (16)
+?,(Sun) 16 Dec 2007 (50),Atalanta (15),1-3,0-2,Palermo (16)
+?,(Sun) 16 Dec 2007 (50),Cagliari (16),0-2,0-0,Inter (16)
+?,(Sun) 16 Dec 2007 (50),Empoli (16),1-1,1-0,Genoa (16)
+?,(Sun) 16 Dec 2007 (50),Parma (16),3-0,1-0,Reggina (15)
+?,(Sun) 16 Dec 2007 (50),Sampdoria (16),2-2,1-1,Fiorentina (16)
+?,(Sun) 16 Dec 2007 (50),Siena (16),1-1,0-0,Napoli (16)
+?,(Sun) 16 Dec 2007 (50),Torino (16),0-0,0-0,Roma (16)
+?,(Sat) 22 Dec 2007 (51),Genoa (17),1-0,1-0,Parma (17)
+?,(Sat) 22 Dec 2007 (51),Roma (17),2-0,1-0,Sampdoria (17)
+?,(Sun) 23 Dec 2007 (51),Fiorentina (17),5-1,3-1,Cagliari (17)
+?,(Sun) 23 Dec 2007 (51),Inter (17),2-1,1-1,Milan (14)
+?,(Sun) 23 Dec 2007 (51),Juventus (17),2-0,1-0,Siena (17)
+?,(Sun) 23 Dec 2007 (51),Livorno (16),1-1,1-1,Atalanta (16)
+?,(Sun) 23 Dec 2007 (51),Napoli (17),1-1,0-1,Torino (17)
+?,(Sun) 23 Dec 2007 (51),Palermo (17),2-2,1-0,Lazio (17)
+?,(Sun) 23 Dec 2007 (51),Reggina (16),3-1,1-0,Catania (17)
+?,(Sun) 23 Dec 2007 (51),Udinese (17),2-2,1-0,Empoli (17)
+?,(Sat) 12 Jan 2008 (1),Catania (18),1-1,1-0,Juventus (18)
+?,(Sat) 12 Jan 2008 (1),Empoli (18),1-1,1-1,Reggina (17)
+?,(Sun) 13 Jan 2008 (1),Atalanta (17),1-2,1-2,Roma (18)
+?,(Sun) 13 Jan 2008 (1),Cagliari (18),0-1,0-1,Udinese (18)
+?,(Sun) 13 Jan 2008 (1),Lazio (18),1-2,1-0,Genoa (18)
+?,(Sun) 13 Jan 2008 (1),Milan (15),5-2,2-2,Napoli (18)
+?,(Sun) 13 Jan 2008 (1),Parma (18),1-2,0-1,Fiorentina (18)
+?,(Sun) 13 Jan 2008 (1),Sampdoria (18),3-0,2-0,Palermo (18)
+?,(Sun) 13 Jan 2008 (1),Siena (18),2-3,1-2,Inter (18)
+?,(Sun) 13 Jan 2008 (1),Torino (18),1-2,0-2,Livorno (17)
+?,(Sat) 19 Jan 2008 (2),Fiorentina (19),2-1,1-0,Torino (19)
+?,(Sat) 19 Jan 2008 (2),Genoa (19),2-1,0-0,Atalanta (18)
+?,(Sun) 20 Jan 2008 (2),Inter (19),3-2,1-1,Parma (19)
+?,(Sun) 20 Jan 2008 (2),Juventus (19),0-0,0-0,Sampdoria (19)
+?,(Sun) 20 Jan 2008 (2),Livorno (18),1-0,0-0,Empoli (19)
+?,(Sun) 20 Jan 2008 (2),Napoli (19),2-2,1-2,Lazio (19)
+?,(Sun) 20 Jan 2008 (2),Palermo (19),2-3,1-2,Siena (19)
+?,(Sun) 20 Jan 2008 (2),Reggina (18),2-0,0-0,Cagliari (19)
+?,(Sun) 20 Jan 2008 (2),Roma (19),2-0,1-0,Catania (19)
+?,(Sun) 20 Jan 2008 (2),Udinese (19),0-1,0-0,Milan (16)
+?,(Wed) 23 Jan 2008 (3),Atalanta (19),2-1,1-1,Milan (17)
+?,(Sat) 26 Jan 2008 (3),Roma (20),1-0,0-0,Palermo (20)
+?,(Sat) 26 Jan 2008 (3),Sampdoria (20),1-0,1-0,Siena (20)
+?,(Sun) 27 Jan 2008 (3),Atalanta (20),2-2,1-0,Reggina (19)
+?,(Sun) 27 Jan 2008 (3),Cagliari (20),2-1,0-0,Napoli (20)
+?,(Sun) 27 Jan 2008 (3),Catania (20),0-0,0-0,Parma (20)
+?,(Sun) 27 Jan 2008 (3),Empoli (20),0-2,0-0,Fiorentina (20)
+?,(Sun) 27 Jan 2008 (3),Livorno (19),1-3,0-1,Juventus (20)
+?,(Sun) 27 Jan 2008 (3),Milan (18),2-0,0-0,Genoa (20)
+?,(Sun) 27 Jan 2008 (3),Torino (20),0-0,0-0,Lazio (20)
+?,(Sun) 27 Jan 2008 (3),Udinese (20),0-0,0-0,Inter (20)
+?,(Wed) 30 Jan 2008 (4),Reggina (20),0-1,0-1,Milan (19)
+?,(Sat) 2 Feb 2008 (4),Napoli (21),3-1,1-1,Udinese (21)
+?,(Sat) 2 Feb 2008 (4),Palermo (21),1-0,0-0,Livorno (20)
+?,(Sun) 3 Feb 2008 (4),Fiorentina (21),0-1,0-0,Milan (20)
+?,(Sun) 3 Feb 2008 (4),Genoa (21),2-1,1-0,Catania (21)
+?,(Sun) 3 Feb 2008 (4),Inter (21),1-0,1-0,Empoli (21)
+?,(Sun) 3 Feb 2008 (4),Juventus (21),1-1,0-0,Cagliari (21)
+?,(Sun) 3 Feb 2008 (4),Lazio (21),2-1,1-1,Sampdoria (21)
+?,(Sun) 3 Feb 2008 (4),Parma (21),2-3,1-1,Atalanta (21)
+?,(Sun) 3 Feb 2008 (4),Reggina (21),1-3,0-2,Torino (21)
+?,(Sun) 3 Feb 2008 (4),Siena (21),3-0,2-0,Roma (21)
+?,(Sat) 9 Feb 2008 (5),Atalanta (22),2-2,1-1,Fiorentina (22)
+?,(Sat) 9 Feb 2008 (5),Roma (22),2-0,1-0,Reggina (22)
+?,(Sun) 10 Feb 2008 (5),Cagliari (22),1-1,1-1,Parma (22)
+?,(Sun) 10 Feb 2008 (5),Catania (22),0-2,0-0,Inter (22)
+?,(Sun) 10 Feb 2008 (5),Empoli (22),1-0,1-0,Lazio (22)
+?,(Sun) 10 Feb 2008 (5),Livorno (21),1-1,1-0,Genoa (22)
+?,(Sun) 10 Feb 2008 (5),Milan (21),1-0,0-0,Siena (22)
+?,(Sun) 10 Feb 2008 (5),Sampdoria (22),2-0,0-0,Napoli (22)
+?,(Sun) 10 Feb 2008 (5),Torino (22),3-1,0-1,Palermo (22)
+?,(Sun) 10 Feb 2008 (5),Udinese (22),1-2,1-0,Juventus (22)
+?,(Wed) 13 Feb 2008 (6),Milan (22),1-1,0-0,Livorno (22)
+?,(Sat) 16 Feb 2008 (6),Inter (23),2-0,2-0,Livorno (23)
+?,(Sat) 16 Feb 2008 (6),Juventus (23),1-0,1-0,Roma (23)
+?,(Sat) 16 Feb 2008 (6),Parma (23),0-0,0-0,Milan (23)
+?,(Sun) 17 Feb 2008 (6),Fiorentina (23),2-1,1-0,Catania (23)
+?,(Sun) 17 Feb 2008 (6),Genoa (23),0-1,0-0,Sampdoria (23)
+?,(Sun) 17 Feb 2008 (6),Lazio (23),3-0,1-0,Atalanta (23)
+?,(Sun) 17 Feb 2008 (6),Napoli (23),1-3,1-1,Empoli (23)
+?,(Sun) 17 Feb 2008 (6),Palermo (23),2-1,2-0,Cagliari (23)
+?,(Sun) 17 Feb 2008 (6),Reggina (23),1-3,0-1,Udinese (23)
+?,(Sun) 17 Feb 2008 (6),Siena (23),0-0,0-0,Torino (23)
+?,(Sat) 23 Feb 2008 (7),Reggina (24),2-1,1-0,Juventus (24)
+?,(Sat) 23 Feb 2008 (7),Torino (24),4-4,2-4,Parma (24)
+?,(Sun) 24 Feb 2008 (7),Atalanta (24),2-2,2-2,Siena (24)
+?,(Sun) 24 Feb 2008 (7),Cagliari (24),1-0,0-0,Lazio (24)
+?,(Sun) 24 Feb 2008 (7),Empoli (24),2-0,1-0,Catania (24)
+?,(Sun) 24 Feb 2008 (7),Livorno (24),1-2,0-0,Napoli (24)
+?,(Sun) 24 Feb 2008 (7),Milan (24),2-1,1-1,Palermo (24)
+?,(Sun) 24 Feb 2008 (7),Roma (24),1-0,0-0,Fiorentina (24)
+?,(Sun) 24 Feb 2008 (7),Sampdoria (24),1-1,0-0,Inter (24)
+?,(Sun) 24 Feb 2008 (7),Udinese (24),3-5,2-2,Genoa (24)
+?,(Tue) 26 Feb 2008 (8),Juventus (25),0-0,0-0,Torino (25)
+?,(Wed) 27 Feb 2008 (8),Atalanta (25),4-1,3-1,Sampdoria (25)
+?,(Wed) 27 Feb 2008 (8),Catania (25),1-1,0-0,Milan (25)
+?,(Wed) 27 Feb 2008 (8),Fiorentina (25),1-0,0-0,Livorno (25)
+?,(Wed) 27 Feb 2008 (8),Genoa (25),2-0,1-0,Napoli (25)
+?,(Wed) 27 Feb 2008 (8),Inter (25),1-1,0-1,Roma (25)
+?,(Wed) 27 Feb 2008 (8),Lazio (25),1-0,1-0,Reggina (25)
+?,(Wed) 27 Feb 2008 (8),Palermo (25),2-0,2-0,Empoli (25)
+?,(Wed) 27 Feb 2008 (8),Parma (25),2-0,0-0,Udinese (25)
+?,(Wed) 27 Feb 2008 (8),Siena (25),1-0,0-0,Cagliari (25)
+?,(Sat) 1 Mar 2008 (8),Milan (26),1-1,0-0,Lazio (26)
+?,(Sat) 1 Mar 2008 (8),Roma (26),4-0,1-0,Parma (26)
+?,(Sun) 2 Mar 2008 (8),Cagliari (26),2-1,2-1,Genoa (26)
+?,(Sun) 2 Mar 2008 (8),Empoli (26),0-2,0-1,Siena (26)
+?,(Sun) 2 Mar 2008 (8),Juventus (26),2-3,1-1,Fiorentina (26)
+?,(Sun) 2 Mar 2008 (8),Livorno (26),1-0,0-0,Catania (26)
+?,(Sun) 2 Mar 2008 (8),Napoli (26),1-0,1-0,Inter (26)
+?,(Sun) 2 Mar 2008 (8),Reggina (26),0-0,0-0,Palermo (26)
+?,(Sun) 2 Mar 2008 (8),Sampdoria (26),2-2,1-1,Torino (26)
+?,(Sun) 2 Mar 2008 (8),Udinese (26),2-0,2-0,Atalanta (26)
+?,(Sat) 8 Mar 2008 (9),Inter (27),2-0,2-0,Reggina (27)
+?,(Sat) 8 Mar 2008 (9),Palermo (27),1-1,1-0,Udinese (27)
+?,(Sun) 9 Mar 2008 (9),Catania (27),2-1,1-1,Cagliari (27)
+?,(Sun) 9 Mar 2008 (9),Empoli (27),1-3,1-1,Milan (27)
+?,(Sun) 9 Mar 2008 (9),Genoa (27),0-2,0-2,Juventus (27)
+?,(Sun) 9 Mar 2008 (9),Lazio (27),2-0,2-0,Livorno (27)
+?,(Sun) 9 Mar 2008 (9),Napoli (27),0-2,0-1,Roma (27)
+?,(Sun) 9 Mar 2008 (9),Parma (27),1-2,0-1,Sampdoria (27)
+?,(Sun) 9 Mar 2008 (9),Siena (27),1-0,0-0,Fiorentina (27)
+?,(Sun) 9 Mar 2008 (9),Torino (27),1-0,1-0,Atalanta (27)
+?,(Sat) 15 Mar 2008 (10),Roma (28),2-1,0-0,Milan (28)
+?,(Sat) 15 Mar 2008 (10),Udinese (28),2-2,0-1,Lazio (28)
+?,(Sun) 16 Mar 2008 (10),Atalanta (28),4-1,2-0,Empoli (28)
+?,(Sun) 16 Mar 2008 (10),Cagliari (28),3-0,2-0,Torino (28)
+?,(Sun) 16 Mar 2008 (10),Fiorentina (28),3-1,2-0,Genoa (28)
+?,(Sun) 16 Mar 2008 (10),Inter (28),2-1,2-1,Palermo (28)
+?,(Sun) 16 Mar 2008 (10),Juventus (28),1-0,0-0,Napoli (28)
+?,(Sun) 16 Mar 2008 (10),Livorno (28),1-1,1-0,Parma (28)
+?,(Sun) 16 Mar 2008 (10),Reggina (28),4-0,3-0,Siena (28)
+?,(Sun) 16 Mar 2008 (10),Sampdoria (28),3-1,0-0,Catania (28)
+?,(Wed) 19 Mar 2008 (11),Cagliari (29),1-0,1-0,Atalanta (29)
+?,(Wed) 19 Mar 2008 (11),Catania (29),0-0,0-0,Siena (29)
+?,(Wed) 19 Mar 2008 (11),Empoli (29),0-0,0-0,Juventus (29)
+?,(Wed) 19 Mar 2008 (11),Genoa (29),1-1,0-1,Inter (29)
+?,(Wed) 19 Mar 2008 (11),Lazio (29),3-2,1-1,Roma (29)
+?,(Wed) 19 Mar 2008 (11),Livorno (29),1-1,0-1,Reggina (29)
+?,(Wed) 19 Mar 2008 (11),Milan (29),1-2,0-2,Sampdoria (29)
+?,(Wed) 19 Mar 2008 (11),Napoli (29),2-0,2-0,Fiorentina (29)
+?,(Wed) 19 Mar 2008 (11),Parma (29),2-1,0-0,Palermo (29)
+?,(Wed) 19 Mar 2008 (11),Torino (29),0-1,0-1,Udinese (29)
+?,(Sat) 22 Mar 2008 (11),Atalanta (30),0-0,0-0,Catania (30)
+?,(Sat) 22 Mar 2008 (11),Fiorentina (30),1-0,0-0,Lazio (30)
+?,(Sat) 22 Mar 2008 (11),Inter (30),1-2,0-0,Juventus (30)
+?,(Sat) 22 Mar 2008 (11),Palermo (30),2-3,1-1,Genoa (30)
+?,(Sat) 22 Mar 2008 (11),Reggina (30),1-1,0-0,Napoli (30)
+?,(Sat) 22 Mar 2008 (11),Roma (30),2-1,1-0,Empoli (30)
+?,(Sat) 22 Mar 2008 (11),Sampdoria (30),1-1,0-1,Cagliari (30)
+?,(Sat) 22 Mar 2008 (11),Siena (30),2-0,0-0,Parma (30)
+?,(Sat) 22 Mar 2008 (11),Torino (30),0-1,0-0,Milan (30)
+?,(Sat) 22 Mar 2008 (11),Udinese (30),2-0,1-0,Livorno (30)
+?,(Sat) 29 Mar 2008 (12),Cagliari (31),1-1,1-1,Roma (31)
+?,(Sat) 29 Mar 2008 (12),Lazio (31),1-1,0-1,Inter (31)
+?,(Sun) 30 Mar 2008 (12),Catania (31),1-2,1-1,Torino (31)
+?,(Sun) 30 Mar 2008 (12),Empoli (31),0-2,0-2,Sampdoria (31)
+?,(Sun) 30 Mar 2008 (12),Genoa (31),2-0,0-0,Reggina (31)
+?,(Sun) 30 Mar 2008 (12),Livorno (31),0-0,0-0,Siena (31)
+?,(Sun) 30 Mar 2008 (12),Milan (31),1-2,0-2,Atalanta (31)
+?,(Sun) 30 Mar 2008 (12),Napoli (31),1-0,0-0,Palermo (31)
+?,(Sun) 30 Mar 2008 (12),Udinese (31),3-1,1-0,Fiorentina (31)
+?,(Sat) 5 Apr 2008 (13),Milan (32),3-1,2-0,Cagliari (32)
+?,(Sat) 5 Apr 2008 (13),Roma (32),3-2,2-0,Genoa (32)
+?,(Sun) 6 Apr 2008 (13),Atalanta (32),0-2,0-1,Inter (32)
+?,(Sun) 6 Apr 2008 (13),Catania (32),3-0,2-0,Napoli (32)
+?,(Sun) 6 Apr 2008 (13),Fiorentina (32),2-0,1-0,Reggina (32)
+?,(Sun) 6 Apr 2008 (13),Palermo (32),3-2,1-0,Juventus (31)
+?,(Sun) 6 Apr 2008 (13),Parma (31),2-2,2-2,Lazio (32)
+?,(Sun) 6 Apr 2008 (13),Sampdoria (32),2-0,0-0,Livorno (32)
+?,(Sun) 6 Apr 2008 (13),Siena (32),1-1,0-0,Udinese (32)
+?,(Sun) 6 Apr 2008 (13),Torino (32),0-1,0-0,Empoli (32)
+?,(Sat) 12 Apr 2008 (14),Juventus (32),3-2,2-2,Milan (33)
+?,(Sat) 12 Apr 2008 (14),Palermo (33),1-0,0-0,Catania (33)
+?,(Sun) 13 Apr 2008 (14),Empoli (33),1-1,1-1,Parma (32)
+?,(Sun) 13 Apr 2008 (14),Genoa (33),3-0,0-0,Torino (33)
+?,(Sun) 13 Apr 2008 (14),Inter (33),2-0,0-0,Fiorentina (33)
+?,(Sun) 13 Apr 2008 (14),Lazio (33),1-1,1-0,Siena (33)
+?,(Sun) 13 Apr 2008 (14),Livorno (33),1-2,1-1,Cagliari (33)
+?,(Sun) 13 Apr 2008 (14),Napoli (33),2-0,0-0,Atalanta (33)
+?,(Sun) 13 Apr 2008 (14),Reggina (33),1-0,1-0,Sampdoria (33)
+?,(Sun) 13 Apr 2008 (14),Udinese (33),1-3,0-0,Roma (33)
+?,(Wed) 16 Apr 2008 (15),Juventus (33),3-0,2-0,Parma (33)
+?,(Sat) 19 Apr 2008 (15),Fiorentina (34),1-0,1-0,Palermo (34)
+?,(Sat) 19 Apr 2008 (15),Roma (34),1-1,0-0,Livorno (34)
+?,(Sun) 20 Apr 2008 (15),Atalanta (34),0-4,0-3,Juventus (34)
+?,(Sun) 20 Apr 2008 (15),Cagliari (34),2-0,1-0,Empoli (34)
+?,(Sun) 20 Apr 2008 (15),Catania (34),1-0,1-0,Lazio (34)
+?,(Sun) 20 Apr 2008 (15),Milan (34),5-1,2-1,Reggina (34)
+?,(Sun) 20 Apr 2008 (15),Parma (34),1-2,1-1,Napoli (34)
+?,(Sun) 20 Apr 2008 (15),Sampdoria (34),3-0,2-0,Udinese (34)
+?,(Sun) 20 Apr 2008 (15),Siena (34),0-1,0-1,Genoa (34)
+?,(Sun) 20 Apr 2008 (15),Torino (34),0-1,0-1,Inter (34)
+?,(Sun) 27 Apr 2008 (16),Fiorentina (35),2-2,0-0,Sampdoria (35)
+?,(Sun) 27 Apr 2008 (16),Genoa (35),0-1,0-1,Empoli (35)
+?,(Sun) 27 Apr 2008 (16),Inter (35),2-1,1-0,Cagliari (35)
+?,(Sun) 27 Apr 2008 (16),Juventus (35),5-2,4-0,Lazio (35)
+?,(Sun) 27 Apr 2008 (16),Livorno (35),1-4,0-1,Milan (35)
+?,(Sun) 27 Apr 2008 (16),Napoli (35),0-0,0-0,Siena (35)
+?,(Sun) 27 Apr 2008 (16),Palermo (35),0-0,0-0,Atalanta (35)
+?,(Sun) 27 Apr 2008 (16),Reggina (35),2-1,0-1,Parma (35)
+?,(Sun) 27 Apr 2008 (16),Roma (35),4-1,4-0,Torino (35)
+?,(Sun) 27 Apr 2008 (16),Udinese (35),2-1,2-1,Catania (35)
+?,(Sun) 4 May 2008 (17),Atalanta (36),3-2,0-0,Livorno (36)
+?,(Sun) 4 May 2008 (17),Cagliari (36),2-1,1-0,Fiorentina (36)
+?,(Sun) 4 May 2008 (17),Catania (36),1-2,0-1,Reggina (36)
+?,(Sun) 4 May 2008 (17),Empoli (36),0-1,0-1,Udinese (36)
+?,(Sun) 4 May 2008 (17),Lazio (36),1-2,1-0,Palermo (36)
+?,(Sun) 4 May 2008 (17),Milan (36),2-1,0-0,Inter (36)
+?,(Sun) 4 May 2008 (17),Parma (36),1-0,0-0,Genoa (36)
+?,(Sun) 4 May 2008 (17),Sampdoria (36),0-3,0-0,Roma (36)
+?,(Sun) 4 May 2008 (17),Siena (36),1-0,1-0,Juventus (36)
+?,(Sun) 4 May 2008 (17),Torino (36),2-1,1-0,Napoli (36)
+?,(Sun) 11 May 2008 (18),Fiorentina (37),3-1,1-1,Parma (37)
+?,(Sun) 11 May 2008 (18),Genoa (37),0-2,0-2,Lazio (37)
+?,(Sun) 11 May 2008 (18),Inter (37),2-2,2-1,Siena (37)
+?,(Sun) 11 May 2008 (18),Juventus (37),1-1,0-0,Catania (37)
+?,(Sun) 11 May 2008 (18),Livorno (37),0-1,0-1,Torino (37)
+?,(Sun) 11 May 2008 (18),Napoli (37),3-1,1-0,Milan (37)
+?,(Sun) 11 May 2008 (18),Palermo (37),0-2,0-0,Sampdoria (37)
+?,(Sun) 11 May 2008 (18),Reggina (37),2-0,0-0,Empoli (37)
+?,(Sun) 11 May 2008 (18),Roma (37),2-1,1-0,Atalanta (37)
+?,(Sun) 11 May 2008 (18),Udinese (37),0-2,0-0,Cagliari (37)
+?,(Sat) 17 May 2008 (19),Sampdoria (38),3-3,2-2,Juventus (38)
+?,(Sun) 18 May 2008 (19),Atalanta (38),2-0,1-0,Genoa (38)
+?,(Sun) 18 May 2008 (19),Cagliari (38),2-2,1-0,Reggina (38)
+?,(Sun) 18 May 2008 (19),Catania (38),1-1,0-1,Roma (38)
+?,(Sun) 18 May 2008 (19),Empoli (38),2-1,1-0,Livorno (38)
+?,(Sun) 18 May 2008 (19),Lazio (38),2-1,1-0,Napoli (38)
+?,(Sun) 18 May 2008 (19),Milan (38),4-1,0-1,Udinese (38)
+?,(Sun) 18 May 2008 (19),Parma (38),0-2,0-0,Inter (38)
+?,(Sun) 18 May 2008 (19),Siena (38),2-2,1-2,Palermo (38)
+?,(Sun) 18 May 2008 (19),Torino (38),0-1,0-0,Fiorentina (38)

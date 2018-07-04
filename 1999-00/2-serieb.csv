@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-1999-08-29,Alzano,Monza,2-1,0-1
-1999-08-29,Brescia,Savoia,1-1,0-1
-1999-08-29,Cesena,Pescara,0-0,0-0
-1999-08-29,Chievo,Salernitana,3-1,1-1
-1999-08-29,Cosenza,Atalanta,0-1,0-1
-1999-08-29,Empoli,Fermana,1-0,0-0
-1999-08-29,Genoa,Ternana,2-0,0-0
-1999-08-29,Napoli,Ravenna,1-1,0-1
-1999-08-29,Pistoiese,Sampdoria,0-1,0-1
-1999-08-29,Treviso,Vicenza,0-1,0-0
-1999-09-05,Atalanta,Treviso,3-2,2-0
-1999-09-05,Fermana,Pistoiese,0-0,0-0
-1999-09-05,Monza,Napoli,0-0,0-0
-1999-09-05,Pescara,Chievo,2-1,1-0
-1999-09-05,Ravenna,Cosenza,0-0,0-0
-1999-09-05,Salernitana,Cesena,1-1,0-1
-1999-09-05,Sampdoria,Brescia,0-0,0-0
-1999-09-05,Savoia,Empoli,1-0,1-0
-1999-09-05,Ternana,Alzano,1-0,0-0
-1999-09-05,Vicenza,Genoa,1-1,0-0
-1999-09-12,Alzano,Chievo,2-1,0-1
-1999-09-12,Brescia,Salernitana,4-1,4-1
-1999-09-12,Cosenza,Monza,2-1,1-1
-1999-09-12,Empoli,Sampdoria,1-0,1-0
-1999-09-12,Genoa,Pescara,1-2,0-0
-1999-09-12,Napoli,Fermana,4-0,0-0
-1999-09-12,Pistoiese,Savoia,2-1,0-0
-1999-09-12,Ravenna,Atalanta,1-3,1-1
-1999-09-12,Ternana,Vicenza,1-0,1-0
-1999-09-12,Treviso,Cesena,2-1,1-1
-1999-09-19,Cesena,Genoa,1-0,1-0
-1999-09-19,Chievo,Ternana,0-1,0-0
-1999-09-19,Fermana,Brescia,1-2,0-1
-1999-09-19,Monza,Empoli,1-0,0-0
-1999-09-19,Pescara,Cosenza,1-1,0-0
-1999-09-19,Salernitana,Pistoiese,2-0,0-0
-1999-09-19,Sampdoria,Ravenna,2-1,1-1
-1999-09-19,Savoia,Treviso,1-0,0-0
-1999-09-19,Vicenza,Alzano,3-1,1-0
-1999-09-20,Atalanta,Napoli,1-0,0-0
-1999-09-24,Genoa,Salernitana,3-0,1-0
-1999-09-26,Alzano,Brescia,0-1,0-1
-1999-09-26,Empoli,Cesena,2-1,1-0
-1999-09-26,Napoli,Vicenza,2-1,0-1
-1999-09-26,Pescara,Fermana,4-2,1-2
-1999-09-26,Pistoiese,Chievo,2-1,0-0
-1999-09-26,Ravenna,Savoia,4-0,2-0
-1999-09-26,Ternana,Atalanta,1-1,1-1
-1999-09-26,Treviso,Monza,3-1,2-0
-1999-09-27,Cosenza,Sampdoria,1-2,0-0
-1999-10-01,Vicenza,Empoli,6-0,5-0
-1999-10-03,Atalanta,Pescara,3-1,2-0
-1999-10-03,Brescia,Pistoiese,2-0,1-0
-1999-10-03,Cesena,Alzano,1-1,1-0
-1999-10-03,Chievo,Genoa,1-0,1-0
-1999-10-03,Fermana,Treviso,1-1,0-0
-1999-10-03,Monza,Ravenna,1-1,1-1
-1999-10-03,Sampdoria,Ternana,2-2,1-1
-1999-10-03,Savoia,Cosenza,2-2,1-2
-1999-10-04,Salernitana,Napoli,1-1,0-1
-1999-10-08,Monza,Brescia,1-1,1-0
-1999-10-10,Alzano,Salernitana,3-2,3-0
-1999-10-10,Cosenza,Genoa,1-0,0-0
-1999-10-10,Fermana,Savoia,3-2,2-1
-1999-10-10,Napoli,Chievo,3-2,0-0
-1999-10-10,Pescara,Treviso,2-2,2-0
-1999-10-10,Ravenna,Vicenza,2-1,2-1
-1999-10-10,Sampdoria,Atalanta,1-0,0-0
-1999-10-10,Ternana,Cesena,2-2,2-0
-1999-10-11,Pistoiese,Empoli,2-0,1-0
-1999-10-22,Genoa,Sampdoria,1-1,0-1
-1999-10-24,Atalanta,Pistoiese,3-1,3-1
-1999-10-24,Brescia,Ternana,3-0,1-0
-1999-10-24,Cesena,Ravenna,0-0,0-0
-1999-10-24,Chievo,Fermana,2-1,1-1
-1999-10-24,Empoli,Pescara,1-1,0-0
-1999-10-24,Salernitana,Monza,1-1,1-1
-1999-10-24,Savoia,Alzano,1-1,1-1
-1999-10-24,Treviso,Napoli,5-1,2-0
-1999-10-24,Vicenza,Cosenza,2-0,0-0
-1999-10-31,Alzano,Genoa,3-1,2-0
-1999-10-31,Cosenza,Empoli,0-0,0-0
-1999-10-31,Fermana,Vicenza,1-2,1-1
-1999-10-31,Monza,Atalanta,1-0,1-0
-1999-10-31,Pescara,Brescia,1-2,0-1
-1999-10-31,Pistoiese,Cesena,0-2,0-0
-1999-10-31,Ravenna,Treviso,0-0,0-0
-1999-10-31,Sampdoria,Chievo,0-0,0-0
-1999-10-31,Savoia,Salernitana,0-0,0-0
-1999-10-31,Ternana,Napoli,2-2,2-1
-1999-11-04,Salernitana,Sampdoria,1-1,0-1
-1999-11-07,Alzano,Cosenza,0-0,0-0
-1999-11-07,Brescia,Atalanta,0-0,0-0
-1999-11-07,Cesena,Fermana,1-0,0-0
-1999-11-07,Chievo,Savoia,1-1,1-1
-1999-11-07,Empoli,Ravenna,1-1,1-1
-1999-11-07,Genoa,Monza,1-1,1-0
-1999-11-07,Treviso,Ternana,3-1,2-1
-1999-11-07,Vicenza,Pistoiese,2-1,0-1
-1999-11-08,Napoli,Pescara,1-1,1-1
-1999-11-12,Atalanta,Salernitana,2-0,2-0
-1999-11-14,Chievo,Monza,0-0,0-0
-1999-11-14,Cosenza,Ternana,1-1,1-1
-1999-11-14,Empoli,Treviso,1-0,1-0
-1999-11-14,Fermana,Alzano,0-1,0-1
-1999-11-14,Pistoiese,Genoa,2-1,0-0
-1999-11-14,Ravenna,Brescia,0-0,0-0
-1999-11-14,Sampdoria,Cesena,1-1,0-1
-1999-11-14,Savoia,Napoli,0-1,0-0
-1999-11-15,Pescara,Vicenza,0-1,0-0
-1999-11-19,Genoa,Empoli,3-1,1-0
-1999-11-21,Alzano,Ravenna,2-1,0-0
-1999-11-21,Cesena,Savoia,3-0,1-0
-1999-11-21,Monza,Pistoiese,1-1,1-0
-1999-11-21,Salernitana,Fermana,3-1,0-1
-1999-11-21,Ternana,Pescara,1-1,0-1
-1999-11-21,Treviso,Cosenza,2-1,0-1
-1999-11-21,Vicenza,Atalanta,5-3,2-1
-1999-11-22,Brescia,Chievo,3-1,2-0
-1999-11-22,Napoli,Sampdoria,1-0,1-0
-1999-11-26,Atalanta,Genoa,1-0,0-0
-1999-11-28,Brescia,Vicenza,1-1,1-0
-1999-11-28,Chievo,Cesena,2-1,0-1
-1999-11-28,Cosenza,Napoli,1-0,0-0
-1999-11-28,Empoli,Salernitana,0-3,0-1
-1999-11-28,Fermana,Monza,0-1,0-0
-1999-11-28,Ravenna,Ternana,1-0,1-0
-1999-11-28,Sampdoria,Treviso,2-0,1-0
-1999-11-28,Savoia,Pescara,2-2,1-1
-1999-11-29,Pistoiese,Alzano,1-1,1-1
-1999-12-05,Atalanta,Chievo,0-1,0-1
-1999-12-05,Cesena,Brescia,2-2,1-2
-1999-12-05,Cosenza,Salernitana,0-0,0-0
-1999-12-05,Genoa,Fermana,1-1,0-0
-1999-12-05,Monza,Savoia,1-0,1-0
-1999-12-05,Napoli,Empoli,1-0,1-0
-1999-12-05,Pescara,Ravenna,1-2,0-0
-1999-12-05,Vicenza,Sampdoria,2-1,0-1
-1999-12-06,Treviso,Alzano,2-0,2-0
-1999-12-10,Empoli,Atalanta,0-0,0-0
-1999-12-12,Alzano,Napoli,0-4,0-2
-1999-12-12,Cesena,Monza,3-3,1-2
-1999-12-12,Chievo,Ravenna,2-2,1-0
-1999-12-12,Fermana,Cosenza,1-1,1-1
-1999-12-12,Pistoiese,Treviso,1-0,0-0
-1999-12-12,Salernitana,Vicenza,3-2,0-2
-1999-12-12,Sampdoria,Pescara,2-1,1-1
-1999-12-12,Savoia,Ternana,0-1,0-1
-1999-12-13,Brescia,Genoa,0-1,0-1
-1999-12-15,Ternana,Pistoiese,1-0,1-0
-1999-12-17,Vicenza,Chievo,1-2,0-1
-1999-12-19,Atalanta,Alzano,1-0,0-0
-1999-12-19,Cosenza,Pistoiese,3-0,1-0
-1999-12-19,Genoa,Savoia,1-0,0-0
-1999-12-19,Monza,Sampdoria,1-1,0-1
-1999-12-19,Pescara,Salernitana,2-2,1-1
-1999-12-19,Ravenna,Fermana,1-0,0-0
-1999-12-19,Ternana,Empoli,1-1,0-0
-1999-12-19,Treviso,Brescia,1-1,1-1
-1999-12-20,Napoli,Cesena,1-1,0-1
-2000-01-06,Alzano,Empoli,2-1,2-1
-2000-01-06,Brescia,Napoli,3-1,1-0
-2000-01-06,Cesena,Vicenza,1-1,0-1
-2000-01-06,Chievo,Cosenza,1-1,1-1
-2000-01-06,Fermana,Atalanta,1-0,0-0
-2000-01-06,Genoa,Treviso,2-0,0-0
-2000-01-06,Monza,Ternana,2-2,2-1
-2000-01-06,Pistoiese,Pescara,0-0,0-0
-2000-01-06,Salernitana,Ravenna,3-0,1-0
-2000-01-06,Savoia,Sampdoria,1-0,0-0
-2000-01-09,Atalanta,Savoia,4-1,3-0
-2000-01-09,Cosenza,Cesena,1-0,1-0
-2000-01-09,Napoli,Pistoiese,0-0,0-0
-2000-01-09,Pescara,Alzano,0-0,0-0
-2000-01-09,Ravenna,Genoa,2-0,2-0
-2000-01-09,Sampdoria,Fermana,1-1,1-0
-2000-01-09,Ternana,Salernitana,1-1,0-1
-2000-01-09,Treviso,Chievo,1-0,1-0
-2000-01-09,Vicenza,Monza,2-1,1-0
-2000-01-10,Empoli,Brescia,2-0,1-0
-2000-01-14,Genoa,Napoli,0-1,0-0
-2000-01-16,Alzano,Sampdoria,0-1,0-0
-2000-01-16,Brescia,Cosenza,0-1,0-0
-2000-01-16,Cesena,Atalanta,1-1,1-1
-2000-01-16,Chievo,Empoli,3-1,1-0
-2000-01-16,Fermana,Ternana,2-1,0-0
-2000-01-16,Monza,Pescara,0-0,0-0
-2000-01-16,Pistoiese,Ravenna,2-0,0-0
-2000-01-16,Salernitana,Treviso,2-0,2-0
-2000-01-17,Savoia,Vicenza,1-1,1-1
-2000-01-21,Pescara,Cesena,4-0,0-0
-2000-01-23,Atalanta,Cosenza,1-1,1-0
-2000-01-23,Fermana,Empoli,1-1,0-0
-2000-01-23,Monza,Alzano,1-1,0-0
-2000-01-23,Ravenna,Napoli,0-0,0-0
-2000-01-23,Salernitana,Chievo,3-0,2-0
-2000-01-23,Sampdoria,Pistoiese,1-0,0-0
-2000-01-23,Savoia,Brescia,2-3,1-2
-2000-01-23,Ternana,Genoa,2-2,2-2
-2000-01-24,Vicenza,Treviso,2-0,1-0
-2000-01-28,Brescia,Sampdoria,0-1,0-0
-2000-01-30,Alzano,Ternana,1-0,0-0
-2000-01-30,Cesena,Salernitana,4-0,2-0
-2000-01-30,Chievo,Pescara,1-1,0-1
-2000-01-30,Empoli,Savoia,1-0,0-0
-2000-01-30,Genoa,Vicenza,2-2,0-1
-2000-01-30,Napoli,Monza,2-2,1-1
-2000-01-30,Pistoiese,Fermana,1-1,0-1
-2000-01-30,Treviso,Atalanta,2-1,1-0
-2000-01-31,Cosenza,Ravenna,1-3,1-0
-2000-02-11,Salernitana,Brescia,2-0,1-0
-2000-02-13,Cesena,Treviso,2-0,1-0
-2000-02-13,Chievo,Alzano,0-0,0-0
-2000-02-13,Fermana,Napoli,3-2,1-2
-2000-02-13,Monza,Cosenza,0-0,0-0
-2000-02-13,Pescara,Genoa,3-1,2-1
-2000-02-13,Sampdoria,Empoli,1-1,0-0
-2000-02-13,Savoia,Pistoiese,1-1,0-1
-2000-02-13,Vicenza,Ternana,0-0,0-0
-2000-02-14,Atalanta,Ravenna,1-0,1-0
-2000-02-18,Ternana,Chievo,1-3,0-0
-2000-02-20,Alzano,Vicenza,1-3,1-0
-2000-02-20,Brescia,Fermana,0-0,0-0
-2000-02-20,Cosenza,Pescara,1-1,0-1
-2000-02-20,Empoli,Monza,2-1,2-0
-2000-02-20,Genoa,Cesena,4-2,2-2
-2000-02-20,Pistoiese,Salernitana,1-0,1-0
-2000-02-20,Ravenna,Sampdoria,0-1,0-1
-2000-02-20,Treviso,Savoia,3-0,1-0
-2000-02-21,Napoli,Atalanta,1-0,1-0
-2000-02-25,Sampdoria,Cosenza,2-0,1-0
-2000-02-27,Atalanta,Ternana,1-2,0-2
-2000-02-27,Brescia,Alzano,2-0,0-0
-2000-02-27,Cesena,Empoli,2-1,2-1
-2000-02-27,Chievo,Pistoiese,1-0,1-0
-2000-02-27,Fermana,Pescara,0-3,0-1
-2000-02-27,Monza,Treviso,1-1,1-1
-2000-02-27,Salernitana,Genoa,1-0,1-0
-2000-02-27,Savoia,Ravenna,2-0,2-0
-2000-02-28,Vicenza,Napoli,3-0,1-0
-2000-03-03,Pescara,Atalanta,0-1,0-1
-2000-03-05,Alzano,Cesena,0-0,0-0
-2000-03-05,Cosenza,Savoia,1-0,1-0
-2000-03-05,Empoli,Vicenza,2-1,2-0
-2000-03-05,Genoa,Chievo,2-0,1-0
-2000-03-05,Napoli,Salernitana,3-1,3-1
-2000-03-05,Ravenna,Monza,2-0,1-0
-2000-03-05,Ternana,Sampdoria,0-1,0-0
-2000-03-05,Treviso,Fermana,3-2,1-1
-2000-03-06,Pistoiese,Brescia,0-1,0-1
-2000-03-10,Treviso,Pescara,2-2,1-1
-2000-03-12,Brescia,Monza,1-0,1-0
-2000-03-12,Cesena,Ternana,1-1,1-0
-2000-03-12,Chievo,Napoli,1-2,0-1
-2000-03-12,Empoli,Pistoiese,2-5,1-4
-2000-03-12,Genoa,Cosenza,2-1,0-1
-2000-03-12,Salernitana,Alzano,3-2,3-0
-2000-03-12,Savoia,Fermana,2-1,2-1
-2000-03-12,Vicenza,Ravenna,1-0,1-0
-2000-03-13,Atalanta,Sampdoria,3-3,0-1
-2000-03-17,Cosenza,Vicenza,1-0,0-0
-2000-03-19,Alzano,Savoia,2-1,0-0
-2000-03-19,Fermana,Chievo,1-1,1-1
-2000-03-19,Monza,Salernitana,1-1,1-1
-2000-03-19,Napoli,Treviso,2-3,1-1
-2000-03-19,Pescara,Empoli,4-1,2-0
-2000-03-19,Pistoiese,Atalanta,0-0,0-0
-2000-03-19,Ravenna,Cesena,1-0,0-0
-2000-03-19,Ternana,Brescia,2-2,0-1
-2000-03-20,Sampdoria,Genoa,0-1,0-0
-2000-03-26,Atalanta,Monza,3-1,3-0
-2000-03-26,Cesena,Pistoiese,3-1,0-1
-2000-03-26,Chievo,Sampdoria,3-2,2-0
-2000-03-26,Empoli,Cosenza,3-2,3-1
-2000-03-26,Genoa,Alzano,1-0,0-0
-2000-03-26,Napoli,Ternana,2-0,2-0
-2000-03-26,Salernitana,Savoia,1-3,1-1
-2000-03-26,Treviso,Ravenna,1-1,1-0
-2000-03-26,Vicenza,Fermana,4-0,2-0
-2000-03-27,Brescia,Pescara,5-1,2-1
-2000-03-31,Monza,Genoa,2-1,0-0
-2000-04-02,Atalanta,Brescia,1-1,1-0
-2000-04-02,Cosenza,Alzano,1-0,0-0
-2000-04-02,Fermana,Cesena,1-0,0-0
-2000-04-02,Pistoiese,Vicenza,3-1,3-1
-2000-04-02,Ravenna,Empoli,1-1,0-1
-2000-04-02,Sampdoria,Salernitana,2-4,0-3
-2000-04-02,Savoia,Chievo,2-2,1-2
-2000-04-02,Ternana,Treviso,1-0,0-0
-2000-04-03,Pescara,Napoli,1-1,0-0
-2000-04-07,Cesena,Sampdoria,0-0,0-0
-2000-04-09,Alzano,Fermana,2-2,1-1
-2000-04-09,Genoa,Pistoiese,2-1,1-0
-2000-04-09,Monza,Chievo,2-1,1-0
-2000-04-09,Napoli,Savoia,1-1,0-1
-2000-04-09,Salernitana,Atalanta,0-1,0-0
-2000-04-09,Ternana,Cosenza,3-0,2-0
-2000-04-09,Treviso,Empoli,0-0,0-0
-2000-04-09,Vicenza,Pescara,3-1,3-0
-2000-04-10,Brescia,Ravenna,2-1,0-1
-2000-04-22,Atalanta,Vicenza,1-0,1-0
-2000-04-22,Chievo,Brescia,2-2,1-0
-2000-04-22,Cosenza,Treviso,1-1,1-1
-2000-04-22,Empoli,Genoa,0-0,0-0
-2000-04-22,Fermana,Salernitana,1-2,1-0
-2000-04-22,Pescara,Ternana,1-1,1-1
-2000-04-22,Pistoiese,Monza,0-0,0-0
-2000-04-22,Ravenna,Alzano,0-0,0-0
-2000-04-22,Sampdoria,Napoli,0-2,0-1
-2000-04-22,Savoia,Cesena,0-0,0-0
-2000-04-28,Genoa,Atalanta,2-1,1-0
-2000-04-30,Alzano,Pistoiese,1-2,1-2
-2000-04-30,Cesena,Chievo,0-0,0-0
-2000-04-30,Monza,Fermana,4-1,1-0
-2000-04-30,Napoli,Cosenza,1-0,0-0
-2000-04-30,Pescara,Savoia,4-1,2-0
-2000-04-30,Salernitana,Empoli,1-1,0-1
-2000-04-30,Ternana,Ravenna,0-0,0-0
-2000-04-30,Treviso,Sampdoria,1-0,0-0
-2000-05-01,Vicenza,Brescia,2-1,1-0
-2000-05-05,Pistoiese,Ternana,3-2,1-1
-2000-05-07,Alzano,Treviso,2-2,1-1
-2000-05-07,Brescia,Cesena,1-1,1-1
-2000-05-07,Chievo,Atalanta,1-1,0-1
-2000-05-07,Fermana,Genoa,2-1,0-1
-2000-05-07,Ravenna,Pescara,2-1,1-1
-2000-05-07,Salernitana,Cosenza,4-1,0-0
-2000-05-07,Sampdoria,Vicenza,3-1,0-0
-2000-05-07,Savoia,Monza,1-2,1-1
-2000-05-08,Empoli,Napoli,4-1,2-0
-2000-05-12,Pescara,Sampdoria,4-0,3-0
-2000-05-14,Atalanta,Empoli,1-1,0-1
-2000-05-14,Cosenza,Fermana,1-0,0-0
-2000-05-14,Genoa,Brescia,2-2,1-2
-2000-05-14,Monza,Cesena,1-1,0-0
-2000-05-14,Napoli,Alzano,3-1,1-0
-2000-05-14,Ravenna,Chievo,2-2,1-0
-2000-05-14,Ternana,Savoia,3-1,1-0
-2000-05-14,Treviso,Pistoiese,3-3,2-1
-2000-05-15,Vicenza,Salernitana,2-0,1-0
-2000-05-21,Alzano,Atalanta,0-0,0-0
-2000-05-21,Brescia,Treviso,2-1,2-1
-2000-05-21,Cesena,Napoli,2-2,1-0
-2000-05-21,Chievo,Vicenza,2-2,1-1
-2000-05-21,Empoli,Ternana,2-1,0-0
-2000-05-21,Fermana,Ravenna,2-2,1-1
-2000-05-21,Pistoiese,Cosenza,1-0,1-0
-2000-05-21,Salernitana,Pescara,4-3,3-0
-2000-05-21,Sampdoria,Monza,2-1,1-0
-2000-05-21,Savoia,Genoa,0-2,0-2
-2000-05-28,Atalanta,Fermana,4-0,1-0
-2000-05-28,Cosenza,Chievo,2-0,1-0
-2000-05-28,Empoli,Alzano,2-1,0-0
-2000-05-28,Napoli,Brescia,3-0,2-0
-2000-05-28,Pescara,Pistoiese,1-0,1-0
-2000-05-28,Ravenna,Salernitana,2-0,1-0
-2000-05-28,Sampdoria,Savoia,2-1,1-0
-2000-05-28,Ternana,Monza,2-2,0-2
-2000-05-28,Treviso,Genoa,1-1,0-0
-2000-05-28,Vicenza,Cesena,3-2,0-2
-2000-06-04,Alzano,Pescara,4-2,2-1
-2000-06-04,Brescia,Empoli,1-0,0-0
-2000-06-04,Cesena,Cosenza,3-3,0-0
-2000-06-04,Chievo,Treviso,2-1,2-0
-2000-06-04,Fermana,Sampdoria,1-2,1-0
-2000-06-04,Genoa,Ravenna,3-2,0-1
-2000-06-04,Monza,Vicenza,2-1,2-0
-2000-06-04,Pistoiese,Napoli,0-1,0-1
-2000-06-04,Salernitana,Ternana,0-2,0-2
-2000-06-04,Savoia,Atalanta,1-2,0-1
-2000-06-11,Atalanta,Cesena,1-1,1-1
-2000-06-11,Cosenza,Brescia,2-2,1-2
-2000-06-11,Empoli,Chievo,4-2,3-0
-2000-06-11,Napoli,Genoa,1-3,0-1
-2000-06-11,Pescara,Monza,3-3,3-2
-2000-06-11,Ravenna,Pistoiese,1-2,1-1
-2000-06-11,Sampdoria,Alzano,3-2,2-0
-2000-06-11,Ternana,Fermana,2-1,2-1
-2000-06-11,Treviso,Salernitana,7-1,1-1
-2000-06-11,Vicenza,Savoia,3-2,1-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sun) 29 Aug 1999 (34),Alzano (1),2-1,0-1,Monza (1)
+?,(Sun) 29 Aug 1999 (34),Brescia (1),1-1,0-1,Savoia (1)
+?,(Sun) 29 Aug 1999 (34),Cesena (1),0-0,0-0,Pescara (1)
+?,(Sun) 29 Aug 1999 (34),Chievo (1),3-1,1-1,Salernitana (1)
+?,(Sun) 29 Aug 1999 (34),Cosenza (1),0-1,0-1,Atalanta (1)
+?,(Sun) 29 Aug 1999 (34),Empoli (1),1-0,0-0,Fermana (1)
+?,(Sun) 29 Aug 1999 (34),Genoa (1),2-0,0-0,Ternana (1)
+?,(Sun) 29 Aug 1999 (34),Napoli (1),1-1,0-1,Ravenna (1)
+?,(Sun) 29 Aug 1999 (34),Pistoiese (1),0-1,0-1,Sampdoria (1)
+?,(Sun) 29 Aug 1999 (34),Treviso (1),0-1,0-0,Vicenza (1)
+?,(Sun) 5 Sep 1999 (35),Atalanta (2),3-2,2-0,Treviso (2)
+?,(Sun) 5 Sep 1999 (35),Fermana (2),0-0,0-0,Pistoiese (2)
+?,(Sun) 5 Sep 1999 (35),Monza (2),0-0,0-0,Napoli (2)
+?,(Sun) 5 Sep 1999 (35),Pescara (2),2-1,1-0,Chievo (2)
+?,(Sun) 5 Sep 1999 (35),Ravenna (2),0-0,0-0,Cosenza (2)
+?,(Sun) 5 Sep 1999 (35),Salernitana (2),1-1,0-1,Cesena (2)
+?,(Sun) 5 Sep 1999 (35),Sampdoria (2),0-0,0-0,Brescia (2)
+?,(Sun) 5 Sep 1999 (35),Savoia (2),1-0,1-0,Empoli (2)
+?,(Sun) 5 Sep 1999 (35),Ternana (2),1-0,0-0,Alzano (2)
+?,(Sun) 5 Sep 1999 (35),Vicenza (2),1-1,0-0,Genoa (2)
+?,(Sun) 12 Sep 1999 (36),Alzano (3),2-1,0-1,Chievo (3)
+?,(Sun) 12 Sep 1999 (36),Brescia (3),4-1,4-1,Salernitana (3)
+?,(Sun) 12 Sep 1999 (36),Cosenza (3),2-1,1-1,Monza (3)
+?,(Sun) 12 Sep 1999 (36),Empoli (3),1-0,1-0,Sampdoria (3)
+?,(Sun) 12 Sep 1999 (36),Genoa (3),1-2,0-0,Pescara (3)
+?,(Sun) 12 Sep 1999 (36),Napoli (3),4-0,0-0,Fermana (3)
+?,(Sun) 12 Sep 1999 (36),Pistoiese (3),2-1,0-0,Savoia (3)
+?,(Sun) 12 Sep 1999 (36),Ravenna (3),1-3,1-1,Atalanta (3)
+?,(Sun) 12 Sep 1999 (36),Ternana (3),1-0,1-0,Vicenza (3)
+?,(Sun) 12 Sep 1999 (36),Treviso (3),2-1,1-1,Cesena (3)
+?,(Sun) 19 Sep 1999 (37),Cesena (4),1-0,1-0,Genoa (4)
+?,(Sun) 19 Sep 1999 (37),Chievo (4),0-1,0-0,Ternana (4)
+?,(Sun) 19 Sep 1999 (37),Fermana (4),1-2,0-1,Brescia (4)
+?,(Sun) 19 Sep 1999 (37),Monza (4),1-0,0-0,Empoli (4)
+?,(Sun) 19 Sep 1999 (37),Pescara (4),1-1,0-0,Cosenza (4)
+?,(Sun) 19 Sep 1999 (37),Salernitana (4),2-0,0-0,Pistoiese (4)
+?,(Sun) 19 Sep 1999 (37),Sampdoria (4),2-1,1-1,Ravenna (4)
+?,(Sun) 19 Sep 1999 (37),Savoia (4),1-0,0-0,Treviso (4)
+?,(Sun) 19 Sep 1999 (37),Vicenza (4),3-1,1-0,Alzano (4)
+?,(Mon) 20 Sep 1999 (38),Atalanta (4),1-0,0-0,Napoli (4)
+?,(Fri) 24 Sep 1999 (38),Genoa (5),3-0,1-0,Salernitana (5)
+?,(Sun) 26 Sep 1999 (38),Alzano (5),0-1,0-1,Brescia (5)
+?,(Sun) 26 Sep 1999 (38),Empoli (5),2-1,1-0,Cesena (5)
+?,(Sun) 26 Sep 1999 (38),Napoli (5),2-1,0-1,Vicenza (5)
+?,(Sun) 26 Sep 1999 (38),Pescara (5),4-2,1-2,Fermana (5)
+?,(Sun) 26 Sep 1999 (38),Pistoiese (5),2-1,0-0,Chievo (5)
+?,(Sun) 26 Sep 1999 (38),Ravenna (5),4-0,2-0,Savoia (5)
+?,(Sun) 26 Sep 1999 (38),Ternana (5),1-1,1-1,Atalanta (5)
+?,(Sun) 26 Sep 1999 (38),Treviso (5),3-1,2-0,Monza (5)
+?,(Mon) 27 Sep 1999 (39),Cosenza (5),1-2,0-0,Sampdoria (5)
+?,(Fri) 1 Oct 1999 (39),Vicenza (6),6-0,5-0,Empoli (6)
+?,(Sun) 3 Oct 1999 (39),Atalanta (6),3-1,2-0,Pescara (6)
+?,(Sun) 3 Oct 1999 (39),Brescia (6),2-0,1-0,Pistoiese (6)
+?,(Sun) 3 Oct 1999 (39),Cesena (6),1-1,1-0,Alzano (6)
+?,(Sun) 3 Oct 1999 (39),Chievo (6),1-0,1-0,Genoa (6)
+?,(Sun) 3 Oct 1999 (39),Fermana (6),1-1,0-0,Treviso (6)
+?,(Sun) 3 Oct 1999 (39),Monza (6),1-1,1-1,Ravenna (6)
+?,(Sun) 3 Oct 1999 (39),Sampdoria (6),2-2,1-1,Ternana (6)
+?,(Sun) 3 Oct 1999 (39),Savoia (6),2-2,1-2,Cosenza (6)
+?,(Mon) 4 Oct 1999 (40),Salernitana (6),1-1,0-1,Napoli (6)
+?,(Fri) 8 Oct 1999 (40),Monza (7),1-1,1-0,Brescia (7)
+?,(Sun) 10 Oct 1999 (40),Alzano (7),3-2,3-0,Salernitana (7)
+?,(Sun) 10 Oct 1999 (40),Cosenza (7),1-0,0-0,Genoa (7)
+?,(Sun) 10 Oct 1999 (40),Fermana (7),3-2,2-1,Savoia (7)
+?,(Sun) 10 Oct 1999 (40),Napoli (7),3-2,0-0,Chievo (7)
+?,(Sun) 10 Oct 1999 (40),Pescara (7),2-2,2-0,Treviso (7)
+?,(Sun) 10 Oct 1999 (40),Ravenna (7),2-1,2-1,Vicenza (7)
+?,(Sun) 10 Oct 1999 (40),Sampdoria (7),1-0,0-0,Atalanta (7)
+?,(Sun) 10 Oct 1999 (40),Ternana (7),2-2,2-0,Cesena (7)
+?,(Mon) 11 Oct 1999 (41),Pistoiese (7),2-0,1-0,Empoli (7)
+?,(Fri) 22 Oct 1999 (42),Genoa (8),1-1,0-1,Sampdoria (8)
+?,(Sun) 24 Oct 1999 (42),Atalanta (8),3-1,3-1,Pistoiese (8)
+?,(Sun) 24 Oct 1999 (42),Brescia (8),3-0,1-0,Ternana (8)
+?,(Sun) 24 Oct 1999 (42),Cesena (8),0-0,0-0,Ravenna (8)
+?,(Sun) 24 Oct 1999 (42),Chievo (8),2-1,1-1,Fermana (8)
+?,(Sun) 24 Oct 1999 (42),Empoli (8),1-1,0-0,Pescara (8)
+?,(Sun) 24 Oct 1999 (42),Salernitana (8),1-1,1-1,Monza (8)
+?,(Sun) 24 Oct 1999 (42),Savoia (8),1-1,1-1,Alzano (8)
+?,(Sun) 24 Oct 1999 (42),Treviso (8),5-1,2-0,Napoli (8)
+?,(Sun) 24 Oct 1999 (42),Vicenza (8),2-0,0-0,Cosenza (8)
+?,(Sun) 31 Oct 1999 (43),Alzano (9),3-1,2-0,Genoa (9)
+?,(Sun) 31 Oct 1999 (43),Cosenza (9),0-0,0-0,Empoli (9)
+?,(Sun) 31 Oct 1999 (43),Fermana (9),1-2,1-1,Vicenza (9)
+?,(Sun) 31 Oct 1999 (43),Monza (9),1-0,1-0,Atalanta (9)
+?,(Sun) 31 Oct 1999 (43),Pescara (9),1-2,0-1,Brescia (9)
+?,(Sun) 31 Oct 1999 (43),Pistoiese (9),0-2,0-0,Cesena (9)
+?,(Sun) 31 Oct 1999 (43),Ravenna (9),0-0,0-0,Treviso (9)
+?,(Sun) 31 Oct 1999 (43),Sampdoria (9),0-0,0-0,Chievo (9)
+?,(Sun) 31 Oct 1999 (43),Savoia (9),0-0,0-0,Salernitana (9)
+?,(Sun) 31 Oct 1999 (43),Ternana (9),2-2,2-1,Napoli (9)
+?,(Thu) 4 Nov 1999 (44),Salernitana (10),1-1,0-1,Sampdoria (10)
+?,(Sun) 7 Nov 1999 (44),Alzano (10),0-0,0-0,Cosenza (10)
+?,(Sun) 7 Nov 1999 (44),Brescia (10),0-0,0-0,Atalanta (10)
+?,(Sun) 7 Nov 1999 (44),Cesena (10),1-0,0-0,Fermana (10)
+?,(Sun) 7 Nov 1999 (44),Chievo (10),1-1,1-1,Savoia (10)
+?,(Sun) 7 Nov 1999 (44),Empoli (10),1-1,1-1,Ravenna (10)
+?,(Sun) 7 Nov 1999 (44),Genoa (10),1-1,1-0,Monza (10)
+?,(Sun) 7 Nov 1999 (44),Treviso (10),3-1,2-1,Ternana (10)
+?,(Sun) 7 Nov 1999 (44),Vicenza (10),2-1,0-1,Pistoiese (10)
+?,(Mon) 8 Nov 1999 (45),Napoli (10),1-1,1-1,Pescara (10)
+?,(Fri) 12 Nov 1999 (45),Atalanta (11),2-0,2-0,Salernitana (11)
+?,(Sun) 14 Nov 1999 (45),Chievo (11),0-0,0-0,Monza (11)
+?,(Sun) 14 Nov 1999 (45),Cosenza (11),1-1,1-1,Ternana (11)
+?,(Sun) 14 Nov 1999 (45),Empoli (11),1-0,1-0,Treviso (11)
+?,(Sun) 14 Nov 1999 (45),Fermana (11),0-1,0-1,Alzano (11)
+?,(Sun) 14 Nov 1999 (45),Pistoiese (11),2-1,0-0,Genoa (11)
+?,(Sun) 14 Nov 1999 (45),Ravenna (11),0-0,0-0,Brescia (11)
+?,(Sun) 14 Nov 1999 (45),Sampdoria (11),1-1,0-1,Cesena (11)
+?,(Sun) 14 Nov 1999 (45),Savoia (11),0-1,0-0,Napoli (11)
+?,(Mon) 15 Nov 1999 (46),Pescara (11),0-1,0-0,Vicenza (11)
+?,(Fri) 19 Nov 1999 (46),Genoa (12),3-1,1-0,Empoli (12)
+?,(Sun) 21 Nov 1999 (46),Alzano (12),2-1,0-0,Ravenna (12)
+?,(Sun) 21 Nov 1999 (46),Cesena (12),3-0,1-0,Savoia (12)
+?,(Sun) 21 Nov 1999 (46),Monza (12),1-1,1-0,Pistoiese (12)
+?,(Sun) 21 Nov 1999 (46),Salernitana (12),3-1,0-1,Fermana (12)
+?,(Sun) 21 Nov 1999 (46),Ternana (12),1-1,0-1,Pescara (12)
+?,(Sun) 21 Nov 1999 (46),Treviso (12),2-1,0-1,Cosenza (12)
+?,(Sun) 21 Nov 1999 (46),Vicenza (12),5-3,2-1,Atalanta (12)
+?,(Mon) 22 Nov 1999 (47),Brescia (12),3-1,2-0,Chievo (12)
+?,(Mon) 22 Nov 1999 (47),Napoli (12),1-0,1-0,Sampdoria (12)
+?,(Fri) 26 Nov 1999 (47),Atalanta (13),1-0,0-0,Genoa (13)
+?,(Sun) 28 Nov 1999 (47),Brescia (13),1-1,1-0,Vicenza (13)
+?,(Sun) 28 Nov 1999 (47),Chievo (13),2-1,0-1,Cesena (13)
+?,(Sun) 28 Nov 1999 (47),Cosenza (13),1-0,0-0,Napoli (13)
+?,(Sun) 28 Nov 1999 (47),Empoli (13),0-3,0-1,Salernitana (13)
+?,(Sun) 28 Nov 1999 (47),Fermana (13),0-1,0-0,Monza (13)
+?,(Sun) 28 Nov 1999 (47),Ravenna (13),1-0,1-0,Ternana (13)
+?,(Sun) 28 Nov 1999 (47),Sampdoria (13),2-0,1-0,Treviso (13)
+?,(Sun) 28 Nov 1999 (47),Savoia (13),2-2,1-1,Pescara (13)
+?,(Mon) 29 Nov 1999 (48),Pistoiese (13),1-1,1-1,Alzano (13)
+?,(Sun) 5 Dec 1999 (48),Atalanta (14),0-1,0-1,Chievo (14)
+?,(Sun) 5 Dec 1999 (48),Cesena (14),2-2,1-2,Brescia (14)
+?,(Sun) 5 Dec 1999 (48),Cosenza (14),0-0,0-0,Salernitana (14)
+?,(Sun) 5 Dec 1999 (48),Genoa (14),1-1,0-0,Fermana (14)
+?,(Sun) 5 Dec 1999 (48),Monza (14),1-0,1-0,Savoia (14)
+?,(Sun) 5 Dec 1999 (48),Napoli (14),1-0,1-0,Empoli (14)
+?,(Sun) 5 Dec 1999 (48),Pescara (14),1-2,0-0,Ravenna (14)
+?,(Sun) 5 Dec 1999 (48),Vicenza (14),2-1,0-1,Sampdoria (14)
+?,(Mon) 6 Dec 1999 (49),Treviso (14),2-0,2-0,Alzano (14)
+?,(Fri) 10 Dec 1999 (49),Empoli (15),0-0,0-0,Atalanta (15)
+?,(Sun) 12 Dec 1999 (49),Alzano (15),0-4,0-2,Napoli (15)
+?,(Sun) 12 Dec 1999 (49),Cesena (15),3-3,1-2,Monza (15)
+?,(Sun) 12 Dec 1999 (49),Chievo (15),2-2,1-0,Ravenna (15)
+?,(Sun) 12 Dec 1999 (49),Fermana (15),1-1,1-1,Cosenza (15)
+?,(Sun) 12 Dec 1999 (49),Pistoiese (14),1-0,0-0,Treviso (15)
+?,(Sun) 12 Dec 1999 (49),Salernitana (15),3-2,0-2,Vicenza (15)
+?,(Sun) 12 Dec 1999 (49),Sampdoria (15),2-1,1-1,Pescara (15)
+?,(Sun) 12 Dec 1999 (49),Savoia (15),0-1,0-1,Ternana (14)
+?,(Mon) 13 Dec 1999 (50),Brescia (15),0-1,0-1,Genoa (15)
+?,(Wed) 15 Dec 1999 (50),Ternana (15),1-0,1-0,Pistoiese (15)
+?,(Fri) 17 Dec 1999 (50),Vicenza (16),1-2,0-1,Chievo (16)
+?,(Sun) 19 Dec 1999 (50),Atalanta (16),1-0,0-0,Alzano (16)
+?,(Sun) 19 Dec 1999 (50),Cosenza (16),3-0,1-0,Pistoiese (16)
+?,(Sun) 19 Dec 1999 (50),Genoa (16),1-0,0-0,Savoia (16)
+?,(Sun) 19 Dec 1999 (50),Monza (16),1-1,0-1,Sampdoria (16)
+?,(Sun) 19 Dec 1999 (50),Pescara (16),2-2,1-1,Salernitana (16)
+?,(Sun) 19 Dec 1999 (50),Ravenna (16),1-0,0-0,Fermana (16)
+?,(Sun) 19 Dec 1999 (50),Ternana (16),1-1,0-0,Empoli (16)
+?,(Sun) 19 Dec 1999 (50),Treviso (16),1-1,1-1,Brescia (16)
+?,(Mon) 20 Dec 1999 (51),Napoli (16),1-1,0-1,Cesena (16)
+?,(Thu) 6 Jan 2000 (1),Alzano (17),2-1,2-1,Empoli (17)
+?,(Thu) 6 Jan 2000 (1),Brescia (17),3-1,1-0,Napoli (17)
+?,(Thu) 6 Jan 2000 (1),Cesena (17),1-1,0-1,Vicenza (17)
+?,(Thu) 6 Jan 2000 (1),Chievo (17),1-1,1-1,Cosenza (17)
+?,(Thu) 6 Jan 2000 (1),Fermana (17),1-0,0-0,Atalanta (17)
+?,(Thu) 6 Jan 2000 (1),Genoa (17),2-0,0-0,Treviso (17)
+?,(Thu) 6 Jan 2000 (1),Monza (17),2-2,2-1,Ternana (17)
+?,(Thu) 6 Jan 2000 (1),Pistoiese (17),0-0,0-0,Pescara (17)
+?,(Thu) 6 Jan 2000 (1),Salernitana (17),3-0,1-0,Ravenna (17)
+?,(Thu) 6 Jan 2000 (1),Savoia (17),1-0,0-0,Sampdoria (17)
+?,(Sun) 9 Jan 2000 (1),Atalanta (18),4-1,3-0,Savoia (18)
+?,(Sun) 9 Jan 2000 (1),Cosenza (18),1-0,1-0,Cesena (18)
+?,(Sun) 9 Jan 2000 (1),Napoli (18),0-0,0-0,Pistoiese (18)
+?,(Sun) 9 Jan 2000 (1),Pescara (18),0-0,0-0,Alzano (18)
+?,(Sun) 9 Jan 2000 (1),Ravenna (18),2-0,2-0,Genoa (18)
+?,(Sun) 9 Jan 2000 (1),Sampdoria (18),1-1,1-0,Fermana (18)
+?,(Sun) 9 Jan 2000 (1),Ternana (18),1-1,0-1,Salernitana (18)
+?,(Sun) 9 Jan 2000 (1),Treviso (18),1-0,1-0,Chievo (18)
+?,(Sun) 9 Jan 2000 (1),Vicenza (18),2-1,1-0,Monza (18)
+?,(Mon) 10 Jan 2000 (2),Empoli (18),2-0,1-0,Brescia (18)
+?,(Fri) 14 Jan 2000 (2),Genoa (19),0-1,0-0,Napoli (19)
+?,(Sun) 16 Jan 2000 (2),Alzano (19),0-1,0-0,Sampdoria (19)
+?,(Sun) 16 Jan 2000 (2),Brescia (19),0-1,0-0,Cosenza (19)
+?,(Sun) 16 Jan 2000 (2),Cesena (19),1-1,1-1,Atalanta (19)
+?,(Sun) 16 Jan 2000 (2),Chievo (19),3-1,1-0,Empoli (19)
+?,(Sun) 16 Jan 2000 (2),Fermana (19),2-1,0-0,Ternana (19)
+?,(Sun) 16 Jan 2000 (2),Monza (19),0-0,0-0,Pescara (19)
+?,(Sun) 16 Jan 2000 (2),Pistoiese (19),2-0,0-0,Ravenna (19)
+?,(Sun) 16 Jan 2000 (2),Salernitana (19),2-0,2-0,Treviso (19)
+?,(Mon) 17 Jan 2000 (3),Savoia (19),1-1,1-1,Vicenza (19)
+?,(Fri) 21 Jan 2000 (3),Pescara (20),4-0,0-0,Cesena (20)
+?,(Sun) 23 Jan 2000 (3),Atalanta (20),1-1,1-0,Cosenza (20)
+?,(Sun) 23 Jan 2000 (3),Fermana (20),1-1,0-0,Empoli (20)
+?,(Sun) 23 Jan 2000 (3),Monza (20),1-1,0-0,Alzano (20)
+?,(Sun) 23 Jan 2000 (3),Ravenna (20),0-0,0-0,Napoli (20)
+?,(Sun) 23 Jan 2000 (3),Salernitana (20),3-0,2-0,Chievo (20)
+?,(Sun) 23 Jan 2000 (3),Sampdoria (20),1-0,0-0,Pistoiese (20)
+?,(Sun) 23 Jan 2000 (3),Savoia (20),2-3,1-2,Brescia (20)
+?,(Sun) 23 Jan 2000 (3),Ternana (20),2-2,2-2,Genoa (20)
+?,(Mon) 24 Jan 2000 (4),Vicenza (20),2-0,1-0,Treviso (20)
+?,(Fri) 28 Jan 2000 (4),Brescia (21),0-1,0-0,Sampdoria (21)
+?,(Sun) 30 Jan 2000 (4),Alzano (21),1-0,0-0,Ternana (21)
+?,(Sun) 30 Jan 2000 (4),Cesena (21),4-0,2-0,Salernitana (21)
+?,(Sun) 30 Jan 2000 (4),Chievo (21),1-1,0-1,Pescara (21)
+?,(Sun) 30 Jan 2000 (4),Empoli (21),1-0,0-0,Savoia (21)
+?,(Sun) 30 Jan 2000 (4),Genoa (21),2-2,0-1,Vicenza (21)
+?,(Sun) 30 Jan 2000 (4),Napoli (21),2-2,1-1,Monza (21)
+?,(Sun) 30 Jan 2000 (4),Pistoiese (21),1-1,0-1,Fermana (21)
+?,(Sun) 30 Jan 2000 (4),Treviso (21),2-1,1-0,Atalanta (21)
+?,(Mon) 31 Jan 2000 (5),Cosenza (21),1-3,1-0,Ravenna (21)
+?,(Fri) 11 Feb 2000 (6),Salernitana (22),2-0,1-0,Brescia (22)
+?,(Sun) 13 Feb 2000 (6),Cesena (22),2-0,1-0,Treviso (22)
+?,(Sun) 13 Feb 2000 (6),Chievo (22),0-0,0-0,Alzano (22)
+?,(Sun) 13 Feb 2000 (6),Fermana (22),3-2,1-2,Napoli (22)
+?,(Sun) 13 Feb 2000 (6),Monza (22),0-0,0-0,Cosenza (22)
+?,(Sun) 13 Feb 2000 (6),Pescara (22),3-1,2-1,Genoa (22)
+?,(Sun) 13 Feb 2000 (6),Sampdoria (22),1-1,0-0,Empoli (22)
+?,(Sun) 13 Feb 2000 (6),Savoia (22),1-1,0-1,Pistoiese (22)
+?,(Sun) 13 Feb 2000 (6),Vicenza (22),0-0,0-0,Ternana (22)
+?,(Mon) 14 Feb 2000 (7),Atalanta (22),1-0,1-0,Ravenna (22)
+?,(Fri) 18 Feb 2000 (7),Ternana (23),1-3,0-0,Chievo (23)
+?,(Sun) 20 Feb 2000 (7),Alzano (23),1-3,1-0,Vicenza (23)
+?,(Sun) 20 Feb 2000 (7),Brescia (23),0-0,0-0,Fermana (23)
+?,(Sun) 20 Feb 2000 (7),Cosenza (23),1-1,0-1,Pescara (23)
+?,(Sun) 20 Feb 2000 (7),Empoli (23),2-1,2-0,Monza (23)
+?,(Sun) 20 Feb 2000 (7),Genoa (23),4-2,2-2,Cesena (23)
+?,(Sun) 20 Feb 2000 (7),Pistoiese (23),1-0,1-0,Salernitana (23)
+?,(Sun) 20 Feb 2000 (7),Ravenna (23),0-1,0-1,Sampdoria (23)
+?,(Sun) 20 Feb 2000 (7),Treviso (23),3-0,1-0,Savoia (23)
+?,(Mon) 21 Feb 2000 (8),Napoli (23),1-0,1-0,Atalanta (23)
+?,(Fri) 25 Feb 2000 (8),Sampdoria (24),2-0,1-0,Cosenza (24)
+?,(Sun) 27 Feb 2000 (8),Atalanta (24),1-2,0-2,Ternana (24)
+?,(Sun) 27 Feb 2000 (8),Brescia (24),2-0,0-0,Alzano (24)
+?,(Sun) 27 Feb 2000 (8),Cesena (24),2-1,2-1,Empoli (24)
+?,(Sun) 27 Feb 2000 (8),Chievo (24),1-0,1-0,Pistoiese (24)
+?,(Sun) 27 Feb 2000 (8),Fermana (24),0-3,0-1,Pescara (24)
+?,(Sun) 27 Feb 2000 (8),Monza (24),1-1,1-1,Treviso (24)
+?,(Sun) 27 Feb 2000 (8),Salernitana (24),1-0,1-0,Genoa (24)
+?,(Sun) 27 Feb 2000 (8),Savoia (24),2-0,2-0,Ravenna (24)
+?,(Mon) 28 Feb 2000 (9),Vicenza (24),3-0,1-0,Napoli (24)
+?,(Fri) 3 Mar 2000 (9),Pescara (25),0-1,0-1,Atalanta (25)
+?,(Sun) 5 Mar 2000 (9),Alzano (25),0-0,0-0,Cesena (25)
+?,(Sun) 5 Mar 2000 (9),Cosenza (25),1-0,1-0,Savoia (25)
+?,(Sun) 5 Mar 2000 (9),Empoli (25),2-1,2-0,Vicenza (25)
+?,(Sun) 5 Mar 2000 (9),Genoa (25),2-0,1-0,Chievo (25)
+?,(Sun) 5 Mar 2000 (9),Napoli (25),3-1,3-1,Salernitana (25)
+?,(Sun) 5 Mar 2000 (9),Ravenna (25),2-0,1-0,Monza (25)
+?,(Sun) 5 Mar 2000 (9),Ternana (25),0-1,0-0,Sampdoria (25)
+?,(Sun) 5 Mar 2000 (9),Treviso (25),3-2,1-1,Fermana (25)
+?,(Mon) 6 Mar 2000 (10),Pistoiese (25),0-1,0-1,Brescia (25)
+?,(Fri) 10 Mar 2000 (10),Treviso (26),2-2,1-1,Pescara (26)
+?,(Sun) 12 Mar 2000 (10),Brescia (26),1-0,1-0,Monza (26)
+?,(Sun) 12 Mar 2000 (10),Cesena (26),1-1,1-0,Ternana (26)
+?,(Sun) 12 Mar 2000 (10),Chievo (26),1-2,0-1,Napoli (26)
+?,(Sun) 12 Mar 2000 (10),Empoli (26),2-5,1-4,Pistoiese (26)
+?,(Sun) 12 Mar 2000 (10),Genoa (26),2-1,0-1,Cosenza (26)
+?,(Sun) 12 Mar 2000 (10),Salernitana (26),3-2,3-0,Alzano (26)
+?,(Sun) 12 Mar 2000 (10),Savoia (26),2-1,2-1,Fermana (26)
+?,(Sun) 12 Mar 2000 (10),Vicenza (26),1-0,1-0,Ravenna (26)
+?,(Mon) 13 Mar 2000 (11),Atalanta (26),3-3,0-1,Sampdoria (26)
+?,(Fri) 17 Mar 2000 (11),Cosenza (27),1-0,0-0,Vicenza (27)
+?,(Sun) 19 Mar 2000 (11),Alzano (27),2-1,0-0,Savoia (27)
+?,(Sun) 19 Mar 2000 (11),Fermana (27),1-1,1-1,Chievo (27)
+?,(Sun) 19 Mar 2000 (11),Monza (27),1-1,1-1,Salernitana (27)
+?,(Sun) 19 Mar 2000 (11),Napoli (27),2-3,1-1,Treviso (27)
+?,(Sun) 19 Mar 2000 (11),Pescara (27),4-1,2-0,Empoli (27)
+?,(Sun) 19 Mar 2000 (11),Pistoiese (27),0-0,0-0,Atalanta (27)
+?,(Sun) 19 Mar 2000 (11),Ravenna (27),1-0,0-0,Cesena (27)
+?,(Sun) 19 Mar 2000 (11),Ternana (27),2-2,0-1,Brescia (27)
+?,(Mon) 20 Mar 2000 (12),Sampdoria (27),0-1,0-0,Genoa (27)
+?,(Sun) 26 Mar 2000 (12),Atalanta (28),3-1,3-0,Monza (28)
+?,(Sun) 26 Mar 2000 (12),Cesena (28),3-1,0-1,Pistoiese (28)
+?,(Sun) 26 Mar 2000 (12),Chievo (28),3-2,2-0,Sampdoria (28)
+?,(Sun) 26 Mar 2000 (12),Empoli (28),3-2,3-1,Cosenza (28)
+?,(Sun) 26 Mar 2000 (12),Genoa (28),1-0,0-0,Alzano (28)
+?,(Sun) 26 Mar 2000 (12),Napoli (28),2-0,2-0,Ternana (28)
+?,(Sun) 26 Mar 2000 (12),Salernitana (28),1-3,1-1,Savoia (28)
+?,(Sun) 26 Mar 2000 (12),Treviso (28),1-1,1-0,Ravenna (28)
+?,(Sun) 26 Mar 2000 (12),Vicenza (28),4-0,2-0,Fermana (28)
+?,(Mon) 27 Mar 2000 (13),Brescia (28),5-1,2-1,Pescara (28)
+?,(Fri) 31 Mar 2000 (13),Monza (29),2-1,0-0,Genoa (29)
+?,(Sun) 2 Apr 2000 (13),Atalanta (29),1-1,1-0,Brescia (29)
+?,(Sun) 2 Apr 2000 (13),Cosenza (29),1-0,0-0,Alzano (29)
+?,(Sun) 2 Apr 2000 (13),Fermana (29),1-0,0-0,Cesena (29)
+?,(Sun) 2 Apr 2000 (13),Pistoiese (29),3-1,3-1,Vicenza (29)
+?,(Sun) 2 Apr 2000 (13),Ravenna (29),1-1,0-1,Empoli (29)
+?,(Sun) 2 Apr 2000 (13),Sampdoria (29),2-4,0-3,Salernitana (29)
+?,(Sun) 2 Apr 2000 (13),Savoia (29),2-2,1-2,Chievo (29)
+?,(Sun) 2 Apr 2000 (13),Ternana (29),1-0,0-0,Treviso (29)
+?,(Mon) 3 Apr 2000 (14),Pescara (29),1-1,0-0,Napoli (29)
+?,(Fri) 7 Apr 2000 (14),Cesena (30),0-0,0-0,Sampdoria (30)
+?,(Sun) 9 Apr 2000 (14),Alzano (30),2-2,1-1,Fermana (30)
+?,(Sun) 9 Apr 2000 (14),Genoa (30),2-1,1-0,Pistoiese (30)
+?,(Sun) 9 Apr 2000 (14),Monza (30),2-1,1-0,Chievo (30)
+?,(Sun) 9 Apr 2000 (14),Napoli (30),1-1,0-1,Savoia (30)
+?,(Sun) 9 Apr 2000 (14),Salernitana (30),0-1,0-0,Atalanta (30)
+?,(Sun) 9 Apr 2000 (14),Ternana (30),3-0,2-0,Cosenza (30)
+?,(Sun) 9 Apr 2000 (14),Treviso (30),0-0,0-0,Empoli (30)
+?,(Sun) 9 Apr 2000 (14),Vicenza (30),3-1,3-0,Pescara (30)
+?,(Mon) 10 Apr 2000 (15),Brescia (30),2-1,0-1,Ravenna (30)
+?,(Sat) 22 Apr 2000 (16),Atalanta (31),1-0,1-0,Vicenza (31)
+?,(Sat) 22 Apr 2000 (16),Chievo (31),2-2,1-0,Brescia (31)
+?,(Sat) 22 Apr 2000 (16),Cosenza (31),1-1,1-1,Treviso (31)
+?,(Sat) 22 Apr 2000 (16),Empoli (31),0-0,0-0,Genoa (31)
+?,(Sat) 22 Apr 2000 (16),Fermana (31),1-2,1-0,Salernitana (31)
+?,(Sat) 22 Apr 2000 (16),Pescara (31),1-1,1-1,Ternana (31)
+?,(Sat) 22 Apr 2000 (16),Pistoiese (31),0-0,0-0,Monza (31)
+?,(Sat) 22 Apr 2000 (16),Ravenna (31),0-0,0-0,Alzano (31)
+?,(Sat) 22 Apr 2000 (16),Sampdoria (31),0-2,0-1,Napoli (31)
+?,(Sat) 22 Apr 2000 (16),Savoia (31),0-0,0-0,Cesena (31)
+?,(Fri) 28 Apr 2000 (17),Genoa (32),2-1,1-0,Atalanta (32)
+?,(Sun) 30 Apr 2000 (17),Alzano (32),1-2,1-2,Pistoiese (32)
+?,(Sun) 30 Apr 2000 (17),Cesena (32),0-0,0-0,Chievo (32)
+?,(Sun) 30 Apr 2000 (17),Monza (32),4-1,1-0,Fermana (32)
+?,(Sun) 30 Apr 2000 (17),Napoli (32),1-0,0-0,Cosenza (32)
+?,(Sun) 30 Apr 2000 (17),Pescara (32),4-1,2-0,Savoia (32)
+?,(Sun) 30 Apr 2000 (17),Salernitana (32),1-1,0-1,Empoli (32)
+?,(Sun) 30 Apr 2000 (17),Ternana (32),0-0,0-0,Ravenna (32)
+?,(Sun) 30 Apr 2000 (17),Treviso (32),1-0,0-0,Sampdoria (32)
+?,(Mon) 1 May 2000 (18),Vicenza (32),2-1,1-0,Brescia (32)
+?,(Fri) 5 May 2000 (18),Pistoiese (33),3-2,1-1,Ternana (33)
+?,(Sun) 7 May 2000 (18),Alzano (33),2-2,1-1,Treviso (33)
+?,(Sun) 7 May 2000 (18),Brescia (33),1-1,1-1,Cesena (33)
+?,(Sun) 7 May 2000 (18),Chievo (33),1-1,0-1,Atalanta (33)
+?,(Sun) 7 May 2000 (18),Fermana (33),2-1,0-1,Genoa (33)
+?,(Sun) 7 May 2000 (18),Ravenna (33),2-1,1-1,Pescara (33)
+?,(Sun) 7 May 2000 (18),Salernitana (33),4-1,0-0,Cosenza (33)
+?,(Sun) 7 May 2000 (18),Sampdoria (33),3-1,0-0,Vicenza (33)
+?,(Sun) 7 May 2000 (18),Savoia (33),1-2,1-1,Monza (33)
+?,(Mon) 8 May 2000 (19),Empoli (33),4-1,2-0,Napoli (33)
+?,(Fri) 12 May 2000 (19),Pescara (34),4-0,3-0,Sampdoria (34)
+?,(Sun) 14 May 2000 (19),Atalanta (34),1-1,0-1,Empoli (34)
+?,(Sun) 14 May 2000 (19),Cosenza (34),1-0,0-0,Fermana (34)
+?,(Sun) 14 May 2000 (19),Genoa (34),2-2,1-2,Brescia (34)
+?,(Sun) 14 May 2000 (19),Monza (34),1-1,0-0,Cesena (34)
+?,(Sun) 14 May 2000 (19),Napoli (34),3-1,1-0,Alzano (34)
+?,(Sun) 14 May 2000 (19),Ravenna (34),2-2,1-0,Chievo (34)
+?,(Sun) 14 May 2000 (19),Ternana (34),3-1,1-0,Savoia (34)
+?,(Sun) 14 May 2000 (19),Treviso (34),3-3,2-1,Pistoiese (34)
+?,(Mon) 15 May 2000 (20),Vicenza (34),2-0,1-0,Salernitana (34)
+?,(Sun) 21 May 2000 (20),Alzano (35),0-0,0-0,Atalanta (35)
+?,(Sun) 21 May 2000 (20),Brescia (35),2-1,2-1,Treviso (35)
+?,(Sun) 21 May 2000 (20),Cesena (35),2-2,1-0,Napoli (35)
+?,(Sun) 21 May 2000 (20),Chievo (35),2-2,1-1,Vicenza (35)
+?,(Sun) 21 May 2000 (20),Empoli (35),2-1,0-0,Ternana (35)
+?,(Sun) 21 May 2000 (20),Fermana (35),2-2,1-1,Ravenna (35)
+?,(Sun) 21 May 2000 (20),Pistoiese (35),1-0,1-0,Cosenza (35)
+?,(Sun) 21 May 2000 (20),Salernitana (35),4-3,3-0,Pescara (35)
+?,(Sun) 21 May 2000 (20),Sampdoria (35),2-1,1-0,Monza (35)
+?,(Sun) 21 May 2000 (20),Savoia (35),0-2,0-2,Genoa (35)
+?,(Sun) 28 May 2000 (21),Atalanta (36),4-0,1-0,Fermana (36)
+?,(Sun) 28 May 2000 (21),Cosenza (36),2-0,1-0,Chievo (36)
+?,(Sun) 28 May 2000 (21),Empoli (36),2-1,0-0,Alzano (36)
+?,(Sun) 28 May 2000 (21),Napoli (36),3-0,2-0,Brescia (36)
+?,(Sun) 28 May 2000 (21),Pescara (36),1-0,1-0,Pistoiese (36)
+?,(Sun) 28 May 2000 (21),Ravenna (36),2-0,1-0,Salernitana (36)
+?,(Sun) 28 May 2000 (21),Sampdoria (36),2-1,1-0,Savoia (36)
+?,(Sun) 28 May 2000 (21),Ternana (36),2-2,0-2,Monza (36)
+?,(Sun) 28 May 2000 (21),Treviso (36),1-1,0-0,Genoa (36)
+?,(Sun) 28 May 2000 (21),Vicenza (36),3-2,0-2,Cesena (36)
+?,(Sun) 4 Jun 2000 (22),Alzano (37),4-2,2-1,Pescara (37)
+?,(Sun) 4 Jun 2000 (22),Brescia (37),1-0,0-0,Empoli (37)
+?,(Sun) 4 Jun 2000 (22),Cesena (37),3-3,0-0,Cosenza (37)
+?,(Sun) 4 Jun 2000 (22),Chievo (37),2-1,2-0,Treviso (37)
+?,(Sun) 4 Jun 2000 (22),Fermana (37),1-2,1-0,Sampdoria (37)
+?,(Sun) 4 Jun 2000 (22),Genoa (37),3-2,0-1,Ravenna (37)
+?,(Sun) 4 Jun 2000 (22),Monza (37),2-1,2-0,Vicenza (37)
+?,(Sun) 4 Jun 2000 (22),Pistoiese (37),0-1,0-1,Napoli (37)
+?,(Sun) 4 Jun 2000 (22),Salernitana (37),0-2,0-2,Ternana (37)
+?,(Sun) 4 Jun 2000 (22),Savoia (37),1-2,0-1,Atalanta (37)
+?,(Sun) 11 Jun 2000 (23),Atalanta (38),1-1,1-1,Cesena (38)
+?,(Sun) 11 Jun 2000 (23),Cosenza (38),2-2,1-2,Brescia (38)
+?,(Sun) 11 Jun 2000 (23),Empoli (38),4-2,3-0,Chievo (38)
+?,(Sun) 11 Jun 2000 (23),Napoli (38),1-3,0-1,Genoa (38)
+?,(Sun) 11 Jun 2000 (23),Pescara (38),3-3,3-2,Monza (38)
+?,(Sun) 11 Jun 2000 (23),Ravenna (38),1-2,1-1,Pistoiese (38)
+?,(Sun) 11 Jun 2000 (23),Sampdoria (38),3-2,2-0,Alzano (38)
+?,(Sun) 11 Jun 2000 (23),Ternana (38),2-1,2-1,Fermana (38)
+?,(Sun) 11 Jun 2000 (23),Treviso (38),7-1,1-1,Salernitana (38)
+?,(Sun) 11 Jun 2000 (23),Vicenza (38),3-2,1-1,Savoia (38)
