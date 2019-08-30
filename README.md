@@ -6,9 +6,9 @@ Football data for Italy including:
 - Serie A
 - Serie B
 
-Example - [`2013-14/seriea.csv`](2013-14/1-seriea.csv):
+Example - [`2013-14/it.1.csv`](2013-14/it.1.csv):
 
-~~~
+```
 2013-08-24,Sampdoria,Juventus,0-1,0-0
 2013-08-24,Verona,Milan,2-1,1-1
 2013-08-25,Cagliari,Atalanta,2-1,1-1
@@ -20,7 +20,7 @@ Example - [`2013-14/seriea.csv`](2013-14/1-seriea.csv):
 2013-08-25,Torino,Sassuolo,2-0,1-0
 2013-08-26,Fiorentina,Catania,2-1,2-1
 ...
-~~~
+```
 
 
 ## Questions? Comments?
