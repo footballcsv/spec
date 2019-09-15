@@ -28,7 +28,7 @@
 20. Cesena                        38   3  7  9  19:31    1  5 13  17:42    36:73  -37   24
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Varese Calcio                 42   7  6  8  30:33    2  6 13  10:34    40:67  -27   39
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

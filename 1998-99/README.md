@@ -26,7 +26,7 @@
 18. Empoli                        34   4  5  8  17:25    0  5 12   9:38    26:63  -37   22
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. Cremonese                     38   3  7  9  18:31    0  4 15  12:38    30:69  -39   20
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

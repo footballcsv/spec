@@ -28,7 +28,7 @@
 20. ACD Treviso                   38   2  4 13  12:26    1  8 10  12:30    24:56  -32   21
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. US Catanzaro                  42   5  5 11  17:27    2  2 17   9:36    26:63  -37   28
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

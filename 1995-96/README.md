@@ -26,7 +26,7 @@
 18. Calcio Padova                 34   6  3  8  27:32    1  0 16  14:47    41:79  -38   24
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 

@@ -28,7 +28,7 @@
 20. ACR Messina SSD               38   5  7  7  20:26    0  4 15  17:43    37:69  -32   26
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Pescara                       42   4  4 13  17:36    1  6 14  19:41    36:77  -41   25
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

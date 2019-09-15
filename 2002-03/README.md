@@ -26,7 +26,7 @@
 18. Torino FC                     34   4  4  9  10:26    0  5 12  13:32    23:58  -35   21
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. Salernitana                   38   4  6  9  20:27    0  5 14   8:36    28:63  -35   23
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

@@ -28,7 +28,7 @@
 20. Benevento                     38   5  2 12  23:40    1  1 17  10:44    33:84  -51   21
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Ternana                       42   5 10  6  32:31    2  6 13  30:46    62:77  -15   37
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

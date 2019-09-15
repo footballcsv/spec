@@ -28,7 +28,7 @@
 20. Pescara                       38   2  5 12  19:38    1  4 14  18:43    37:81  -44   18
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. AC Pisa                       42   5  8  8  10:17    1 13  7  13:19    23:36  -13   39
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

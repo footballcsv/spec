@@ -28,7 +28,7 @@
 20. Atalanta BC                   38   7  6  6  21:17    1  5 13  13:28    34:45  -11   35
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. US Catanzaro                  42   5  8  8  28:35    0  3 18  12:47    40:82  -42   26
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

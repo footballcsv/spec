@@ -26,7 +26,7 @@
 18. AC Reggiana                   34   0 11  6   9:25    2  2 13  19:42    28:67  -39   19
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 

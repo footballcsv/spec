@@ -26,7 +26,7 @@
 18. SSC Napoli                    34   2  4 11  13:31    0  4 13  12:45    25:76  -51   14
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. ASD Castel di Sangro          38   2 10  7  22:36    3  5 11  16:28    38:64  -26   30
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

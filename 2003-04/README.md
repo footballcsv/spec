@@ -26,7 +26,7 @@
 18. US Anconitana ASD             34   2  6  9  10:24    0  1 16  11:46    21:70  -49   13
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 24. Como 1907                     46   4  6 13  20:42    3  6 14  14:29    34:71  -37   33
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

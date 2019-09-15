@@ -26,7 +26,7 @@
 18. Venezia                       34   2  6  9  17:26    1  3 13  13:35    30:61  -31   18
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. FC Crotone                    38   3  6 10  31:37    2  4 13  13:33    44:70  -26   25
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

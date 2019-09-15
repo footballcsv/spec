@@ -26,7 +26,7 @@
 18. Bari                          34   5  2 10  22:31    0  3 14   9:37    31:68  -37   20
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. Pescara                       38   1  8 10  16:29    2  5 12  14:27    30:56  -26   22
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

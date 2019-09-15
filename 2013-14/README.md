@@ -28,7 +28,7 @@
 20. AS Livorno Calcio             38   4  5 10  23:33    2  2 15  16:44    39:77  -38   25
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. SS Juve Stabia                42   1  9 11  23:39    1  4 16  14:41    37:80  -43   19
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

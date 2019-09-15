@@ -26,7 +26,7 @@
 18. US Lecce                      34   2  4 11  16:29    1  1 15  12:43    28:72  -44   14
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 

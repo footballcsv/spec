@@ -28,7 +28,7 @@
 20. Pescara                       38   4  1 14  15:42    2  3 14  12:42    27:84  -57   22
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Pro Vercelli                  42   6  4 11  21:30    2  5 14  16:37    37:67  -30   33
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

@@ -28,7 +28,7 @@
 20. Bari                          38   2  6 11  12:28    3  3 13  15:28    27:56  -29   24
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Frosinone                     42   6  8  7  23:22    2  6 13  23:42    46:64  -18   38
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

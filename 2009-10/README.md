@@ -28,7 +28,7 @@
 20. AS Livorno Calcio             38   5  5  9  19:25    2  3 14   8:36    27:61  -34   29
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Salernitana                   42   4  4 13  22:35    1  4 16  18:45    40:80  -40   23
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

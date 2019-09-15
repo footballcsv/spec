@@ -28,7 +28,7 @@
 20. Hellas Verona FC              38   4  6  9  21:30    1  7 11  13:33    34:63  -29   28
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Como 1907                     42   3 10  8  20:28    2  8 11  19:36    39:64  -25   33
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

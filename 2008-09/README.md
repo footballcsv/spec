@@ -28,7 +28,7 @@
 20. US Lecce                      38   3 10  6  20:28    2  5 12  17:39    37:67  -30   30
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. ACD Treviso                   42   7  6  8  24:29    0  9 12  13:33    37:62  -25   36
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

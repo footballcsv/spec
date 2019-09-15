@@ -26,7 +26,7 @@
 18. Piacenza Calcio               34   3  7  7  12:19    1  2 14   7:26    19:45  -26   21
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -54,7 +54,7 @@
 20. MC Fermana FC                 38   6  6  7  22:25    0  5 14  14:41    36:66  -30   29
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 

@@ -28,7 +28,7 @@
 20. AS Livorno Calcio             38   3  8  8  18:28    3  4 12  17:32    35:60  -25   30
 ```
 
-(Source: [`1-seriea.csv`](1-seriea.csv))
+(Source: [`it.1.csv`](it.1.csv))
 
 
 ```
@@ -58,7 +58,7 @@
 22. Cesena                        42   5 12  4  25:22    0  5 16  12:44    37:66  -29   32
 ```
 
-(Source: [`2-serieb.csv`](2-serieb.csv))
+(Source: [`it.2.csv`](it.2.csv))
 
 
 
