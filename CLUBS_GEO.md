@@ -1,0 +1,93 @@
+# Clubs by Geo(graphy)
+
+- **Genova** (2): 
+  - Genoa CFC  (4) Genoa · Genoa Cricket and Football Club · FC Genua [de] · CFC Genua 1893 [de]
+  - UC Sampdoria  (4) Sampdoria · Sampdoria Genoa · Unione Calcio Sampdoria · Sampdoria Genua [de]
+- **Milano** (2): 
+  - AC Milan  (3) Milan · Associazione Calcio Milan · AC Mailand [de]
+  - FC Internazionale Milano  (4) Inter · Internazionale · Inter Milan · Inter Mailand [de]
+- **Roma** (2): 
+  - AS Roma  (3) Roma · Associazione Sportiva Roma · AS Rom [de]
+  - SS Lazio  (4) Lazio · Lazio Roma · Società Sportiva Lazio · Lazio Rom [de]
+- **Torino** (2): 
+  - Juventus  (4) Juventus Torino · Juventus FC · Juventus Football Club · Juventus Turin [de]
+  - Torino FC  (4) Torino · Torino Football Club · FC Torino · FC Turin [de]
+- **Verona** (2): 
+  - AC Chievo Verona  (3) Chievo · Chievo Verona · Associazione Calcio Chievo Verona
+  - Hellas Verona FC  (3) Verona · Hellas Verona · Hellas Verona Football Club
+- **Albino e Leffe** (1): Unione Calcio Albinoleffe  (2) Albinoleffe · UC Albinoleffe
+- **Alzano Lombardo** (1): ASD Virtus Bergamo  (4) Alzano · ASD Virtus Bergamo 1909 · Virtus Bergamo · Alzano Virescit
+- **Ancona** (1): US Anconitana ASD  (1) Ancona
+- **Andria** (1): SS Fidelis Andria  (2) F. Andria · SS Fidelis Andria 1928
+- **Arezzo** (1): SS Arezzo  (4) Arezzo · Società Sportiva Arezzo · AC Arezzo · Associazione Calcio Arezzo
+- **Ascoli Piceno** (1): Ascoli  (1) Ascoli FC
+- **Avellino** (1): Avellino  (4) US Avellino 1912 · Unione Sportiva Avellino 1912 · AS Avellino · Associazione Sportiva Avellino 1912
+- **Bari** (1): Bari  (4) AS Bari · SSC Bari · Società Sportiva Calcio Bari · FC Bari 1908
+- **Benevento** (1): Benevento  (1) Benevento Calcio
+- **Bergamo** (1): Atalanta BC  (3) Atalanta · Atalanta Bergamo · Atalanta Bergamasca Calcio
+- **Bologna** (1): Bologna FC  (4) Bologna · FC Bologna · Bologna FC 1909 · Bologna Football Club 1909
+- **Brescia** (1): Brescia  (1) Brescia Calcio
+- **Cagliari** (1): Cagliari Calcio  (1) Cagliari
+- **Carpi** (1): Carpi  (3) Carpi FC · Carpi FC 1909 · Carpi Football Club 1909
+- **Castel di Sangro** (1): ASD Castel di Sangro  (1) C. Sangro
+- **Castellammare di Stabia** (1): SS Juve Stabia  (1) Juve Stabia
+- **Catania** (1): Calcio Catania  (2) Catania · Catania Calcio
+- **Catanzaro** (1): US Catanzaro  (2) Catanzaro · US Catanzaro 1929
+- **Cesena** (1): Cesena  (2) AC Cesena · Associazione Calcio Cesena
+- **Chiavari** (1): Virtus Entella 
+- **Cittadella** (1): Cittadella  (1) AS Cittadella
+- **Como** (1): Como 1907  (2) Como · Como Calcio
+- **Cosenza** (1): Cosenza Calcio  (1) Cosenza
+- **Cremona** (1): Cremonese  (1) US Cremonese
+- **Crotone** (1): FC Crotone  (3) Crotone · Crotone FC · Federazione Calcistica Crotone
+- **Empoli** (1): Empoli  (3) Empoli FC · Empoli Football Club · FC Empoli
+- **Fermo** (1): MC Fermana FC  (4) Fermana · Fermana FC · Fermana Football Club · US Fermana
+- **Ferrara** (1): SPAL  (3) SPAL 2013 · SPAL Ferrara · SPAL 2013 Ferrara
+- **Firenze** (1): ACF Fiorentina  (5) Fiorentina · AC Firenze · Associazione Calcio Firenze Fiorentina · AC Fiorentina · AC Florenz [de]
+- **Foggia** (1): Foggia 
+- **Frosinone** (1): Frosinone  (1) Frosinone Calcio
+- **Gallipoli** (1): Gallipoli Football SSD  (2) Gallipoli · Gallipoli Football 1909 SSD
+- **Grosseto** (1): ASD US Grosseto  (2) Grosseto · ASD US Grosseto 1912
+- **Gubbio** (1): AS Gubbio  (2) Gubbio · AS Gubbio 1910
+- **La Spezia** (1): Spezia  (1) Spezia Calcio
+- **Lanciano** (1): Virtus Lanciano  (1) ASD 1920 Lanciano Calcio
+- **Latina** (1): SSD Latina Calcio  (2) Latina · SSD Latina Calcio 1932
+- **Lecce** (1): US Lecce  (1) Lecce
+- **Livorno** (1): AS Livorno Calcio  (3) Livorno · AS Livorno · Associazione Sportiva Livorno Calcio
+- **Lucca** (1): AS Lucchese Libertas  (2) Lucchese · AS Lucchese Libertas 1905
+- **Mantova** (1): Mantova SSD  (2) Mantova · Mantova 1911 SSD
+- **Messina** (1): ACR Messina SSD  (1) Messina
+- **Modena** (1): Modena FC  (2) Modena · FC Modena
+- **Monza** (1): SS Monza  (2) Monza · SS Monza 1912
+- **Napoli** (1): SSC Napoli  (3) Napoli · Società Sportiva Calcio Napoli · SSC Neapel [de]
+- **Nocera Inferiore** (1): ASD Nocerina  (2) Nocerina · ASD Nocerina 1910
+- **Novara** (1): Novara  (1) Novara Calcio
+- **Padova** (1): Calcio Padova  (2) Padova · Padua Calcio [de]
+- **Palermo** (1): Palermo  (2) US Palermo · Unione Sportiva Città di Palermo
+- **Parma** (1): Parma  (5) Parma FC · FC Parma · Parma Football Club · Parma Calcio · Parma Calcio 1913
+- **Perugia** (1): Perugia  (1) Perugia Calcio
+- **Pescara** (1): Pescara  (1) Pescara Calcio
+- **Piacenza** (1): Piacenza Calcio  (2) Piacenza · Piacenza Calcio 1919
+- **Pisa** (1): AC Pisa  (3) Pisa · AC Pisa 1909 · SC Pisa [de]
+- **Pistoia** (1): US Pistoiese  (3) Pistoiese · US Pistoiese 1921 · AC Pistoiese
+- **Pordenone** (1): Pordenone Calcio  (1) Pordenone
+- **Portogruaro** (1): Portogruaro Calcio ASD  (1) Portogruaro
+- **Ravenna** (1): Ravenna FC  (3) Ravenna · Ravenna FC 1913 · Ravenna Calcio
+- **Reggio Calabria** (1): Urbs Reggina  (2) Reggina · Urbs Reggina 1914
+- **Reggio Emilia** (1): AC Reggiana  (5) Reggiana · AC Reggiana 1919 · Reggio Audace · Reggio Audace FC · Reggio Audace Football Club
+- **Rimini** (1): Rimini FC SSD  (4) Rimini · Rimini FC 1912 · Rimini FC 1912 SSD · Rimini Calcio
+- **Salerno** (1): Salernitana  (1) Salernitana Calcio
+- **Sassuolo** (1): US Sassuolo Calcio  (4) Sassuolo · US Sassuolo · Sassuolo Calcio · Unione Sportiva Sassuolo Calcio
+- **Siena** (1): SS Robur Siena  (3) Siena · AC Siena · Associazione Calcio Siena
+- **Terni** (1): Ternana  (1) Ternana Calcio
+- **Torre Annunziata** (1): ASD Savoia  (2) Savoia · ASD Savoia 1908
+- **Trapani** (1): Trapani Calcio  (1) Trapani
+- **Treviso** (1): ACD Treviso  (1) Treviso
+- **Trieste** (1): US Triestina Calcio  (3) Triestina · Triestina Calcio · US Triestina Calcio 1918
+- **Udine** (1): Udinese Calcio  (1) Udinese
+- **Varese** (1): Varese Calcio  (1) Varese
+- **Venezia** (1): Venezia  (1) SSC Venezia
+- **Vercelli** (1): Pro Vercelli 
+- **Vicenza** (1): LR Vicenza Virtus  (2) Vicenza · Vicenza Calcio
+
+
