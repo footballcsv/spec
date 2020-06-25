@@ -2,7 +2,7 @@
 
 ## Intro
 
-One line is one match record. A datafile ALWAYS MUST start with a header. 
+One line is one match record. A datafile always MUST start with a header that defines all used match columns. 
 Example:
 
 ```
